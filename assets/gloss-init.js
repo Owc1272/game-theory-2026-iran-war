@@ -89,16 +89,47 @@
       });
 
       try {
-        new window.bootstrap.Popover(node, {
+        // Use manual trigger and attach our own listeners — Bootstrap's
+        // auto-attach hover/focus handlers don't reliably fire on SVG <g>
+        // elements across browsers.
+        var pop = new window.bootstrap.Popover(node, {
           container: "body",
           html: true,
           sanitize: false,
           customClass: "gloss-popover",
+          trigger: "manual",
           fallbackPlacements: ["top", "bottom", "right", "left"],
         });
+        var hideTimer = null;
+        var show = function () { if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; } pop.show(); };
+        var hideSoon = function () {
+          if (hideTimer) clearTimeout(hideTimer);
+          hideTimer = setTimeout(function () {
+            // Only hide if the cursor isn't currently over the popover itself.
+            var tip = pop.tip;
+            if (!tip || !tip.matches(":hover")) pop.hide();
+          }, 200);
+        };
+        node.addEventListener("mouseenter", show);
+        node.addEventListener("mouseleave", hideSoon);
+        node.addEventListener("focus", show);
+        node.addEventListener("blur", hideSoon);
+        node.addEventListener("click", function (e) { e.stopPropagation(); show(); });
+        // After tooltip is shown, also keep alive when hovering it.
+        node.addEventListener("inserted.bs.popover", function () {
+          var tip = pop.tip;
+          if (!tip) return;
+          tip.addEventListener("mouseenter", show);
+          tip.addEventListener("mouseleave", hideSoon);
+        });
         node.dataset.glossInitialized = "1";
-      } catch (e) { /* try again on next pass */ }
+      } catch (e) {
+        if (window.console && console.warn) console.warn("[gloss] Popover init failed for", node, e);
+      }
     });
+    if (window.console && console.info) {
+      console.info("[gloss] Mermaid SVG gloss nodes wired:", nodes.length);
+    }
   }
 
   // Wait for Mermaid to render: poll until SVGs appear inside .mermaid blocks,

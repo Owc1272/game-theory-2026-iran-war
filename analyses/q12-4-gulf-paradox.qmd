@@ -80,8 +80,9 @@ flowchart LR
   F -->|wrong frame| E3
   classDef bad fill:#fff8c5,stroke:#d4a72c
   classDef ev fill:#ffe5d9,stroke:#cf222e
-  classDef gt-gloss-olson-zeckhauser stroke-dasharray:0
-  class F bad,gt-gloss-olson-zeckhauser
+  classDef gt-gloss-olson-zeckhauser stroke-width:2px
+  class F bad
+  class F gt-gloss-olson-zeckhauser
   class E1,E2,E3 ev
 ```
 :::
@@ -105,10 +106,13 @@ flowchart LR
   Y --> Z
   classDef th fill:#dafbe1,stroke:#2da44e
   classDef sy fill:#0969da,color:#fff,stroke:#0969da
-  classDef gt-gloss-lake-hierarchy stroke-dasharray:0
-  classDef gt-gloss-omnibalancing stroke-dasharray:0
-  class L,P th,gt-gloss-lake-hierarchy
-  class G,D th,gt-gloss-omnibalancing
+  classDef gt-gloss-lake-hierarchy stroke-width:2px
+  classDef gt-gloss-omnibalancing stroke-width:2px
+  class L,P,G,D th
+  class L gt-gloss-lake-hierarchy
+  class P gt-gloss-lake-hierarchy
+  class G gt-gloss-omnibalancing
+  class D gt-gloss-omnibalancing
   class X,Y,Z sy
 ```
 :::
@@ -134,11 +138,13 @@ flowchart LR
   classDef hl fill:#0969da,color:#fff,stroke:#0969da
   classDef ds fill:#dafbe1,stroke:#2da44e
   classDef md fill:#f6f8fa,stroke:#d0d7de
-  classDef gt-gloss-ibish-post-war-retaliation-risk stroke-dasharray:0
-  classDef gt-gloss-omnibalancing stroke-dasharray:0
-  class I hl,gt-gloss-ibish-post-war-retaliation-risk
+  classDef gt-gloss-ibish-post-war-retaliation-risk stroke-width:2px
+  classDef gt-gloss-omnibalancing stroke-width:2px
+  class I hl
+  class I gt-gloss-ibish-post-war-retaliation-risk
   class D1,D2 ds
-  class M1 md,gt-gloss-omnibalancing
+  class M1 md
+  class M1 gt-gloss-omnibalancing
   class M2,M3,M4 md
 ```
 :::
