@@ -189,12 +189,16 @@ posteriorData = [
 ]
 
 Plot.plot({
-  marginLeft: 280,
-  marginRight: 50,
-  marginTop: 30,
-  height: 400,
+  marginLeft: 340,
+  marginRight: 60,
+  marginTop: 36,
+  marginBottom: 44,
+  height: 480,
   width,
-  style: { fontSize: "12px" },
+  style: {
+    fontSize: "15px",
+    fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+  },
   x: { label: "Probability", domain: [0, 1], grid: true, tickFormat: ".0%", labelAnchor: "right" },
   y: { label: null, domain: posteriorData.map(d => d.label) },
   color: {
@@ -207,26 +211,26 @@ Plot.plot({
     // Background bar = posterior P(operative)
     Plot.barX(posteriorData, {
       x: "post_op", y: "label",
-      fill: "#e6e8eb", insetTop: 6, insetBottom: 6
+      fill: "#e6e8eb", insetTop: 7, insetBottom: 7
     }),
     // Foreground bar = posterior P(load-bearing), colored by tier
     Plot.barX(posteriorData, {
       x: "post_lb", y: "label",
-      fill: "tier", insetTop: 6, insetBottom: 6
+      fill: "tier", insetTop: 7, insetBottom: 7
     }),
     // Numeric label at end of P(load-bearing) bar
     Plot.text(posteriorData, {
       x: "post_lb", y: "label",
       text: d => `${Math.round(d.post_lb * 100)}%`,
-      dx: 6, textAnchor: "start",
-      fontWeight: 600, fontSize: 11, fill: "#1f2328"
+      dx: 8, textAnchor: "start",
+      fontWeight: 600, fontSize: 14, fill: "#1f2328"
     }),
     // Reference line at 0.5 (load-bearing threshold)
     Plot.ruleX([0.5], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.5 }),
     Plot.text([{ x: 0.5, y: posteriorData[0].label }], {
       x: "x", y: "y", text: () => "load-bearing →",
-      dx: 6, dy: -18, textAnchor: "start",
-      fontSize: 10, fill: "#0969da", fontStyle: "italic"
+      dx: 8, dy: -22, textAnchor: "start",
+      fontSize: 13, fill: "#0969da", fontStyle: "italic", fontWeight: 500
     })
   ]
 })
