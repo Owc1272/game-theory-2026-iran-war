@@ -49,15 +49,24 @@
 
 /* ---------- Depth toggle: detail visibility ---------- */
 
-/* Default (standard mode): hide deep-only blocks. */
-.detail-only { display: none; }
+/* Concise mode (default): hide deep-only blocks; show concise-only blocks. */
+.deep-only { display: none; }
+.concise-only { display: revert; }
 
-/* Deep mode: reveal them. */
-body.depth-deep .detail-only { display: revert; }
+/* Deep mode: invert. */
+body.depth-deep .deep-only { display: revert; }
+body.depth-deep .concise-only { display: none; }
 
-/* For inline detail spans, use a different default to avoid block jumps */
-span.detail-only { display: none; }
-body.depth-deep span.detail-only { display: inline; }
+/* Inline span variants — keep inline-flow rather than block when revealed. */
+span.deep-only { display: none; }
+span.concise-only { display: inline; }
+body.depth-deep span.deep-only { display: inline; }
+body.depth-deep span.concise-only { display: none; }
+
+/* Hide auto-generated bibliography in concise mode. */
+body:not(.depth-deep) #refs,
+body:not(.depth-deep) div.references,
+body:not(.depth-deep) .csl-bib-body { display: none; }
 
 /* ---------- Quarto title-block: hide Published / Modified ---------- */
 
@@ -417,7 +426,9 @@ a.skip-link::before { content: "↓ "; }
 
 @media print {
   .reader-controls { display: none; }
-  .detail-only { display: revert !important; }   /* show everything in print */
+  .deep-only { display: revert !important; }   /* show everything in print */
+  .concise-only { display: none !important; }
+  #refs, div.references, .csl-bib-body { display: revert !important; }
 }
 
 /* ---------- Dark theme adjustments ---------- */

@@ -16,7 +16,7 @@ format:
   <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
   <span class="depth-toggle" role="group" aria-label="Reading depth">
     Depth:
-    <button data-depth-btn="standard" aria-pressed="true">Standard</button>
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
     <button data-depth-btn="deep" aria-pressed="false">Deep</button>
   </span>
 </div>
@@ -24,24 +24,56 @@ format:
 
 ## The puzzle
 
+```{=html}
+<div class="concise-only">
+```
+
+After the 28 February 2026 strikes, Saudi Arabia and the UAE pushed Trump — privately and publicly — to continue the war until Iran's regime fell. Yet all five GCC states declined US asks for military support to reopen Hormuz: Saudi denied airbase use, Qatar lobbied Washington against Gulf bases, Kuwait stayed silent. They wanted the war won. They would not pay to win it. Why?
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
 Within 48 hours of the 28 February 2026 strikes, an unusual pattern surfaced. The two Sunni Gulf monarchies with the deepest US security relationships — Saudi Arabia and the UAE — were *privately* and *publicly* pushing Trump to continue the war until Iran's regime collapsed. Yet both of them, plus Qatar, Kuwait, and Bahrain, declined repeated US asks for military support to reopen the Strait of Hormuz. Saudi denied use of Prince Sultan Airbase. Qatar's Emir lobbied Washington against using Gulf bases within 48 hours of war initiation. Kuwait sat on its hands.
 
 So they wanted the war won. They would not pay to win it. Why?
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *Forward-looking risk minimization under uncertainty about whether Iran survives.* A weakened-but-surviving Iran retaliates against accessible Gulf targets — so the Gulf wants Iran finished. Visible alignment raises future-target risk if Iran survives — so MBS pushes privately, UAE publicly. Four secondary mechanisms ([2023 détente]{.gloss data-gloss="saudi-iran-2023-rapprochement"}, [Vision 2030]{.gloss data-gloss="vision-2030"}, [Yemen lesson]{.gloss data-gloss="yemen-lesson"}, omnibalancing) explain cross-state variation — not the underlying pattern.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
 
 ::: {.bottom-line}
 **Bottom line.** The single mechanism that resolves the paradox is *forward-looking risk minimization under uncertainty about whether Iran survives the war.* A "weakened but not destroyed" Iran will retaliate against accessible Gulf targets, so the Gulf wants Iran finished. But visible alignment raises future target priority for an Iran that *does* survive — so MBS pushes privately and lets UAE be the public voice. Both halves of the paradox come from the same calculus. Four secondary mechanisms (omnibalancing, the [2023 China-brokered détente]{.gloss data-gloss="saudi-iran-2023-rapprochement"}, [Vision 2030]{.gloss data-gloss="vision-2030"} economic exposure, the [Yemen lesson]{.gloss data-gloss="yemen-lesson"}) explain *which* Gulf state is more or less constrained — not *why* the underlying pattern exists.
 :::
 
-[For Q12.4 the textbook frame — Olson-Zeckhauser free-riding — turns out to be wrong, and the right frame (Lake's hierarchy / Posen's patron-client) is not in the canonical IR syllabus. The DA-corrected mechanism set then collapses to a single load-bearing one when the Iran_war briefing was reviewed. Both moves are described below.]{.column-margin .detail-only}
+```{=html}
+</div>
+```
+
+[For Q12.4 the textbook frame — Olson-Zeckhauser free-riding — turns out to be wrong, and the right frame (Lake's hierarchy / Posen's patron-client) is not in the canonical IR syllabus. The DA-corrected mechanism set then collapses to a single load-bearing one when the Iran_war briefing was reviewed. Both moves are described below.]{.column-margin .deep-only}
 
 ```{=html}
 <aside class="deep-mode-indicator">
-<strong>Deep mode is on.</strong> You'll see methodology details, source-confidence tier audits, the pre-mortem, and corpus gaps inline. Switch back to <em>Standard</em> at the top of the page to hide them.
+<strong>Deep mode is on.</strong> Paragraphs are at full length; the methodology callout, source-confidence tier audits, pre-mortem, corpus gaps, and bibliography are all visible. Switch back to <em>Concise</em> at the top of the page to halve the prose and hide the references.
 </aside>
 ```
 
 ```{=html}
-<div class="detail-only">
+<div class="deep-only">
 ```
 
 ::: {.callout-note collapse="true"}
@@ -75,7 +107,8 @@ flowchart LR
 :::
 
 ::: {focus-on="cr-stage1"}
-**Three opening hypotheses.** The puzzle admits at least three readings. The textbook one — [*free-riding*]{.gloss data-gloss="olson-zeckhauser"} — predicts that small allies of a security-providing hegemon systematically under-contribute. The second reads the Gulf as *constrained* by domestic politics: Sunni monarchies with restive Shia populations cannot openly fight a Sunni-Shia regional war without inviting unrest. The third reads the Gulf as *responding to Iran's strategy*: Iran attacked every GCC capital regardless of whether they contributed, which fits coercive escalation rather than retaliation deterrence.
+[**Three opening hypotheses.** (1) Textbook [*free-riding*]{.gloss data-gloss="olson-zeckhauser"} — small allies under-contribute. (2) Constrained regime preservation — Sunni monarchies can't openly fight a sectarian war. (3) Iran's strategy — strikes on every GCC capital regardless of contribution fit coercive escalation, not retaliation deterrence.]{.concise-only}
+[**Three opening hypotheses.** The puzzle admits at least three readings. The textbook one — [*free-riding*]{.gloss data-gloss="olson-zeckhauser"} — predicts that small allies of a security-providing hegemon systematically under-contribute. The second reads the Gulf as *constrained* by domestic politics: Sunni monarchies with restive Shia populations cannot openly fight a Sunni-Shia regional war without inviting unrest. The third reads the Gulf as *responding to Iran's strategy*: Iran attacked every GCC capital regardless of whether they contributed, which fits coercive escalation rather than retaliation deterrence.]{.deep-only}
 :::
 
 ::: {#cr-stage2}
@@ -98,7 +131,8 @@ flowchart LR
 :::
 
 ::: {focus-on="cr-stage2"}
-**The free-rider reading breaks on three pieces of evidence.** Iran's strategy was not retaliation against contributors; it was offensive coercive escalation [Schelling's "[threat that leaves something to chance]{.gloss data-gloss="schelling-something-to-chance"}," applied as a gambit to break GCC collective-action capacity]{.detail-only}. Saudi airspace denial pre-dated the war (Fox News, 30 January 2026) — it was not a wartime bargain over costs; it was a structural position. And the underlying relationship is not an alliance of equals (the model Olson-Zeckhauser was built on); it is a [hierarchical clientelist relationship]{.gloss data-gloss="lake-hierarchy"} in which the small client can constrain the large patron's action when patron requests damage client interests.
+[**Free-riding fails on three counts.** Iran attacked all GCC capitals regardless of contribution (offensive escalation, not deterrence). Saudi airspace denial *predates* the war — a structural position, not bargaining. And Gulf-US is a [hierarchical clientelist relationship]{.gloss data-gloss="lake-hierarchy"}, not an alliance of equals — clients can constrain patron requests.]{.concise-only}
+[**The free-rider reading breaks on three pieces of evidence.** Iran's strategy was not retaliation against contributors; it was offensive coercive escalation [Schelling's "[threat that leaves something to chance]{.gloss data-gloss="schelling-something-to-chance"}," applied as a gambit to break GCC collective-action capacity]{.deep-only-inline}. Saudi airspace denial pre-dated the war (Fox News, 30 January 2026) — it was not a wartime bargain over costs; it was a structural position. And the underlying relationship is not an alliance of equals (the model Olson-Zeckhauser was built on); it is a [hierarchical clientelist relationship]{.gloss data-gloss="lake-hierarchy"} in which the small client can constrain the large patron's action when patron requests damage client interests.]{.deep-only}
 :::
 
 ::: {#cr-stage3}
@@ -128,7 +162,8 @@ flowchart LR
 :::
 
 ::: {focus-on="cr-stage3"}
-**The DA-corrected synthesis: four mechanisms.** Replacing Olson-Zeckhauser with Lake's hierarchy and adding [omnibalancing]{.gloss data-gloss="omnibalancing"} produced a four-mechanism reconciliation — domestic-Shia threat, the 2023 China-brokered Saudi-Iran détente, Vision 2030 economic exposure, and the Yemen lesson — each operative for a different sub-set of Gulf states. This was a substantial improvement. It explained *which* Gulf state was more or less constrained. It did not yet explain *why* the underlying behavior pattern existed in the first place.
+[**DA-corrected synthesis: four mechanisms.** Lake's hierarchy + [omnibalancing]{.gloss data-gloss="omnibalancing"} + 2023 détente + Vision 2030 + Yemen lesson, each operative for a different Gulf sub-set. This explained *which* states were more or less constrained — not *why* the pattern existed.]{.concise-only}
+[**The DA-corrected synthesis: four mechanisms.** Replacing Olson-Zeckhauser with Lake's hierarchy and adding [omnibalancing]{.gloss data-gloss="omnibalancing"} produced a four-mechanism reconciliation — domestic-Shia threat, the 2023 China-brokered Saudi-Iran détente, Vision 2030 economic exposure, and the Yemen lesson — each operative for a different sub-set of Gulf states. This was a substantial improvement. It explained *which* Gulf state was more or less constrained. It did not yet explain *why* the underlying behavior pattern existed in the first place.]{.deep-only}
 :::
 
 ::: {#cr-stage4}
@@ -168,7 +203,8 @@ flowchart LR
 :::
 
 ::: {focus-on="cr-stage4"}
-**The single-mechanism account.** A briefing-review pass surfaced a stronger reading: Hussein Ibish's *post-war retaliation risk* mechanism explains both halves of the paradox from one forward-looking calculus. A weakened-but-surviving Iran will retaliate against accessible Gulf targets, so the Gulf wants Iran finished — *push for regime change.* Visible alignment raises future target priority if Iran does survive — so *decline to be visibly the platform.* The four DA-derived mechanisms are now *modifiers* explaining cross-state variation, not independent primary mechanisms. This is strictly better than the four-mechanism reconciliation: same predictive power for cross-state variation, plus a coherent account of why the puzzle exists.
+[**Single-mechanism account.** Ibish's *post-war retaliation risk* explains both halves: a surviving Iran retaliates → push for regime change; visible alignment raises future-target risk → decline visible platform. The four DA mechanisms become modifiers explaining cross-state variation. Strictly better: same predictive power, plus an account of why.]{.concise-only}
+[**The single-mechanism account.** A briefing-review pass surfaced a stronger reading: Hussein Ibish's *post-war retaliation risk* mechanism explains both halves of the paradox from one forward-looking calculus. A weakened-but-surviving Iran will retaliate against accessible Gulf targets, so the Gulf wants Iran finished — *push for regime change.* Visible alignment raises future target priority if Iran does survive — so *decline to be visibly the platform.* The four DA-derived mechanisms are now *modifiers* explaining cross-state variation, not independent primary mechanisms. This is strictly better than the four-mechanism reconciliation: same predictive power for cross-state variation, plus a coherent account of why the puzzle exists.]{.deep-only}
 :::
 
 :::
@@ -285,7 +321,8 @@ How likely is each mechanism to be operative — and given it is operative, how 
 | **X2** | Selectorate + Schelling commit-by-weakness *(dropped)* |
 :::
 
-**Reading the chart.** Each row is one mechanism. The light grey bar shows posterior P(operative) — how likely the mechanism is at play. The colored foreground bar shows posterior P(load-bearing) — how much of the puzzle the mechanism actually explains. Color encodes the [tier badge]{.gloss data-gloss="source-confidence-tier"}: green = T1 (multi-source verified), yellow = T2 (single-source named), red = T3 (inference from evidence), grey = T4 (conjecture). The dashed blue line at 0.5 marks the load-bearing threshold; above the line means the mechanism is doing more than chance work in the synthesis. The headline finding — **M0 at 65% P(load-bearing)** — is *not* T1, because Ibish's specific framing has not yet been independently corroborated in the wider think-tank literature. Treat it as the best current single-mechanism account, not as established.
+[**Reading the chart.** Each row = one mechanism. Grey bar = P(operative); colored bar = P(load-bearing). Color encodes the [tier badge]{.gloss data-gloss="source-confidence-tier"} (T1/T2/T3/T4). Dashed line at 0.5 = load-bearing threshold. **M0 at 65%** is the headline finding — but *not* T1 (Ibish's framing not yet independently corroborated). Best current single-mechanism account, not established.]{.concise-only}
+[**Reading the chart.** Each row is one mechanism. The light grey bar shows posterior P(operative) — how likely the mechanism is at play. The colored foreground bar shows posterior P(load-bearing) — how much of the puzzle the mechanism actually explains. Color encodes the [tier badge]{.gloss data-gloss="source-confidence-tier"}: green = T1 (multi-source verified), yellow = T2 (single-source named), red = T3 (inference from evidence), grey = T4 (conjecture). The dashed blue line at 0.5 marks the load-bearing threshold; above the line means the mechanism is doing more than chance work in the synthesis. The headline finding — **M0 at 65% P(load-bearing)** — is *not* T1, because Ibish's specific framing has not yet been independently corroborated in the wider think-tank literature. Treat it as the best current single-mechanism account, not as established.]{.deep-only}
 
 ::: {.callout-note collapse="true"}
 ## Show the underlying numbers (incl. priors)
@@ -344,10 +381,11 @@ flowchart TB
   class E ev
 ```
 
-Olson-Zeckhauser was designed for alliances of formal equals (NATO). The Gulf-US relationship is an asymmetric clientelist relationship — a different game-theoretic object with different equilibria. Saudi airspace denial is not under-contribution within an intact alliance; it is a clientelist signal that the patron has violated implicit norms (no consultation; demanding action without burden-sharing on cost).
+[Olson-Zeckhauser was designed for alliances of equals (NATO). Gulf-US is asymmetric clientelist — a different game-theoretic object. Saudi airspace denial isn't under-contribution; it's a clientelist signal that the patron violated implicit norms (no consultation; demanding action without burden-sharing).]{.concise-only}
+[Olson-Zeckhauser was designed for alliances of formal equals (NATO). The Gulf-US relationship is an asymmetric clientelist relationship — a different game-theoretic object with different equilibria. Saudi airspace denial is not under-contribution within an intact alliance; it is a clientelist signal that the patron has violated implicit norms (no consultation; demanding action without burden-sharing on cost).]{.deep-only}
 
 ```{=html}
-<div class="detail-only">
+<div class="deep-only">
 ```
 
 ### Figure 4 — Source-confidence tier breakdown
@@ -374,6 +412,10 @@ If this synthesis is wrong, the most likely failure modes are:
 </div>
 ```
 
+```{=html}
+<div class="deep-only">
+```
+
 ## Sources & further reading
 
 The full reasoning, source-by-source corpus pull, devil's-advocate critique, briefing-review delta, and tier audit live in the underlying analysis file: [`Q12.4_gulf_wartime_contradiction.md`](https://github.com/) (link will populate after first push).
@@ -381,7 +423,11 @@ The full reasoning, source-by-source corpus pull, devil's-advocate critique, bri
 Key citations: @gause2003balancing, @david1991third, @lake2009hierarchy, @schelling1966arms, @olson1966alliances, @ibish2026crosshairs, @kuik2016hedging, @fearon1995rationalist, @powell2006commitment.
 
 ```{=html}
-<div class="detail-only">
+</div>
+```
+
+```{=html}
+<div class="deep-only">
 ```
 
 **Highest-priority remaining corpus gaps for Q12 work:**
