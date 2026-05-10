@@ -1,0 +1,44 @@
+# Glossary entries — keyed by id. Each entry has a title and a ~100-word body.
+# Optional `primer:` field links to the corresponding primer chapter once written.
+# This file is included as project metadata via `metadata-files` in _quarto.yml,
+# making `meta.glossary` accessible to the Lua filter at filters/gloss.lua.
+#
+# Usage in any .qmd: `[term text shown to reader]{.gloss data-gloss="id"}`
+
+glossary:
+
+  - id: olson-zeckhauser
+    title: "Free-rider hypothesis (Olson & Zeckhauser, 1966)"
+    body: |
+      In 1966 Mancur Olson and Richard Zeckhauser argued that alliances behave like clubs sharing a public good: once provided, every member benefits whether they paid or not, so small members rationally let larger members carry the cost. The classic example is NATO during the Cold War — the US provided most of the defense, smaller European allies under-contributed. The model assumes alliance members are formal equals and the security benefit can't be withheld from any member. Where those assumptions break — for instance, in patron-client hierarchies — the prediction of free-riding can mislead. Q12.4 argues this is the wrong frame for Gulf-US relations.
+    primer: null
+
+  - id: lake-hierarchy
+    title: "Hierarchy / patron-client (Lake, 2009; Posen)"
+    body: |
+      David Lake's *Hierarchy in International Relations* (2009) argues many "alliances" are not between equals. The small state cedes some authority — over basing rights, foreign-policy alignment, weapons procurement — in exchange for security from the large state. The relationship is hierarchical and reciprocal: the patron is constrained by what it can demand without violating the implicit bargain. Barry Posen's parallel "patron-client" framing makes the same point. This frame predicts client states can resist patron action when patron requests damage client interests. Saudi airspace denial in 2026 fits the prediction. It is the right frame for Gulf-US relations.
+    primer: null
+
+  - id: omnibalancing
+    title: "Omnibalancing (David, 1991; Gause, 2003/4)"
+    body: |
+      Steven David's "Explaining Third World Alignment" (1991) argues leaders of fragile states face two threats — external and internal — and balance against whichever is larger. F. Gregory Gause's 2003/4 "Balancing What?" applies this to the Gulf: Sunni monarchies ruling restive Shia populations face a domestic balancing problem alongside any external one. Visible alignment with a Sunni-Shia regional war can mobilize domestic Shia constituencies, so participating can be regime-suicide for monarchies whose stability depends on accommodation. The framework explains why Bahrain (about 70% Shia under Sunni rule) is the most domestically constrained Gulf state on confrontation with Iran.
+    primer: null
+
+  - id: schelling-something-to-chance
+    title: "Threat that leaves something to chance (Schelling)"
+    body: |
+      From Thomas Schelling's *The Strategy of Conflict* (1960) and *Arms and Influence* (1966): a threat that leaves the outcome partly to chance — by deploying force in ways neither side can fully control — coerces the adversary into concessions to avoid random escalation. The mechanism trades certainty for credibility: precisely *because* the threatener cannot guarantee restraint, the threat cannot be safely ignored. Q12.4 reads Iran's pattern of strikes on every GCC capital — regardless of contribution — through this lens: not retaliation deterrence (which would target only contributors) but offensive coercive escalation aimed at breaking GCC collective-action capacity.
+    primer: null
+
+  - id: bayesian-posterior
+    title: "Bayesian posterior probability"
+    body: |
+      A Bayesian posterior is the probability you assign to a proposition after updating from your prior estimate using new evidence. Throughout this site, claims about mechanisms are stated as posteriors over configurations rather than single declarations of "the cause." For example: P(Mechanism 0 is load-bearing | evidence) = 0.65 means that after weighing all the evidence, the analyst's best estimate is a 65% chance Mechanism 0 explains the puzzle. Reporting probabilities forces honest uncertainty and makes claims testable — as new evidence arrives, posteriors shift in predictable directions, and the framework itself is falsifiable.
+    primer: null
+
+  - id: source-confidence-tier
+    title: "Source-confidence tier (T1 / T2 / T3 / T4)"
+    body: |
+      Every load-bearing claim on this site carries a tier badge. T1 means multi-source verified — independent corroboration from at least two sources of different type (e.g., a wire report plus a peer-reviewed analysis). T2 means single-source named — reported by one named source, not yet independently corroborated. T3 means inference from evidence — a reading of empirical evidence under a chosen analytical framework, where the factual base is solid but the inferential leap is the analyst's. T4 means conjecture — a hypothesis not yet supported by named source or strong inference.
+    primer: null

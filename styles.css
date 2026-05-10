@@ -116,6 +116,92 @@ body.depth-deep span.detail-only { display: inline; }
 /* Use Quarto's column-margin facility; this is mostly Quarto's own default. */
 /* On mobile, sidenotes collapse below their reference (Quarto handles this). */
 
+/* ---------- Glossary popover triggers ---------- */
+
+.gloss-trigger {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  color: inherit;
+  cursor: help;
+  text-decoration: underline dotted;
+  text-decoration-color: var(--bs-primary, #0969da);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  transition: background 120ms ease;
+  border-radius: 2px;
+}
+.gloss-trigger:hover,
+.gloss-trigger:focus,
+.gloss-trigger:focus-visible {
+  background: rgba(9, 105, 218, 0.08);
+  text-decoration-color: var(--bs-primary, #0969da);
+  text-decoration-thickness: 2px;
+  outline: 2px solid transparent;   /* keep a11y outline; ring above does the visual */
+}
+.gloss-icon {
+  font-size: 0.72em;
+  margin-left: 0.18em;
+  color: var(--bs-primary, #0969da);
+  vertical-align: super;
+  line-height: 1;
+}
+
+/* Popover body styling — Bootstrap default is fine; tighten line-height + max-width */
+.popover.gloss-popover {
+  max-width: 380px;
+}
+.gloss-popover .popover-header {
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+.gloss-popover .popover-body {
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+.gloss-primer-link {
+  display: inline-block;
+  margin-top: 0.6rem;
+  font-weight: 500;
+}
+
+/* On narrow screens, popovers should fit comfortably and not run off-screen */
+@media (max-width: 480px) {
+  .popover.gloss-popover {
+    max-width: 90vw;
+  }
+}
+
+/* In print, render glosses inline as parenthetical definitions */
+@media print {
+  .gloss-trigger::after {
+    content: " [" attr(data-bs-content) "]";
+    text-decoration: none;
+    font-size: 0.85em;
+    font-style: italic;
+    color: #555;
+  }
+  .gloss-icon { display: none; }
+  .gloss-trigger {
+    text-decoration: none;
+    background: none !important;
+  }
+}
+
+/* Dark theme */
+[data-bs-theme="dark"] .gloss-trigger {
+  text-decoration-color: var(--bs-primary, #58a6ff);
+}
+[data-bs-theme="dark"] .gloss-trigger:hover,
+[data-bs-theme="dark"] .gloss-trigger:focus {
+  background: rgba(88, 166, 255, 0.14);
+}
+[data-bs-theme="dark"] .gloss-icon {
+  color: var(--bs-primary, #58a6ff);
+}
+
 /* ---------- Source-confidence tier badges ---------- */
 
 .tier {

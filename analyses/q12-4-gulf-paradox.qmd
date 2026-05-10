@@ -65,7 +65,7 @@ flowchart LR
 :::
 
 ::: {focus-on="cr-stage1"}
-**Three opening hypotheses.** The puzzle admits at least three readings. The textbook one — *free-riding* — predicts that small allies of a security-providing hegemon systematically under-contribute. The second reads the Gulf as *constrained* by domestic politics: Sunni monarchies with restive Shia populations cannot openly fight a Sunni-Shia regional war without inviting unrest. The third reads the Gulf as *responding to Iran's strategy*: Iran attacked every GCC capital regardless of whether they contributed, which fits coercive escalation rather than retaliation deterrence.
+**Three opening hypotheses.** The puzzle admits at least three readings. The textbook one — [*free-riding*]{.gloss data-gloss="olson-zeckhauser"} — predicts that small allies of a security-providing hegemon systematically under-contribute. The second reads the Gulf as *constrained* by domestic politics: Sunni monarchies with restive Shia populations cannot openly fight a Sunni-Shia regional war without inviting unrest. The third reads the Gulf as *responding to Iran's strategy*: Iran attacked every GCC capital regardless of whether they contributed, which fits coercive escalation rather than retaliation deterrence.
 :::
 
 ::: {#cr-stage2}
@@ -86,7 +86,7 @@ flowchart LR
 :::
 
 ::: {focus-on="cr-stage2"}
-**The free-rider reading breaks on three pieces of evidence.** Iran's strategy was not retaliation against contributors; it was offensive coercive escalation [Schelling's "threat that leaves something to chance," applied as a gambit to break GCC collective-action capacity]{.detail-only}. Saudi airspace denial pre-dated the war (Fox News, 30 January 2026) — it was not a wartime bargain over costs; it was a structural position. And the underlying relationship is not an alliance of equals (the model Olson-Zeckhauser was built on); it is a hierarchical clientelist relationship in which the small client can constrain the large patron's action when patron requests damage client interests.
+**The free-rider reading breaks on three pieces of evidence.** Iran's strategy was not retaliation against contributors; it was offensive coercive escalation [Schelling's "[threat that leaves something to chance]{.gloss data-gloss="schelling-something-to-chance"}," applied as a gambit to break GCC collective-action capacity]{.detail-only}. Saudi airspace denial pre-dated the war (Fox News, 30 January 2026) — it was not a wartime bargain over costs; it was a structural position. And the underlying relationship is not an alliance of equals (the model Olson-Zeckhauser was built on); it is a [hierarchical clientelist relationship]{.gloss data-gloss="lake-hierarchy"} in which the small client can constrain the large patron's action when patron requests damage client interests.
 :::
 
 ::: {#cr-stage3}
@@ -110,7 +110,7 @@ flowchart LR
 :::
 
 ::: {focus-on="cr-stage3"}
-**The DA-corrected synthesis: four mechanisms.** Replacing Olson-Zeckhauser with Lake's hierarchy and adding omnibalancing produced a four-mechanism reconciliation — domestic-Shia threat, the 2023 China-brokered Saudi-Iran détente, Vision 2030 economic exposure, and the Yemen lesson — each operative for a different sub-set of Gulf states. This was a substantial improvement. It explained *which* Gulf state was more or less constrained. It did not yet explain *why* the underlying behavior pattern existed in the first place.
+**The DA-corrected synthesis: four mechanisms.** Replacing Olson-Zeckhauser with Lake's hierarchy and adding [omnibalancing]{.gloss data-gloss="omnibalancing"} produced a four-mechanism reconciliation — domestic-Shia threat, the 2023 China-brokered Saudi-Iran détente, Vision 2030 economic exposure, and the Yemen lesson — each operative for a different sub-set of Gulf states. This was a substantial improvement. It explained *which* Gulf state was more or less constrained. It did not yet explain *why* the underlying behavior pattern existed in the first place.
 :::
 
 ::: {#cr-stage4}
@@ -144,7 +144,7 @@ flowchart LR
 
 ## Dashboard {#dashboard}
 
-The figures below capture the analytical state without requiring you to read the walkthrough. Three views: (1) the mechanism-by-mechanism Bayesian posteriors, (2) the per-state typology, (3) the framework comparison.
+The figures below capture the analytical state without requiring you to read the walkthrough. Three views: (1) the mechanism-by-mechanism [Bayesian posteriors]{.gloss data-gloss="bayesian-posterior"}, (2) the per-state typology, (3) the framework comparison.
 
 ### Figure 1 — Mechanism posteriors
 
@@ -163,7 +163,7 @@ How likely is each mechanism to be operative — and given it is operative, how 
 | Dropped — Olson-Zeckhauser free-riding | 0.85 | 0.45 | 0.15 | [T3]{.tier .tier-3} |
 | Dropped — Selectorate + Schelling commitment-by-weakness | 0.50 | 0.30 | 0.10 | [T4]{.tier .tier-4} |
 
-**Reading the table.** [T1]{.tier .tier-1} = multi-source verified · [T2]{.tier .tier-2} = single-source named · [T3]{.tier .tier-3} = inference from evidence · [T4]{.tier .tier-4} = conjecture. The headline finding — M0 at 0.65 P(load-bearing) — is *not* T1, because Ibish's specific framing has not yet been independently corroborated in the wider think-tank literature. Treat it as the best current single-mechanism account, not as established.
+**Reading the table.** Each [tier badge]{.gloss data-gloss="source-confidence-tier"} signals the strength of the evidence base: [T1]{.tier .tier-1} = multi-source verified · [T2]{.tier .tier-2} = single-source named · [T3]{.tier .tier-3} = inference from evidence · [T4]{.tier .tier-4} = conjecture. The headline finding — M0 at 0.65 P(load-bearing) — is *not* T1, because Ibish's specific framing has not yet been independently corroborated in the wider think-tank literature. Treat it as the best current single-mechanism account, not as established.
 
 ### Figure 2 — Per-state typology
 

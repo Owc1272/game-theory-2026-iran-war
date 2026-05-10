@@ -5,6 +5,12 @@ project:
     - "data/**"
     - "assets/**"
 
+metadata-files:
+  - glossary.yml
+
+filters:
+  - filters/gloss.lua
+
 website:
   title: "Game Theory of the 2026 Iran War"
   description: "A modular game-theoretic analysis of the 2026 US–Israel war on Iran. Primer, timelines, twelve analyses, and a section on disagreements."
@@ -23,6 +29,8 @@ website:
         href: analyses/index.qmd
       - text: "Disagreements"
         href: disagreements/index.qmd
+      - text: "Glossary"
+        href: glossary.qmd
     right:
       - icon: github
         href: ""    # populated after repo is pushed
