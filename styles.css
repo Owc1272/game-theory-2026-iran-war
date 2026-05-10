@@ -210,6 +210,9 @@ body.depth-deep .deep-mode-indicator { display: block; }
   .mech-legend { display: block; }
 }
 
+/* Always-visible variant for charts whose y-axis only shows short codes */
+.mech-legend.always { display: block; }
+
 [data-bs-theme="dark"] .mech-legend {
   background: #161b22;
   border-color: #30363d;
