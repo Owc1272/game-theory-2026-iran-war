@@ -59,6 +59,27 @@ body.depth-deep .detail-only { display: revert; }
 span.detail-only { display: none; }
 body.depth-deep span.detail-only { display: inline; }
 
+/* ---------- Quarto title-block: hide Published / Modified ---------- */
+
+.quarto-title-meta,
+.quarto-title-block .quarto-title-meta {
+  display: none !important;
+}
+
+/* ---------- Deep-mode indicator (visible only in deep mode) ---------- */
+
+.deep-mode-indicator {
+  display: none;
+  margin: 0.6rem 0 1rem 0;
+  padding: 0.5rem 0.85rem;
+  background: rgba(9, 105, 218, 0.08);
+  border-left: 3px solid var(--bs-primary, #0969da);
+  border-radius: 0 4px 4px 0;
+  font-size: 0.88rem;
+  color: var(--bs-body-color);
+}
+body.depth-deep .deep-mode-indicator { display: block; }
+
 /* ---------- Bottom-line callout box ---------- */
 
 .bottom-line {
