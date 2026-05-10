@@ -133,7 +133,7 @@ The reading is internally coherent. It also has a problem.
 flowchart LR
   S[Steel-man B:<br/>war was theater<br/>on top of pre-decided<br/>action]
   E1[Mar-a-Lago<br/>Dec 29 2025:<br/>Netanyahu lobbies<br/>for joint strikes]
-  E2[Ratcliffe<br/>11 Feb 2026:<br/>"farcical"<br/>presentation]
+  E2["Ratcliffe<br/>11 Feb 2026:<br/>'farcical'<br/>presentation"]
   E3[Iran's 27 Feb<br/>offer:<br/>verifiable cap +<br/>full IAEA access]
   E4[Trump's<br/>shifting rationales:<br/>5+ different framings]
   S --> E1
