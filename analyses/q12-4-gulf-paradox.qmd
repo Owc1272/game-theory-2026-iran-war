@@ -190,17 +190,24 @@ posteriorData = [
 
 isMobile = width < 700
 
+// Font scales with chart width on desktop so labels stay proportional
+// across narrow (~700 px) and ultra-wide (~1400 px) viewports.
+baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)))
+valueFont = isMobile ? 13 : Math.max(17, baseFont - 1)
+annotFont = isMobile ? 12 : Math.max(14, baseFont - 4)
+chartHeight = isMobile ? 380 : Math.max(540, Math.min(720, Math.round(width * 0.6)))
+
 posteriorChartData = posteriorData.map(d => ({ ...d, display: isMobile ? d.id : d.full }))
 
 Plot.plot({
-  marginLeft: isMobile ? 64 : 380,
-  marginRight: isMobile ? 56 : 60,
-  marginTop: 44,
-  marginBottom: 56,
-  height: isMobile ? 380 : 560,
+  marginLeft: isMobile ? 64 : Math.max(380, Math.round(width * 0.32)),
+  marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
+  marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+  marginBottom: Math.max(56, Math.round(baseFont * 3)),
+  height: chartHeight,
   width,
   style: {
-    fontSize: isMobile ? "15px" : "18px",
+    fontSize: baseFont + "px",
     fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
   },
   x: { label: "Probability", domain: [0, 1], grid: true, tickFormat: ".0%", labelAnchor: "right" },
@@ -234,14 +241,14 @@ Plot.plot({
       x: "post_lb", y: "display",
       text: d => `${Math.round(d.post_lb * 100)}%`,
       dx: 8, textAnchor: "start",
-      fontWeight: 600, fontSize: isMobile ? 13 : 17, fill: "#1f2328"
+      fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
     }),
     // Reference line at 0.5 (load-bearing threshold)
     Plot.ruleX([0.5], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.5 }),
     Plot.text([{ x: 0.5, y: posteriorChartData[0].display }], {
       x: "x", y: "y", text: () => "load-bearing →",
-      dx: 8, dy: -24, textAnchor: "start",
-      fontSize: isMobile ? 12 : 15, fill: "#0969da", fontStyle: "italic", fontWeight: 500
+      dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
+      fontSize: annotFont, fill: "#0969da", fontStyle: "italic", fontWeight: 500
     })
   ]
 })
