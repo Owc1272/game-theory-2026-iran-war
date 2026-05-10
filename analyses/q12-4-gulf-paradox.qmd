@@ -29,7 +29,7 @@ Within 48 hours of the 28 February 2026 strikes, an unusual pattern surfaced. Th
 So they wanted the war won. They would not pay to win it. Why?
 
 ::: {.bottom-line}
-**Bottom line.** The single mechanism that resolves the paradox is *forward-looking risk minimization under uncertainty about whether Iran survives the war.* A "weakened but not destroyed" Iran will retaliate against accessible Gulf targets, so the Gulf wants Iran finished. But visible alignment raises future target priority for an Iran that *does* survive — so MBS pushes privately and lets UAE be the public voice. Both halves of the paradox come from the same calculus. Four secondary mechanisms (omnibalancing, the 2023 China-brokered détente, Vision 2030 economic exposure, the Yemen lesson) explain *which* Gulf state is more or less constrained — not *why* the underlying pattern exists.
+**Bottom line.** The single mechanism that resolves the paradox is *forward-looking risk minimization under uncertainty about whether Iran survives the war.* A "weakened but not destroyed" Iran will retaliate against accessible Gulf targets, so the Gulf wants Iran finished. But visible alignment raises future target priority for an Iran that *does* survive — so MBS pushes privately and lets UAE be the public voice. Both halves of the paradox come from the same calculus. Four secondary mechanisms (omnibalancing, the [2023 China-brokered détente]{.gloss data-gloss="saudi-iran-2023-rapprochement"}, [Vision 2030]{.gloss data-gloss="vision-2030"} economic exposure, the [Yemen lesson]{.gloss data-gloss="yemen-lesson"}) explain *which* Gulf state is more or less constrained — not *why* the underlying pattern exists.
 :::
 
 [For Q12.4 the textbook frame — Olson-Zeckhauser free-riding — turns out to be wrong, and the right frame (Lake's hierarchy / Posen's patron-client) is not in the canonical IR syllabus. The DA-corrected mechanism set then collapses to a single load-bearing one when the Iran_war briefing was reviewed. Both moves are described below.]{.column-margin .detail-only}
@@ -140,12 +140,20 @@ flowchart LR
   classDef md fill:#f6f8fa,stroke:#d0d7de
   classDef gt-gloss-ibish-post-war-retaliation-risk stroke-width:2px
   classDef gt-gloss-omnibalancing stroke-width:2px
+  classDef gt-gloss-saudi-iran-2023-rapprochement stroke-width:2px
+  classDef gt-gloss-vision-2030 stroke-width:2px
+  classDef gt-gloss-yemen-lesson stroke-width:2px
   class I hl
   class I gt-gloss-ibish-post-war-retaliation-risk
   class D1,D2 ds
   class M1 md
   class M1 gt-gloss-omnibalancing
-  class M2,M3,M4 md
+  class M2 md
+  class M2 gt-gloss-saudi-iran-2023-rapprochement
+  class M3 md
+  class M3 gt-gloss-vision-2030
+  class M4 md
+  class M4 gt-gloss-yemen-lesson
 ```
 :::
 
@@ -161,7 +169,73 @@ The figures below capture the analytical state without requiring you to read the
 
 ### Figure 1 — Mechanism posteriors
 
-How likely is each mechanism to be operative — and given it is operative, how likely to be load-bearing? Estimates after the eight-step protocol *plus* the briefing-review revision.
+How likely is each mechanism to be operative — and given it is operative, how likely to be load-bearing? Estimates after the eight-step protocol *plus* the briefing-review revision. Sorted by posterior P(load-bearing) descending.
+
+```{ojs}
+//| label: fig-posteriors
+//| fig-cap: "Posterior probabilities over each mechanism. Light grey bar = posterior P(operative); colored bar = posterior P(load-bearing); color encodes source-confidence tier. Dashed line at 0.5 marks the load-bearing threshold."
+
+posteriorData = [
+  {id: "M0", label: "M0 — Ibish post-war retaliation risk", post_op: 0.85, post_lb: 0.65, tier: "T2"},
+  {id: "M6", label: "M6 — Asymmetric clientelist constraint", post_op: 0.75, post_lb: 0.50, tier: "T2"},
+  {id: "M5", label: "M5 — Iranian coercive escalation gambit", post_op: 0.70, post_lb: 0.40, tier: "T3"},
+  {id: "M1", label: "M1 — Omnibalancing (Gause / David)", post_op: 0.70, post_lb: 0.30, tier: "T3"},
+  {id: "M3", label: "M3 — Vision 2030 / FDI risk", post_op: 0.80, post_lb: 0.30, tier: "T2"},
+  {id: "M4", label: "M4 — Yemen lesson", post_op: 0.70, post_lb: 0.30, tier: "T2"},
+  {id: "M7", label: "M7 — Bilateral-strategy divergence", post_op: 0.65, post_lb: 0.30, tier: "T2"},
+  {id: "M2", label: "M2 — 2023 détente infrastructure", post_op: 0.75, post_lb: 0.25, tier: "T1"},
+  {id: "DROP1", label: "Olson-Zeckhauser free-riding (dropped)", post_op: 0.45, post_lb: 0.15, tier: "T3"},
+  {id: "DROP2", label: "Selectorate + commit-by-weakness (dropped)", post_op: 0.30, post_lb: 0.10, tier: "T4"}
+]
+
+Plot.plot({
+  marginLeft: 280,
+  marginRight: 50,
+  marginTop: 30,
+  height: 400,
+  width,
+  style: { fontSize: "12px" },
+  x: { label: "Probability", domain: [0, 1], grid: true, tickFormat: ".0%", labelAnchor: "right" },
+  y: { label: null, domain: posteriorData.map(d => d.label) },
+  color: {
+    domain: ["T1", "T2", "T3", "T4"],
+    range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+    label: "Source-confidence tier",
+    legend: true
+  },
+  marks: [
+    // Background bar = posterior P(operative)
+    Plot.barX(posteriorData, {
+      x: "post_op", y: "label",
+      fill: "#e6e8eb", insetTop: 6, insetBottom: 6
+    }),
+    // Foreground bar = posterior P(load-bearing), colored by tier
+    Plot.barX(posteriorData, {
+      x: "post_lb", y: "label",
+      fill: "tier", insetTop: 6, insetBottom: 6
+    }),
+    // Numeric label at end of P(load-bearing) bar
+    Plot.text(posteriorData, {
+      x: "post_lb", y: "label",
+      text: d => `${Math.round(d.post_lb * 100)}%`,
+      dx: 6, textAnchor: "start",
+      fontWeight: 600, fontSize: 11, fill: "#1f2328"
+    }),
+    // Reference line at 0.5 (load-bearing threshold)
+    Plot.ruleX([0.5], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+    Plot.text([{ x: 0.5, y: posteriorData[0].label }], {
+      x: "x", y: "y", text: () => "load-bearing →",
+      dx: 6, dy: -18, textAnchor: "start",
+      fontSize: 10, fill: "#0969da", fontStyle: "italic"
+    })
+  ]
+})
+```
+
+**Reading the chart.** Each row is one mechanism. The light grey bar shows posterior P(operative) — how likely the mechanism is at play. The colored foreground bar shows posterior P(load-bearing) — how much of the puzzle the mechanism actually explains. Color encodes the [tier badge]{.gloss data-gloss="source-confidence-tier"}: green = T1 (multi-source verified), yellow = T2 (single-source named), red = T3 (inference from evidence), grey = T4 (conjecture). The dashed blue line at 0.5 marks the load-bearing threshold; above the line means the mechanism is doing more than chance work in the synthesis. The headline finding — **M0 at 65% P(load-bearing)** — is *not* T1, because Ibish's specific framing has not yet been independently corroborated in the wider think-tank literature. Treat it as the best current single-mechanism account, not as established.
+
+::: {.callout-note collapse="true"}
+## Show the underlying numbers (incl. priors)
 
 | Mechanism | Prior P(op) | Posterior P(op) | Posterior P(load-bearing) | Tier |
 |---|:---:|:---:|:---:|:---:|
@@ -175,8 +249,7 @@ How likely is each mechanism to be operative — and given it is operative, how 
 | M7 — Substantive bilateral-strategy divergence | 0.30 | 0.65 | 0.30 | [T2]{.tier .tier-2} |
 | Dropped — Olson-Zeckhauser free-riding | 0.85 | 0.45 | 0.15 | [T3]{.tier .tier-3} |
 | Dropped — Selectorate + Schelling commitment-by-weakness | 0.50 | 0.30 | 0.10 | [T4]{.tier .tier-4} |
-
-**Reading the table.** Each [tier badge]{.gloss data-gloss="source-confidence-tier"} signals the strength of the evidence base: [T1]{.tier .tier-1} = multi-source verified · [T2]{.tier .tier-2} = single-source named · [T3]{.tier .tier-3} = inference from evidence · [T4]{.tier .tier-4} = conjecture. The headline finding — M0 at 0.65 P(load-bearing) — is *not* T1, because Ibish's specific framing has not yet been independently corroborated in the wider think-tank literature. Treat it as the best current single-mechanism account, not as established.
+:::
 
 ### Figure 2 — Per-state typology
 
@@ -184,7 +257,7 @@ How likely is each mechanism to be operative — and given it is operative, how 
 |---|---|---|
 | **Saudi Arabia** | Hawkish-hedger | M0 + M2 (détente) + M3 (Vision 2030) + M4 (Yemen) + M6 (clientelist); denied airspace as clientelist signal |
 | **UAE** | Most-hawkish-most-targeted | M0 + M3 (FDI/economy) + M5 (responding to Iran's gambit) + M7 (bilateral divergence from Saudi) |
-| **Qatar** | Mediator under fire | M0 + M5 (Iran gambit; lost LNG capacity) + biased-mediator role (Kydd) |
+| **Qatar** | Mediator under fire | M0 + M5 (Iran gambit; lost LNG capacity) + [biased-mediator role (Kydd)]{.gloss data-gloss="kydd-biased-mediator"} |
 | **Bahrain** | Sectarian-constrained | M1 (omnibalancing — load-bearing) + M6 (clientelist); domestic Shia constraint dominant |
 | **Kuwait** | Parliamentary-exposed | M1 (smaller Shia population, but parliament) + M7 (consensus tradition) |
 | **Oman** | Pure mediator | Kydd biased-mediator (T1) — different from Sub-I/II entirely |
