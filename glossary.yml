@@ -37,6 +37,12 @@ glossary:
       A Bayesian posterior is the probability you assign to a proposition after updating from your prior estimate using new evidence. Throughout this site, claims about mechanisms are stated as posteriors over configurations rather than single declarations of "the cause." For example: P(Mechanism 0 is load-bearing | evidence) = 0.65 means that after weighing all the evidence, the analyst's best estimate is a 65% chance Mechanism 0 explains the puzzle. Reporting probabilities forces honest uncertainty and makes claims testable — as new evidence arrives, posteriors shift in predictable directions, and the framework itself is falsifiable.
     primer: null
 
+  - id: ibish-post-war-retaliation-risk
+    title: "Post-war retaliation risk (Ibish, 2026)"
+    body: |
+      Hussein Ibish (Arab Gulf States Institute in Washington) argued in March 2026 that Sunni Gulf monarchies face one asymmetric calculation about post-war Iran. If Iran is "weakened but not destroyed," it will retaliate against accessible Gulf targets — so the Gulf wants Iran finished. But visible alignment with the war raises future target priority for an Iran that does survive — so the monarchies push the war privately while declining to be the public platform for it. Both halves of the Q12.4 paradox come from this single forward-looking calculus. Ibish's account replaces the multi-mechanism reconciliation as the load-bearing explanation.
+    primer: null
+
   - id: source-confidence-tier
     title: "Source-confidence tier (T1 / T2 / T3 / T4)"
     body: |

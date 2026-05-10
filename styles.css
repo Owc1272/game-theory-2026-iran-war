@@ -152,6 +152,34 @@ body.depth-deep span.detail-only { display: inline; }
   line-height: 1;
 }
 
+/* Mermaid SVG nodes marked with gt-gloss-* — show a help cursor and a subtle
+   hover affordance. Hover changes both the rect fill brightness and outline. */
+svg g[class*="gt-gloss-"],
+svg [class*="gt-gloss-"] {
+  cursor: help;
+}
+svg g[class*="gt-gloss-"]:hover rect,
+svg g[class*="gt-gloss-"]:hover polygon,
+svg g[class*="gt-gloss-"]:hover circle,
+svg g[class*="gt-gloss-"]:focus rect,
+svg g[class*="gt-gloss-"]:focus polygon,
+svg g[class*="gt-gloss-"]:focus circle {
+  filter: brightness(0.94);
+  stroke-width: 2.5px;
+}
+svg g[class*="gt-gloss-"]:focus,
+svg g[class*="gt-gloss-"]:focus-visible {
+  outline: none;
+}
+/* Add a small ⓘ glyph in the top-right of glossable nodes so users can see
+   they're interactive without needing to hover first. */
+svg g[class*="gt-gloss-"]::after {
+  content: "ⓘ";
+  /* This pseudo-element is for HTML; SVG ignores ::after. We instead rely on
+     the cursor change + hover effect. The ⓘ on inline buttons is enough
+     visual cue for the same convention to read. */
+}
+
 /* Popover body styling — Bootstrap default is fine; tighten line-height + max-width */
 .popover.gloss-popover {
   max-width: 380px;

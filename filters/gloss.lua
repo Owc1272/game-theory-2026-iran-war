@@ -90,8 +90,44 @@ function Span(span)
   return pandoc.RawInline("html", html)
 end
 
--- Run Meta first, then Span, in that order.
+-- JSON-escape a string for embedding inside a JSON string literal.
+local function json_escape(s)
+  if s == nil then return "" end
+  s = s:gsub("\\", "\\\\")
+  s = s:gsub('"', '\\"')
+  s = s:gsub("\b", "\\b")
+  s = s:gsub("\f", "\\f")
+  s = s:gsub("\n", "\\n")
+  s = s:gsub("\r", "\\r")
+  s = s:gsub("\t", "\\t")
+  return s
+end
+
+-- After Span pass, emit a JSON data island so client-side JS can read the
+-- glossary (used by the Mermaid post-processor to attach popovers to SVG nodes).
+function Pandoc(doc)
+  local parts = {}
+  for id, entry in pairs(glossary) do
+    -- Collapse whitespace in body the same way Span does, for consistency.
+    local body = entry.body:gsub("[\r\n]+", " "):gsub("%s+", " ")
+    local primer = entry.primer or ""
+    table.insert(parts, string.format(
+      '{"id":"%s","title":"%s","body":"%s","primer":"%s"}',
+      json_escape(id),
+      json_escape(entry.title),
+      json_escape(body),
+      json_escape(primer)
+    ))
+  end
+  local script = '<script id="gt-gloss-data" type="application/json">[' ..
+    table.concat(parts, ",") .. ']</script>'
+  doc.blocks:insert(pandoc.RawBlock("html", script))
+  return doc
+end
+
+-- Run Meta first, then Span, then Pandoc (doc-level), in that order.
 return {
   { Meta = Meta },
   { Span = Span },
+  { Pandoc = Pandoc },
 }
