@@ -67,9 +67,9 @@ So they wanted the war won. They would not pay to win it. Why?
 [For Q12.4 the textbook frame — Olson-Zeckhauser free-riding — turns out to be wrong, and the right frame (Lake's hierarchy / Posen's patron-client) is not in the canonical IR syllabus. The DA-corrected mechanism set then collapses to a single load-bearing one when the Iran_war briefing was reviewed. Both moves are described below.]{.column-margin .deep-only}
 
 ```{=html}
-<aside class="deep-mode-indicator">
-<strong>Deep mode is on.</strong> Paragraphs are at full length; the methodology callout, source-confidence tier audits, pre-mortem, corpus gaps, and bibliography are all visible. Switch back to <em>Concise</em> at the top of the page to halve the prose and hide the references.
-</aside>
+<div class="deep-mode-indicator">
+<strong>Deep mode is on.</strong> Paragraphs are expanded with per-state detail and inline gloss explanations; the methodology callout, source-confidence tier audits, pre-mortem, corpus gaps, and bibliography are all visible. Switch back to <em>Concise</em> at the top of the page to collapse the prose and hide the references.
+</div>
 ```
 
 ```{=html}
@@ -108,7 +108,16 @@ flowchart LR
 
 ::: {focus-on="cr-stage1"}
 [**Three opening hypotheses.** (1) Textbook [*free-riding*]{.gloss data-gloss="olson-zeckhauser"} — small allies under-contribute. (2) Constrained regime preservation — Sunni monarchies can't openly fight a sectarian war. (3) Iran's strategy — strikes on every GCC capital regardless of contribution fit coercive escalation, not retaliation deterrence.]{.concise-only}
-[**Three opening hypotheses.** The puzzle admits at least three readings. The textbook one — [*free-riding*]{.gloss data-gloss="olson-zeckhauser"} — predicts that small allies of a security-providing hegemon systematically under-contribute. The second reads the Gulf as *constrained* by domestic politics: Sunni monarchies with restive Shia populations cannot openly fight a Sunni-Shia regional war without inviting unrest. The third reads the Gulf as *responding to Iran's strategy*: Iran attacked every GCC capital regardless of whether they contributed, which fits coercive escalation rather than retaliation deterrence.]{.deep-only}
+
+::: {.deep-only}
+**Three opening hypotheses, each making different per-state predictions.**
+
+The textbook reading is [*free-riding*]{.gloss data-gloss="olson-zeckhauser"} (Olson & Zeckhauser, 1966): in alliances of formal equals sharing a security public good, small members rationally under-contribute, expecting the larger ally to bear the cost — NATO during the Cold War is the canonical case. Applied here, every GCC state should under-contribute equally; the prediction is *uniform* across states, which already fits poorly with the cross-state variation we observe (Saudi denying airspace, UAE providing basing, Qatar mediating, Bahrain detaining its own Shia, Kuwait silent).
+
+The second reading is *constrained regime preservation* — Sunni monarchies with restive Shia populations cannot openly fight a Sunni-Shia regional war without risking domestic mobilization. This predicts sharp cross-state variation: **Bahrain** (≈ 70 % Shia ruled by a Sunni minority, with the US 5th Fleet on its soil) is the most constrained; **Kuwait** (≈ 30 % Shia, plus an active parliament that would have to consent to combat) is next; **Saudi** has a restive Shia minority concentrated in the Eastern Province; **UAE** and **Qatar** have smaller Shia populations and so face less domestic constraint on visible alignment.
+
+The third reading is *response to Iran's strategy*: Iran attacked every GCC capital regardless of whether they contributed. **UAE** absorbed the heaviest fire (> 150 missiles, 500+ drones); **Qatar** lost LNG export capacity (QatarEnergy declared force majeure on 24 March); **Bahrain** was hit despite domestic Shia anger about the US presence; **Saudi** facilities were struck. Free-rider theory predicts Iran would target only contributors; coercive-escalation theory predicts strikes on everyone, designed to break GCC collective-action capacity.
+:::
 :::
 
 ::: {#cr-stage2}
@@ -132,7 +141,16 @@ flowchart LR
 
 ::: {focus-on="cr-stage2"}
 [**Free-riding fails on three counts.** Iran attacked all GCC capitals regardless of contribution (offensive escalation, not deterrence). Saudi airspace denial *predates* the war — a structural position, not bargaining. And Gulf-US is a [hierarchical clientelist relationship]{.gloss data-gloss="lake-hierarchy"}, not an alliance of equals — clients can constrain patron requests.]{.concise-only}
-[**The free-rider reading breaks on three pieces of evidence.** Iran's strategy was not retaliation against contributors; it was offensive coercive escalation [Schelling's "[threat that leaves something to chance]{.gloss data-gloss="schelling-something-to-chance"}," applied as a gambit to break GCC collective-action capacity]{.deep-only-inline}. Saudi airspace denial pre-dated the war (Fox News, 30 January 2026) — it was not a wartime bargain over costs; it was a structural position. And the underlying relationship is not an alliance of equals (the model Olson-Zeckhauser was built on); it is a [hierarchical clientelist relationship]{.gloss data-gloss="lake-hierarchy"} in which the small client can constrain the large patron's action when patron requests damage client interests.]{.deep-only}
+
+::: {.deep-only}
+**The free-rider reading breaks on three pieces of evidence — and each one points at a specific Gulf state.**
+
+*Iran attacked all GCC capitals*, contributing or not. This fits Schelling's [*threat that leaves something to chance*]{.gloss data-gloss="schelling-something-to-chance"} — a coercive gambit deploying force in ways neither side can fully control, designed to break GCC collective-action capacity rather than punish contributors. **UAE** bore the heaviest cost (> 150 missiles, 500+ drones in the war's first three weeks); **Qatar's** LNG capacity was knocked out; **Bahrain** was hit despite the US 5th Fleet's presence (and the domestic Shia anger that presence already generates); even **Saudi** facilities were struck. A retaliation-only reading predicts Iran would target only contributors; the empirical pattern fits coercion better — the gambit is to make every GCC ruler feel the cost simultaneously, foreclosing any quiet bilateral siding with Washington.
+
+*Saudi airspace denial pre-dated the war.* On 30 January 2026 a senior GCC official told Fox News that Saudi "wouldn't allow airspace to be used in a war Saudi Arabia is not a part of." This was a structural position, not a wartime bargain over costs — and it applied specifically to **Saudi** (the **UAE** provided basing access throughout, and **Qatar** hosted Al Udeid for non-Iran operations). Free-rider theory predicts states should reluctantly grant basing in exchange for security; structural denial isn't free-riding, it's principled refusal.
+
+*The underlying relationship is not an alliance of equals* (the model Olson-Zeckhauser was built on, designed for NATO). It is a [hierarchical clientelist relationship]{.gloss data-gloss="lake-hierarchy"} in which the small state cedes authority over basing rights and foreign-policy alignment in exchange for security guarantees, and the patron is constrained by what it can demand without violating the implicit bargain. **Saudi** airspace denial is a *clientelist signal* — the patron (the US) requested action without consultation or burden-sharing on cost — not under-contribution within an intact alliance. The frame matters: Olson-Zeckhauser predicts free-riding everywhere; Lake's hierarchy predicts client *resistance* when patron requests damage client interests, exactly what we observed in Riyadh and Doha.
+:::
 :::
 
 ::: {#cr-stage3}
@@ -163,7 +181,20 @@ flowchart LR
 
 ::: {focus-on="cr-stage3"}
 [**DA-corrected synthesis: four mechanisms.** Lake's hierarchy + [omnibalancing]{.gloss data-gloss="omnibalancing"} + 2023 détente + Vision 2030 + Yemen lesson, each operative for a different Gulf sub-set. This explained *which* states were more or less constrained — not *why* the pattern existed.]{.concise-only}
-[**The DA-corrected synthesis: four mechanisms.** Replacing Olson-Zeckhauser with Lake's hierarchy and adding [omnibalancing]{.gloss data-gloss="omnibalancing"} produced a four-mechanism reconciliation — domestic-Shia threat, the 2023 China-brokered Saudi-Iran détente, Vision 2030 economic exposure, and the Yemen lesson — each operative for a different sub-set of Gulf states. This was a substantial improvement. It explained *which* Gulf state was more or less constrained. It did not yet explain *why* the underlying behavior pattern existed in the first place.]{.deep-only}
+
+::: {.deep-only}
+**The DA-corrected synthesis: four mechanisms, each operative for a different sub-set of Gulf states.** Replacing Olson-Zeckhauser with Lake's hierarchy fixed the structural framing; four further mechanisms then explain the cross-state variation.
+
+*[Omnibalancing]{.gloss data-gloss="omnibalancing"}* (David 1991; Gause 2003/4): leaders of fragile states balance against the larger of internal and external threats. Sunni monarchies face *both* Iran externally and a domestic Shia population that could be mobilized by a sectarian war. The mechanism is **load-bearing for Bahrain** (≈ 70 % Shia ruled by a Sunni minority; 350+ wartime detentions per Carnegie / Al-Monitor / Middle East Eye reporting; some Bahraini Shia openly cheered US base attacks per Stimson), **significant for Kuwait** (smaller Shia population but a parliament whose consent would be required for combat participation), and **present in Saudi** (restive Eastern Province). It is **least binding for the UAE** (small Shia population, strong internal-security apparatus).
+
+*The [2023 China-brokered Saudi-Iran rapprochement]{.gloss data-gloss="saudi-iran-2023-rapprochement"}* (10 March 2023): Riyadh and Tehran restored diplomatic relations after seven years severed, with China as the broker. Joining a Hormuz fight in 2026 would torch this standing infrastructure — and lose Beijing's good will, foreclosing the Saudi hedging option between Washington and Beijing. The mechanism is **load-bearing for Saudi** specifically; the UAE's bilateral with Iran was thinner and the cost of breaking it is correspondingly smaller.
+
+*[Vision 2030]{.gloss data-gloss="vision-2030"} / FDI risk*: Saudi Vision 2030 (announced by MBS in 2016) and the UAE's parallel diversification strategy both depend on sustained foreign direct investment, expat professional labor, and a stable regional security environment. Visible escalation against Iran threatens all three: investors flee, expats leave, tourism collapses. MBS reportedly turned from pro-war to off-ramp-seeking once these costs became tangible. **Operative for Saudi and UAE**; effectively absent for Bahrain, Kuwait, Qatar, Oman.
+
+*The [Yemen lesson]{.gloss data-gloss="yemen-lesson"}*: Saudi led a coalition into Yemen in March 2015 and spent seven years failing to defeat the Houthis. The structural conclusion — that a regional war the Gulf cannot definitively finish becomes an existential trap — is **the dominant Saudi internal explanation for restraint** on direct Iran combat in 2026, with secondary effects for the UAE (which exited the Yemen front in 2019).
+
+The four together explain *which* Gulf state is more or less constrained: **Bahrain** by omnibalancing, **Saudi** by all four (détente + Vision 2030 + Yemen + clientelist), **UAE** primarily by Vision 2030 modulated by less omnibalancing exposure, **Qatar** and **Kuwait** by their distinct mediator and parliamentary constraints. They do not yet explain *why* the underlying puzzle — wanting the war won while refusing to pay to win it — exists in the first place.
+:::
 :::
 
 ::: {#cr-stage4}
@@ -204,7 +235,18 @@ flowchart LR
 
 ::: {focus-on="cr-stage4"}
 [**Single-mechanism account.** Ibish's *post-war retaliation risk* explains both halves: a surviving Iran retaliates → push for regime change; visible alignment raises future-target risk → decline visible platform. The four DA mechanisms become modifiers explaining cross-state variation. Strictly better: same predictive power, plus an account of why.]{.concise-only}
-[**The single-mechanism account.** A briefing-review pass surfaced a stronger reading: Hussein Ibish's *post-war retaliation risk* mechanism explains both halves of the paradox from one forward-looking calculus. A weakened-but-surviving Iran will retaliate against accessible Gulf targets, so the Gulf wants Iran finished — *push for regime change.* Visible alignment raises future target priority if Iran does survive — so *decline to be visibly the platform.* The four DA-derived mechanisms are now *modifiers* explaining cross-state variation, not independent primary mechanisms. This is strictly better than the four-mechanism reconciliation: same predictive power for cross-state variation, plus a coherent account of why the puzzle exists.]{.deep-only}
+
+::: {.deep-only}
+**The single-mechanism account: [Ibish post-war retaliation risk]{.gloss data-gloss="ibish-post-war-retaliation-risk"}.** A briefing-review pass surfaced a stronger reading. Hussein Ibish (Arab Gulf States Institute in Washington, March 2026) argued that Sunni Gulf monarchies face one asymmetric forward-looking calculation. A "weakened but not destroyed" Iran will retaliate against accessible Gulf targets — so the Gulf wants Iran finished. But visible alignment raises future-target priority if Iran *does* survive — so the monarchies push the war privately while declining to be its public platform. Both halves of the paradox come from the same calculus, and the calculus *predicts the cross-state pattern observed*, not just the aggregate behavior:
+
+- **Saudi Arabia** — MBS pushes for regime change in private US channels (per New York Times and Washington Post reporting on US officials' read-outs of Mar-a-Lago meetings) but declines to be the public platform. The 2023 détente and Vision 2030 amplify this: he *especially* wants to avoid public alignment because both his hedging-with-Beijing and his FDI-dependent economy take damage if Iran survives and remembers.
+- **UAE** — Anwar Gargash's framing of the war as a "permanent state of threat" is the public voice. The UAE has already paid the heaviest cost in Iranian missile fire, faces less omnibalancing constraint, and has alternative bypass capacity (Habshan-Fujairah ~ 1.5 mb/d) — so the calculus comes out differently: visible alignment is more affordable.
+- **Bahrain** — most domestically constrained; stays quietest. Omnibalancing dominates; under Ibish's calculus, Bahrain has the strongest reason to keep all alignment private.
+- **Qatar** — the [biased-mediator]{.gloss data-gloss="kydd-biased-mediator"} role (Kydd 2003) gives plausible deniability and a substantive function. Qatar's Emir lobbied Washington against using Gulf bases within 48 hours of war initiation — privately credible, publicly denying platform.
+- **Oman** — Iran reportedly chose not to strike Oman, which fits Kydd's biased-mediator framework: Oman's long-standing closeness to Iran makes its messages credible to Tehran in a way no neutral state's could be.
+
+The four DA-derived mechanisms (omnibalancing, 2023 détente, Vision 2030, Yemen lesson) are recast as *modifiers* of the per-state calculus — they explain *how strongly* each state weights the calculation, not whether the calculation is taking place. This is strictly better than the four-mechanism reconciliation: same predictive power for cross-state variation, plus a coherent account of why the underlying behavior pattern exists.
+:::
 :::
 
 :::
