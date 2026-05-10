@@ -48,6 +48,8 @@ website:
       collapse-level: 2
       contents:
         - primer/index.qmd
+        - text: "The bargaining model of war"
+          href: primer/bargaining-model.qmd
     - id: timelines
       title: "Timelines"
       style: floating

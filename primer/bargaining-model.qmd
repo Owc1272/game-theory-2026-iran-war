@@ -1,0 +1,404 @@
+---
+title: "Primer — The bargaining model of war"
+subtitle: "Fearon 1995 and Powell 2006: when is war the rational outcome, and where does the model break?"
+description: "Wars are costly. If both sides know they are costly, there should always be a peaceful bargain both prefer. The bargaining model of war explains why this peace-by-default sometimes fails — three mechanisms (private information, commitment problems, issue indivisibility), with the commitment problem doing most of the analytical work in modern usage."
+categories: [primer, bargaining-model, fearon, powell]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+Wars are costly. Both sides know they are costly. So if a peaceful bargain exists that both sides prefer to fighting, why would they ever fight? This is the central puzzle the bargaining model of war addresses — and the question almost every analysis chapter on this site eventually leans on.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Wars are costly. Both sides know they are costly. If a peaceful bargain exists that both sides strictly prefer to fighting, *both* could agree to it ex ante and walk away better off. This logic — peace-as-default-equilibrium — is the starting point of the modern bargaining model of war, formalized by James Fearon in his 1995 "Rationalist Explanations for War" and sharpened by Robert Powell in 2006's "War as a Commitment Problem." It is the conceptual scaffold underneath nearly every analytical chapter on this site: [Q1](../analyses/q1-why-bargaining-failed.qmd) asks why the pre-war bargain failed; [Q5](../analyses/q5-bargaining-range.qmd) asks whether the post-war range is empty; [Q12.4](../analyses/q12-4-gulf-paradox.qmd) asks why the Gulf states wanted the war won but refused to pay to win it.
+
+The puzzle the model asks: *given* that war is costly and *given* that both sides know it, **why does war ever happen?** There must be something that *blocks* the peace-by-default. The bargaining model's contribution is to name and constrain what that "something" can be. Three mechanisms, and only three, in Fearon's account — and Powell argues only one of them is actually doing the work.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** A peaceful bargain exists by default whenever war is costly — geometrically, this is the [bargaining range]{.gloss data-gloss="bargaining-range"} between the two sides' reservation utilities. Fearon (1995) names three reasons war can still happen: **private information** with incentives to misrepresent, **commitment problems**, and **issue indivisibility**. Powell (2006) sharpens further: most actual wars are commitment problems wearing other disguises. When you see a war, the bargaining model says: ask first which Fearon mechanism is at work, expect commitment-problem to do most of the analytical work, and check the limits — the model assumes unitary rational actors, which often fails in practice.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** A peaceful bargain exists by default whenever war is costly — and the geometric tool the model gives you for this is the [bargaining range]{.gloss data-gloss="bargaining-range"}, the set of settlements both sides strictly prefer to war. The range is the segment between each side's *reservation utility* (the worst settlement they'd accept rather than fight). War happens when this range is empty or when, despite the range existing, the parties cannot reach it. Fearon (1995) names three reasons: **private information** combined with incentives to misrepresent (each side underestimates the other's resolve); **commitment problems** ([Powell 2006]{.gloss data-gloss="powell-commitment"}, the rising side cannot credibly commit not to renegotiate from strength); and **[issue indivisibility]{.gloss data-gloss="issue-indivisibility"}** (the issue cannot be split). Powell (2006) sharpens further: most apparent private-information stories are actually commitment problems in disguise once you look at what's really being negotiated over. The model assumes unitary rational actors with consistent preferences, common knowledge of war costs, and the ability to make binding agreements — assumptions that fail in real cases (multi-actor coalitions, hierarchical relationships, audience costs, strategic culture, leader preferences for war). The model's value is not in predicting wars but in *constraining what mechanism could be doing the work*: when you see a war, the bargaining model says — ask first which Fearon mechanism is at play, expect commitment-problem to do most of the analytical work, and identify where the model's assumptions fail in the specific case.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the model. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  A[Side A's reservation:<br/>worst settlement<br/>preferred to war]
+  B[Side B's reservation:<br/>best settlement<br/>preferred to war]
+  RANGE[Bargaining range:<br/>any settlement<br/>both strictly prefer<br/>to fighting]
+  A --- RANGE
+  RANGE --- B
+  WAR_COST[Cost of war:<br/>creates the range]
+  WAR_COST -.->|widens| RANGE
+  classDef a fill:#ffe5d9,stroke:#cf222e
+  classDef b fill:#0969da,color:#fff,stroke:#0969da
+  classDef r fill:#dafbe1,stroke:#2da44e
+  classDef c fill:#fff8c5,stroke:#d4a72c
+  class A a
+  class B b
+  class RANGE r
+  class WAR_COST c
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**Why a bargain exists by default.** War costs lives, money, capability. Both sides know this. If a peaceful settlement exists that both sides prefer to fighting, both would rather take it. That set of mutually-preferable settlements is the [bargaining range]{.gloss data-gloss="bargaining-range"}. Whenever war is costly, the range is non-empty — peace is the default equilibrium. The model's puzzle: why does war happen anyway?]{.concise-only}
+
+::: {.deep-only}
+**Why a bargain exists by default.** Imagine a simple contested issue — say, the percentage of contested territory that goes to one side. Represent settlements as points on a line from 0 to 1, where 0 means "all to side B" and 1 means "all to side A." Side A would rather have any settlement above some threshold than fight a war — call this threshold A's *reservation utility*. Side B would rather have any settlement below some threshold than fight — that's B's reservation utility.
+
+The cost of war is what creates space between these reservations: war destroys value, so a settlement that splits the disputed issue is better than fighting for it even if neither side gets exactly what they want. Side A's reservation is set by *the share A would get from war, minus what A pays to fight*. Same for B. The *gap* between the two reservations is the [bargaining range]{.gloss data-gloss="bargaining-range"} — any settlement in this range makes both sides strictly better off than war.
+
+The fundamental result: *whenever war is costly, the bargaining range is non-empty*. Peace is the default equilibrium of any costly-war model. This is why the bargaining model frames war as a puzzle: war is *expensive*, both sides *know* it's expensive, *both* could be better off settling — so why fight?
+
+The cost-of-war assumption also lets us reason about *which* wars are likely: bigger expected war costs (longer wars, more destructive weapons, weaker alliance positions) widen the range and make settlement easier. Smaller expected costs (cheap strikes, asymmetric advantage, anticipated future power shifts) narrow it. Q1's [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} Stage 0 campaign is essentially a *cost-reduction strategy* — degrade the target's deterrent layers until striking becomes cheap, then exercise the strike option. The bargaining-model framing lets us see that as *closing the range from above* by lowering one side's war cost.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  Q[Why war if<br/>bargaining range<br/>exists?]
+  Q --> F1[Fearon mechanism 1:<br/>private information<br/>with incentives<br/>to misrepresent]
+  Q --> F2[Fearon mechanism 2:<br/>commitment problems]
+  Q --> F3[Fearon mechanism 3:<br/>issue indivisibility]
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-issue-indivisibility stroke-width:2px
+  class Q q
+  class F1,F2,F3 m
+  class F3 gt-gloss-issue-indivisibility
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**Fearon's three answers.** In a costly war, only three things can block the peaceful default: (1) **private information** about how each side values the issue or how it'd fight, combined with incentives to misrepresent (resolve is cheap to claim, expensive to demonstrate); (2) **commitment problems** — the side about to gain power cannot credibly bind itself not to demand more later; (3) **[issue indivisibility]{.gloss data-gloss="issue-indivisibility"}** — the contested issue cannot be split, so no continuous settlement exists. These are exhaustive in the model.]{.concise-only}
+
+::: {.deep-only}
+**Fearon's three answers (1995).** James Fearon's contribution was to identify what could plausibly block the peace-by-default — and to show the list is short. Only three mechanisms can block a bargain that both sides would prefer to war:
+
+*Mechanism 1 — Private information combined with incentives to misrepresent.* Each side has private knowledge about what it really values, how badly it'd fight, what its outside options look like. Some of this each side has an incentive to *over-state* (resolve is cheap to claim and expensive to demonstrate; bluffing about resolve is rational). The result is a coordination problem: both sides may genuinely have overlapping bargaining ranges, but neither can credibly *signal* its reservation utility to the other. Wars happen because the cheap-talk equilibrium reveals nothing; sometimes only fighting reveals what each side really values.
+
+*Mechanism 2 — Commitment problems.* Even when both sides know each other's reservation utilities perfectly, they may be unable to make a bargain *stick*. The canonical case: the rising side will be more powerful tomorrow, so any settlement reached today that the declining side could accept will be re-negotiated tomorrow from a stronger position. The declining side knows this — so the declining side may rationally strike *now*, before the power shift, rather than accept a sequence of ever-worse settlements later. [Powell (2006)]{.gloss data-gloss="powell-commitment"} formalizes this and shows it's the single most important Fearon mechanism in practice.
+
+*Mechanism 3 — [Issue indivisibility]{.gloss data-gloss="issue-indivisibility"}.* The contested issue cannot be physically or politically divided. There is no fractional settlement available; either one side gets it or the other does. The classical examples are sovereign control of a holy site or a capital city. Tehran's framing of enrichment as *constitutive* of Iranian state identity in [Q1](../analyses/q1-why-bargaining-failed.qmd) is the indivisibility mechanism: numerically the enrichment percentage is divisible, but politically the right-to-enrich claim is not.
+
+**The Fearon list is exhaustive *within the model*.** Anything else that looks like a cause of war — leader pathology, miscalculation, sub-state interest groups, audience costs — has to be operating *through* one of these three mechanisms or violating an assumption of the model. Either way, naming which Fearon mechanism is implicated is the discipline the model imposes.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  P[Powell 2006:<br/>most wars are<br/>commitment problems]
+  P --> SHIFT[Anticipated<br/>future power shift]
+  SHIFT --> NOW[Declining side<br/>strikes NOW]
+  NOW --> EMPTY[Future bargain<br/>cannot bind<br/>the rising side]
+  classDef p fill:#0969da,color:#fff,stroke:#0969da
+  classDef s fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-powell-commitment stroke-width:2px
+  class P p
+  class P gt-gloss-powell-commitment
+  class SHIFT,NOW,EMPTY s
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Powell's sharpening: most wars are commitment problems.** Many cases that *look* like private-information wars turn out to be commitment problems on inspection. The classic structure: side A expects to be stronger tomorrow than today; any deal A signs today can be re-opened tomorrow from a stronger position; the declining side knows this and may strike now rather than accept a worsening sequence. Verification regimes that monitor *compliance today* don't fix commitment problems because the issue is *commitment tomorrow*.]{.concise-only}
+
+::: {.deep-only}
+**[Powell's sharpening]{.gloss data-gloss="powell-commitment"}: most wars are commitment problems.** Robert Powell's 2006 "War as a Commitment Problem" argues that many cases that *look* like Fearon-1 private-information wars turn out to be Fearon-2 commitment problems once you ask carefully what's being negotiated over.
+
+The structural argument: suppose side A expects to be more powerful tomorrow than today (because demographics, technology, alliance shifts, or because side A is *building* the capability that will give it the advantage). Any settlement reached today must be re-confirmed tomorrow — and tomorrow side A will have stronger demands. The declining side B knows this. B's calculation is not "today's deal vs. war today" but "today's deal followed by a sequence of worse-and-worse deals vs. war today."
+
+If the sequence is bad enough, B may rationally strike *now*, before A's power shift completes, even if today's deal is technically better than today's war. The Powell-style commitment problem produces war as a *preventive* rather than a *coercive* phenomenon — B fights not to extract concessions but to *prevent* the power shift itself.
+
+**This is the structure the 2026 Iran war fits most cleanly.** Iran's potential nuclear acquisition is the textbook discontinuous power shift Powell describes. The bargaining model framing of [Q1](../analyses/q1-why-bargaining-failed.qmd) is: did the US/Israel coalition strike preventively because they couldn't credibly bind Iran's future commitments? The corpus consensus is more nuanced — Powell's commitment problem is operative but *conditional on* the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"}'s ability to veto Iranian concessions — but the Powell logic structures the question.
+
+**When verification fixes work, and when they don't.** A common Powell-style fix is *verification*: side A offers a verifiable cap (limited enrichment + full IAEA access), proving today that it won't reach the threshold. This works when the verification regime is credible — i.e., when the institution doing the verifying *itself* can credibly commit to enforcement and when both sides trust it to operate consistently. Q1's 27 February 2026 Iran offer (stockpile halt + full IAEA access) is *exactly* a Powell-style verification fix. The fix didn't work. The bargaining-model question for that case is: was the fix rejected because verification was *technically* non-credible, or because the *institution* (the IAEA) was politically non-credible, or because regime-change was a US/Israeli war aim that no verification could satisfy?
+
+The bargaining model's contribution here is precisely to organize the question this way — not to predict the answer.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  M[Bargaining model<br/>assumptions]
+  M --> A1[Unitary rational<br/>actors]
+  M --> A2[Common knowledge<br/>of war costs]
+  M --> A3[Binding<br/>agreements possible]
+  A1 -.->|breaks when<br/>multi-actor coalitions| FAIL1[Stackelberg<br/>or hierarchy<br/>model needed]
+  A2 -.->|breaks when<br/>perception/misperception| FAIL2[Jervis on<br/>perception]
+  A3 -.->|breaks when<br/>no enforcement| FAIL3[Domestic veto players<br/>Weeks/Putnam]
+  classDef m fill:#0969da,color:#fff,stroke:#0969da
+  classDef a fill:#dafbe1,stroke:#2da44e
+  classDef f fill:#ffe5d9,stroke:#cf222e
+  class M m
+  class A1,A2,A3 a
+  class FAIL1,FAIL2,FAIL3 f
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Where the model breaks.** The bargaining model is powerful when its assumptions hold and weak when they don't. Three common breakdowns: **unitary rational actors** (real states have factions; a [Stackelberg]{.gloss data-gloss="stackelberg-leader-follower"} or [hierarchy]{.gloss data-gloss="lake-hierarchy"} model may be needed); **common knowledge of war costs** (perception and misperception are not in the model); **binding agreements** (when [audience costs]{.gloss data-gloss="audience-costs-fearon"} or domestic veto players block ratification, even an existing range may be unreachable).]{.concise-only}
+
+::: {.deep-only}
+**Where the model breaks.** The bargaining model is powerful precisely because it makes strong assumptions; it is *fragile* when those assumptions fail. Three common breakdowns matter for the analyses on this site:
+
+*Unitary rational actors.* The model assumes each "side" is a single actor with consistent preferences. In practice, sides are coalitions: the US-Israel coalition in Q1 is two principals with potentially divergent preferences (the [Stackelberg]{.gloss data-gloss="stackelberg-leader-follower"} reading); Iran in Q1 / Q5 is a multi-faction system with the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"} as the substantive counterparty rather than the formal state; the Gulf states in [Q12.4](../analyses/q12-4-gulf-paradox.qmd) decompose into at least four sub-groups with different exposures. When a side fragments, the bargaining model needs an *enrichment* — Putnam's two-level games, Lake's hierarchy, or an explicit principal-agent model — to remain analytically useful.
+
+*Common knowledge of war costs.* The model assumes both sides have common knowledge of the cost of fighting. In practice, sides may misperceive each other's costs (Jervis 1976 on perception and misperception), update too slowly, or rationally exploit ambiguity. Some of this is handled within the model via Mechanism 1 (private information), but perception failures can also operate as outright assumption violations rather than within-model uncertainty.
+
+*Binding agreements.* The model assumes the parties can make agreements that bind. When [audience costs]{.gloss data-gloss="audience-costs-fearon"} (Fearon 1994, Weeks 2008) or domestic veto players block ratification — Q1's IRGC veto on Iran's formal-state ability to concede on enrichment is the prototype — even an *existing* bargaining range may be unreachable. Putnam's "two-level games" framework is the standard enrichment: each side's Level-I (international) negotiator must deliver a deal that Level-II (domestic ratifiers) will accept; the *intersection* of feasible Level-II deals on both sides is what's actually available.
+
+**The site's analyses pivot off these breakdowns repeatedly.** Q1 uses Stackelberg + IRGC-bonyad to fix the unitary-actor assumption; Q5 uses [Hokayem's asymmetric audience costs]{.gloss data-gloss="hokayem-battle-of-endurance"} to fix the common-knowledge-of-costs assumption; Q12.4 uses Lake's hierarchy to fix the alliance-of-equals assumption that Olson-Zeckhauser inherited from a different sub-tradition. Naming which assumption is failing — and reaching for the appropriate enrichment — is the disciplined way to use the model.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) the bargaining range geometry across four scenarios, (2) the three Fearon mechanisms with case applications, (3) where the model breaks and which analyses on this site use the breaks.
+
+### Figure 1 — Bargaining range geometry across four scenarios
+
+Each row shows a number line from 0 to 1 representing settlements over a contested issue (e.g., "share to side A"). Side B's reservation utility (red tick) is the most B will give up rather than fight; side A's reservation utility (blue tick) is the least A will accept rather than fight. If B's reservation is *below* A's reservation, the green shaded region is the [bargaining range]{.gloss data-gloss="bargaining-range"} — any settlement there is preferred-to-war by both. If B's reservation is *above* A's reservation, the range is empty.
+
+```{ojs}
+//| label: fig-bargaining-range
+//| fig-cap: "Four scenarios on a 0-to-1 settlement line. Side B's reservation (red tick) is the maximum it will concede; side A's (blue tick) is the minimum it will accept. Green region: bargaining range exists. No green region: range is empty."
+
+{
+  const scenarios = [
+    {label: "Range exists — typical case", b_reserve: 0.30, a_reserve: 0.65},
+    {label: "Range narrow — close call", b_reserve: 0.45, a_reserve: 0.55},
+    {label: "Range empty — war is rational", b_reserve: 0.55, a_reserve: 0.40},
+    {label: "Powell shift — anticipated future shift collapses range", b_reserve: 0.50, a_reserve: 0.50}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 14 : Math.max(17, Math.min(24, Math.round(width / 45)));
+  const chartHeight = isMobile ? 260 : Math.max(300, Math.min(380, Math.round(width * 0.32)));
+
+  const ranged = scenarios.map(d => ({
+    ...d,
+    range_low: Math.min(d.b_reserve, d.a_reserve),
+    range_high: Math.max(d.b_reserve, d.a_reserve),
+    has_range: d.b_reserve < d.a_reserve
+  }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 56 : Math.max(280, Math.round(width * 0.28)),
+    marginRight: isMobile ? 40 : 80,
+    marginTop: Math.max(40, Math.round(baseFont * 2.4)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Settlement share to side A →",
+      domain: [0, 1],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+    },
+    y: { label: null, domain: ranged.map(d => d.label) },
+    marks: [
+      // Faint full-line background
+      Plot.tickX(ranged, {
+        x: "range_low", y: "label",
+        stroke: "#e0e0e0", strokeWidth: 0
+      }),
+      // Range region (only if has_range)
+      Plot.barX(ranged.filter(d => d.has_range), {
+        x1: "b_reserve", x2: "a_reserve", y: "label",
+        fill: "#2da44e", fillOpacity: 0.25,
+        insetTop: 10, insetBottom: 10
+      }),
+      // Empty region for empty-range scenarios (red diagonal hatch effect via opacity)
+      Plot.barX(ranged.filter(d => !d.has_range), {
+        x1: "range_low", x2: "range_high", y: "label",
+        fill: "#cf222e", fillOpacity: 0.18,
+        insetTop: 10, insetBottom: 10
+      }),
+      // B's reservation marker (red)
+      Plot.tickX(ranged, {
+        x: "b_reserve", y: "label",
+        stroke: "#cf222e", strokeWidth: 3
+      }),
+      // A's reservation marker (blue)
+      Plot.tickX(ranged, {
+        x: "a_reserve", y: "label",
+        stroke: "#0969da", strokeWidth: 3
+      }),
+      // Annotation: B's reservation
+      Plot.text(ranged, {
+        x: "b_reserve", y: "label",
+        text: () => "B",
+        dy: -Math.round(baseFont * 1.2),
+        textAnchor: "middle",
+        fontWeight: 600, fontSize: baseFont, fill: "#cf222e"
+      }),
+      Plot.text(ranged, {
+        x: "a_reserve", y: "label",
+        text: () => "A",
+        dy: -Math.round(baseFont * 1.2),
+        textAnchor: "middle",
+        fontWeight: 600, fontSize: baseFont, fill: "#0969da"
+      })
+    ]
+  });
+}
+```
+
+[**Reading the chart.** In the first two scenarios, the green region is the set of settlements both sides prefer to fighting — there's a peaceful equilibrium. In the third scenario, B's reservation (red tick) is *above* A's reservation (blue tick), so the range is empty; war is the rational outcome for at least one side. In the fourth, an anticipated power shift has pulled both reservations to the same point — a knife-edge case where any small perturbation tips into the empty-range region.]{.concise-only}
+
+[**Reading the chart.** Side A wants more of the issue; side B wants less. A's reservation utility is the *minimum* A will accept rather than fight (settlements to the right of A's tick are A-preferred-to-war). B's reservation is the *maximum* B will give up rather than fight (settlements to the left of B's tick are B-preferred-to-war). The bargaining range is the region preferred-to-war by *both*. In Scenarios 1 and 2, the range exists (green). In Scenario 3, B's reservation has moved above A's reservation — at any settlement in [A, B], A would rather fight (since the settlement is below A's reservation) AND so would B (since the settlement is above B's reservation). The range is empty; war is rational for at least one side. Scenario 4 illustrates how a [Powell-style commitment problem]{.gloss data-gloss="powell-commitment"} closes the range: if A expects to be stronger tomorrow, A's *future* reservation will rise. B knows this, so B's *current* reservation drops (B prefers to fight now while A is still weak rather than face worse future deals). The two reservations meet at a knife-edge; any further shift collapses to Scenario 3.
+
+**Where the cost of war enters the picture.** Both reservations depend on the *cost of war* — A's reservation is "share of issue A gets from war *minus* what A pays to fight," and similarly for B. Higher war costs → A's reservation drops *and* B's reservation rises → the range widens. Lower war costs → reservations converge → the range narrows or empties. [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} Stage 0 in [Q1](../analyses/q1-why-bargaining-failed.qmd) is essentially a *war-cost-reduction strategy*: degrade the target's deterrent layers until A's cost of fighting drops, then exercise the strike option once the range has collapsed.]{.deep-only}
+
+### Figure 2 — Fearon's three mechanisms in the 2026 case
+
+The three mechanisms Fearon names — and which 2026-case analyses make heavy use of each.
+
+```{mermaid}
+flowchart TB
+  F[Fearon 1995:<br/>three rationalist<br/>mechanisms for war]
+  F --> M1[Mechanism 1:<br/>private information<br/>+ incentives to misrepresent]
+  F --> M2[Mechanism 2:<br/>commitment problems]
+  F --> M3[Mechanism 3:<br/>issue indivisibility]
+  M1 -.->|downgraded in Q1| Q1_M1[Q1 corpus: shift<br/>was observable to both<br/>sides; rules out<br/>asymmetric-information]
+  M2 -.->|load-bearing| Q1_M2[Q1: Powell commitment<br/>conditional on IRGC veto;<br/>Q5: bilateral commitment<br/>after 3 strike rounds]
+  M3 -.->|minor weight| Q1_M3[Q1: right-to-enrich<br/>as sovereignty claim;<br/>politically indivisible]
+  classDef f fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef q fill:#f6f8fa,stroke:#d0d7de
+  class F f
+  class M1,M2,M3 m
+  class Q1_M1,Q1_M2,Q1_M3 q
+```
+
+[**Reading the figure.** Powell's argument — that the commitment problem does most of the work — bears out empirically in the 2026 case: Q1 finds the [Powell commitment problem]{.gloss data-gloss="powell-commitment"} operative (conditional on the IRGC veto), private information substantially downgraded after corpus review, and indivisibility carrying only minor weight.]{.concise-only}
+
+[**Reading the figure.** Powell's argument that the commitment problem does most of the work bears out empirically in the 2026 case. The [Q1 corpus](../analyses/q1-why-bargaining-failed.qmd) found that "the power shift was measurable and observable to both sides — this rules out asymmetric-information explanations," substantially downgrading Mechanism 1's posterior P(load-bearing) from 0.25 to 0.10. The [Powell commitment problem]{.gloss data-gloss="powell-commitment"} (Mechanism 2) is operative but *conditional on* the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"}'s veto — verification regimes that would have been Powell-style fixes are non-credible because the implementing party (the formal Iranian state) cannot bind the substantive counterparty (the IRGC). [Q5](../analyses/q5-bargaining-range.qmd) finds the commitment problem now *bilaterally* severe (Iran cannot commit to non-rebuild given demonstrated vulnerability + intact enrichment knowledge; the US/Israel cannot commit to non-restrike given three completed strike rounds). [Issue indivisibility]{.gloss data-gloss="issue-indivisibility"} (Mechanism 3) carries minor weight — Q1 reads Tehran's framing of right-to-enrich as a sovereignty claim through this mechanism (P(load-bearing) ≈ 0.2). Across the three chapters, Mechanism 2 is doing most of the analytical work, exactly as Powell would predict — but only *once* the unitary-actor assumption has been fixed via Stackelberg + IRGC-bonyad enrichments.]{.deep-only}
+
+### Figure 3 — Where the model's assumptions fail in 2026, and which analyses use which fix
+
+```{mermaid}
+flowchart LR
+  M[Bargaining model<br/>assumptions]
+  M --> A1[Unitary rational<br/>actors]
+  M --> A2[Common knowledge<br/>of war costs]
+  M --> A3[Binding<br/>agreements possible]
+  A1 -.->|Stackelberg fix| Q1[Q1 + Q5:<br/>Israel-leader,<br/>US-follower]
+  A1 -.->|hierarchy fix| Q12[Q12.4:<br/>Lake patron-client<br/>Gulf-US asymmetric]
+  A1 -.->|veto-player fix| Q1B[Q1 + Q5:<br/>IRGC-bonyad as<br/>substantive counterparty]
+  A2 -.->|asymmetric audience| Q5[Q5: Hokayem<br/>battle of endurance]
+  A3 -.->|domestic ratification| Q1C[Q1: Two-level games<br/>Putnam/Weeks]
+  classDef m fill:#0969da,color:#fff,stroke:#0969da
+  classDef a fill:#dafbe1,stroke:#2da44e
+  classDef q fill:#fff8c5,stroke:#d4a72c
+  class M m
+  class A1,A2,A3 a
+  class Q1,Q12,Q1B,Q5,Q1C q
+```
+
+[**Reading the figure.** The bargaining model's assumptions break in specific places in the 2026 case, and each chapter uses a specific enrichment to fix the breakdown: [Stackelberg](../analyses/q1-why-bargaining-failed.qmd) and [Lake's hierarchy](../analyses/q12-4-gulf-paradox.qmd) for unitary-actor breakdowns, [Hokayem](../analyses/q5-bargaining-range.qmd) for asymmetric audience costs, two-level games for ratification failures. The primer is the entry point; the analyses are where the fixes get applied.]{.concise-only}
+
+[**Reading the figure.** The bargaining model's three core assumptions break in specific places in the 2026 case, and each chapter uses a specific enrichment to fix the breakdown:
+
+- **Unitary rational actors.** Fails on the US-Israel side (two principals with potentially divergent preferences) and on the Iran side (multi-faction system with the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"} as substantive counterparty). [Q1](../analyses/q1-why-bargaining-failed.qmd) uses [Stackelberg leader-follower]{.gloss data-gloss="stackelberg-leader-follower"} for the US-Israel side and the IRGC-bonyad framing for the Iran side. [Q12.4](../analyses/q12-4-gulf-paradox.qmd) uses [Lake's hierarchy]{.gloss data-gloss="lake-hierarchy"} for the Gulf-US asymmetric relationship.
+
+- **Common knowledge of war costs.** Fails because war costs are *not symmetrically* perceived — Iran's costs are existential, the US's are discretionary. [Q5](../analyses/q5-bargaining-range.qmd) uses [Hokayem's battle of endurance]{.gloss data-gloss="hokayem-battle-of-endurance"} to model the asymmetry: each side's reservation utility is set by the other side's most-vulnerable constituency, not by symmetric war-cost calculations.
+
+- **Binding agreements.** Fails because [audience costs]{.gloss data-gloss="audience-costs-fearon"} and domestic veto players block ratification even when an international Level-I deal exists. Q1 uses Putnam's two-level games framework plus Weeks 2008 on autocratic audience costs (the IRGC institutional consensus as the binding constraint).
+
+The primer is the entry point; the analyses are where the fixes get applied. The pattern across the site: identify the bargaining-model breakdown in each case, name the appropriate enrichment, deploy the enrichment as a specific mechanism in the synthesis.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+## Why this primer matters {#why-it-matters}
+
+The bargaining model is the most-cited framework in modern conflict analysis and the most-misused. The most common misuse is treating the model as a *prediction engine* ("the model says war won't happen") when it is better used as a *constraint on what mechanism is doing the work* ("if war happens, name the Fearon mechanism").
+
+The disciplined way to use the model on the 2026 Iran war (or any other case):
+
+1. **Identify the relevant issue space.** What is being negotiated over? In Q1 the answer is roughly Iran's nuclear posture and regional position; in Q5 it's a broader terminal-status question.
+
+2. **Sketch the bargaining range.** What is each side's reservation utility, given their war costs? When the range is empty, ask which Fearon mechanism is doing the work.
+
+3. **Check the model's assumptions.** Are the sides unitary? Are war costs common knowledge? Can the parties bind agreements? Where each assumption fails, identify the right enrichment.
+
+4. **Test predictions.** What does the model — once correctly enriched — predict about who fights, when, and how the war ends? Where the predictions fail, the model is telling you which assumption broke.
+
+The bargaining model is at its best as a discipline, not a prophecy.
+
+## Sources & further reading
+
+- @fearon1995rationalist — the three-mechanism framework
+- @powell2006commitment — the commitment-problem sharpening
+- @fearon1994domestic — audience costs (a model enrichment, not part of the core)
+- @weeks2008autocratic — autocratic audience costs
+- @schelling1960strategy and @schelling1966arms — the older Schelling tradition that the bargaining model partly absorbed and partly diverged from
+- @lake2009hierarchy — hierarchy as a unitary-actor fix
+- Putnam 1988, "Diplomacy and Domestic Politics: The Logic of Two-Level Games" — *not yet in this site's bibliography*; the canonical two-level games paper
+
+```{=html}
+</div>
+```

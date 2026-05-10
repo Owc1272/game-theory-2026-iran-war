@@ -37,6 +37,18 @@ glossary:
       A Bayesian posterior is the probability you assign to a proposition after updating from your prior estimate using new evidence. Throughout this site, claims about mechanisms are stated as posteriors over configurations rather than single declarations of "the cause." For example: P(Mechanism 0 is load-bearing | evidence) = 0.65 means that after weighing all the evidence, the analyst's best estimate is a 65% chance Mechanism 0 explains the puzzle. Reporting probabilities forces honest uncertainty and makes claims testable — as new evidence arrives, posteriors shift in predictable directions, and the framework itself is falsifiable.
     primer: null
 
+  - id: bargaining-range
+    title: "Bargaining range"
+    body: |
+      The bargaining range is the set of settlements that *both* sides strictly prefer to war. Geometrically, imagine a line from 0 to 1 representing the contested issue (e.g., share of disputed territory, percentage enrichment allowed). Each side has a *reservation utility* — the worst settlement they'd accept rather than fight. Iran's reservation utility puts a floor on what it will accept; the US-Israel coalition's puts a ceiling on what it will offer. If Iran's floor is below the US ceiling, there's a range between them where both sides prefer to settle. If Iran's floor is above the US ceiling, the range is empty and war is rational for at least one side. The size of the range depends on the cost of war: bigger war costs widen the range; smaller costs (or anticipated future power shifts) collapse it.
+    primer: primer/bargaining-model.qmd
+
+  - id: issue-indivisibility
+    title: "Issue indivisibility (Fearon, 1995 mechanism 3)"
+    body: |
+      Issue indivisibility is the third of James Fearon's (1995) three rationalist mechanisms for war (the others are private information and commitment problems). It applies when the contested issue *cannot* be physically or politically divided into a settlement — when "splitting the difference" is unavailable. The canonical examples are sovereign control of a holy site or a capital city. Quantities that look numerically divisible can become *politically* indivisible when constituted as sovereignty or identity claims: Tehran has framed enrichment as constitutive of Iranian state identity since 2003, making "0 % enrichment for 12 years" categorically unacceptable even though enrichment percentage is technically a continuous variable. See [Q1](analyses/q1-why-bargaining-failed.qmd) for the role in 2026.
+    primer: primer/bargaining-model.qmd
+
   - id: powell-commitment
     title: "Commitment problem (Powell, 2006)"
     body: |
