@@ -62,6 +62,8 @@ website:
         - analyses/index.qmd
         - text: "Q1 — Why bargaining failed"
           href: analyses/q1-why-bargaining-failed.qmd
+        - text: "Q5 — Is the bargaining range empty?"
+          href: analyses/q5-bargaining-range.qmd
         - section: "Q12 — Gulf states"
           contents:
             - analyses/q12-4-gulf-paradox.qmd

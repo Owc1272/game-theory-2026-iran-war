@@ -11,7 +11,7 @@ subtitle: "Each chapter takes one question, one canonical formal model (or where
 | Q2 | Why has the war persisted past initial strikes? | drafting |
 | Q3 | Why is the Pakistan-mediated ceasefire unstable? | drafting |
 | Q4 | What sustains the coalitions? | drafting |
-| Q5 | What does the bargaining range look like now — is it empty? | analysis complete |
+| **Q5** | **[What does the bargaining range look like now — is it empty?](q5-bargaining-range.qmd)** | **chapter live** |
 | Q6 | What ends the war? | drafting |
 | Q7 | Opportunities and risks for Russia in Ukraine? | drafting |
 | Q8 | Opportunities and risks for China vis-à-vis Taiwan? | drafting |

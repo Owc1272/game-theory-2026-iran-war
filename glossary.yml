@@ -67,6 +67,30 @@ glossary:
       The Islamic Revolutionary Guard Corps (IRGC) is Iran's parallel military force — separate from the regular army (Artesh), reporting directly to the Supreme Leader, and operating an autonomous foreign-operations branch (the Quds Force) and economic empire. The bonyads are Iran's network of state-linked economic foundations controlling large fractions of the non-oil economy and operating outside Western financial sanctions. Together they form the structural counterparty in any nuclear negotiation: the formal president (Pezeshkian) cannot deliver concessions the IRGC won't accept, and the bonyads cannot be sanctioned into compliance. By March 2026 Iran was "de facto under IRGC military rule" per ICG Crisis Monitor #4 — Vahidi controlled negotiations, Pezeshkian was sidelined.
     primer: null
 
+  - id: hokayem-battle-of-endurance
+    title: "Battle of endurance / asymmetric audience costs (Hokayem, IISS)"
+    body: |
+      Emile Hokayem (International Institute for Strategic Studies, 2026) argues the 2026 Iran war is a *battle of endurance* in which one side's bargaining floor is set by the other's most vulnerable domestic constituency. For the IRGC, war is existential — regime survival depends on never publicly accepting US-imposed terms. For most Americans, war is discretionary and "best over and forgotten" — Trump's political cost from sustained war rises faster than the IRGC's cost from sustained war. The asymmetry locks in stalemate: Iran can outlast US public opinion on attrition; the US cannot outlast the IRGC on existential calculus. The bargaining range cannot close because each side's reservation utility is set by the other side's weakest point.
+    primer: null
+
+  - id: phased-mou-subgame-fix
+    title: "Phased MOU / Powell-style subgame fix"
+    body: |
+      A *phased MOU* (memorandum of understanding) separates an agreement's immediate-period commitments (e.g., reopen Hormuz, formalize ceasefire) from its future-period commitments (nuclear restraint, missile curbs, reparations). The technique is the canonical [Powell-style commitment fix]{.gloss data-gloss="powell-commitment"}: each side commits to what it can today, while the categorically unresolvable issues are pushed forward to later phases when bargaining geometry may differ. The fix works when the shadow of the future is long enough to bind future commitments. In May 2026, a Hormuz-first phased MOU is technically accessible — but Hokayem's asymmetric audience costs mean neither side can credibly stay in the iterated game on terms acceptable to the other, so any MOU is a deferral mechanism, not a range expansion.
+    primer: null
+
+  - id: atlantic-council-scenarios
+    title: "Atlantic Council 4-scenario typology"
+    body: |
+      The Atlantic Council's 2026 post-Iran-war scenario analysis (Cimmino & Pavel) sets out four scenarios indexed by two dimensions — US action intensity (limited vs. decisive) and Chinese engagement (passive vs. active). **Scenario 1 — Managed Erosion of US Primacy:** limited US action + passive China = "uneasy, inconclusive peace" with periodic violations; Iran retains regime and some toll capacity. **Scenario 2 — Strategic Windfall for Beijing:** limited US + active China = China consolidates as Middle East security broker. **Scenario 3 — Reassertion of US Primacy:** decisive US action + passive China = full IRGC degradation or regime change. **Scenario 4 — Great-Power Inflection Point:** decisive US + active China = two-front (Iran + Taiwan) confrontation. The AC assesses Scenario 1 as most likely.
+    primer: null
+
+  - id: vukovic-nash-equilibrium
+    title: "Nash equilibrium nobody wants but stable (Vukovic, 2026)"
+    body: |
+      Predrag Vukovic (Oraclum, March 2026) argues the 2026 Iran war is converging on a Nash equilibrium that "nobody wants but is stable." Three equilibrium outcomes are possible — negotiated settlement, regime change, protracted stalemate — and the third is the Nash equilibrium because "the player who appears most willing to absorb mutual destruction gains leverage." Iran's IRGC-dominated leadership has explicitly adopted this posture. The outcome is *stable* in the game-theoretic sense (no player can unilaterally improve by deviating) but *bad* for everyone (mutual losses compared to settlement). The framing is the canonical analyst language for the May 2026 state and overlaps tightly with Hokayem's battle of endurance.
+    primer: null
+
   - id: ibish-post-war-retaliation-risk
     title: "Post-war retaliation risk (Ibish, 2026)"
     body: |

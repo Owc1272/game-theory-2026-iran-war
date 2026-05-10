@@ -1,0 +1,551 @@
+---
+title: "Q5 — Is the bargaining range empty now, and what would re-open it?"
+subtitle: "Three load-bearing mechanisms — Schelling shared risk, Hokayem battle of endurance, and regime change as live war aim — keep the terminal-status range closed; the May 5-7 Hormuz-first framework is a deferral mechanism, not a range expansion"
+description: "The bargaining range over Iran's terminal status is structurally empty in May 2026. The system is at a Schelling-Hokayem equilibrium of conflict-with-tactical-pauses. Phased MOUs may be signed but have expected duration ~14-20 days given Pr(Israeli sabotage during MOU window) ≈ 0.4-0.6. Joint P(some Q6 trigger fires within 90 days) ≈ 0.60-0.75."
+categories: [analysis, q5, bargaining-range, schelling, hokayem, regime-change]
+date: 2026-05-09
+date-modified: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+It is May 2026. The April 8 Pakistan-brokered ceasefire half-holds. Two distinct 14-point frameworks circulate — Iran's earlier proposal and a US one delivered via Pakistan in late April. Rubio declared *Operation Epic Fury* "concluded" on May 5; Trump paused *Project Freedom* on May 6; Wang Yi met Araghchi in Beijing the same day; the Trump-Xi summit is scheduled for May 14-15. Does a settlement exist that both Iran and the US-Israel coalition strictly prefer to continued war? And if not, what would re-open the range?
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+It is May 2026. The April 8 Pakistan-brokered ceasefire has half-held through three weeks of violations. Two distinct 14-point frameworks circulate: an earlier Iran framework (ICG-summarized, April) and a newer US framework delivered via Pakistan in late April, with Iran's counter-proposal tabled May 2–3. Rubio declared *Operation Epic Fury* "concluded" on 5 May; Trump paused *Operation Project Freedom* on 6 May; Wang Yi-Araghchi met in Beijing the same day; the Trump-Xi summit is scheduled for 14–15 May. Brent has moved $128 → $109 → $100; Fed split 8-4 on rates; Maersk Q1 -92%; US munitions inventories are draining (PrSM 100% expended, Tomahawk -30%, Patriot PAC-3 ~50% per CSIS Cancian/Park).
+
+The question Q5 asks is whether a settlement (s, 1−s) over the contested issue space exists that both Iran and the US-Israel coalition strictly prefer to continued war. If empty, what is blocking it — [commitment problem]{.gloss data-gloss="powell-commitment"}, indivisibility, signaling failure, [audience costs]{.gloss data-gloss="audience-costs-fearon"}, multi-level games, regime-survival incentives? What parameter changes would re-open it?
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** The bargaining range over Iran's *terminal status* (regime form, nuclear posture, regional position) is structurally empty in May 2026. Three load-bearing mechanisms keep it closed: **α** — [Schelling manipulation of shared risk]{.gloss data-gloss="schelling-something-to-chance"} (brinkmanship as the only credible threat available to either side); **β** — [Hokayem battle of endurance]{.gloss data-gloss="hokayem-battle-of-endurance"} (Iran existential, US discretionary — asymmetric audience costs lock stalemate); **γ** — regime change as a live US/Israeli war aim with P ≈ 0.55. A [phased Hormuz-first MOU]{.gloss data-gloss="phased-mou-subgame-fix"} may be signed within 30-60 days but has expected duration ~14-20 days given Pr(Israeli sabotage during MOU window) ≈ 0.4-0.6. Joint P(some trigger event fires within 90 days) ≈ **0.60-0.75**.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** The bargaining range over Iran's *terminal status* is structurally empty in May 2026, and the post-war emptiness is sharper than the pre-war emptiness [Q1](q1-why-bargaining-failed.qmd) identified. The system is at a Schelling-Hokayem equilibrium of conflict-with-tactical-pauses. Three load-bearing mechanisms keep the range closed:
+
+- **α — [Schelling manipulation of shared risk]{.gloss data-gloss="schelling-something-to-chance"}.** Both sides have accepted controlled escalation risk as the only credible threat available, because (a) certain threats are not credible (US/Israel can't commit to permanent regime preservation; Iran can't commit to permanent non-rebuild), and (b) brinkmanship via probabilistic threats is the rational substitute. Every tactical incident — USS Spruance/Touska April 19-20, Bandar Abbas/Qeshm strikes May 7, IRGC missile launches at UAE — is a deliberate risk-acceptance signal, not failed escalation control. Posterior P(load-bearing) ≈ 0.6.
+
+- **β — [Hokayem battle of endurance / asymmetric audience costs]{.gloss data-gloss="hokayem-battle-of-endurance"}.** For the IRGC the war is existential; for most Americans it is discretionary. Iran can outlast US public opinion on attrition; the US cannot outlast the IRGC on existential calculus. Each side's reservation utility is set by the other side's weakest constituency. Posterior P(load-bearing) ≈ 0.65 (revised up from 0.55 after Round 8-9 enrichment: the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"} is sanctions-immune, structurally underpinning the Iran-side floor).
+
+- **γ — Regime change as live US/Israeli war aim.** Trump's "have a hand in selecting Iran's next leader" comment + the Khamenei assassination + Israeli revealed preferences via 8 April "Eternal Darkness" all suggest regime change is in the war-aim set with P ≈ 0.55 (revised up from 0.50; capped at 0.60 by the "pragmatist faction dormant not destroyed" caveat). If γ = 1, any settlement preserving the IRGC fails the US/Israeli war-aim threshold — generating a second route to range emptiness independent of α + β.
+
+[Phased Hormuz-first MOUs]{.gloss data-gloss="phased-mou-subgame-fix"} may be signed within 30-60 days but are **deferral mechanisms, not range expansions**. The conditional probability Pr(Israeli strike during 30-day MOU window | MOU is signed) ≈ 0.4-0.6 — given Netanyahu's revealed preferences, IDF operational tempo, the 8 April "Eternal Darkness" simultaneous with Pakistan ceasefire as direct evidence of Israeli sabotage capability, and the absence of any US public commitment to restrain Israel. Expected MOU duration ~14-20 days is a tactical pause, not a settlement.
+
+[Atlantic Council Scenario 1 (Managed Erosion)]{.gloss data-gloss="atlantic-council-scenarios"} is the *current* state but **unstable on a 90-day horizon**. Joint P(some Q6 trigger fires within 90 days) ≈ 0.60-0.75. Most likely 90-day outcome is escalation cascade back into Scenarios 2/3/4, not stable settlement. The persistent state is what Vukovic (March 2026) called the *[Nash equilibrium nobody wants but stable]{.gloss data-gloss="vukovic-nash-equilibrium"}*.
+:::
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — the eight-step protocol used here
+
+This chapter applies the project's standard protocol (pre-prior → corpus pull → think-tank cross-check → opposing steel-mans → pre-DA synthesis → hostile devil's advocate → reconcile → source-confidence tier audit + Bayesian framing + pre-mortem), plus a ninth briefing-review pass against the Iran_war Question Briefing. The most consequential moves in the protocol: (1) the original synthesis split "empty vs. non-empty" by issue scope, which the devil's advocate correctly attacked as a face-saving move; the reconciled synthesis drops the split and treats phased MOUs as deferral mechanisms; (2) the original 15-mechanism ensemble was reduced to a three-mechanism load-bearing core (α + β + γ), applying the [Q12.4](q12-4-gulf-paradox.qmd) "single sharp mechanism beats ensemble" lesson; (3) regime change as a live US/Israeli war aim — brushed past in the original synthesis — was made explicit as γ; (4) Pr(Israeli sabotage during MOU window) was added as an explicit conditional-probability parameter; (5) the 7 Q6 trigger events were given DA-derived probability estimates and combined into a joint 90-day probability ≈ 0.60-0.75. The Round 8-9 enrichment (Iran 4-faction system + Israel 5-faction system) reinforced β on the Iran side via the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"}'s sanctions-immunity and modestly raised γ — capped by the "pragmatist faction dormant not destroyed" caveat at 0.6.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the analytical journey. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  Q[May 2026:<br/>ceasefire half-holds;<br/>two 14-point<br/>frameworks circulate]
+  Q --> A[Steel-man A:<br/>range structurally<br/>empty]
+  Q --> B[Steel-man B:<br/>range non-empty;<br/>May 5-7 narrows it]
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef a fill:#ffe5d9,stroke:#cf222e
+  classDef b fill:#dafbe1,stroke:#2da44e
+  class Q q
+  class A a
+  class B b
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**Two opening readings.** Steel-man A: range structurally empty — categorical gaps on HEU stockpile, Lebanon/proxies, enrichment, reparations cannot be bridged by sequencing reorder. Steel-man B: range is technically non-empty and modestly narrowing — the US 5–7 May sequence (Rubio "concluded," Trump paused Project Freedom, Wang Yi-Araghchi in Beijing) is a structural concession. The question of which framing is right turns out to be partly definitional.]{.concise-only}
+
+::: {.deep-only}
+**Two opening readings, each with serious evidence.**
+
+**Steel-man A** says the range over a *settlement* (not a ceasefire suspension) remains empty. Four categorical gaps cannot be bridged by reordering: **HEU stockpile** (US 14-point demands handover of all 440 kg of 60 % HEU; Iran refuses — the stockpile *is* its leverage), **Lebanon / proxies inclusion** (Iran demands cessation of hostilities including Lebanon; Trump/Vance/Netanyahu refuse — exactly the clause that collapsed April talks, with Israel's 8 April "Operation Eternal Darkness" simultaneous with the Pakistan ceasefire as visible evidence), **reparations** (Iran demands $300B–$1T; US 14-point doesn't address), and **right to enrich** (Iran's "non-negotiable red line" at 3.67 % NPT-floor; US demands 0 % for 12+ years — sovereignty framing makes this categorically indivisible). On top of the gaps, the [Powell commitment problem]{.gloss data-gloss="powell-commitment"} is now *bilaterally severe*: Iran cannot credibly commit to non-rebuild given demonstrated vulnerability and intact enrichment knowledge; the US/Israel cannot credibly commit to non-restrike given three completed strike rounds since June 2025. Vukovic's "[Nash equilibrium nobody wants but stable]{.gloss data-gloss="vukovic-nash-equilibrium"}" is the formal characterization.
+
+**Steel-man B** takes the 5–7 May sequence seriously and identifies a narrow but real zone. The US has implicitly accepted "Hormuz first, nuclear later" sequencing — a [phased subgame fix]{.gloss data-gloss="phased-mou-subgame-fix"} where the immediate-period commitment (stop fighting in Hormuz) is separated from the future-period commitment (nuclear restraint). Both sides' near-horizon utility is satisfied; the categorical gaps are preserved for later phases where the bargaining geometry may differ. The US 14-point is notably *silent* on missile curbs and proxy disarmament — narrowing the gap if Israel's preferences are sidelined. The Trump-Xi summit (14–15 May) is a structural forcing function: Trump needs "ended the war" framing for domestic politics; Xi needs the Taiwan arms-sale pause for posturing. The [Atlantic Council 4-scenario typology]{.gloss data-gloss="atlantic-council-scenarios"} assigns highest probability to Scenario 1 (Managed Erosion) — "limited US action + passive China = uneasy, inconclusive peace" — which is precisely a non-empty but narrow range.
+
+The two readings agree on more than they disagree on: the full-inventory bargaining range is empty; a narrow phased-MOU range is *technically* accessible as of 5–7 May; the state is operationally fragile; the most-likely persistent outcome is Vukovic's Nash equilibrium. The disagreement is whether to *call* this "empty" or "non-empty" — partly definitional. The devil's advocate showed the definitional split was a face-saving move, and the reconciled synthesis below replaces it.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  ALPHA[α<br/>Schelling manipulation<br/>of shared risk]
+  BETA[β<br/>Hokayem battle<br/>of endurance]
+  GAMMA[γ<br/>Regime change as<br/>live war aim]
+  ALPHA --> EMPTY[Range empty<br/>over Iran's<br/>terminal status]
+  BETA --> EMPTY
+  GAMMA --> EMPTY
+  classDef m fill:#0969da,color:#fff,stroke:#0969da
+  classDef e fill:#fff8c5,stroke:#d4a72c
+  classDef gt-gloss-schelling-something-to-chance stroke-width:2px
+  classDef gt-gloss-hokayem-battle-of-endurance stroke-width:2px
+  class ALPHA m
+  class ALPHA gt-gloss-schelling-something-to-chance
+  class BETA m
+  class BETA gt-gloss-hokayem-battle-of-endurance
+  class GAMMA m
+  class EMPTY e
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**Three load-bearing mechanisms.** The devil's advocate consolidated a 15-mechanism ensemble onto three: **α** ([Schelling shared risk]{.gloss data-gloss="schelling-something-to-chance"}, brinkmanship as the only credible threat), **β** ([Hokayem battle of endurance]{.gloss data-gloss="hokayem-battle-of-endurance"}, asymmetric audience costs lock stalemate), and **γ** (regime change in the US/Israeli war-aim set with P ≈ 0.55). Other mechanisms (Powell, Lake, Kydd, Putnam, Weeks) are channels through which α / β / γ express themselves, not independent causes.]{.concise-only}
+
+::: {.deep-only}
+**Three load-bearing mechanisms, consolidated from a 15-mechanism ensemble.** The original synthesis had 15 mechanisms (Fearon indivisibility, Powell commitment, Q1's IRGC veto and Israel-Stackelberg, Hokayem battle-of-endurance, Kydd mediation, Debs-Monteiro trajectory uncertainty, Lake hierarchy, Putnam win-set, Weeks autocratic audience costs, markets-as-third-player, …). The devil's advocate showed this was the same failure mode as [Q12.4](q12-4-gulf-paradox.qmd) — mechanism inflation. The reconciled synthesis consolidates to a load-bearing three:
+
+*α — Schelling manipulation of shared risk* (*Strategy of Conflict* Ch 5; *Arms and Influence* Ch 1-2). Both sides have accepted controlled escalation risk as the only credible threat available, because (a) certain threats are not credible (US/Israel can't commit to permanent regime preservation; Iran can't commit to permanent non-rebuild), and (b) brinkmanship via probabilistic threats — what Schelling called a "[threat that leaves something to chance]{.gloss data-gloss="schelling-something-to-chance"}" — is the rational substitute. The Iranian fast-attack-craft missile launches of 4 May, the US destroyer transit under fire 7–8 May, Israel's 8 April "Eternal Darkness," the Iranian launches against the UAE — all are Schelling threats-leaving-something-to-chance, not failed escalation control. Each tactical incident is a deliberate risk-acceptance signal. Posterior P(operative) ≈ 0.9; P(load-bearing) ≈ 0.6.
+
+*β — Hokayem asymmetric audience costs / battle of endurance* (IISS *Survival*). For the IRGC the war is existential: regime survival depends on never publicly accepting US-imposed terms; Vahidi's institutional position requires *appearing* to prevail. For most Americans the war is discretionary and "best over and forgotten" — Trump's domestic political costs from sustained war rise faster than the IRGC's costs from sustained war. The bargaining range cannot close because each side's reservation utility is set by the other side's most-vulnerable constituency: Iran can outlast US public opinion on attrition; the US cannot outlast the IRGC on existential calculus. The Round 8-9 enrichment sharpened the Iran-side floor: the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"} is the substantive counterparty, not the formal Iranian state, and the bonyads are sanctions-immune via non-Western finance. Even a Powell-style verified cap is structurally non-credible because the implementing party cannot be sanctioned into compliance. Posterior P(operative) ≈ 0.85; P(load-bearing) ≈ 0.65 (revised up from 0.55).
+
+*γ — Regime change as live US/Israeli war aim.* Brushed past in the original synthesis; the devil's advocate forced explicit engagement. Evidence: Trump's "have a hand in selecting Iran's next leader" public comment; the Khamenei assassination in the opening strikes (an inherently regime-change act much harder to read as bargaining than as a regime-change move); the ongoing 7 May strikes on Bandar Abbas and Qeshm; Israel's revealed preferences via 8 April "Eternal Darkness" simultaneous with the Pakistan ceasefire. The Round 8-9 enrichment raised γ modestly: the briefing's "narrowest political space for restraint in Israel since 1973" applies, but the Q11 devil's advocate caveat — pragmatist faction *dormant not destroyed* (Hayman/INSS, Haaretz security-chiefs, Bennett-Lapid polling) — caps the posterior. P(γ in war-aim set) ≈ 0.55, range 0.5–0.6. If γ = 1, any settlement preserving the IRGC fails the US/Israeli war-aim threshold — generating a *second* route to range emptiness independent of α + β.
+
+The 12 other mechanisms in the original ensemble are operative as channels through which α / β / γ express themselves: [Powell commitment problem]{.gloss data-gloss="powell-commitment"} is the channel for α (brinkmanship needed *because* commitment is infeasible); Q1's IRGC veto is a specific instance of β; [Q1's Israel-Stackelberg]{.gloss data-gloss="stackelberg-leader-follower"} is the enforcement mechanism for γ; Lake hierarchy is the structural binding of the US to Israeli preferences. Fearon indivisibility, Kydd mediation, Debs-Monteiro trajectory uncertainty, Bas-Coe proliferation dynamic, Aumann discount rates — operative as background but not load-bearing.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  Q[Bargaining range<br/>in May 2026]
+  Q --> A[Branch A:<br/>structurally empty<br/>over terminal status]
+  Q --> B[Branch B:<br/>range exists but<br/>undiscovered due to<br/>negotiating-process failure]
+  Q --> H[Hybrid:<br/>terminal empty BUT<br/>phased-MOU discoverable]
+  A -.->|P 0.75| OUT[Synthesis posterior]
+  B -.->|P 0.20| OUT
+  H -.->|P 0.05| OUT
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef a fill:#0969da,color:#fff,stroke:#0969da
+  classDef b fill:#dafbe1,stroke:#2da44e
+  classDef h fill:#fff8c5,stroke:#d4a72c
+  classDef o fill:#f6f8fa,stroke:#d0d7de
+  class Q q
+  class A a
+  class B b
+  class H h
+  class OUT o
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**The Branch A / Branch B fork.** Branch A says the range is structurally empty (P ≈ 0.75 after Round 8-9 enrichment). Branch B says the range *exists* but the negotiating process has failed to discover it — Vance team departed after 21 hours, no working groups, no Track-2 channel (P ≈ 0.20). Hybrid says terminal-status range is empty but a phased-MOU range is discoverable (P ≈ 0.05). The discriminating evidence is whether a competent Track-2 channel is announced in the next 30 days.]{.concise-only}
+
+::: {.deep-only}
+**The Branch A / Branch B fork the devil's advocate correctly demanded.** Three readings of the synthesis are consistent with the data; assigning probabilities lets the model adapt as evidence accumulates.
+
+**Branch A — Range structurally empty over terminal status (P ≈ 0.75).** Categorical gaps + bilateral commitment failure + IRGC consolidation + Israeli Stackelberg constraint + regime-change war aim → no settlement preserves the joint US-Israel-Iran win-set. Conflict-with-tactical-pauses persists; [Atlantic Council Scenario 1]{.gloss data-gloss="atlantic-council-scenarios"} is the current state but unstable; phased MOUs may be signed but are deferral mechanisms with expected duration ~14-20 days. Round 8-9 enrichment raised the posterior from 0.70 to 0.75 — the IRGC-bonyad framing made Branch B's "competent Iranian counterparty" assumption harder to sustain, because Iran's actual negotiator (Vahidi) follows Quds Force logic regardless of what Foreign Ministry / Araghchi signals at Level I.
+
+**Branch B — Range exists but undiscovered due to negotiating-process failure (P ≈ 0.20).** The Vance team departed after 21 hours of talks; Pakistan channels pass documents but don't run deep working groups; no Track-2 channel is publicly known. Iran's distrust of any backchannel that bypasses Vahidi + Israeli sabotage of any quiet channel + Trump's distrust of process + absence of trusted intermediary (Pakistan does signal-passing only; China is too partisan; Oman is degraded) → the search process is broken. If Branch B is right, the question becomes "what would competent search process look like and why hasn't it been mounted?" not "what re-opens the range?"
+
+**Hybrid — Terminal-status range empty but phased-MOU range discoverable (P ≈ 0.05).** Consistent with the devil's advocate's reframing: phased MOUs as deferral mechanisms not range expansions, with a separate discoverable sub-range over the smaller issue space. Under this reading, the Powell subgame logic works for the immediate period but fails for the future period.
+
+**Discriminating evidence in the next 30 days:** (a) Trump-Xi summit (14–15 May) deliverables — structural framework announced supports Branch B / Hybrid; vague communiqué or Taiwan-only focus supports Branch A; (b) Track-2 channel announcement (competent China-led or Saudi-led process) supports B; absence supports A; (c) Israeli action during summit prep — restraint 9–15 May supports B; kinetic action confirms γ binding and supports A; (d) Iranian Hormuz tolling-regime status — lifting the renminbi tolling regime → genuine concession (B); maintaining it → coercive optionality (A).
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  MOU["Phased MOU<br/>signed in 30-60 days"]
+  ISAB[Israeli sabotage<br/>during MOU window<br/>Pr 0.4-0.6]
+  MOU -.->|expected duration<br/>~14-20 days| ISAB
+  TRIGGERS[7 trigger events<br/>Joint Pr in 90 days<br/>0.60-0.75]
+  TRIGGERS --> ESC[Escalation cascade<br/>back into<br/>Scenarios 2/3/4]
+  TRIGGERS --> SETTLE[Or comprehensive<br/>settlement attempt]
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef s fill:#ffe5d9,stroke:#cf222e
+  classDef t fill:#0969da,color:#fff,stroke:#0969da
+  classDef o fill:#f6f8fa,stroke:#d0d7de
+  class MOU m
+  class ISAB s
+  class TRIGGERS t
+  class ESC,SETTLE o
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**90-day outlook.** A [phased Hormuz-first MOU]{.gloss data-gloss="phased-mou-subgame-fix"} may be signed within 30-60 days but has expected duration ~14-20 days given Pr(Israeli sabotage | MOU) ≈ 0.4-0.6. Atlantic Council Scenario 1 is the *current* state but **unstable** — joint P(some trigger event fires within 90 days) ≈ **0.60-0.75**. Most likely outcome is escalation cascade back into Scenarios 2/3/4, not stable settlement.]{.concise-only}
+
+::: {.deep-only}
+**90-day outlook: Scenario 1 is the current state, not the persistent one.** A [phased Hormuz-first MOU]{.gloss data-gloss="phased-mou-subgame-fix"} may be signed within 30-60 days; multiple structural forcing functions point that way (Trump-Xi summit pressure; markets path $128 → $100 raising both sides' discount rates; US munitions exhaustion forcing US restraint; Iranian oil-revenue dependence on Hormuz reopening). But the MOU is a *deferral mechanism*, not a range expansion — the categorical gaps (HEU, Lebanon, enrichment) are preserved for later phases when bargaining geometry may differ.
+
+The critical conditional probability the original synthesis missed is **Pr(Israeli strike during 30-day MOU window | MOU is signed) ≈ 0.4–0.6** (upper bound 0.65–0.70 per Round 8-9 enrichment; central estimate capped at 0.5 by the "pragmatist faction dormant not destroyed" caveat). Evidence: (a) Netanyahu's revealed preferences for permanent IRGC degradation; (b) IDF operational tempo across April-May; (c) the 8 April "Eternal Darkness" simultaneous with the Pakistan ceasefire as direct evidence of Israeli sabotage capability; (d) Defense Minister Israel Katz's "turn Tehran into Beirut" framing; (e) IDF Chief Eyal Zamir publicly stating readiness to escalate; (f) absence of any US public commitment to restrain Israel. If 0.5, expected MOU duration ≈ 14-20 days — a tactical pause, not a settlement.
+
+Joint P(at least one of seven Q6 trigger events fires within 90 days) ≈ **0.60-0.75** (assuming rough independence; per the [Bayesian posterior](#dashboard) breakdown below). Per-trigger DA-derived 90-day base rates:
+
+- Israeli kinetic action / sabotage during MOU or against IRGC: P 0.40+ (highest)
+- Mass-casualty Hormuz incident: P 0.20-0.30
+- Trump-Xi summit operationalization (China-mediated framework): P 0.20-0.30
+- US munitions exhaustion crossing operational threshold: P 0.10-0.20
+- Markets cost shock ($150-180+ Brent forcing Trump pivot): P 0.10-0.15
+- US-Israel rupture: P 0.05-0.10
+- Iranian regime collapse / IRGC factional split: P < 0.05
+- Russian collapse on Ukraine front: P < 0.05
+
+Most likely 90-day outcome is **escalation cascade back into Atlantic Council Scenarios 2/3/4** driven by trigger 5 (kinetic incident) → trigger 4 (markets shock) → trigger 7 (US capacity strain) — *not* stable settlement. The most likely *re-opening path* is a combination of (3) Trump-Xi summit operationalization + (5) Hormuz kinetic incident + (4) markets-driven cost shock — none individually sufficient; combination plausible within 6-18 months.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+The figures below capture the analytical state without requiring you to read the walkthrough. Three views: (1) the mechanism-by-mechanism [Bayesian posteriors]{.gloss data-gloss="bayesian-posterior"}, (2) the 90-day trigger probability spread, (3) the Branch A vs Branch B fork.
+
+### Figure 1 — Mechanism posteriors
+
+How likely is each load-bearing mechanism to be operative — and given it is operative, how likely to be load-bearing? Estimates after the eight-step protocol + briefing-review + Round 8-9 enrichment.
+
+```{ojs}
+//| label: fig-q5-posteriors
+//| fig-cap: "Posterior probabilities over the three load-bearing Q5 mechanisms (α Schelling, β Hokayem, γ regime change). Light grey bar = posterior P(operative); colored bar = posterior P(load-bearing); color encodes source-confidence tier. Dashed line at 0.5 = load-bearing threshold. Hover any bar for full mechanism name + numeric values."
+
+{
+  const data = [
+    {id: "α",  full: "α — Schelling manipulation of shared risk (brinkmanship)",          post_op: 0.90, post_lb: 0.60, tier: "T3"},
+    {id: "β",  full: "β — Hokayem battle of endurance / asymmetric audience costs",       post_op: 0.85, post_lb: 0.65, tier: "T2"},
+    {id: "γ",  full: "γ — Regime change as live US/Israeli war aim",                       post_op: 0.55, post_lb: 0.40, tier: "T3"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 220 : Math.max(280, Math.min(380, Math.round(width * 0.30)));
+  const cdata = data.map(d => ({ ...d, display: d.id }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 56 : 96,
+    marginRight: isMobile ? 56 : Math.max(80, Math.round(width * 0.08)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Probability",
+      domain: [0, 1],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: cdata.map(d => d.display) },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.barX(cdata, {
+        x: "post_op", y: "display",
+        fill: "#e6e8eb", insetTop: 10, insetBottom: 10
+      }),
+      Plot.barX(cdata, {
+        x: "post_lb", y: "display",
+        fill: "tier", insetTop: 10, insetBottom: 10,
+        channels: {
+          Mechanism: "full",
+          "P(operative)": d => `${Math.round(d.post_op * 100)}%`,
+          "P(load-bearing)": d => `${Math.round(d.post_lb * 100)}%`,
+          Tier: "tier"
+        },
+        tip: {
+          lineWidth: 35,
+          fontSize: isMobile ? 12 : 13
+        }
+      }),
+      Plot.text(cdata, {
+        x: "post_lb", y: "display",
+        text: d => `${Math.round(d.post_lb * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
+      }),
+      Plot.ruleX([0.5], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+      Plot.text([{ x: 0.5, y: cdata[0].display }], {
+        x: "x", y: "y", text: () => "load-bearing →",
+        dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
+        fontSize: annotFont, fill: "#0969da", fontStyle: "italic", fontWeight: 500
+      })
+    ]
+  });
+}
+```
+
+::: {.mech-legend .always}
+**Mechanism codes** — hover any bar for the same description as a tooltip:
+
+| Code | Mechanism |
+|:---:|---|
+| **α** | Schelling manipulation of shared risk (brinkmanship) |
+| **β** | Hokayem battle of endurance / asymmetric audience costs |
+| **γ** | Regime change as live US/Israeli war aim |
+:::
+
+[**Reading the chart.** Two mechanisms (β at 65 %, α at 60 %) cross the load-bearing threshold. γ at 40 % is below the threshold but operates as an independent route to range emptiness when γ is in fact in the war-aim set. The Schelling-Hokayem core (α + β) is the load-bearing equilibrium; γ adds when it operates.]{.concise-only}
+
+[**Reading the chart.** Two mechanisms (β at 65 %, α at 60 %) cross the load-bearing threshold; both are part of what the synthesis calls the *Schelling-Hokayem equilibrium*. β is [T2]{.tier .tier-2} because Hokayem's framing is a single-named-source claim (IISS) and the Round 8-9 enrichment's IRGC-bonyad sharpening rests on the ICG briefing. α is [T3]{.tier .tier-3} — directly observed brinkmanship pattern (multiple tactical incidents in April-May) but interpretation as Schelling-shared-risk is an analyst framework choice. γ at 40 % is below the threshold but operates as an independent route to range emptiness when γ is in fact in the war-aim set (Trump's "next leader" comment + Khamenei strike + Israeli pattern support; counter: US 14-point doesn't demand regime change explicitly).
+
+**Configuration probabilities:**
+
+- P(α + β jointly load-bearing — Schelling-Hokayem core) ≈ **0.55**
+- P(α + β + γ jointly load-bearing) ≈ **0.30** (γ adds an independent route to emptiness)
+- P(Powell commitment problem as standalone load-bearing) ≈ 0.05 (it's a channel for α)
+- P(some other configuration we're missing) ≈ 0.10]{.deep-only}
+
+::: {.callout-note collapse="true"}
+## Show the underlying numbers (incl. priors)
+
+| Mechanism | Prior P(op) | Posterior P(op) | Posterior P(load-bearing) | Tier |
+|---|:---:|:---:|:---:|:---:|
+| **α — Schelling manipulation of shared risk** | 0.60 | **0.90** | **0.60** | [T3]{.tier .tier-3} |
+| **β — Hokayem battle of endurance** | 0.50 | **0.85** | **0.65** | [T2]{.tier .tier-2} |
+| **γ — Regime change as live war aim** | 0.30 | **0.55** | 0.40 *(conditional on γ in war-aim set)* | [T3]{.tier .tier-3} |
+
+**Configuration probabilities (post-enrichment):**
+
+- P(α + β jointly load-bearing — Schelling-Hokayem core) ≈ **0.55**
+- P(α + β + γ jointly load-bearing) ≈ **0.30**
+- P(Powell commitment as standalone load-bearing) ≈ 0.05
+- P(other configurations) ≈ 0.10
+:::
+
+### Figure 2 — 90-day trigger probabilities
+
+If the bargaining range is to either re-open or escalate, *something specific has to happen*. The seven trigger events with their devil's-advocate-derived 90-day probability ranges. The midpoint dot shows the central estimate; the bar shows the analyst-range.
+
+```{ojs}
+//| label: fig-q5-triggers
+//| fig-cap: "Per-trigger 90-day probability estimates with analyst ranges. Hover for full description. Joint probability that AT LEAST ONE trigger fires within 90 days is approximately 0.60-0.75 under rough-independence assumption."
+
+{
+  const data = [
+    {id: "T-IS",  full: "Israeli kinetic action / sabotage during MOU or against IRGC", low: 0.40, high: 0.65, mid: 0.50},
+    {id: "T-KIN", full: "Mass-casualty Hormuz / kinetic incident", low: 0.20, high: 0.30, mid: 0.25},
+    {id: "T-XI",  full: "Trump-Xi summit operationalization (China-mediated framework)", low: 0.20, high: 0.30, mid: 0.25},
+    {id: "T-MUN", full: "US munitions exhaustion crossing operational threshold", low: 0.10, high: 0.20, mid: 0.15},
+    {id: "T-MKT", full: "Markets cost shock ($150-180+ Brent forcing Trump pivot)", low: 0.10, high: 0.15, mid: 0.125},
+    {id: "T-RUP", full: "US-Israel rupture / Israeli political crisis", low: 0.05, high: 0.10, mid: 0.075},
+    {id: "T-IRC", full: "Iranian regime collapse / IRGC factional split", low: 0.01, high: 0.05, mid: 0.03},
+    {id: "T-RUS", full: "Russian collapse on Ukraine front", low: 0.01, high: 0.05, mid: 0.03}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const chartHeight = isMobile ? 320 : Math.max(380, Math.min(500, Math.round(width * 0.4)));
+  const cdata = data.map(d => ({ ...d, display: d.id }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 80 : 120,
+    marginRight: isMobile ? 56 : Math.max(80, Math.round(width * 0.08)),
+    marginTop: Math.max(40, Math.round(baseFont * 2.3)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "90-day probability",
+      domain: [0, 0.7],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: cdata.map(d => d.display) },
+    marks: [
+      Plot.barX(cdata, {
+        x1: "low", x2: "high", y: "display",
+        fill: "#0969da", fillOpacity: 0.25,
+        insetTop: 12, insetBottom: 12,
+        channels: {
+          Trigger: "full",
+          "Low estimate": d => `${Math.round(d.low * 100)}%`,
+          "High estimate": d => `${Math.round(d.high * 100)}%`
+        },
+        tip: { lineWidth: 35, fontSize: isMobile ? 12 : 13 }
+      }),
+      Plot.dot(cdata, {
+        x: "mid", y: "display",
+        fill: "#0969da", stroke: "white", strokeWidth: 2, r: 7
+      }),
+      Plot.text(cdata, {
+        x: "high", y: "display",
+        text: d => `${Math.round(d.low * 100)}-${Math.round(d.high * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 500, fontSize: valueFont, fill: "#1f2328"
+      })
+    ]
+  });
+}
+```
+
+::: {.mech-legend .always}
+**Trigger codes** — hover any bar for the full description:
+
+| Code | Trigger event |
+|:---:|---|
+| **T-IS** | Israeli kinetic action / sabotage during MOU or against IRGC |
+| **T-KIN** | Mass-casualty Hormuz / kinetic incident |
+| **T-XI** | Trump-Xi summit operationalization (China-mediated framework) |
+| **T-MUN** | US munitions exhaustion crossing operational threshold |
+| **T-MKT** | Markets cost shock ($150-180+ Brent forcing Trump pivot) |
+| **T-RUP** | US-Israel rupture / Israeli political crisis |
+| **T-IRC** | Iranian regime collapse / IRGC factional split |
+| **T-RUS** | Russian collapse on Ukraine front |
+:::
+
+[**Reading the chart.** Israeli action (T-IS) is the highest-probability trigger at ~50 % central estimate. The next tier (T-KIN, T-XI at ~25 %) is where the actual fork lives: a kinetic incident escalates back into Scenarios 2/3/4; a successful summit framework moves toward Scenario 1 (Managed Erosion) on a longer leash. Joint P that AT LEAST ONE trigger fires within 90 days ≈ **0.60-0.75** under rough independence.]{.concise-only}
+
+[**Reading the chart.** Israeli action (T-IS) is the highest-probability trigger at ~50 % central estimate — the asymmetry between Israeli and Iranian operational tempo + Israeli revealed preferences mean Israel is by far the most likely actor to *fire* an event that re-routes the trajectory. The next tier (T-KIN mass-casualty incident, T-XI Trump-Xi summit operationalization) at ~25 % is where the actual fork in the road lives: a kinetic incident in Hormuz cascades into market shock + US capacity strain → escalation back into AC Scenarios 2/3/4; a successful summit framework moves toward Scenario 1 (Managed Erosion) on a longer leash. The lower tier (US-Israel rupture, Iranian regime collapse, Russian collapse on Ukraine) is collectively low-probability but high-impact if any fires.
+
+**Joint P(at least one trigger fires within 90 days) ≈ 0.60-0.75** under rough independence. The independence assumption is the synthesis's weakest point: T-IS and T-KIN are clearly positively correlated (Israeli kinetic action raises P of mass-casualty incident); T-XI and T-IS are negatively correlated (a successful summit framework restrains Israeli action). The joint-probability range therefore has the right order of magnitude but should not be treated as precise. The directional finding is robust: **the current state is not stable for 90 days**.]{.deep-only}
+
+### Figure 3 — Branch A vs Branch B fork
+
+The reconciled synthesis treats the question of range emptiness as a probability-weighted fork over three readings, with discriminating evidence to watch for in the next 30 days.
+
+```{mermaid}
+flowchart TB
+  Q[Is the bargaining range<br/>empty in May 2026?]
+  Q --> A[Branch A:<br/>structurally empty<br/>over terminal status]
+  Q --> B[Branch B:<br/>exists but undiscovered<br/>due to process failure]
+  Q --> H[Hybrid:<br/>terminal empty;<br/>phased-MOU discoverable]
+  A --- PA["P = 0.75"]
+  B --- PB["P = 0.20"]
+  H --- PH["P = 0.05"]
+  A --> DA[Watch:<br/>Israeli kinetic action<br/>during summit prep;<br/>Iranian Hormuz tolling<br/>regime maintained]
+  B --> DB[Watch:<br/>Track-2 channel<br/>announcement;<br/>Trump-Xi structural<br/>framework deliverable]
+  H --> DH[Watch:<br/>Hormuz-first MOU<br/>without sabotage;<br/>nuclear deferred<br/>to later phase]
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef a fill:#0969da,color:#fff,stroke:#0969da
+  classDef b fill:#dafbe1,stroke:#2da44e
+  classDef h fill:#fff8c5,stroke:#d4a72c
+  classDef p fill:#f6f8fa,stroke:#d0d7de
+  classDef d fill:#ffe5d9,stroke:#cf222e
+  class Q q
+  class A a
+  class B b
+  class H h
+  class PA,PB,PH p
+  class DA,DB,DH d
+```
+
+[**Reading the figure.** Branch A is the modal posterior at 0.75. The discriminating evidence for the next 30 days is concentrated around the Trump-Xi summit (May 14-15) and whether a Track-2 channel emerges. Israeli restraint or kinetic action during summit prep is the cleanest discriminator: restraint supports Branch B; kinetic action confirms γ is binding and supports Branch A.]{.concise-only}
+
+[**Reading the figure.** Branch A is the modal posterior at 0.75 — the Round 8-9 enrichment's IRGC-bonyad-complex framing made Branch B's "competent Iranian counterparty" assumption harder to sustain (Iran's actual negotiator is Vahidi, following Quds Force logic regardless of what Foreign Ministry / Araghchi signals at Level I). Branch B at 0.20 — non-trivial because the search process is genuinely broken (Vance team departed after 21 hours, no Track-2 channel publicly known, mediator credibility degraded across Pakistan / China / Oman / Russia). Hybrid at 0.05 — a logically coherent residual but operationally close to Branch A's "phased MOU as deferral mechanism" reading.
+
+The discriminating evidence for the next 30 days is concentrated around three observations: (a) Trump-Xi summit (14-15 May) deliverables — a structural China-mediated framework announcement supports Branch B / Hybrid; vague communiqué or Taiwan-only focus supports Branch A; (b) Track-2 channel announcement — presence of a competent China-led or Saudi-led process supports B; absence supports A; (c) Israeli behavior during summit prep (9-15 May) — restraint supports B; kinetic action against IRGC or Tehran confirms γ is binding and supports A.
+
+**Single most testable empirical question**: was the 5-7 May sequence (Rubio "concluded" + Trump paused Project Freedom + Wang Yi-Araghchi in Beijing) a *structural concession* or *coercive optionality*? If structural concession, combined posterior on B + Hybrid rises to 0.40-0.50. If coercive optionality, combined posterior on Branch A rises to 0.80-0.85.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+If this synthesis is wrong, the most likely failure modes are:
+
+1. **The Schelling-Hokayem reduction is over-simplification.** [Powell commitment problem]{.gloss data-gloss="powell-commitment"} may do work that α + β don't capture, especially around verification mechanisms. If Iran offered a verifiable nuclear cap with full IAEA access (consistent with [Q1's 27 February offer](q1-why-bargaining-failed.qmd)) and this was rejected on the US side because *no verification regime is credible to a Trump administration* — US can't credibly commit to its own future verification — then Powell-1 is the binding mechanism, not Schelling-Hokayem. The synthesis would be correctly identifying the equilibrium but wrong about why.
+
+2. **Iranian regime cohesion may fracture more rapidly than the < 0.05 base rate suggests.** Vahidi-Ghalibaf split is rumored; succession-instability under wounded Mojtaba is real; IRGC infighting is one strike-event away. If Pr(regime fracture in 90 days) is actually 0.15-0.20, the synthesis significantly understates settlement-range re-opening probability.
+
+3. **Trump-Xi summit deliverables could be substantially larger than expected.** If Trump genuinely wants to claim "ended the war" before any specific domestic political event, the 14-15 May summit could produce a structural framework (China-mediated Hormuz reopening + Iran nuclear cap + sanctions schedule + Taiwan arms-sale restraint). The synthesis may be undervaluing the forcing-function effect of summit deliverable pressure.
+
+4. **Israeli political crisis.** Netanyahu's coalition is structurally fragile — haredi conscription, judicial reform, ongoing tensions. If Netanyahu falls in next 90 days (P plausibly 0.10-0.15), Israeli Stackelberg constraint loosens substantially and γ posterior drops. Synthesis doesn't engage this depth.
+
+5. **The IRGC may prefer phased-MOU more than Vahidi's "regroup" posture suggests** — *because* the regroup is best executed with sanctions relief and Hormuz reopening (Iran's economy needs both). Vahidi's public posture may be Schelling brinkmanship — maximalist demands precisely so the eventual settlement looks like a concession to the West. If Iranian rationality is actually consistent with phased-MOU acceptance under correctly-structured terms, P(Branch A) drops to 0.5 and P(hybrid) rises to 0.30.
+
+6. **Markets-as-third-player may discipline Trump faster than expected.** Trump's actual threshold for sustained $100+ Brent during election prep may be lower than the synthesis credits. Brent at $100-110 sustained for 60 days could trigger a decisive Trump pivot to end-the-war push.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+The full reasoning, source-by-source corpus pull, devil's-advocate transcript (`Q5_DA_critique.md`), briefing-review delta, and Round 8-9 enrichment live in the underlying analysis file: `Q5_bargaining_range.md`. Three companion files document the corpus pull (`Q5_agent_A_corpus_pull.md`), case-specific empirical extraction (`Q5_agent_B_case_pull.md`), and the devil's advocate critique transcript.
+
+Key citations: @schelling1966arms, @schelling1960strategy, @powell2006commitment, @fearon1995rationalist, @weeks2008autocratic, @lake2009hierarchy.
+
+**Highest-priority remaining corpus gaps for Q5:**
+
+- Hokayem's full IISS *Survival* essay (currently in corpus via secondary summary)
+- Vukovic's Oraclum post on the game theory of the 2026 Iran war (single-author primary)
+- Atlantic Council Cimmino & Pavel 4-scenario typology essay
+- Slantchev 2011 *Military Threats* — wartime signaling and convergence
+- Lake 2010 *Two Cheers for Bargaining Theory* — multi-actor signaling
+- CSIS Cancian/Park munitions exhaustion estimates (T2 single-source; needs corroboration)
+
+```{=html}
+</div>
+```
