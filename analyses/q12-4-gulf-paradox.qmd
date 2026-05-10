@@ -5,9 +5,6 @@ description: "A single forward-looking calculus — *post-war retaliation risk* 
 categories: [analysis, q12, gulf-states, omnibalancing, hierarchy]
 date: 2026-05-09
 date-modified: 2026-05-10
-author:
-  - name: "Eric J. Rutt"
-    affiliation: "Independent"
 format:
   html:
     toc: true
