@@ -1,0 +1,66 @@
+---
+title: "Game Theory of the 2026 Iran War"
+subtitle: "A modular analysis of why bargaining failed, why the war persists, and what sustains the coalitions"
+toc: false
+---
+
+::: {.bottom-line}
+**Bottom line.** On 28 February 2026 — *during* active US-Iran nuclear negotiations in Oman — Israel and the US launched coordinated strikes on Iran. Khamenei was killed in the opening hours. Six weeks later a Pakistan-mediated ceasefire half-held. Today the dual blockade continues. Why? This site applies the canon of formal bargaining theory, audience-cost models, alliance hierarchy, and omnibalancing to answer that question and eleven others — testably, falsifiably, and with the data visible.
+:::
+
+## How to read this site
+
+Each chapter offers three reader paths, exercised independently. There is no preferred order — engage as much or as little as suits you.
+
+::: {.dashboard-grid}
+
+::: {.dashboard-card}
+### Quick read (~2 min)
+Land on the chapter dashboard. See the figures and the bottom line. Skip the walkthrough entirely.
+:::
+
+::: {.dashboard-card}
+### Engaged read (~7 min)
+Scroll through the guided walkthrough next to the data viz. The narrative explains what each figure is showing and why it matters.
+:::
+
+::: {.dashboard-card}
+### Deep / academic (~20 min)
+Toggle **Deep mode** at the top of any chapter. Methodological details, source-confidence tiers, Bayesian posteriors, and full citations expand inline.
+:::
+
+:::
+
+## What's here
+
+::: {.dashboard-grid}
+
+::: {.dashboard-card}
+### [Primer](primer/index.qmd)
+The game-theoretic tools used throughout: bargaining models, audience costs, hierarchy and clientelism, omnibalancing, hedging vs. balancing. Each tool gets one chapter — read in any order, as needed.
+:::
+
+::: {.dashboard-card}
+### [Timelines](timelines/index.qmd)
+Per-actor histories. Iran, Israel, the US, the Gulf states, Russia, China — each on its own track. Future modules can extend backward (e.g., the Nixon-Kissinger foundations of US Middle East policy) without disturbing the rest.
+:::
+
+::: {.dashboard-card}
+### [Analyses](analyses/index.qmd)
+Twelve case-specific questions about the 2026 war. Why bargaining failed. What sustains the coalitions. What ends it. Cross-theatre links to Russia/Ukraine and China/Taiwan. The Gulf paradox.
+:::
+
+::: {.dashboard-card}
+### [Disagreements](disagreements/index.qmd)
+Where models disagree — both about *which events count* and *which mechanisms are load-bearing*. Comparative diagrams of how a single sequence reads under different theoretical lenses.
+:::
+
+:::
+
+## Methodology in one paragraph
+
+Each analytical chapter is built from a structured eight-step protocol: pre-write a prior; pull corpus passages bearing on the question; cross-check current think-tank coverage; write opposing steel-mans; synthesize; submit to a hostile devil's-advocate critique; reconcile; tag every claim with a source-confidence tier (T1 = multi-source verified, T4 = conjecture). Probabilistic claims are stated as posterior probabilities over mechanism configurations, not point claims about "the cause." Where the canonical theoretical text is missing, the gap is flagged rather than papered over. The full methodology and per-chapter audit trails are in **Deep mode**.
+
+## Status
+
+This is an in-progress project. Chapters land iteratively. The first proof-of-concept chapter — [Q12.4: the Gulf wartime paradox](analyses/q12-4-gulf-paradox.qmd) — establishes the format. As of `r format(Sys.Date())` the corpus pass and analytical write-ups for Q1, Q5, and Q12.4 are complete; the remaining nine questions are in queue.

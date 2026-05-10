@@ -1,0 +1,26 @@
+---
+title: "Primer — Game-theoretic tools"
+subtitle: "The conceptual building blocks used throughout the analyses"
+---
+
+This primer collects the formal tools the analyses reach for. Each tool gets one chapter; read in any order; cross-references flag where a primer chapter is needed for a given analysis.
+
+The primer is descriptive, not prescriptive — it sets out what each model assumes, what it predicts, and *under what conditions it breaks*. The breaking conditions matter as much as the predictions: a tool's value comes from knowing where its assumptions fail.
+
+## Forthcoming chapters
+
+Each will follow the same chapter format as the analyses (skip-link / dashboard / scrolly / depth toggle):
+
+- **The bargaining model of war** — Fearon 1995, Powell 2006: what conditions produce an empty bargaining set?
+- **Audience costs and signaling resolve** — Fearon 1994, Weeks 2008: democratic vs. autocratic, and the IRGC as an audience.
+- **Hierarchy and clientelism** — Lake 2009, Posen patron-client: when "alliance of equals" is the wrong frame.
+- **Omnibalancing and regime survival** — David 1991, Gause 2003/4: when leaders balance internal threats over external ones.
+- **Hedging vs. balancing vs. bandwagoning** — Kuik 2008/2016, Lim & Cooper 2015: what do Gulf states' actions actually fit?
+- **Two-level games** — Putnam 1988: the international and domestic boards as one.
+- **Coalition theory and selectorate** — Riker, Bueno de Mesquita: who has to consent.
+- **Strategic ambiguity and threats that leave something to chance** — Schelling.
+- **Endogenous power shifts** — Fearon 1996, Krainin 2017, Bas-Coe 2016: when the striker's prior actions *cause* the shift the model treats as exogenous.
+
+## Why the primer matters
+
+Most of these tools were developed for different questions than the 2026 Iran war. Applying them to this case requires knowing what each was originally about and where the analogy survives or breaks. That work belongs here, not buried in the analyses.

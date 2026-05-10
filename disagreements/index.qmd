@@ -1,0 +1,15 @@
+---
+title: "Disagreements — comparative views"
+subtitle: "Where models disagree about which events count and which mechanisms are load-bearing"
+---
+
+Two analytical lenses applied to the 2026 war can carve the same event sequence into different "key events" and assign load-bearing weight to different mechanisms. This section makes those disagreements explicit.
+
+## Forthcoming chapters
+
+- **Which events are key?** A side-by-side: the realist reading of the war's origins emphasizes Iran's deterrent-layer degradation campaign (Oct 2023 → June 2025); the audience-cost reading emphasizes the IRGC veto on enrichment concessions; the omnibalancing reading emphasizes Sunni Gulf monarchies' domestic-Shia exposure; the Stackelberg reading emphasizes the Mar-a-Lago December 2025 meeting as the binding moment. Same sequence, different inflection points.
+- **Olson-Zeckhauser vs. Lake hierarchy on Gulf-US.** The free-riding frame predicts free-riding. The hierarchy frame predicts client constraint of patron action. Saudi airspace denial in March 2026 supports one but not the other.
+- **Iran's strategy: deterrent vs. coercive escalation gambit.** The same data — strikes on every GCC capital — is read by some analysts as deterrence (raising costs to Gulf participation) and by others as offensive coercive escalation (designed to break GCC collective-action capacity). The two readings predict different post-war Iranian behavior.
+- **Single-mechanism vs. multi-mechanism explanations of the Q12.4 paradox.** A single-mechanism (Ibish post-war retaliation risk) account explains both halves of the paradox cleanly; a multi-mechanism (omnibalancing + 2023 détente + Vision 2030 + Yemen lesson) account explains cross-state variation. They are compatible but make different predictions about Q12.5.
+
+These chapters are not meta-commentary; they're how to read the analyses critically. A reader who finishes Q12.4 should know what would have to be true for the headline mechanism to be wrong.

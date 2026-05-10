@@ -1,0 +1,30 @@
+# Quarto build outputs
+/_site/
+/_book/
+/_freeze/
+*.html
+!_includes/*.html
+.quarto/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Python / R caches if we use them
+__pycache__/
+.ipynb_checkpoints/
+.Rproj.user/
+.Rhistory
+*.pyc
+
+# Local secrets — belt and braces, should never be in this repo anyway
+.env
+.env.local
+*.pem
+*.key
+
+/.quarto/
+**/*.quarto_ipynb

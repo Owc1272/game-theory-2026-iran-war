@@ -1,0 +1,35 @@
+---
+title: "Analyses — twelve questions about the 2026 war"
+subtitle: "Each chapter takes one question, one canonical formal model (or where appropriate, several), and an explicit audit trail of evidence."
+---
+
+## The twelve questions
+
+| # | Question | Status |
+|---|----------|--------|
+| Q1 | Why did bargaining fail on 28 February 2026 — *during* active negotiations? | analysis complete |
+| Q2 | Why has the war persisted past initial strikes? | drafting |
+| Q3 | Why is the Pakistan-mediated ceasefire unstable? | drafting |
+| Q4 | What sustains the coalitions? | drafting |
+| Q5 | What does the bargaining range look like now — is it empty? | analysis complete |
+| Q6 | What ends the war? | drafting |
+| Q7 | Opportunities and risks for Russia in Ukraine? | drafting |
+| Q8 | Opportunities and risks for China vis-à-vis Taiwan? | drafting |
+| Q9 | What does the war do to the Europe-US relationship? | drafting |
+| Q10 | Does the US have a structural interest in Hormuz *not* fully reopening? | drafting |
+| Q11 | How should the US-Israel coalition be conceptualized? | drafting |
+| Q12 | How have Gulf-state strategies evolved before and after the war? | partial — see below |
+
+## Q12 — the Gulf states (sub-questions)
+
+The Gulf is a distinct analytical focus because the standard frame (the GCC as a single bloc) does not fit the observed behavior.
+
+| # | Sub-question | Status |
+|---|---------------|--------|
+| Q12.1 | How should the Gulf neighbors be sub-grouped? | drafted |
+| Q12.2 | How did each sub-group's strategy evolve from JCPOA → 2023 rapprochement → February 2026? | drafted |
+| Q12.3 | How did Iran's Hormuz weapon shape pre-war Gulf strategy? | drafted |
+| **Q12.4** | **Why did MBS-private + UAE-public push for regime change while declining military support to reopen Hormuz?** | **proof of concept — [read it](q12-4-gulf-paradox.qmd)** |
+| Q12.5 | How is the strategic configuration evolving post-war? | plan refined; pending execution |
+
+Q12.4 is the first chapter ported to the site format. Use it to evaluate whether the dashboard / scrolly / depth-toggle pattern serves the analysis well before the others are ported.

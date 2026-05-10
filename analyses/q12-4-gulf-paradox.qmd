@@ -1,0 +1,271 @@
+---
+title: "Q12.4 — The Gulf wartime paradox"
+subtitle: "Why MBS-private and UAE-public pushed for regime change while declining military support to reopen Hormuz"
+description: "A single forward-looking calculus — *post-war retaliation risk* — explains both halves of the apparent contradiction."
+categories: [analysis, q12, gulf-states, omnibalancing, hierarchy]
+date: 2026-05-09
+date-modified: 2026-05-10
+author:
+  - name: "Eric J. Rutt"
+    affiliation: "Independent"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="standard" aria-pressed="true">Standard</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+Within 48 hours of the 28 February 2026 strikes, an unusual pattern surfaced. The two Sunni Gulf monarchies with the deepest US security relationships — Saudi Arabia and the UAE — were *privately* and *publicly* pushing Trump to continue the war until Iran's regime collapsed. Yet both of them, plus Qatar, Kuwait, and Bahrain, declined repeated US asks for military support to reopen the Strait of Hormuz. Saudi denied use of Prince Sultan Airbase. Qatar's Emir lobbied Washington against using Gulf bases within 48 hours of war initiation. Kuwait sat on its hands.
+
+So they wanted the war won. They would not pay to win it. Why?
+
+::: {.bottom-line}
+**Bottom line.** The single mechanism that resolves the paradox is *forward-looking risk minimization under uncertainty about whether Iran survives the war.* A "weakened but not destroyed" Iran will retaliate against accessible Gulf targets, so the Gulf wants Iran finished. But visible alignment raises future target priority for an Iran that *does* survive — so MBS pushes privately and lets UAE be the public voice. Both halves of the paradox come from the same calculus. Four secondary mechanisms (omnibalancing, the 2023 China-brokered détente, Vision 2030 economic exposure, the Yemen lesson) explain *which* Gulf state is more or less constrained — not *why* the underlying pattern exists.
+:::
+
+[For Q12.4 the textbook frame — Olson-Zeckhauser free-riding — turns out to be wrong, and the right frame (Lake's hierarchy / Posen's patron-client) is not in the canonical IR syllabus. The DA-corrected mechanism set then collapses to a single load-bearing one when the Iran_war briefing was reviewed. Both moves are described below.]{.column-margin .detail-only}
+
+::: {.detail-only}
+
+::: {.callout-note collapse="true"}
+## Methodology — the eight-step protocol used here {.detail-only}
+
+This chapter applies the project's standard protocol: (1) pre-write a prior; (2) corpus passage extraction; (3) think-tank cross-check; (4) opposing steel-mans; (5) pre-DA synthesis; (6) hostile devil's advocate; (7) reconcile; (8) source-confidence tier audit + Bayesian framing + pre-mortem. After protocol completion, an **external corpus review** against an independently-prepared question briefing surfaced an empirical-premise correction (the canonical "March 16 Trump-GCC bilateral call" was not a bilateral diplomatic ask; it was Trump's March 14–16 Truth Social broadcasts to international consumers) and a stronger single-mechanism account that strictly improved on the multi-mechanism reconciliation. The corrected synthesis is below.
+:::
+
+:::
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the analytical journey. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  Q[Why push for<br/>regime change<br/>while declining<br/>to fight?]
+  Q --> H1[Hypothesis 1<br/>Free-riding]
+  Q --> H2[Hypothesis 2<br/>Constrained<br/>regime preservation]
+  Q --> H3[Hypothesis 3<br/>Coercive Iran<br/>gambit response]
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef h fill:#f6f8fa,stroke:#d0d7de
+  class Q q
+  class H1,H2,H3 h
+```
+:::
+
+::: {focus-on="cr-stage1"}
+**Three opening hypotheses.** The puzzle admits at least three readings. The textbook one — *free-riding* — predicts that small allies of a security-providing hegemon systematically under-contribute. The second reads the Gulf as *constrained* by domestic politics: Sunni monarchies with restive Shia populations cannot openly fight a Sunni-Shia regional war without inviting unrest. The third reads the Gulf as *responding to Iran's strategy*: Iran attacked every GCC capital regardless of whether they contributed, which fits coercive escalation rather than retaliation deterrence.
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  F[Free-rider hypothesis<br/>Olson-Zeckhauser 1966]
+  E1[Iran attacked<br/>ALL GCC capitals]
+  E2[Saudi denied<br/>airspace pre-war,<br/>not as bargaining]
+  E3[GCC-US is asymmetric<br/>clientelist, not<br/>alliance of equals]
+  F -->|fails on| E1
+  F -->|fails on| E2
+  F -->|wrong frame| E3
+  classDef bad fill:#fff8c5,stroke:#d4a72c
+  classDef ev fill:#ffe5d9,stroke:#cf222e
+  class F bad
+  class E1,E2,E3 ev
+```
+:::
+
+::: {focus-on="cr-stage2"}
+**The free-rider reading breaks on three pieces of evidence.** Iran's strategy was not retaliation against contributors; it was offensive coercive escalation [Schelling's "threat that leaves something to chance," applied as a gambit to break GCC collective-action capacity]{.detail-only}. Saudi airspace denial pre-dated the war (Fox News, 30 January 2026) — it was not a wartime bargain over costs; it was a structural position. And the underlying relationship is not an alliance of equals (the model Olson-Zeckhauser was built on); it is a hierarchical clientelist relationship in which the small client can constrain the large patron's action when patron requests damage client interests.
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  L[Lake 2009<br/>Hierarchy]
+  P[Posen<br/>Patron-client]
+  G[Gause 2003/4<br/>Omnibalancing]
+  D[David 1991<br/>Internal vs<br/>external threat]
+  L --> X((Gulf-US<br/>relationship))
+  P --> X
+  G --> Y((Sunni monarchies<br/>vs Shia population))
+  D --> Y
+  X --> Z[Multi-mechanism<br/>reconciliation:<br/>4 mechanisms]
+  Y --> Z
+  classDef th fill:#dafbe1,stroke:#2da44e
+  classDef sy fill:#0969da,color:#fff,stroke:#0969da
+  class L,P,G,D th
+  class X,Y,Z sy
+```
+:::
+
+::: {focus-on="cr-stage3"}
+**The DA-corrected synthesis: four mechanisms.** Replacing Olson-Zeckhauser with Lake's hierarchy and adding omnibalancing produced a four-mechanism reconciliation — domestic-Shia threat, the 2023 China-brokered Saudi-Iran détente, Vision 2030 economic exposure, and the Yemen lesson — each operative for a different sub-set of Gulf states. This was a substantial improvement. It explained *which* Gulf state was more or less constrained. It did not yet explain *why* the underlying behavior pattern existed in the first place.
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  I[Ibish<br/>post-war<br/>retaliation risk]
+  I --> A[If Iran weakened<br/>but survives:<br/>retaliation]
+  I --> B[If Iran finished:<br/>no retaliation]
+  A --> C{Calculus}
+  B --> C
+  C --> D1[Push for<br/>regime change]
+  C --> D2[Decline visible<br/>platform role]
+  M1[Omnibalancing] -.->|modifies| D2
+  M2[Détente] -.->|modifies| D1
+  M3[Vision 2030] -.->|modifies| D1
+  M4[Yemen lesson] -.->|modifies| D1
+  classDef hl fill:#0969da,color:#fff,stroke:#0969da
+  classDef ds fill:#dafbe1,stroke:#2da44e
+  classDef md fill:#f6f8fa,stroke:#d0d7de
+  class I hl
+  class D1,D2 ds
+  class M1,M2,M3,M4 md
+```
+:::
+
+::: {focus-on="cr-stage4"}
+**The single-mechanism account.** A briefing-review pass surfaced a stronger reading: Hussein Ibish's *post-war retaliation risk* mechanism explains both halves of the paradox from one forward-looking calculus. A weakened-but-surviving Iran will retaliate against accessible Gulf targets, so the Gulf wants Iran finished — *push for regime change.* Visible alignment raises future target priority if Iran does survive — so *decline to be visibly the platform.* The four DA-derived mechanisms are now *modifiers* explaining cross-state variation, not independent primary mechanisms. This is strictly better than the four-mechanism reconciliation: same predictive power for cross-state variation, plus a coherent account of why the puzzle exists.
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+The figures below capture the analytical state without requiring you to read the walkthrough. Three views: (1) the mechanism-by-mechanism Bayesian posteriors, (2) the per-state typology, (3) the framework comparison.
+
+### Figure 1 — Mechanism posteriors
+
+How likely is each mechanism to be operative — and given it is operative, how likely to be load-bearing? Estimates after the eight-step protocol *plus* the briefing-review revision.
+
+| Mechanism | Prior P(op) | Posterior P(op) | Posterior P(load-bearing) | Tier |
+|---|:---:|:---:|:---:|:---:|
+| **M0 — Ibish post-war retaliation risk** | n/a | **0.85** | **0.65** | [T2]{.tier .tier-2} |
+| M1 — Omnibalancing (Gause / David) | 0.40 | 0.70 | 0.30 | [T3]{.tier .tier-3} |
+| M2 — 2023 détente diplomatic infrastructure | 0.50 | 0.75 | 0.25 | [T1]{.tier .tier-1} |
+| M3 — Vision 2030 / FDI risk | 0.60 | 0.80 | 0.30 | [T2]{.tier .tier-2} |
+| M4 — Yemen lesson | 0.50 | 0.70 | 0.30 | [T2]{.tier .tier-2} |
+| M5 — Iranian coercive escalation gambit | 0.30 | 0.70 | 0.40 | [T3]{.tier .tier-3} |
+| M6 — Asymmetric clientelist constraint | 0.50 | 0.75 | 0.50 | [T2]{.tier .tier-2} |
+| M7 — Substantive bilateral-strategy divergence | 0.30 | 0.65 | 0.30 | [T2]{.tier .tier-2} |
+| Dropped — Olson-Zeckhauser free-riding | 0.85 | 0.45 | 0.15 | [T3]{.tier .tier-3} |
+| Dropped — Selectorate + Schelling commitment-by-weakness | 0.50 | 0.30 | 0.10 | [T4]{.tier .tier-4} |
+
+**Reading the table.** [T1]{.tier .tier-1} = multi-source verified · [T2]{.tier .tier-2} = single-source named · [T3]{.tier .tier-3} = inference from evidence · [T4]{.tier .tier-4} = conjecture. The headline finding — M0 at 0.65 P(load-bearing) — is *not* T1, because Ibish's specific framing has not yet been independently corroborated in the wider think-tank literature. Treat it as the best current single-mechanism account, not as established.
+
+### Figure 2 — Per-state typology
+
+| State | Type | Dominant mechanisms |
+|---|---|---|
+| **Saudi Arabia** | Hawkish-hedger | M0 + M2 (détente) + M3 (Vision 2030) + M4 (Yemen) + M6 (clientelist); denied airspace as clientelist signal |
+| **UAE** | Most-hawkish-most-targeted | M0 + M3 (FDI/economy) + M5 (responding to Iran's gambit) + M7 (bilateral divergence from Saudi) |
+| **Qatar** | Mediator under fire | M0 + M5 (Iran gambit; lost LNG capacity) + biased-mediator role (Kydd) |
+| **Bahrain** | Sectarian-constrained | M1 (omnibalancing — load-bearing) + M6 (clientelist); domestic Shia constraint dominant |
+| **Kuwait** | Parliamentary-exposed | M1 (smaller Shia population, but parliament) + M7 (consensus tradition) |
+| **Oman** | Pure mediator | Kydd biased-mediator (T1) — different from Sub-I/II entirely |
+| **Iraq** | Shia battleground | Iran-aligned militias active; out of Q12.4 scope |
+
+[The critical empirical fact differentiating UAE/Saudi from Bahrain/Kuwait/Qatar: **pipeline bypass capacity**. Petroline ~7 mb/d (Saudi), Habshan-Fujairah ~1.5 mb/d (UAE) — nothing for the others. Bypass gives Saudi/UAE more freedom of action. They used it differently (UAE more hawkish-public, Saudi more hedging). Bypass capacity is necessary but not sufficient — supporting M7 (intra-court politics) over a pure structural reading.]{.column-margin}
+
+### Figure 3 — Why the textbook frame fails
+
+```{mermaid}
+flowchart TB
+  subgraph OZ [Olson-Zeckhauser 1966]
+    direction LR
+    A1[Alliance of<br/>formal equals]
+    A1 --> A2[Public good:<br/>shared security]
+    A2 --> A3[Predict:<br/>small allies<br/>under-contribute]
+  end
+  subgraph LK [Lake 2009 hierarchy]
+    direction LR
+    B1[Asymmetric<br/>clientelist relationship]
+    B1 --> B2[Patron provides<br/>security; client<br/>cedes some sovereignty]
+    B2 --> B3[Predict:<br/>client constrains<br/>patron action when<br/>patron requests damage<br/>client interests]
+  end
+  E[Saudi airspace denial<br/>predates war] -.->|fails| A3
+  E -.->|fits| B3
+  classDef oz fill:#fff8c5,stroke:#d4a72c
+  classDef lk fill:#dafbe1,stroke:#2da44e
+  classDef ev fill:#ffe5d9,stroke:#cf222e
+  class A1,A2,A3 oz
+  class B1,B2,B3 lk
+  class E ev
+```
+
+Olson-Zeckhauser was designed for alliances of formal equals (NATO). The Gulf-US relationship is an asymmetric clientelist relationship — a different game-theoretic object with different equilibria. Saudi airspace denial is not under-contribution within an intact alliance; it is a clientelist signal that the patron has violated implicit norms (no consultation; demanding action without burden-sharing on cost).
+
+::: {.detail-only}
+
+### Figure 4 — Source-confidence tier breakdown {.detail-only}
+
+Of the synthesis's load-bearing claims:
+
+- **[T1]{.tier .tier-1} multi-source verified:** Iran attacked all GCC capitals; Bahrain 350+ detentions in war period; QatarEnergy LNG force majeure (March 24); 2023 Saudi-Iran rapprochement was China-brokered; Petroline / Habshan-Fujairah capacities; Saudi airspace position predates the war.
+- **[T2]{.tier .tier-2} single-source named:** UAE OPEC+ exit; Saudi-UAE coordination fractures; Iran chose Oman for mediation; Trump's "biggest surprise" framing; Vision 2030 / NEOM constraint on Saudi hawkishness.
+- **[T3]{.tier .tier-3} inference from evidence:** Iran's strategy as offensive coercive gambit (rather than retaliation deterrent); domestic-Shia-population threat as binding constraint on Sunni monarchies; GCC bureaucratic incoherence reflects intelligence-vs-foreign-ministry gap.
+- **[T4]{.tier .tier-4} conjecture:** none in the load-bearing path post-revision.
+
+The biggest inferential claim ([T3]{.tier .tier-3}) is the reframing of Iran's strategy as offensive gambit rather than deterrent. This is a methodological choice (reading the same evidence through different framework) rather than a factual claim. The omnibalancing/domestic-Shia-threat claim ([T3]{.tier .tier-3}) does substantial analytical work and is flagged for further verification with primary MENA-studies sources.
+
+:::
+
+## Pre-mortem {#pre-mortem .detail-only}
+
+::: {.detail-only}
+
+If this synthesis is wrong, the most likely failure modes are:
+
+1. **Underweighting Iranian strategic agency.** M5 (Iran's offensive gambit) is partly inferential. If Iran was actually retaliating defensively rather than coercing strategically, the equilibrium reading is right but the mechanism label is wrong.
+2. **The four secondary mechanisms may be redundant rather than independent.** Omnibalancing, 2023 détente, Vision 2030, and Yemen lesson all point toward Sunni Gulf restraint — they may be different symptoms of the same underlying structural condition (Sunni monarchies in a multi-ethnic region with FDI-dependent economies and recent failed-war experience). Treating them as independent risks double-counting.
+3. **Over-confidence in the omnibalancing replacement of free-riding.** Gause 2003/4 is in the corpus only via a secondary-source compilation — the original PDF is paywalled. If Gause's actual argument differs from the reconstruction, there is a gap that cannot be closed without acquiring the source.
+4. **The DA's framework swap may itself be an over-correction.** Lake's hierarchy predicts client constraints on patron action, but the empirical record (Gulf states accepting US protection across decades; granting basing rights; coordinating on sanctions) shows substantial cooperation that pure clientelism would predict less of. Both free-riding and clientelist constraint may operate.
+
+:::
+
+## Sources & further reading
+
+The full reasoning, source-by-source corpus pull, devil's-advocate critique, briefing-review delta, and tier audit live in the underlying analysis file: [`Q12.4_gulf_wartime_contradiction.md`](https://github.com/) (link will populate after first push).
+
+Key citations: @gause2003balancing, @david1991third, @lake2009hierarchy, @schelling1966arms, @olson1966alliances, @ibish2026crosshairs, @kuik2016hedging, @fearon1995rationalist, @powell2006commitment.
+
+::: {.detail-only}
+
+**Highest-priority remaining corpus gaps for Q12 work:**
+
+- @gause2003balancing — paywalled at Taylor & Francis. Currently in corpus only via secondary-source compilation.
+- @david1991third — JSTOR paywall. Currently in corpus via Lau course summary.
+- Madawi al-Rasheed on Saudi domestic legitimacy and Shia politics — not in corpus.
+- Curtis Ryan on omnibalancing in Arab monarchies — not in corpus.
+- David Roberts on Qatari "active neutrality" — not in corpus.
+
+:::
+
+::: {.detail-only}
+
+## How to read the tier badges {.detail-only}
+
+[T1]{.tier .tier-1} **Multi-source verified.** Independent corroboration from at least two distinct sources of different type (e.g., a wire service plus a peer-reviewed analysis).
+
+[T2]{.tier .tier-2} **Single-source named.** Reported by one named source. Not yet independently corroborated.
+
+[T3]{.tier .tier-3} **Inference from evidence.** A reading of empirical evidence under a chosen analytical framework. The factual base is supported but the inferential leap is the analyst's.
+
+[T4]{.tier .tier-4} **Conjecture.** A working hypothesis not yet supported by either named source or strong inference.
+
+:::

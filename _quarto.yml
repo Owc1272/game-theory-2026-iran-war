@@ -1,0 +1,94 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "data/**"
+    - "assets/**"
+
+website:
+  title: "Game Theory of the 2026 Iran War"
+  description: "A modular game-theoretic analysis of the 2026 US–Israel war on Iran. Primer, timelines, twelve analyses, and a section on disagreements."
+  site-url: ""    # populated after Pages is enabled
+  repo-url: ""    # populated after repo is pushed
+  navbar:
+    background: dark
+    search: true
+    pinned: true
+    left:
+      - text: "Primer"
+        href: primer/index.qmd
+      - text: "Timelines"
+        href: timelines/index.qmd
+      - text: "Analyses"
+        href: analyses/index.qmd
+      - text: "Disagreements"
+        href: disagreements/index.qmd
+    right:
+      - icon: github
+        href: ""    # populated after repo is pushed
+        aria-label: "GitHub repository"
+  page-footer:
+    border: true
+    left: |
+      Game Theory of the 2026 Iran War — primer, timelines, analyses.
+    right: |
+      Built with [Quarto](https://quarto.org/) + [Closeread](https://closeread.dev/).
+  sidebar:
+    - id: primer
+      title: "Primer"
+      style: floating
+      collapse-level: 2
+      contents:
+        - primer/index.qmd
+    - id: timelines
+      title: "Timelines"
+      style: floating
+      collapse-level: 2
+      contents:
+        - timelines/index.qmd
+    - id: analyses
+      title: "Analyses"
+      style: floating
+      collapse-level: 2
+      contents:
+        - analyses/index.qmd
+        - section: "Q12 — Gulf states"
+          contents:
+            - analyses/q12-4-gulf-paradox.qmd
+    - id: disagreements
+      title: "Disagreements"
+      style: floating
+      collapse-level: 2
+      contents:
+        - disagreements/index.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    code-link: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    fig-responsive: true
+    include-in-header:
+      - file: _includes/in-header.html
+    include-after-body:
+      - file: _includes/after-body.html
+    grid:
+      sidebar-width: 280px
+      body-width: 820px
+      margin-width: 240px
+      gutter-width: 1.5rem
+
+bibliography: references.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-author-date.csl
+
+execute:
+  freeze: auto
+  echo: false
+  warning: false

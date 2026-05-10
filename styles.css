@@ -1,0 +1,181 @@
+/* ============================================================
+   Custom styles for Game Theory of the 2026 Iran War
+   ============================================================
+   Three reader-control mechanisms:
+     1. Skip-to-dashboard anchor at the top of each chapter
+     2. Depth toggle (standard ↔ deep) — body class set by JS
+     3. Tufte-style sidenotes for inline drilldown
+   Plus mobile-first: dashboard primary, scrolly degrades gracefully.
+   ============================================================ */
+
+/* ---------- Reader-control bar (top of chapter) ---------- */
+
+.reader-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.6rem 0.9rem;
+  margin: 0.5rem 0 1.5rem 0;
+  background: var(--bs-light, #f6f8fa);
+  border: 1px solid var(--bs-border-color, #d0d7de);
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+.reader-controls .skip-link {
+  color: var(--bs-link-color, #0969da);
+  font-weight: 500;
+}
+.reader-controls .depth-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-left: auto;
+}
+.reader-controls .depth-toggle button {
+  border: 1px solid var(--bs-border-color, #d0d7de);
+  background: var(--bs-white, #ffffff);
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: var(--bs-body-color);
+}
+.reader-controls .depth-toggle button[aria-pressed="true"] {
+  background: var(--bs-primary, #0969da);
+  color: white;
+  border-color: var(--bs-primary, #0969da);
+}
+
+/* ---------- Depth toggle: detail visibility ---------- */
+
+/* Default (standard mode): hide deep-only blocks. */
+.detail-only { display: none; }
+
+/* Deep mode: reveal them. */
+body.depth-deep .detail-only { display: revert; }
+
+/* For inline detail spans, use a different default to avoid block jumps */
+span.detail-only { display: none; }
+body.depth-deep span.detail-only { display: inline; }
+
+/* ---------- Bottom-line callout box ---------- */
+
+.bottom-line {
+  border-left: 4px solid var(--bs-primary, #0969da);
+  background: var(--bs-light, #f6f8fa);
+  padding: 0.9rem 1.1rem;
+  margin: 1.2rem 0;
+  border-radius: 0 6px 6px 0;
+  font-size: 1.05rem;
+}
+.bottom-line strong:first-child {
+  display: block;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--bs-secondary, #6e7781);
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+}
+
+/* ---------- Dashboard region styling ---------- */
+
+.dashboard-section {
+  border-top: 1px solid var(--bs-border-color, #d0d7de);
+  padding-top: 1.5rem;
+  margin-top: 2rem;
+}
+.dashboard-section h2 {
+  margin-top: 0;
+}
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+.dashboard-card {
+  border: 1px solid var(--bs-border-color, #d0d7de);
+  border-radius: 6px;
+  padding: 1rem;
+  background: var(--bs-white, #ffffff);
+}
+.dashboard-card h3 {
+  font-size: 1rem;
+  margin: 0 0 0.5rem 0;
+  font-weight: 600;
+}
+.dashboard-card p {
+  font-size: 0.9rem;
+  margin: 0.3rem 0;
+}
+
+/* ---------- Sidenotes (Tufte-style) ---------- */
+
+/* Use Quarto's column-margin facility; this is mostly Quarto's own default. */
+/* On mobile, sidenotes collapse below their reference (Quarto handles this). */
+
+/* ---------- Source-confidence tier badges ---------- */
+
+.tier {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.05rem 0.4rem;
+  border-radius: 3px;
+  vertical-align: middle;
+  margin: 0 0.15rem;
+  letter-spacing: 0.03em;
+}
+.tier-1 { background: #dafbe1; color: #1a7f37; border: 1px solid #2da44e; }
+.tier-2 { background: #fff8c5; color: #7d4e00; border: 1px solid #d4a72c; }
+.tier-3 { background: #ffe5d9; color: #a4451a; border: 1px solid #cf222e; }
+.tier-4 { background: #f0f0f0; color: #57606a; border: 1px solid #6e7781; }
+
+/* ---------- Closeread overrides for mobile ---------- */
+
+/* Closeread's default behavior on narrow screens stacks figure inline.
+   Reinforce this and remove sticky behavior when viewport is narrow. */
+@media (max-width: 768px) {
+  .cr-section {
+    grid-template-columns: 1fr !important;
+  }
+  .cr-narrative-container {
+    grid-column: 1 !important;
+  }
+  .cr-poem {
+    position: relative !important;
+    top: auto !important;
+    height: auto !important;
+  }
+}
+
+/* ---------- Skip link should be visible but not noisy ---------- */
+
+a.skip-link::before { content: "↓ "; }
+
+/* ---------- Print / PDF tweaks ---------- */
+
+@media print {
+  .reader-controls { display: none; }
+  .detail-only { display: revert !important; }   /* show everything in print */
+}
+
+/* ---------- Dark theme adjustments ---------- */
+
+[data-bs-theme="dark"] .reader-controls,
+[data-bs-theme="dark"] .bottom-line,
+[data-bs-theme="dark"] .dashboard-card {
+  background: #161b22;
+  border-color: #30363d;
+}
+[data-bs-theme="dark"] .reader-controls .depth-toggle button {
+  background: #21262d;
+  color: #c9d1d9;
+  border-color: #30363d;
+}
+[data-bs-theme="dark"] .tier-1 { background: #033a16; color: #56d364; border-color: #2da44e; }
+[data-bs-theme="dark"] .tier-2 { background: #4d3800; color: #d4a72c; border-color: #d4a72c; }
+[data-bs-theme="dark"] .tier-3 { background: #5d1a05; color: #ff8a4c; border-color: #cf222e; }
+[data-bs-theme="dark"] .tier-4 { background: #21262d; color: #8b949e; border-color: #30363d; }
