@@ -183,31 +183,40 @@
     }
   }
 
-  // ---------- Wait for Mermaid to render ----------
+  // ---------- Initialize: poll for SVG nodes + watch via MutationObserver ----------
+  // Earlier version polled for pre.mermaid wrappers, but Mermaid REPLACES those
+  // with the rendered SVG, so the selector returned 0 after render and the init
+  // bailed out. Now we poll for the actual gt-gloss-* SVG nodes we need.
   function waitForMermaidThenInit() {
-    var attempts = 80; // ~16s
+    initInlinePopovers();   // Inline buttons don't need to wait — wire them now.
+
+    // Phase 1: brief poll for the typical Mermaid-render window (~4s).
+    var attempts = 20;
     function tick() {
-      var blocks = document.querySelectorAll("pre.mermaid, div.mermaid");
-      if (blocks.length === 0) {
-        initInlinePopovers();
-        return;
-      }
-      var withSvg = 0;
-      blocks.forEach(function (b) { if (b.querySelector("svg")) withSvg++; });
-      if (withSvg >= blocks.length) {
-        wireSvgNodes();
-        initInlinePopovers();
-      } else if (--attempts > 0) {
-        setTimeout(tick, 200);
-      } else {
-        wireSvgNodes();
-        initInlinePopovers();
-        if (window.console && console.warn) {
-          console.warn("[gloss] timeout waiting for all Mermaid blocks; wired what was available");
-        }
-      }
+      wireSvgNodes();
+      var remaining = document.querySelectorAll(
+        'svg [class*="gt-gloss-"]:not([data-gloss-initialized])'
+      ).length;
+      if (remaining === 0) return;   // all wired
+      if (--attempts > 0) setTimeout(tick, 200);
     }
     tick();
+
+    // Phase 2: MutationObserver picks up any late-rendering SVG (e.g. scrolly
+    // sections that lazy-mount, theme switches that re-render Mermaid).
+    if (window.MutationObserver) {
+      var pending = false;
+      var obs = new MutationObserver(function () {
+        if (pending) return;
+        pending = true;
+        // Coalesce bursts of mutations into one wire pass per animation frame.
+        requestAnimationFrame(function () {
+          pending = false;
+          wireSvgNodes();
+        });
+      });
+      obs.observe(document.body, { childList: true, subtree: true });
+    }
   }
 
   // ---------- Outside-click and ESC dismissal ----------
