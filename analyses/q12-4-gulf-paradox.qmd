@@ -175,83 +175,87 @@ How likely is each mechanism to be operative — and given it is operative, how 
 //| label: fig-posteriors
 //| fig-cap: "Posterior probabilities over each mechanism. Light grey bar = posterior P(operative); colored bar = posterior P(load-bearing); color encodes source-confidence tier. Dashed line at 0.5 marks the load-bearing threshold. Hover any bar for full mechanism name + numeric values. On mobile, the y-axis shows mechanism codes (M0, M1, …) — see the legend below for full names."
 
-posteriorData = [
-  {id: "M0", full: "M0 — Ibish post-war retaliation risk", post_op: 0.85, post_lb: 0.65, tier: "T2"},
-  {id: "M6", full: "M6 — Asymmetric clientelist constraint", post_op: 0.75, post_lb: 0.50, tier: "T2"},
-  {id: "M5", full: "M5 — Iranian coercive escalation gambit", post_op: 0.70, post_lb: 0.40, tier: "T3"},
-  {id: "M1", full: "M1 — Omnibalancing (Gause / David)", post_op: 0.70, post_lb: 0.30, tier: "T3"},
-  {id: "M3", full: "M3 — Vision 2030 / FDI risk", post_op: 0.80, post_lb: 0.30, tier: "T2"},
-  {id: "M4", full: "M4 — Yemen lesson", post_op: 0.70, post_lb: 0.30, tier: "T2"},
-  {id: "M7", full: "M7 — Bilateral-strategy divergence", post_op: 0.65, post_lb: 0.30, tier: "T2"},
-  {id: "M2", full: "M2 — 2023 détente infrastructure", post_op: 0.75, post_lb: 0.25, tier: "T1"},
-  {id: "X1", full: "X1 — Olson-Zeckhauser free-riding (dropped)", post_op: 0.45, post_lb: 0.15, tier: "T3"},
-  {id: "X2", full: "X2 — Selectorate + commit-by-weakness (dropped)", post_op: 0.30, post_lb: 0.10, tier: "T4"}
-]
+// Wrap everything in a block so the chunk produces ONE output, not several
+// (Quarto labels each named cell as a sub-figure ("(a)", "(b)", "(c)", "(d)"),
+// which surfaces the intermediate values like baseFont, valueFont, etc.)
+{
+  const posteriorData = [
+    {id: "M0", full: "M0 — Ibish post-war retaliation risk", post_op: 0.85, post_lb: 0.65, tier: "T2"},
+    {id: "M6", full: "M6 — Asymmetric clientelist constraint", post_op: 0.75, post_lb: 0.50, tier: "T2"},
+    {id: "M5", full: "M5 — Iranian coercive escalation gambit", post_op: 0.70, post_lb: 0.40, tier: "T3"},
+    {id: "M1", full: "M1 — Omnibalancing (Gause / David)", post_op: 0.70, post_lb: 0.30, tier: "T3"},
+    {id: "M3", full: "M3 — Vision 2030 / FDI risk", post_op: 0.80, post_lb: 0.30, tier: "T2"},
+    {id: "M4", full: "M4 — Yemen lesson", post_op: 0.70, post_lb: 0.30, tier: "T2"},
+    {id: "M7", full: "M7 — Bilateral-strategy divergence", post_op: 0.65, post_lb: 0.30, tier: "T2"},
+    {id: "M2", full: "M2 — 2023 détente infrastructure", post_op: 0.75, post_lb: 0.25, tier: "T1"},
+    {id: "X1", full: "X1 — Olson-Zeckhauser free-riding (dropped)", post_op: 0.45, post_lb: 0.15, tier: "T3"},
+    {id: "X2", full: "X2 — Selectorate + commit-by-weakness (dropped)", post_op: 0.30, post_lb: 0.10, tier: "T4"}
+  ];
 
-isMobile = width < 700
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 380 : Math.max(540, Math.min(720, Math.round(width * 0.6)));
+  const data = posteriorData.map(d => ({ ...d, display: isMobile ? d.id : d.full }));
 
-// Font scales with chart width on desktop so labels stay proportional
-// across narrow (~700 px) and ultra-wide (~1400 px) viewports.
-baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)))
-valueFont = isMobile ? 13 : Math.max(17, baseFont - 1)
-annotFont = isMobile ? 12 : Math.max(14, baseFont - 4)
-chartHeight = isMobile ? 380 : Math.max(540, Math.min(720, Math.round(width * 0.6)))
-
-posteriorChartData = posteriorData.map(d => ({ ...d, display: isMobile ? d.id : d.full }))
-
-Plot.plot({
-  marginLeft: isMobile ? 64 : Math.max(380, Math.round(width * 0.32)),
-  marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
-  marginTop: Math.max(44, Math.round(baseFont * 2.5)),
-  marginBottom: Math.max(56, Math.round(baseFont * 3)),
-  height: chartHeight,
-  width,
-  style: {
-    fontSize: baseFont + "px",
-    fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
-  },
-  x: { label: "Probability", domain: [0, 1], grid: true, tickFormat: ".0%", labelAnchor: "right" },
-  y: { label: null, domain: posteriorChartData.map(d => d.display) },
-  color: {
-    domain: ["T1", "T2", "T3", "T4"],
-    range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
-    label: "Source-confidence tier",
-    legend: true
-  },
-  marks: [
-    // Background bar = posterior P(operative)
-    Plot.barX(posteriorChartData, {
-      x: "post_op", y: "display",
-      fill: "#e6e8eb", insetTop: 8, insetBottom: 8
-    }),
-    // Foreground bar = posterior P(load-bearing), colored by tier; tooltip carries full label + values
-    Plot.barX(posteriorChartData, {
-      x: "post_lb", y: "display",
-      fill: "tier", insetTop: 8, insetBottom: 8,
-      channels: {
-        Mechanism: "full",
-        "P(operative)": d => `${Math.round(d.post_op * 100)}%`,
-        "P(load-bearing)": d => `${Math.round(d.post_lb * 100)}%`,
-        Tier: "tier"
-      },
-      tip: true
-    }),
-    // Numeric label at end of P(load-bearing) bar
-    Plot.text(posteriorChartData, {
-      x: "post_lb", y: "display",
-      text: d => `${Math.round(d.post_lb * 100)}%`,
-      dx: 8, textAnchor: "start",
-      fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
-    }),
-    // Reference line at 0.5 (load-bearing threshold)
-    Plot.ruleX([0.5], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.5 }),
-    Plot.text([{ x: 0.5, y: posteriorChartData[0].display }], {
-      x: "x", y: "y", text: () => "load-bearing →",
-      dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
-      fontSize: annotFont, fill: "#0969da", fontStyle: "italic", fontWeight: 500
-    })
-  ]
-})
+  return Plot.plot({
+    marginLeft: isMobile ? 64 : Math.max(380, Math.round(width * 0.32)),
+    marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Probability",
+      domain: [0, 1],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: data.map(d => d.display) },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.barX(data, {
+        x: "post_op", y: "display",
+        fill: "#e6e8eb", insetTop: 8, insetBottom: 8
+      }),
+      Plot.barX(data, {
+        x: "post_lb", y: "display",
+        fill: "tier", insetTop: 8, insetBottom: 8,
+        channels: {
+          Mechanism: "full",
+          "P(operative)": d => `${Math.round(d.post_op * 100)}%`,
+          "P(load-bearing)": d => `${Math.round(d.post_lb * 100)}%`,
+          Tier: "tier"
+        },
+        tip: true
+      }),
+      Plot.text(data, {
+        x: "post_lb", y: "display",
+        text: d => `${Math.round(d.post_lb * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
+      }),
+      Plot.ruleX([0.5], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+      Plot.text([{ x: 0.5, y: data[0].display }], {
+        x: "x", y: "y", text: () => "load-bearing →",
+        dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
+        fontSize: annotFont, fill: "#0969da", fontStyle: "italic", fontWeight: 500
+      })
+    ]
+  });
+}
 ```
 
 ::: {.mech-legend}
