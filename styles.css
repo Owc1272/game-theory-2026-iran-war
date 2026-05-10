@@ -152,6 +152,93 @@ body.depth-deep span.detail-only { display: inline; }
   line-height: 1;
 }
 
+/* ---------- Custom popover (used for SVG node triggers) ---------- */
+
+#gt-custom-popover {
+  display: none;
+  position: absolute;
+  z-index: 1080;          /* above Bootstrap popovers (1070) */
+  max-width: 380px;
+  background: var(--bs-body-bg, #ffffff);
+  color: var(--bs-body-color, #1f2328);
+  border: 1px solid var(--bs-border-color, #d0d7de);
+  border-radius: 6px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+#gt-custom-popover .gt-popover-header {
+  padding: 0.55rem 0.85rem;
+  font-weight: 600;
+  font-size: 0.92rem;
+  background: var(--bs-light, #f6f8fa);
+  border-bottom: 1px solid var(--bs-border-color, #d0d7de);
+  border-radius: 6px 6px 0 0;
+}
+#gt-custom-popover .gt-popover-body {
+  padding: 0.7rem 0.9rem;
+}
+#gt-custom-popover .gt-popover-arrow {
+  position: absolute;
+  width: 16px;
+  height: 8px;
+  overflow: hidden;
+}
+#gt-custom-popover[data-placement="top"] .gt-popover-arrow {
+  bottom: -8px;
+}
+#gt-custom-popover[data-placement="top"] .gt-popover-arrow::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 12px;
+  height: 12px;
+  background: var(--bs-body-bg, #fff);
+  border-right: 1px solid var(--bs-border-color, #d0d7de);
+  border-bottom: 1px solid var(--bs-border-color, #d0d7de);
+  transform: translate(2px, -6px) rotate(45deg);
+}
+#gt-custom-popover[data-placement="bottom"] .gt-popover-arrow {
+  top: -8px;
+}
+#gt-custom-popover[data-placement="bottom"] .gt-popover-arrow::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 12px;
+  height: 12px;
+  background: var(--bs-light, #f6f8fa);  /* matches header */
+  border-left: 1px solid var(--bs-border-color, #d0d7de);
+  border-top: 1px solid var(--bs-border-color, #d0d7de);
+  transform: translate(2px, 2px) rotate(45deg);
+}
+
+@media (max-width: 480px) {
+  #gt-custom-popover { max-width: 90vw; }
+}
+
+[data-bs-theme="dark"] #gt-custom-popover {
+  background: #161b22;
+  border-color: #30363d;
+  color: #c9d1d9;
+}
+[data-bs-theme="dark"] #gt-custom-popover .gt-popover-header {
+  background: #21262d;
+  border-bottom-color: #30363d;
+}
+[data-bs-theme="dark"] #gt-custom-popover[data-placement="top"] .gt-popover-arrow::after {
+  background: #161b22;
+  border-right-color: #30363d;
+  border-bottom-color: #30363d;
+}
+[data-bs-theme="dark"] #gt-custom-popover[data-placement="bottom"] .gt-popover-arrow::after {
+  background: #21262d;
+  border-left-color: #30363d;
+  border-top-color: #30363d;
+}
+
 /* Mermaid SVG nodes marked with gt-gloss-* — show a help cursor and a subtle
    hover affordance. Hover changes both the rect fill brightness and outline. */
 svg g[class*="gt-gloss-"],

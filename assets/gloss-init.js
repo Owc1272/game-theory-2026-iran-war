@@ -1,10 +1,11 @@
-/* gloss-init.js — initializes Bootstrap popovers for both:
-   (a) inline glossary triggers (buttons emitted by the gloss.lua filter)
-   (b) Mermaid SVG nodes marked with a `gt-gloss-<id>` class
-   Quarto bundles Bootstrap; window.bootstrap is available at runtime. */
+/* gloss-init.js — wires up two kinds of gloss popovers:
+   (a) inline glossary buttons (Bootstrap popover — works fine on HTML buttons)
+   (b) Mermaid SVG nodes marked with gt-gloss-<id> (custom popover — Bootstrap's
+       Popper-based positioning is unreliable on SVG <g> elements, so we use a
+       self-contained popover element positioned via getBoundingClientRect.) */
 
 (function () {
-  // ---------- Shared: read gloss data island ----------
+  // ---------- Glossary data island ----------
   var glossLookup = null;
   function getGlossData() {
     if (glossLookup !== null) return glossLookup;
@@ -14,23 +15,17 @@
       var arr = JSON.parse(el.textContent || "[]");
       glossLookup = {};
       arr.forEach(function (e) { glossLookup[e.id] = e; });
-    } catch (e) {
-      glossLookup = {};
-    }
+    } catch (e) { glossLookup = {}; }
     return glossLookup;
   }
 
-  function glossaryHref(id) {
-    // Convert a gloss id (e.g. "olson-zeckhauser") into a glossary anchor.
-    // Glossary chapter sections are auto-anchored from H2 headings; we point
-    // at the page itself (the user can scroll/use TOC). Could be refined
-    // to anchor exactly if we ever export the section IDs.
+  function glossaryHref() {
     var base = (window.GT_BASE || "/");
-    if (!base.endsWith("/")) base = base + "/";
+    if (!base.endsWith("/")) base += "/";
     return base + "glossary.html";
   }
 
-  // ---------- (a) Inline button popovers ----------
+  // ---------- (a) Inline button popovers (Bootstrap) ----------
   function initInlinePopovers() {
     if (typeof window.bootstrap === "undefined" || !window.bootstrap.Popover) return;
     document.querySelectorAll(
@@ -49,138 +44,209 @@
     });
   }
 
-  // ---------- (b) Mermaid node popovers ----------
-  // Mermaid renders <pre class="mermaid"> blocks into SVG. After render, we
-  // find nodes whose class list includes a gt-gloss-<id> token, look the gloss
-  // up, attach the Bootstrap popover attributes, and instantiate the popover.
-  function initMermaidGlosses() {
-    if (typeof window.bootstrap === "undefined" || !window.bootstrap.Popover) return;
-    var data = getGlossData();
-    if (!Object.keys(data).length) return;
+  // ---------- (b) Custom popover for SVG nodes ----------
+  var customPop = null;
+  var hideTimer = null;
+  var pinned = false;
 
-    // Walk every SVG <g> / <rect> / etc. with a gt-gloss-* class
+  function ensureCustomPopover() {
+    if (customPop) return customPop;
+    var p = document.createElement("div");
+    p.id = "gt-custom-popover";
+    p.setAttribute("role", "tooltip");
+    p.innerHTML =
+      '<div class="gt-popover-header"></div>' +
+      '<div class="gt-popover-body"></div>' +
+      '<div class="gt-popover-arrow"></div>';
+    document.body.appendChild(p);
+    // Keep the popover alive while the cursor is over it.
+    p.addEventListener("mouseenter", function () {
+      if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+    });
+    p.addEventListener("mouseleave", scheduleHide);
+    customPop = p;
+    return p;
+  }
+
+  function showCustomPopover(node, entry) {
+    var p = ensureCustomPopover();
+    if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+    p.querySelector(".gt-popover-header").textContent = entry.title;
+    p.querySelector(".gt-popover-body").innerHTML =
+      escapeForBody(entry.body) +
+      '<br><br><a href="' + glossaryHref() + '" class="gloss-primer-link">Read full glossary entry &rarr;</a>';
+    p.style.display = "block";
+    // Force layout to read dimensions, then position.
+    requestAnimationFrame(function () { positionCustomPopover(node); });
+  }
+
+  // Body content is plain text from the YAML; we want to render <br> we put in
+  // ourselves but escape any HTML chars in the original body text.
+  function escapeForBody(text) {
+    var div = document.createElement("div");
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  function positionCustomPopover(node) {
+    var p = customPop;
+    if (!p) return;
+    var nodeRect = node.getBoundingClientRect();
+    var popRect = p.getBoundingClientRect();
+    var margin = 8;
+    var arrowSize = 8;
+    // Default: place above the node, horizontally centered.
+    var top = nodeRect.top + window.scrollY - popRect.height - arrowSize;
+    var left = nodeRect.left + window.scrollX + (nodeRect.width - popRect.width) / 2;
+    var placement = "top";
+    if (nodeRect.top - popRect.height - arrowSize < margin) {
+      // Not enough room above — flip below.
+      top = nodeRect.bottom + window.scrollY + arrowSize;
+      placement = "bottom";
+    }
+    // Clamp horizontally to viewport.
+    var maxLeft = window.scrollX + window.innerWidth - popRect.width - margin;
+    var minLeft = window.scrollX + margin;
+    if (left > maxLeft) left = maxLeft;
+    if (left < minLeft) left = minLeft;
+    p.style.top = top + "px";
+    p.style.left = left + "px";
+    p.dataset.placement = placement;
+    // Position the arrow horizontally so it points at the node center.
+    var arrow = p.querySelector(".gt-popover-arrow");
+    if (arrow) {
+      var nodeCenterX = nodeRect.left + window.scrollX + nodeRect.width / 2;
+      var arrowLeft = nodeCenterX - left - arrowSize;
+      arrow.style.left = Math.max(12, Math.min(popRect.width - 24, arrowLeft)) + "px";
+    }
+  }
+
+  function scheduleHide() {
+    if (pinned) return;
+    if (hideTimer) clearTimeout(hideTimer);
+    hideTimer = setTimeout(function () {
+      if (!pinned && customPop) customPop.style.display = "none";
+      hideTimer = null;
+    }, 200);
+  }
+
+  function hideCustomNow() {
+    pinned = false;
+    if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+    if (customPop) customPop.style.display = "none";
+  }
+
+  // ---------- Wire up SVG node triggers ----------
+  function wireSvgNodes() {
+    var data = getGlossData();
+    var keyCount = Object.keys(data).length;
     var nodes = document.querySelectorAll('svg [class*="gt-gloss-"]');
+    if (window.console && console.info) {
+      console.info("[gloss] data entries:", keyCount, "| SVG candidate nodes:", nodes.length);
+    }
+    var wired = 0;
     nodes.forEach(function (node) {
       if (node.dataset.glossInitialized) return;
-      // class can be SVGAnimatedString — read via getAttribute.
       var cls = node.getAttribute("class") || "";
       var token = cls.split(/\s+/).find(function (c) { return c.indexOf("gt-gloss-") === 0; });
       if (!token) return;
       var id = token.substring("gt-gloss-".length);
       var entry = data[id];
-      if (!entry) return;
-
-      var content = entry.body +
-        '<br><br><a href="' + glossaryHref(id) + '" class="gloss-primer-link">Read full glossary entry &rarr;</a>';
-
-      node.setAttribute("data-bs-toggle", "popover");
-      node.setAttribute("data-bs-trigger", "focus hover");
-      node.setAttribute("data-bs-html", "true");
-      node.setAttribute("data-bs-placement", "top");
-      node.setAttribute("data-bs-title", entry.title);
-      node.setAttribute("data-bs-content", content);
-      node.setAttribute("tabindex", "0");
-      // SVG nodes don't accept inline style cursor reliably from CSS-class
-      // selectors in all browsers; set directly.
+      if (!entry) {
+        if (window.console && console.warn) console.warn("[gloss] no data for id", id);
+        return;
+      }
       try { node.style.cursor = "help"; } catch (e) {}
-      // Make all child shapes inherit the cursor and hit-testing.
       Array.from(node.querySelectorAll("rect, polygon, circle, path, text")).forEach(function (c) {
         try { c.style.cursor = "help"; } catch (e) {}
       });
+      node.setAttribute("tabindex", "0");
+      node.setAttribute("role", "button");
+      node.setAttribute("aria-label", "Glossary: " + entry.title);
 
-      try {
-        // Use manual trigger and attach our own listeners — Bootstrap's
-        // auto-attach hover/focus handlers don't reliably fire on SVG <g>
-        // elements across browsers.
-        var pop = new window.bootstrap.Popover(node, {
-          container: "body",
-          html: true,
-          sanitize: false,
-          customClass: "gloss-popover",
-          trigger: "manual",
-          fallbackPlacements: ["top", "bottom", "right", "left"],
-        });
-        var hideTimer = null;
-        var show = function () { if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; } pop.show(); };
-        var hideSoon = function () {
-          if (hideTimer) clearTimeout(hideTimer);
-          hideTimer = setTimeout(function () {
-            // Only hide if the cursor isn't currently over the popover itself.
-            var tip = pop.tip;
-            if (!tip || !tip.matches(":hover")) pop.hide();
-          }, 200);
-        };
-        node.addEventListener("mouseenter", show);
-        node.addEventListener("mouseleave", hideSoon);
-        node.addEventListener("focus", show);
-        node.addEventListener("blur", hideSoon);
-        node.addEventListener("click", function (e) { e.stopPropagation(); show(); });
-        // After tooltip is shown, also keep alive when hovering it.
-        node.addEventListener("inserted.bs.popover", function () {
-          var tip = pop.tip;
-          if (!tip) return;
-          tip.addEventListener("mouseenter", show);
-          tip.addEventListener("mouseleave", hideSoon);
-        });
-        node.dataset.glossInitialized = "1";
-      } catch (e) {
-        if (window.console && console.warn) console.warn("[gloss] Popover init failed for", node, e);
-      }
+      var open = function () { showCustomPopover(node, entry); };
+      var closeSoon = function () { scheduleHide(); };
+      node.addEventListener("mouseenter", open);
+      node.addEventListener("mouseleave", closeSoon);
+      node.addEventListener("focus", open);
+      node.addEventListener("blur", closeSoon);
+      node.addEventListener("click", function (e) {
+        e.stopPropagation();
+        pinned = true;
+        open();
+      });
+      node.dataset.glossInitialized = "1";
+      wired++;
     });
     if (window.console && console.info) {
-      console.info("[gloss] Mermaid SVG gloss nodes wired:", nodes.length);
+      console.info("[gloss] SVG nodes wired:", wired);
     }
   }
 
-  // Wait for Mermaid to render: poll until SVGs appear inside .mermaid blocks,
-  // or until we hit max attempts. Then init.
+  // ---------- Wait for Mermaid to render ----------
   function waitForMermaidThenInit() {
-    var attempts = 60; // ~12s at 200ms intervals
+    var attempts = 80; // ~16s
     function tick() {
       var blocks = document.querySelectorAll("pre.mermaid, div.mermaid");
       if (blocks.length === 0) {
-        // No mermaid on this page; just init inline + done.
         initInlinePopovers();
         return;
       }
       var withSvg = 0;
       blocks.forEach(function (b) { if (b.querySelector("svg")) withSvg++; });
       if (withSvg >= blocks.length) {
-        initMermaidGlosses();
+        wireSvgNodes();
         initInlinePopovers();
       } else if (--attempts > 0) {
         setTimeout(tick, 200);
       } else {
-        // Give up on mermaid; init what we have.
-        initMermaidGlosses();
+        wireSvgNodes();
         initInlinePopovers();
+        if (window.console && console.warn) {
+          console.warn("[gloss] timeout waiting for all Mermaid blocks; wired what was available");
+        }
       }
     }
     tick();
   }
 
-  // Outside-click dismissal for both kinds of popover.
+  // ---------- Outside-click and ESC dismissal ----------
   document.addEventListener("click", function (e) {
-    if (typeof window.bootstrap === "undefined" || !window.bootstrap.Popover) return;
-    document.querySelectorAll('[data-bs-toggle="popover"]').forEach(function (el) {
-      var inst = window.bootstrap.Popover.getInstance(el);
-      if (!inst) return;
-      var tip = inst.tip;
-      if (el.contains(e.target)) return;
-      if (tip && tip.contains(e.target)) return;
-      inst.hide();
-    });
+    if (customPop && customPop.style.display === "block") {
+      if (customPop.contains(e.target)) return;
+      var anyTrigger = e.target.closest('[class*="gt-gloss-"]');
+      if (!anyTrigger) hideCustomNow();
+    }
+    if (typeof window.bootstrap !== "undefined" && window.bootstrap.Popover) {
+      document.querySelectorAll('button.gloss-trigger[data-bs-toggle="popover"]').forEach(function (el) {
+        var inst = window.bootstrap.Popover.getInstance(el);
+        if (!inst) return;
+        var tip = inst.tip;
+        if (el.contains(e.target)) return;
+        if (tip && tip.contains(e.target)) return;
+        inst.hide();
+      });
+    }
   });
-
-  // ESC dismisses all open popovers.
   document.addEventListener("keydown", function (e) {
     if (e.key !== "Escape") return;
+    hideCustomNow();
     if (typeof window.bootstrap === "undefined" || !window.bootstrap.Popover) return;
-    document.querySelectorAll('[data-bs-toggle="popover"]').forEach(function (el) {
+    document.querySelectorAll('button.gloss-trigger[data-bs-toggle="popover"]').forEach(function (el) {
       var inst = window.bootstrap.Popover.getInstance(el);
       if (inst) inst.hide();
     });
   });
+
+  // ---------- Reposition on scroll/resize while popover open ----------
+  window.addEventListener("scroll", function () {
+    // Hide on scroll; users typically don't want a sticky popover while scrolling.
+    if (customPop && customPop.style.display === "block") {
+      customPop.style.display = "none";
+      pinned = false;
+    }
+  }, { passive: true });
+  window.addEventListener("resize", hideCustomNow);
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", waitForMermaidThenInit);
