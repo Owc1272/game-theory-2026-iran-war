@@ -118,28 +118,31 @@ body.depth-deep span.detail-only { display: inline; }
 
 /* ---------- Glossary popover triggers ---------- */
 
+/* Use border-bottom (not text-decoration) — text-decoration on <button> elements
+   does not render reliably across WebKit / Blink. border-bottom always works.
+   Use !important on background + padding to defeat any Bootstrap reboot rules. */
 .gloss-trigger {
-  background: none;
-  border: none;
-  padding: 0;
+  display: inline;
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  border-bottom: 1px dotted var(--bs-primary, #0969da) !important;
+  padding: 0 !important;
   margin: 0;
   font: inherit;
   color: inherit;
   cursor: help;
-  text-decoration: underline dotted;
-  text-decoration-color: var(--bs-primary, #0969da);
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.18em;
-  transition: background 120ms ease;
-  border-radius: 2px;
+  text-decoration: none;
+  line-height: inherit;
+  border-radius: 0;
+  transition: background-color 120ms ease, border-bottom-width 120ms ease;
 }
 .gloss-trigger:hover,
 .gloss-trigger:focus,
 .gloss-trigger:focus-visible {
-  background: rgba(9, 105, 218, 0.08);
-  text-decoration-color: var(--bs-primary, #0969da);
-  text-decoration-thickness: 2px;
-  outline: 2px solid transparent;   /* keep a11y outline; ring above does the visual */
+  background-color: rgba(9, 105, 218, 0.10) !important;
+  border-bottom: 2px dotted var(--bs-primary, #0969da) !important;
+  outline: 2px solid transparent;   /* keep a11y outline ring transparent — color via background */
 }
 .gloss-icon {
   font-size: 0.72em;
