@@ -346,7 +346,13 @@ How likely is each mechanism to be operative — and given it is operative, how 
           "P(load-bearing)": d => `${Math.round(d.post_lb * 100)}%`,
           Tier: "tier"
         },
-        tip: true
+        tip: {
+          // Bump line-wrap width so long Mechanism descriptions wrap instead
+          // of being truncated. Default lineWidth is ~20 em; we need ~35 for
+          // the longest mechanism name to fit on two lines.
+          lineWidth: 35,
+          fontSize: isMobile ? 12 : 13
+        }
       }),
       Plot.text(cdata, {
         x: "post_lb", y: "display",

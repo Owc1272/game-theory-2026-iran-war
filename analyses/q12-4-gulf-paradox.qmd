@@ -327,7 +327,10 @@ How likely is each mechanism to be operative — and given it is operative, how 
           "P(load-bearing)": d => `${Math.round(d.post_lb * 100)}%`,
           Tier: "tier"
         },
-        tip: true
+        tip: {
+          lineWidth: 35,
+          fontSize: isMobile ? 12 : 13
+        }
       }),
       Plot.text(data, {
         x: "post_lb", y: "display",
