@@ -182,6 +182,14 @@ In March 2015, Saudi Arabia led a regional coalition into Yemen aiming to defeat
 
 ---
 
+## Principal-agent severe slippage (Hawkins, Lake, Nielson, Tierney, 2006)
+
+The principal-agent framework analyzes relationships where one actor (the *principal*) delegates authority to another (the *agent*) and the agent develops autonomy that the principal cannot easily revoke. *Severe agency slippage* (Hawkins, Lake, Nielson, Tierney 2006) occurs when four conditions combine: (1) the principal delegates for specialization or credible-commitment reasons, (2) imperfect monitoring creates *slack*, (3) the agent's preferences *drift* from the principal's, and (4) the principal is itself a heterogeneous coalition with collective-action problems disciplining the agent. The framework predicts the relationship persists until the principal's cost of disciplining the agent falls below the cost of continued accommodation. Applied to the 2026 US-Israel coalition in [Q11](analyses/q11-us-israel-coalition.qmd) as one of several competing structural readings.
+
+*Primer chapter:* forthcoming.
+
+---
+
 ## Stackelberg leader-follower
 
 A Stackelberg game is one where one player (the leader) moves first and the other (the follower) optimizes given that move. Originally a model of duopoly competition, the structure applies any time one actor sets the agenda and another adapts to a fait accompli. Applied to the US-Israel coalition in 2026, a Stackelberg reading says Israel led: the December 2025 Mar-a-Lago lobbying, the Stage 0 deterrent-layer degradation, the Situation Room war presentation, and especially Khamenei's assassination (a regime-change act much harder to read as US bargaining than as an Israeli fait accompli the US ratified) all fit Israel-as-leader / US-as-follower-with-veto-attempted. See [Q1](analyses/q1-why-bargaining-failed.qmd).

@@ -66,6 +66,8 @@ website:
           href: analyses/q1-why-bargaining-failed.qmd
         - text: "Q5 — Is the bargaining range empty?"
           href: analyses/q5-bargaining-range.qmd
+        - text: "Q11 — US-Israel coalition structure"
+          href: analyses/q11-us-israel-coalition.qmd
         - section: "Q12 — Gulf states"
           contents:
             - analyses/q12-4-gulf-paradox.qmd

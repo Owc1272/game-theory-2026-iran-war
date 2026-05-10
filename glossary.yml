@@ -55,6 +55,12 @@ glossary:
       Robert Powell's "War as a Commitment Problem" (2006) argues that war happens when one side expects a future power shift the other side cannot credibly commit *not* to exploit. Even when both sides would prefer today's deal, the side that's about to gain power cannot bind its future self to the deal — so the declining side may strike now rather than be coerced later. Applied to Iran 2026, the question is whether Iran's potential nuclear acquisition was the textbook discontinuous shift Powell describes — or whether Iran's offered verification regime was, in fact, a Powell-style monitoring fix that the US/Israel chose not to accept.
     primer: null
 
+  - id: principal-agent-slippage
+    title: "Principal-agent severe slippage (Hawkins, Lake, Nielson, Tierney, 2006)"
+    body: |
+      The principal-agent framework analyzes relationships where one actor (the *principal*) delegates authority to another (the *agent*) and the agent develops autonomy that the principal cannot easily revoke. *Severe agency slippage* (Hawkins, Lake, Nielson, Tierney 2006) occurs when four conditions combine: (1) the principal delegates for specialization or credible-commitment reasons, (2) imperfect monitoring creates *slack*, (3) the agent's preferences *drift* from the principal's, and (4) the principal is itself a heterogeneous coalition with collective-action problems disciplining the agent. The framework predicts the relationship persists until the principal's cost of disciplining the agent falls below the cost of continued accommodation. Applied to the 2026 US-Israel coalition in [Q11](analyses/q11-us-israel-coalition.qmd) as one of several competing structural readings.
+    primer: null
+
   - id: stackelberg-leader-follower
     title: "Stackelberg leader-follower"
     body: |

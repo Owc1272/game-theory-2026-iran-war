@@ -1,0 +1,513 @@
+---
+title: "Q11 — How should the US-Israel coalition be conceptualized?"
+subtitle: "Stress-testing the Stackelberg default: Option C survives but as the modal not the majority reading; data underdetermine between three live frameworks"
+description: "Three modeling choices for the US-Israel coalition: A unitary, B mutual-veto, C Israel-as-Stackelberg-leader. After a hostile DA pass: Option C at posterior 0.40 is the modal reading but specialization-conditional (0.25) and mutual-veto-with-asymmetric-power (0.25) together exceed it. The data underdetermine between these three. Falsification criteria pre-registered."
+categories: [analysis, q11, us-israel, stackelberg, principal-agent]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+Most coalition analysis of the 2026 war treats the US and Israel as one player — a unitary "Western coalition." On inspection, this is a tractability shortcut that obscures one of the war's most analytically interesting features. There are three plausible alternatives — unitary, mutual-veto, or Israel-as-leader — and they make different predictions about how the war ends. Which one is right?
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Q1 found that *Israel-as-[Stackelberg leader]{.gloss data-gloss="stackelberg-leader-follower"}* (Option C) is operative in the war's onset. Q5 found that *γ — regime change as live US/Israeli war aim* depends on the structure of the coalition. Q12.4 found that *Saudi airspace denial* is partly a reading of US patron unreliability under Israeli Stackelberg constraint. The coalition structure is a parameter that shows up in every analysis on this site. Q11 asks: what is the right way to *conceptualize* it?
+
+Three modeling choices, each defensible from a different reading of the evidence:
+
+- **Option A — Unitary actor.** US-Israel as one player with consistent preferences. Tractability-friendly; empirically wrong.
+- **Option B — Mutual veto.** Two players with equal pivotality, each can block the other's action. Either side's preference can stop the coalition.
+- **Option C — [Israel-as-Stackelberg-leader]{.gloss data-gloss="stackelberg-leader-follower"}.** Israel moves first; the US optimizes given Israel's move. The US "follows-with-veto-attempted" — the veto can sometimes be exercised but is constrained by Israel's first-mover advantages.
+
+The Sept 2024 → Feb 2026 evidence looks decisively Stackelberg-Israel. The May 2026 evidence looks more like mutual-veto-with-US-ascendancy. The question is whether this is *structural inversion* or *theater-conditional refinement*, or whether the underlying framework is something else entirely.
+
+Q11 is a *stress test* of the project's Option C default — and the honest finding after the hostile devil's advocate pass is that the framework is more uncertain than the original synthesis claimed.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Option C ([Stackelberg-Israel]{.gloss data-gloss="stackelberg-leader-follower"}) survives stress-test as the *modal* posterior at P ≈ 0.40 — but **not** the majority reading. The data underdetermine between three live frameworks: C-pure Stackelberg (0.40), Specialization-conditional capability distribution (0.25), and Option B mutual-veto-with-asymmetric-power (0.25). Three load-bearing mechanisms (collapsed from five): **α'** Israeli political-coalition consolidation enabling first-mover capability; **β** [principal-agent severe slippage]{.gloss data-gloss="principal-agent-slippage"} (Hawkins-Lake-Nielson-Tierney); **γ'** specialization-conditional capability distribution. Falsification criteria pre-registered.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** The 2026 US-Israel coalition behaved as Option C ([Stackelberg-Israel]{.gloss data-gloss="stackelberg-leader-follower"}) predicts during the September 2024 → April 2026 opportunity-exploitation phase. The pre-DA synthesis had Option C at posterior 0.85 with a "refined" variant absorbing all anomalies; the DA correctly diagnosed this as a Lakatos-style explanatory rescue. After honest reconciliation, the data **underdetermine** between three live frameworks:
+
+- **C-pure ([Stackelberg-Israel]{.gloss data-gloss="stackelberg-leader-follower"} as primary structural framework)** — P ≈ **0.40**, the modal posterior. Israel leads; US follows-with-veto-attempted; the September 2024 → February 2026 sequence is the empirical anchor.
+- **Specialization-conditional capability distribution** — P ≈ **0.25**. Whichever actor has decisive operational asset leads in that domain (Mossad pre-positioning → Israel; Navy + diplomatic apparatus → US). Same predictions as Option C with one fewer parameter. Observationally equivalent in the data we have.
+- **Option B (mutual veto with asymmetric power)** — P ≈ **0.25**. Trump's June 2025 Khamenei veto + Days of Repentance October 2024 target restriction = two well-documented effective US vetoes in 18 months. May 2026's US-led 14-point framework + Project Freedom + Bandar Abbas/Qeshm strikes = a pattern not exception.
+- **C-refined (theater-conditional + time-evolving)** — P ≈ 0.05. Dropped as Ptolemaic rescue framing.
+- **A (unitary)** — P ≈ 0.05. Empirically falsified by Mar-a-Lago + the "farcical" Situation Room + Joseph Kent's resignation + the 14-point divergence.
+
+Three load-bearing mechanisms (DA-collapsed from five to discipline the mechanism-inflation pattern that bedeviled earlier syntheses):
+
+- **α'** — Israeli political-coalition consolidation enabling coordinated first-mover capability against an Iran whose deterrent layers had been progressively degraded. Collapses three previously separate mechanisms (Stackelberg first-mover, Israeli-pragmatist veto degradation, preoccupation-exploitation cycle inversion) into one underlying claim.
+- **β** — [Principal-agent severe slippage]{.gloss data-gloss="principal-agent-slippage"} (Hawkins-Lake-Nielson-Tierney 2006). The US delegated to Israel for specialization and credible-commitment reasons; agency slack from imperfect monitoring + agency drift toward Octopus maximalism + collective-principal problem from US internal heterogeneity = severe slippage. **Caveat**: distinguishable from a "Trump motivated-reasoning that selectively credits aligned input" framework *only* in cases where US wants to discipline Israel but cannot.
+- **γ'** — Specialization-conditional capability distribution. Whichever actor has the decisive operational asset leads in that domain. Simpler than "theater-conditional Stackelberg" with same predictions.
+
+**The honest finding is that Option C is the *modal* but *not majority* reading of the coalition's structural framework. Falsification conditions are pre-registered. The headline contribution is methodological — making the framework uncertainty visible — as much as substantive.**
+:::
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — the eight-step protocol used here
+
+This chapter applies the project's standard protocol: pre-prior → corpus pull (Agent A mapped Options A/B/C to theoretical primitives) → think-tank cross-check (Agent B per-decision-point empirical brief across 15 major decisions) → opposing steel-mans → pre-DA synthesis → hostile devil's advocate → reconcile → source-confidence tier audit + Bayesian framing + pre-mortem. The pre-DA synthesis arrived at "Option C-refined (theater-conditional + time-evolving Stackelberg)" at posterior ≈ 0.65 — a refinement that absorbed both Steel-man A's "pure Stackelberg survives" and Steel-man B's "May 2026 inversion" evidence. The DA correctly diagnosed this as an explanatory rescue (Lakatos): when a framework is refined to accommodate every piece of disconfirming evidence, the framework has lost falsifiability. The post-DA synthesis dropped the rescue framing, lowered Option C to 0.40 (modal but not majority), upgraded the simpler "specialization-conditional capability distribution" alternative to 0.25, upgraded Option B (mutual veto with US asymmetric power) to 0.25, and collapsed five mechanisms to three. Falsification criteria were pre-registered for each surviving claim. The Round 9 briefing-review pass added the *nested Stackelberg* structure (inner Israeli Stackelberg: Likud-right + religious-Zionist + Mizrahi/Shas + Cohen-Barnea-intelligence axis leads, with Labor/IDF-pragmatist faction defeated; inner US Stackelberg: Trump-Hegseth-Israeli-lobby axis leads, with Vance-Caine-Ratcliffe-Rubio-Kent pragmatists defeated) — these are not separate mechanisms but the *internal microfoundations* of α'.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the analytical journey. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  Q[How should we model<br/>the US-Israel<br/>coalition?]
+  Q --> A[Option A:<br/>unitary actor]
+  Q --> B[Option B:<br/>mutual veto<br/>equal pivotality]
+  Q --> C[Option C:<br/>Israel-as-Stackelberg-leader<br/>US follows-with-<br/>veto-attempted]
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef o fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-stackelberg-leader-follower stroke-width:2px
+  class Q q
+  class A,B,C o
+  class C gt-gloss-stackelberg-leader-follower
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**Three modeling choices.** *Option A* (unitary) is empirically falsified almost immediately — the Mar-a-Lago December 2025 lobbying, the "farcical" 11 February Situation Room presentation, Joseph Kent's March 2026 resignation citing "Israeli lobby," and the May 2026 14-point divergence all require *two* principals. *Option B* (mutual veto) treats the US and Israel as equal pivots — each can block the other. *Option C* (Stackelberg) treats Israel as agenda-setter, US as follower-with-veto-attempted. The Q11 task is to *stress-test* the project's Option C default.]{.concise-only}
+
+::: {.deep-only}
+**Three modeling choices, each carrying distinct predictions.**
+
+*Option A — Unitary actor.* Treat US and Israel as one player with consistent preferences. The empirical record falsifies this almost immediately: Netanyahu's 29 December 2025 Mar-a-Lago lobbying *explicitly sought* US action Trump had not yet committed to; the 11 February 2026 Situation Room presentation was reportedly described as "farcical" by then-CIA Director Ratcliffe, with Vance, Caine, Rubio all opposed and Trump proceeding over their objections; Joseph Kent (NCC Director) resigned 17 March 2026 explicitly citing "Israeli lobby"; the May 2026 US 14-point framework dropped Israeli missile + proxy demands that Israel publicly opposed. *Two principals, not one.* P ≈ 0.05.
+
+*Option B — Mutual veto.* Two players with equal pivotality; each can block the other's action. Empirically: Trump's June 2025 Khamenei strike veto held for 8 months until 28 February 2026 — *that's a real veto*. Days of Repentance (October 2024) target restrictions on nuclear and oil facilities also reflect US veto power. But [Shapley-Shubik power-index]{.gloss data-gloss="bayesian-posterior"} analysis in the observed decision sequence is not 0.5/0.5: Israel sets the agenda much more often than the US does, and most US "vetoes" are conditional restrictions rather than outright blocks. Pure Option B doesn't fit, but Option B *with US ascendancy in some domains* does fit some of the May 2026 data.
+
+*Option C — [Stackelberg-Israel]{.gloss data-gloss="stackelberg-leader-follower"}.* Israel moves first; the US optimizes given Israel's move. Stanford Johari Theorem 1 says the leader's payoff weakly dominates the Nash payoff — leader is better off setting the agenda first. Schelling's *burning bridges* logic explains why Israel's irreversible commitments (Mossad pre-positioning, Khamenei strike, "Eternal Darkness") bind US choices in domains where the cost of US withdrawal exceeds the cost of US accommodation. This is the project-level default established at the [Q1 finding](q1-why-bargaining-failed.qmd) that Mechanism 3 (Israel-Stackelberg) is load-bearing at posterior 0.6.
+
+**The Q11 task per §8 of the analysis plan is to stress-test Option C** — identify discriminating evidence, note where alternative frameworks predict qualitatively different outcomes, pre-register falsification conditions. Q11 is verification, not discovery. The honest finding turns out to require more humility than the project's default suggests.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  S[Sept 2024:<br/>Hezbollah pager<br/>attacks]
+  D[Oct 2024:<br/>Days of<br/>Repentance]
+  T[Jun 2025:<br/>Twelve-Day<br/>War]
+  M[Dec 2025:<br/>Mar-a-Lago<br/>lobbying]
+  R[Feb 11 2026:<br/>'Farcical'<br/>Situation Room]
+  K[Feb 28 2026:<br/>Strikes /<br/>Khamenei killed]
+  S --> D
+  D --> T
+  T --> M
+  M --> R
+  R --> K
+  classDef e fill:#0969da,color:#fff,stroke:#0969da
+  class S,D,T,M,R,K e
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**The Sept 2024 → Feb 2026 sequence reads as Stackelberg-Israel.** Each major decision shows Israel setting the agenda and the US accommodating. Mossad's September 2024 pager attack: US warned hours-to-minutes before, Hochstein's day-before warning ignored. Days of Repentance: Israel chose timing; US conditioned scope. Twelve-Day War: Israel opened; US joined as follower. Mar-a-Lago: Netanyahu lobbied; "permission structure built." The 11 February Situation Room: Israeli intelligence trumped US CIA/CJCS/State/VP. 28 February strikes: Khamenei assassination reversed Trump's June 2025 veto.]{.concise-only}
+
+::: {.deep-only}
+**The Sept 2024 → Feb 2026 sequence reads as near-pure Stackelberg-Israel.** Each major decision shows Israel setting the agenda and the US accommodating:
+
+- **17–18 September 2024 — Hezbollah pager attacks.** Israel acted unilaterally. The US was warned hours-to-minutes before; Amos Hochstein's day-before warning to defer was ignored. This is *Mossad-as-Stackelberg-leader on Israeli timing* — the US wasn't consulted, it was *notified*.
+- **26 October 2024 — *Days of Repentance* against Iranian S-300 air defenses.** Israel chose the timing; the US conditioned the scope (no nuclear or oil targets). This is the cleanest *Option B operative* case: the US successfully restricted target scope, but Israel still set the agenda. The veto was conditional, not blanket.
+- **June 2025 — *Twelve-Day War* on nuclear infrastructure.** Israel opened; the US joined as follower. Trump's June 2025 *Khamenei strike veto* held — the US blocked decapitation. Read as Option B: a real veto. Read as Option C: the exception that proves the rule (US could veto specific operations but not the operational template Israel established).
+- **29 December 2025 — Mar-a-Lago lobbying.** Netanyahu lobbied; the "permission structure" was deliberately ambiguous — classic Stackelberg leader move designed to create irreversible commitment for the follower.
+- **11 February 2026 — "Farcical" Situation Room presentation.** Ratcliffe, Caine, Rubio, Vance *all* opposed. Trump went forward based on Israeli intelligence. *The single most important data point against Option A and proof that Israeli intelligence trumped US national-security apparatus.*
+- **28 February 2026 — strikes; Khamenei killed.** Over CIA / CJCS / State / VP objections. Israeli intelligence was the "decisive factor." The Khamenei assassination *reversed* Trump's June 2025 veto — Israel obtained what was previously vetoed.
+
+Under Option C, this is the smoking gun: Israel led, US accommodated, on every operational decision that mattered for the war's onset. Under Option B, the veto record is mixed but real (Days of Repentance scope restriction; June 2025 Khamenei veto held 8 months). Both readings are present in the same data. The pre-DA synthesis claimed Option C with posterior 0.85; the DA argued this is over-confident given the simpler readings available.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart TB
+  D[Same data:<br/>15 major decisions<br/>Sept 2024 - May 2026]
+  D --> CA[Reading 1:<br/>Stackelberg-Israel<br/>P 0.40]
+  D --> CB[Reading 2:<br/>Specialization-conditional<br/>capability distribution<br/>P 0.25]
+  D --> CC[Reading 3:<br/>Mutual veto with<br/>US asymmetric power<br/>P 0.25]
+  CA --- N1[Israel sets agenda;<br/>US follows-with-veto-attempted]
+  CB --- N2[Whoever has decisive<br/>operational asset<br/>leads in that domain]
+  CC --- N3[Both can veto;<br/>US wins majority of vetoes<br/>by political weight]
+  classDef d fill:#0969da,color:#fff,stroke:#0969da
+  classDef r fill:#dafbe1,stroke:#2da44e
+  classDef n fill:#f6f8fa,stroke:#d0d7de
+  classDef gt-gloss-stackelberg-leader-follower stroke-width:2px
+  class D d
+  class CA,CB,CC r
+  class CA gt-gloss-stackelberg-leader-follower
+  class N1,N2,N3 n
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**The data underdetermine.** Three readings of the same 15 decisions are alive. **Stackelberg-Israel** says Israel led on every consequential decision; the US accommodated; the veto record is exceptional, not structural. **Specialization-conditional** says Israel led where Mossad pre-positioning was decisive; the US led where Navy + diplomatic apparatus was decisive — same predictions with one fewer parameter. **Mutual-veto-with-asymmetric-power** says both can veto and do; US wins more often by political weight; "Stackelberg" is the appearance of an asymmetric vetoing pattern. None of the three has posterior above 0.5.]{.concise-only}
+
+::: {.deep-only}
+**The DA's central critique: three readings of the same data are alive, and the choice between them is currently a framework-choice rather than a data-driven inference.**
+
+**Reading 1 — Pure [Stackelberg-Israel]{.gloss data-gloss="stackelberg-leader-follower"}** (posterior P ≈ 0.40). The Sept 2024 → Feb 2026 sequence shows Israel setting the agenda and the US accommodating on every consequential decision that mattered for the war's onset. The veto record (Days of Repentance scope restriction; June 2025 Khamenei veto) is *real* but exceptional — the US could veto *specific operations* but not the operational template Israel established. Stanford Johari Theorem 1 + Schelling burning-bridges + [Hawkins-Lake-Nielson-Tierney principal-agent severe slippage]{.gloss data-gloss="principal-agent-slippage"} jointly support the reading.
+
+**Reading 2 — Specialization-conditional capability distribution** (posterior P ≈ 0.25). Whichever actor has the decisive operational asset in a given domain leads there: Israel leads where Mossad pre-positioning + intelligence on regime targets is decisive (Iran-direct-strikes, Lebanon, Mossad-covert); the US leads where Navy + diplomatic apparatus + multilateral coercion + China relationship is decisive (Hormuz blockade management, the 14-point framework, the Trump-Xi summit). *Same predictions as Option C with one fewer parameter* — no Stackelberg game structure needed, just capability-distribution. The DA correctly identified this as observationally equivalent. Pape and Gholz on asymmetric coalition behavior provide the theoretical scaffold.
+
+**Reading 3 — Option B (mutual veto with US asymmetric power)** (posterior P ≈ 0.25). Both sides can veto and do. Trump's June 2025 Khamenei strike veto held 8 months — that's *real* veto power. Days of Repentance October 2024 target restrictions — *real* veto power. May 2026's US-led 14-point framework + Project Freedom + Bandar Abbas/Qeshm strikes + Israel publicly *denying involvement* in the Bandar Abbas strikes — that's the US setting the agenda and Israel accommodating. The "Stackelberg-Israel" pattern in Sept 2024 → Feb 2026 is the *appearance* of an asymmetric vetoing pattern where the US has been politically aligned (Trump-Hegseth-Israeli-lobby axis) with Israeli preferences — once Trump's preferences shift (May 2026 14-point evidence), the veto pattern realigns and the US asserts its asymmetric power.
+
+**The DA's Critique 1 — explanatory rescue.** The pre-DA synthesis arrived at "Option C-refined (theater-conditional + time-evolving Stackelberg)" at posterior 0.65, a framing that absorbed *both* "Stackelberg holds" *and* "May 2026 inversion" evidence by adding qualifications. The DA correctly diagnosed this as a Lakatos-style rescue: when a framework is refined to accommodate every piece of disconfirming evidence, the framework has lost falsifiability. The post-DA reconciliation drops the rescue framing and reports the honest three-way uncertainty. The synthesis's contribution is *methodological as much as substantive*: making the framework uncertainty visible rather than papering it over.
+
+**Bayesian posture**: Option C is the *modal* posterior at 0.40, but the combined posterior of competing readings (Specialization 0.25 + B-asymmetric 0.25 = 0.50) *exceeds* it. Option C is not the majority reading. The synthesis reports this honestly.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart TB
+  N[Nested Stackelberg<br/>structure]
+  N --> OI[Outer Stackelberg:<br/>Israel-coalition leads;<br/>US-coalition follows]
+  N --> II[Inner Israeli:<br/>Likud-right + religious-Zionist +<br/>Mizrahi-Shas + intelligence axis leads;<br/>Labor/IDF-pragmatist defeated]
+  N --> IU[Inner US:<br/>Trump-Hegseth-Israeli-lobby axis leads;<br/>Vance-Caine-Ratcliffe-Rubio-Kent defeated]
+  classDef n fill:#0969da,color:#fff,stroke:#0969da
+  classDef i fill:#dafbe1,stroke:#2da44e
+  class N n
+  class OI,II,IU i
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**The nested Stackelberg structure.** The Israeli coalition that leads the outer Stackelberg is *itself* a Stackelberg game: Likud-right + religious-Zionist + Mizrahi-Shas + Cohen-Barnea-intelligence axis leads, with Labor/IDF-pragmatist faction defeated by systematic dismantling (Halevi/Bar/Gallant firings). The US coalition has a parallel inner Stackelberg: Trump-Hegseth-Israeli-lobby axis leads, with Vance-Caine-Ratcliffe-Rubio-Kent pragmatists defeated. The outer Stackelberg-Israel pattern is the *consequence* of both inner Stackelbergs going the same way.]{.concise-only}
+
+::: {.deep-only}
+**The nested Stackelberg structure (Round 9 briefing-review insight).** The "Israel" in the outer Stackelberg game is *not* a unitary actor — it is itself a Stackelberg game. Same for the US "coalition." The outer pattern is the consequence of both inner Stackelbergs resolving in the same political direction:
+
+*Inner Stackelberg — Israeli.* The leader coalition is **Likud-right + religious-Zionist (Smotrich-Ben-Gvir) + Mizrahi/Shas + Cohen-Barnea-era intelligence community**. The defeated follower is the **Labor/IDF-pragmatist faction** — Rabin's pragmatist tradition; the 2010-2012 Dagan-Diskin-Ashkenazi blocking attempt that Netanyahu called "trying to steal a war." The institutional architecture that enabled the 2010-2012 veto was *systematically dismantled* in 2024-25: the Halevi resignation (22 January 2025), Bar firing, Gallant firing; the Haliva and Finkelman resignation cascade. The Hesder pipeline (~33 % of IDF infantry officers; ~50 % of combat-officer graduates) is the *structural-demographic underpinning* across multi-decade horizon. The 2010-12 pattern *cannot replicate* in 2026 because the institutional architecture that enabled it has been deliberately removed. This is the [pragmatist-degradation mechanism]{.gloss data-gloss="octopus-doctrine"} that explains Stackelberg stability on the Israeli side.
+
+*Inner Stackelberg — US.* The leader coalition is **Trump-Hegseth-Israeli-lobby axis** (with 11-year Republican-Likud alignment since the 2015 Boehner Congress speech and the 2018 Mossad archive theft → JCPOA exit pipeline). The defeated follower is **Vance-Caine-Ratcliffe-Rubio-Kent pragmatists** — visible dissent at multiple decision points (Situation Room 11 February; Joseph Kent's resignation 17 March explicitly citing "Israeli lobby"; the "farcical" framing). The dissent is observable but does not aggregate into a structural constraint — exactly the *collective-principal problem* that Hawkins-Lake-Nielson-Tierney identify as one of the four conditions for severe [principal-agent slippage]{.gloss data-gloss="principal-agent-slippage"}.
+
+**What the nested structure adds**: the outer Stackelberg-Israel pattern is not an exogenous datum — it is the consequence of *both* inner Stackelbergs going the same way. This generates predictions: if either inner Stackelberg flips (Israeli pragmatist faction recovers institutional power; US Vance-Caine-Ratcliffe-Rubio-Kent pragmatists succeed in blocking a Trump-Israel-aligned decision), the outer Stackelberg-Israel pattern weakens. Falsifiers are pre-registered in the [Figure 4 dashboard](#dashboard) below.
+
+**The nested structure is a microfoundation, not a separate mechanism.** Per Q11 DA Critique 13's mechanism-inflation watch — the original synthesis had five mechanisms (α Stackelberg, β P-A, γ theater-conditional, δ pragmatist degradation, ε preoccupation-exploitation cycle); the reconciled synthesis collapses three of those (α + δ + ε) into a single mechanism α' = "Israeli political-coalition consolidation enabled coordinated first-mover capability." The nested-Stackelberg structure is a sub-component of α', not a sixth mechanism.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+The figures below capture the analytical state without requiring you to read the walkthrough. Four views: (1) configuration probabilities across all five readings, (2) per-decision-point evidence, (3) nested Stackelberg structure, (4) pre-registered falsification criteria.
+
+### Figure 1 — Configuration probabilities
+
+How likely is each coalition-structure reading to be the right framework? After the eight-step protocol + DA + briefing-review.
+
+```{ojs}
+//| label: fig-q11-configurations
+//| fig-cap: "Posterior probabilities over five coalition-structure readings, sorted by posterior. Hover any bar for full description and notes. Note: C-pure is the modal posterior but NOT the majority — Specialization-conditional + Option-B-with-asymmetric-power together exceed it (0.50 vs 0.40)."
+
+{
+  const data = [
+    {id: "C-pure",   full: "C-pure — Stackelberg-Israel as primary structural framework",        post: 0.40, tier: "T3", note: "Modal but NOT majority. Combined alternatives (0.50) exceed it."},
+    {id: "Spec",     full: "Specialization-conditional capability distribution",                    post: 0.25, tier: "T3", note: "Whoever has decisive operational asset leads in that domain. Same predictions as C-pure with one fewer parameter."},
+    {id: "B-asym",   full: "Option B mutual veto with US asymmetric power",                         post: 0.25, tier: "T3", note: "Trump's June 2025 Khamenei veto + Days of Repentance restriction = real vetoes. May 2026 evidence shows US-led pattern."},
+    {id: "C-refined",full: "C-refined (theater-conditional + time-evolving Stackelberg)",          post: 0.05, tier: "T4", note: "Dropped as Lakatos-style rescue framing per DA Critique 1."},
+    {id: "A",        full: "A — Unitary actor (US-Israel as one player)",                          post: 0.05, tier: "T4", note: "Empirically falsified by Mar-a-Lago + Situation Room + Joseph Kent + 14-point divergence."}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 280 : Math.max(360, Math.min(480, Math.round(width * 0.38)));
+  const cdata = data.map(d => ({ ...d, display: d.id }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 80 : 130,
+    marginRight: isMobile ? 56 : Math.max(80, Math.round(width * 0.08)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Posterior probability",
+      domain: [0, 0.5],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: cdata.map(d => d.display) },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.barX(cdata, {
+        x: "post", y: "display",
+        fill: "tier", insetTop: 10, insetBottom: 10,
+        channels: {
+          Reading: "full",
+          "Posterior": d => `${Math.round(d.post * 100)}%`,
+          Tier: "tier",
+          Note: "note"
+        },
+        tip: { lineWidth: 35, fontSize: isMobile ? 12 : 13 }
+      }),
+      Plot.text(cdata, {
+        x: "post", y: "display",
+        text: d => `${Math.round(d.post * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
+      }),
+      Plot.ruleX([0.5], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+      Plot.text([{ x: 0.5, y: cdata[0].display }], {
+        x: "x", y: "y", text: () => "← majority threshold",
+        dx: -8, dy: -Math.round(baseFont * 1.5), textAnchor: "end",
+        fontSize: annotFont, fill: "#0969da", fontStyle: "italic", fontWeight: 500
+      })
+    ]
+  });
+}
+```
+
+::: {.mech-legend .always}
+**Configuration codes** — hover any bar for the full description:
+
+| Code | Reading |
+|:---:|---|
+| **C-pure** | Stackelberg-Israel as primary structural framework |
+| **Spec** | Specialization-conditional capability distribution |
+| **B-asym** | Option B (mutual veto with US asymmetric power) |
+| **C-refined** | Theater-conditional + time-evolving Stackelberg *(dropped)* |
+| **A** | Unitary actor *(empirically falsified)* |
+:::
+
+[**Reading the chart.** C-pure is the modal posterior at 40 %, but it is **not** the majority — the combined posterior of Spec + B-asym (50 %) *exceeds* C-pure. The dashed line at 0.5 is the "majority threshold"; no single configuration crosses it. The honest reading: the data underdetermine between three live frameworks.]{.concise-only}
+
+[**Reading the chart.** Three configurations have substantial posterior mass: **C-pure** (0.40, modal), **Specialization-conditional** (0.25), and **Option B with asymmetric power** (0.25). The dashed blue line at 0.5 is the "majority threshold" — no single configuration crosses it. The combined posterior of Spec + B-asym (0.50) *exceeds* C-pure (0.40). This means the modal posterior is not the majority view, and any project-level conclusion that depends on the coalition framework should report uncertainty across all three. **C-refined** (theater-conditional + time-evolving) is at 0.05 — dropped as a Lakatos-style explanatory rescue; the empirical observations it absorbs (theater-conditionality and time-evolution) are real, but treating them as refinements to Option C let the framework absorb evidence that should have updated the posterior away from C. **A** (unitary) is empirically falsified by the documented internal disagreements within both coalitions. All five posteriors are [T3]{.tier .tier-3} because each is a framework-choice inference rather than a directly-measured probability — appropriate for what is fundamentally a model-selection question rather than a data-extraction question.]{.deep-only}
+
+::: {.callout-note collapse="true"}
+## Show the underlying numbers (incl. pre-DA priors)
+
+| Configuration | Pre-DA P | Post-DA P | Tier |
+|---|:---:|:---:|:---:|
+| **C-pure — Stackelberg-Israel as primary** | 0.20 | **0.40** | [T3]{.tier .tier-3} |
+| **Specialization-conditional capability distribution** | n/a | **0.25** | [T3]{.tier .tier-3} |
+| **Option B (mutual veto with US asymmetric power)** | 0.10 | **0.25** | [T3]{.tier .tier-3} |
+| C-refined (theater-conditional + time-evolving) | 0.65 | 0.05 | [T4]{.tier .tier-4} |
+| A (unitary) | 0.05 | 0.05 | [T4]{.tier .tier-4} |
+
+The DA pass *reduced* the modal posterior (from 0.65 on C-refined to 0.40 on C-pure) by stripping the explanatory-rescue framing and surfacing two alternative readings (Specialization-conditional, B-asymmetric) that the original synthesis had absorbed into "C-refined."
+:::
+
+### Figure 2 — Per-decision Stackelberg evidence
+
+Each major decision in the September 2024 → May 2026 sequence reads under each of the three live frameworks. Where readings diverge, the decision is *discriminating*; where they agree, it is consistent with multiple frameworks.
+
+```{mermaid}
+flowchart TB
+  subgraph SEQ ["Sept 2024 - April 2026 opportunity-exploitation phase"]
+    direction LR
+    S1[Pager attacks Sept 2024]
+    S2[Days of Repentance Oct 2024]
+    S3[Twelve-Day War Jun 2025]
+    S4[Mar-a-Lago Dec 2025]
+    S5[Farcical Sit Room Feb 11]
+    S6[Strikes / Khamenei Feb 28]
+    S7[Eternal Darkness Apr 8]
+    S1 --> S2 --> S3 --> S4 --> S5 --> S6 --> S7
+  end
+  subgraph MAY ["May 2026 conflict-management phase"]
+    direction LR
+    M1[14-point drops Israeli demands]
+    M2[Project Freedom US-only]
+    M3[Bandar Abbas / Qeshm strikes Israel publicly denies]
+    M1 --> M2 --> M3
+  end
+  SEQ -.->|reads as<br/>Stackelberg-Israel<br/>under all 3 frameworks| AMB1[Same predictions —<br/>does not discriminate<br/>Spec from C-pure]
+  MAY -.->|reads as<br/>US-led under all 3| AMB2[Same predictions —<br/>does not discriminate<br/>Spec from B-asym]
+  classDef seq fill:#0969da,color:#fff,stroke:#0969da
+  classDef may fill:#dafbe1,stroke:#2da44e
+  classDef amb fill:#fff8c5,stroke:#d4a72c
+  class S1,S2,S3,S4,S5,S6,S7 seq
+  class M1,M2,M3 may
+  class AMB1,AMB2 amb
+```
+
+[**Reading the figure.** The September 2024 → April 2026 sequence reads as Stackelberg-Israel under all three frameworks: C-pure, Specialization-conditional, and Option B all predict Israel leads when its specialization advantage (Mossad pre-positioning) is decisive. The May 2026 sequence reads as US-led under all three: when the US specialization advantage (Navy + diplomatic apparatus) is decisive, the US leads. *The frameworks predict the same observable behavior on the actual data — they are observationally equivalent on what we have observed.*]{.concise-only}
+
+[**Reading the figure.** This is the heart of the DA's identification problem. The September 2024 → April 2026 *opportunity-exploitation phase* reads as Stackelberg-Israel under all three competing frameworks: C-pure (Israel leads because Israel is the structural leader); Specialization-conditional (Israel leads because Mossad pre-positioning + Octopus Doctrine intelligence is the decisive operational asset); Option B with asymmetric power (the US's vote-power is shaped by Trump-Israeli-lobby alignment, so US "vetoes" mostly don't fire on Israeli-preferred actions during this phase). The May 2026 *conflict-management phase* reads as US-led under all three: C-pure has no model for this (which is why C-refined was tempted); Specialization-conditional naturally predicts it (US has Navy + diplomatic apparatus advantage on Hormuz + 14-point + Trump-Xi); Option B predicts it (US asymmetric power asserts when political alignment shifts). *The three frameworks predict the same observable behavior on the actual data we have.*
+
+**The cases that would discriminate** are not in the existing record:
+- *For C-pure vs Spec*: a case where Israel acts unilaterally on something *not* in its specialization domain (e.g., Hormuz operations) and the US accommodates anyway. Not observed.
+- *For C-pure vs B-asym*: a case where the US tries to discipline Israel against Israeli preferences and *fails despite Israeli aligned-preference reading*. The Eternal Darkness 8 April moment is the closest case, but Trump's "non-objection" is consistent with both P-A failure AND aligned-preference.
+- *For Spec vs B-asym*: a case where the US's specialization domain is contested but the US wins despite political-coalition opposition. Not yet observed.
+
+The implication is methodological: project-level conclusions that depend on the coalition framework (Q1's Mech 3 strength, Q5's γ posterior, Q12.5's Configuration F) should report uncertainty across all three frameworks, not just the modal one. This is the central downstream consequence of Q11's findings.]{.deep-only}
+
+### Figure 3 — Nested Stackelberg structure
+
+If Option C is operative, the inner architecture is what makes the outer pattern stable. Both coalitions have nested Stackelbergs going the same way.
+
+```{mermaid}
+flowchart TB
+  subgraph OUTER ["OUTER Stackelberg"]
+    OL[Israel-coalition<br/>LEADS]
+    OF[US-coalition<br/>FOLLOWS-with-veto-attempted]
+    OL ==> OF
+  end
+  subgraph INNER_IL ["Inner Israeli Stackelberg"]
+    direction TB
+    ILL[LEADS:<br/>Likud-right + religious-Zionist +<br/>Mizrahi/Shas + Cohen-Barnea intelligence]
+    ILF[DEFEATED:<br/>Labor / IDF pragmatist faction<br/>Halevi, Bar, Gallant removed 2024-25]
+    ILL ==> ILF
+  end
+  subgraph INNER_US ["Inner US Stackelberg"]
+    direction TB
+    USL[LEADS:<br/>Trump-Hegseth-Israeli-lobby axis<br/>11-year Republican-Likud alignment]
+    USF[DEFEATED:<br/>Vance-Caine-Ratcliffe-Rubio-Kent pragmatists<br/>Joseph Kent resigned Mar 2026]
+    USL ==> USF
+  end
+  INNER_IL -.->|microfoundations of| OUTER
+  INNER_US -.->|microfoundations of| OUTER
+  classDef o fill:#0969da,color:#fff,stroke:#0969da
+  classDef l fill:#dafbe1,stroke:#2da44e
+  classDef d fill:#ffe5d9,stroke:#cf222e
+  class OL,OF o
+  class ILL,USL l
+  class ILF,USF d
+```
+
+[**Reading the figure.** The outer Stackelberg-Israel pattern is the consequence of *both* inner Stackelbergs going the same way. The Israeli coalition's inner leader is the Likud-right + religious-Zionist + Mizrahi/Shas + Cohen-Barnea-intelligence axis; the defeated follower is the Labor/IDF-pragmatist faction (Halevi, Bar, Gallant removed in 2024-25). The US coalition's inner leader is the Trump-Hegseth-Israeli-lobby axis (built over 11 years of Republican-Likud alignment); the defeated follower is the Vance-Caine-Ratcliffe-Rubio-Kent pragmatists (Joseph Kent resigned March 2026 citing "Israeli lobby"). If *either* inner Stackelberg flips, the outer pattern weakens.]{.concise-only}
+
+[**Reading the figure.** The outer Stackelberg-Israel pattern (Israel leads, US follows-with-veto-attempted) is *not* exogenous — it is the joint consequence of two inner Stackelbergs resolving in the same political direction.
+
+*Inner Israeli Stackelberg.* The leader coalition (**Likud-right + religious-Zionist (Smotrich-Ben-Gvir) + Mizrahi/Shas + Cohen-Barnea-era intelligence community**) was built over a multi-decade trajectory: Begin Doctrine 1981 (Osirak) institutionalized the small-inner-circle template; the 2005 Sharon-Kadima split hemorrhaged Likud's pragmatic wing; the 2015 Boehner Congress speech locked Likud into the Republican coalition; the 2018 Mossad archive theft → JCPOA exit operationalized the alignment; the 2023 judicial reform consumed political-intelligence bandwidth; the 2024-25 firings (Gallant, Bar) and resignation cascade (Haliva, Halevi, Finkelman) dismantled the institutional architecture that enabled the 2010-2012 Dagan-Diskin-Ashkenazi blocking attempt. The Hesder pipeline (~33 % of IDF infantry officers; ~50 % of combat-officer graduates) is the structural-demographic underpinning. The 2010-12 pattern *cannot replicate* in 2026.
+
+*Inner US Stackelberg.* The leader coalition (**Trump-Hegseth-Israeli-lobby axis**) has 11-year operating depth — built from the 2015 Boehner speech, the 2018 JCPOA exit, the Christian-Zionist political bloc, and AIPAC institutional capture. The defeated follower is the **Vance-Caine-Ratcliffe-Rubio-Kent pragmatists** with visible dissent at every major decision: Vance opposed strikes at Mar-a-Lago; Caine and Rubio opposed at 11 February Situation Room; Ratcliffe described the case as "farcical"; Joseph Kent resigned 17 March 2026 explicitly citing "Israeli lobby." The dissent is observable but does not aggregate into a structural constraint — exactly the *collective-principal problem* that Hawkins-Lake-Nielson-Tierney identify as the fourth condition for severe [principal-agent slippage]{.gloss data-gloss="principal-agent-slippage"}.
+
+**The framework implication**: if *either* inner Stackelberg flips, the outer pattern weakens. Falsifiers are concrete and watchable — see Figure 4.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+### Figure 4 — Pre-registered falsification criteria
+
+Per DA Critiques 2 and 5, each surviving claim has an explicit falsification condition. This is the methodological discipline that distinguishes a *finding* from a Lakatos-style explanatory rescue.
+
+| Claim | Falsifier | When/where to watch |
+|---|---|---|
+| **Option C-pure** | Israel acts unilaterally and US successfully reverses or punishes with material cost (aid suspension; weapons embargo; alliance dissolution) | 2026-2027 — does any Israeli sabotage during MOU window trigger US sanctioning? |
+| **Specialization-conditional** | Israel leads on something *not* in its specialization domain (e.g., Hormuz operations) and US accommodates anyway, OR US leads on something *in* Israel's specialization domain (Iran-direct-strikes) without Israeli first-mover | Any 2026-2027 case meeting either criterion |
+| **B-asym (mutual veto with US asymmetric)** | US tries to discipline Israel and Israel complies on a major operational decision; OR Israel acts unilaterally and US cannot find any disciplinary lever | 2026-2027 — Israeli action during MOU window + US response. Currently the Eternal Darkness 8 April case is ambiguous |
+| **α' (Israeli political-coalition consolidation)** | Israeli pragmatist faction (Bennett-Lapid coalition; IDF security chiefs; Hayman/INSS) publicly vetoes a Likud-right decision and Likud-right backs down | Late June/July 2026 election outcome; coalition formation post-election; Hayman/INSS public-dissent escalation; security-chiefs public statements per *Haaretz* 7 May pattern |
+| **β (principal-agent slippage)** | US tries to constrain Israel and Israel complies (suggests P-A control mechanisms still functional). **Note**: the June 2025 Khamenei veto and Days of Repentance target restriction *are this case* — open question whether they're isolated exceptions or show P-A is functional with US-side political will as the binding constraint | Any future US-Israel scope dispute where Israeli compliance is observable |
+| **Nested-Stackelberg structure** | Any Israeli pragmatist-faction veto success in 2026-2027 (falsifies inner-Israeli-Stackelberg); any US pragmatist-faction (Vance/Caine/Ratcliffe/Rubio) success in blocking a Trump-Israel-aligned decision (falsifies inner-US-Stackelberg). If either is falsified, drop the nested framing entirely | Watch summer 2026 onward |
+
+The pre-registration is what makes Option C *falsifiable*. Without it, every piece of disconfirming evidence can be absorbed via refinement. Pre-registration is also what makes the synthesis honest: if the criteria are not met within their watch windows, the framework should update.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+If this synthesis is wrong, the most likely failure modes are:
+
+1. **The DA over-corrected.** Treating C-pure at 0.40 as honestly uncertain may be too humble. The Sept 2024 → Feb 2026 evidence is *unusually clean* — 15 major decisions, each consistent with Stackelberg-Israel, with two known US vetoes (Khamenei veto + Days of Repentance scope) as the rare exceptions. If a future researcher concludes the rare-exception pattern is the *signature* of Option C (not Option B), the post-DA posterior may be too low. Counter: the Specialization-conditional reading remains genuinely observationally equivalent on existing data.
+
+2. **The post-DA configuration ignores a fourth structural reading.** Mearsheimer-Walt lobby-capture, structural-realist alliance dependence, and democratic-peace-violations-from-veto-player frameworks all have analytical purchase on the case. If one of them is the *right* structural framing, then the posterior mass currently distributed across C-pure / Spec / B-asym should be partly redistributed.
+
+3. **The nested Stackelberg structure is too clean.** The Israeli inner coalition (Likud + religious-Zionist + Mizrahi/Shas + intelligence) is empirically real but may not be *Stackelberg* in the strict sense — it may be a pluralist hawkish-coalition equilibrium rather than a leader-follower game. If so, "nested Stackelberg" overspecifies what is actually a coalition-bargaining structure.
+
+4. **The May 2026 evidence is too thin.** Three weeks of "US-led pattern" (14-point framework; Project Freedom; Bandar Abbas/Qeshm strikes) is not enough to support a structural claim about Option B's posterior rising to 0.25. The "inversion" reading may be sampling-error overreach.
+
+5. **The mechanism collapse (5 → 3) may be too aggressive.** α + δ + ε collapsed into α' may have lost real explanatory content — specifically, the preoccupation-exploitation cycle (ε) is *temporal* in a way that political-coalition consolidation alone is not. If a future Q1.4 finding restores ε as a distinct mechanism, the synthesis here would need to update.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+The full reasoning, source-by-source corpus pull (`Q11_agent_A_corpus_pull.md`), per-decision-point empirical brief (`Q11_agent_B_case_pull.md`), devil's-advocate critique (`Q11_DA_critique.md`), briefing-review Round 9 enrichment, and source-confidence tier audit live in the underlying analysis file: `Q11_us_israel_coalition.md`.
+
+Key citations: @schelling1960strategy (burning bridges, irreversible commitment); @schelling1966arms (manipulation of shared risk); @fearon1995rationalist; @lake2009hierarchy (hierarchy as principal-agent enrichment); @powell2006commitment.
+
+**Highest-priority remaining corpus gaps for Q11:**
+
+- Hawkins, Lake, Nielson, Tierney 2006 *Delegation and Agency in International Organizations* — the principal-agent severe-slippage framework. Currently used via secondary summary.
+- Stanford Johari Theorem 1 on Stackelberg-leader payoff dominance — used via summary
+- Mearsheimer-Walt 2007 *The Israel Lobby and US Foreign Policy* — not in corpus; relevant counter-framework
+- Bergman 2018 *Rise and Kill First* — Israeli intelligence doctrine evolution
+- Pape and Gholz on asymmetric coalition behavior — used as theoretical scaffold for Specialization-conditional reading; not in corpus
+
+```{=html}
+</div>
+```
