@@ -7,7 +7,7 @@ subtitle: "Each chapter takes one question, one canonical formal model (or where
 
 | # | Question | Status |
 |---|----------|--------|
-| Q1 | Why did bargaining fail on 28 February 2026 — *during* active negotiations? | analysis complete |
+| **Q1** | **[Why did bargaining fail on 28 February 2026 — *during* active negotiations?](q1-why-bargaining-failed.qmd)** | **chapter live** |
 | Q2 | Why has the war persisted past initial strikes? | drafting |
 | Q3 | Why is the Pakistan-mediated ceasefire unstable? | drafting |
 | Q4 | What sustains the coalitions? | drafting |

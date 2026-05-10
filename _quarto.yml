@@ -60,6 +60,8 @@ website:
       collapse-level: 2
       contents:
         - analyses/index.qmd
+        - text: "Q1 — Why bargaining failed"
+          href: analyses/q1-why-bargaining-failed.qmd
         - section: "Q12 — Gulf states"
           contents:
             - analyses/q12-4-gulf-paradox.qmd

@@ -13,6 +13,14 @@ The list is alphabetical by short name. Use the table of contents on the right (
 
 ---
 
+## Audience costs (Fearon, 1994; Weeks, 2008)
+
+James Fearon's "Domestic Political Audiences and the Escalation of International Disputes" (1994) argues that leaders pay political costs at home for backing down from public commitments. These "audience costs" make threats more credible — bigger public commitments cost more to retreat from. Democratic leaders typically face higher audience costs than autocrats. Jessica Weeks (2008) extends the analysis to autocratic regimes: where institutional elites coordinate around a position, autocrats can also generate audience costs internally. By late February 2026, both Trump (publicly committed via repeated threats) and the IRGC institutional consensus (committed to enrichment-on-soil) had passed their backdown thresholds.
+
+*Primer chapter:* forthcoming.
+
+---
+
 ## Bayesian posterior probability
 
 A Bayesian posterior is the probability you assign to a proposition after updating from your prior estimate using new evidence. Throughout this site, claims about mechanisms are stated as posteriors over configurations rather than single declarations of "the cause." For example: P(Mechanism 0 is load-bearing | evidence) = 0.65 means that after weighing all the evidence, the analyst's best estimate is a 65% chance Mechanism 0 explains the puzzle. Reporting probabilities forces honest uncertainty and makes claims testable — as new evidence arrives, posteriors shift in predictable directions, and the framework itself is falsifiable.
@@ -22,6 +30,14 @@ A Bayesian posterior is the probability you assign to a proposition after updati
 
 The arithmetic is Bayes' rule: posterior ∝ prior × likelihood-of-evidence. In practice, on this site, posteriors are stated qualitatively (low / medium / high) and revised explicitly when new sources arrive. The point isn't precise numbers — it's keeping uncertainty visible.
 :::
+
+*Primer chapter:* forthcoming.
+
+---
+
+## Commitment problem (Powell, 2006)
+
+Robert Powell's "War as a Commitment Problem" (2006) argues that war happens when one side expects a future power shift the other side cannot credibly commit *not* to exploit. Even when both sides would prefer today's deal, the side about to gain power cannot bind its future self to the deal — so the declining side may strike now rather than be coerced later. Applied to [Iran 2026](analyses/q1-why-bargaining-failed.qmd), the question is whether Iran's potential nuclear acquisition was the textbook discontinuous shift Powell describes — or whether Iran's offered verification regime was, in fact, a Powell-style monitoring fix that the US/Israel chose not to accept.
 
 *Primer chapter:* forthcoming.
 
@@ -38,6 +54,22 @@ In 1966 Mancur Olson and Richard Zeckhauser argued that alliances behave like cl
 ## Hierarchy / patron-client (Lake, 2009; Posen)
 
 David Lake's *Hierarchy in International Relations* (2009) argues many "alliances" are not between equals. The small state cedes some authority — over basing rights, foreign-policy alignment, weapons procurement — in exchange for security from the large state. The relationship is hierarchical and reciprocal: the patron is constrained by what it can demand without violating the implicit bargain. Barry Posen's parallel "patron-client" framing makes the same point. This frame predicts client states can resist patron action when patron requests damage client interests. Saudi airspace denial in 2026 fits the prediction. It is the right frame for Gulf-US relations.
+
+*Primer chapter:* forthcoming.
+
+---
+
+## IRGC-bonyad complex
+
+The Islamic Revolutionary Guard Corps (IRGC) is Iran's parallel military force — separate from the regular army (Artesh), reporting directly to the Supreme Leader, and operating an autonomous foreign-operations branch (the Quds Force) and economic empire. The bonyads are Iran's network of state-linked economic foundations controlling large fractions of the non-oil economy and operating outside Western financial sanctions. Together they form the structural counterparty in any nuclear negotiation: the formal president (Pezeshkian) cannot deliver concessions the IRGC won't accept, and the bonyads cannot be sanctioned into compliance. By March 2026 Iran was "de facto under IRGC military rule" per ICG Crisis Monitor #4 — Vahidi controlled negotiations, Pezeshkian was sidelined. See [Q1](analyses/q1-why-bargaining-failed.qmd) for the load-bearing role of this complex in the bargaining-failure synthesis.
+
+*Primer chapter:* forthcoming.
+
+---
+
+## Octopus Doctrine (Bennett, 2018)
+
+The Octopus Doctrine, traceable to Naftali Bennett (2018), reframed Israeli strategy from "cut the head" (decapitating Iran's leadership) to "cut the arms first, then the head" — systematically degrading Iran's regional proxy network (Hezbollah, Hamas, Houthis, Iraqi/Syrian militias) before any direct strike on Iran itself. The doctrine survived three Israeli governments — operationalized by Lapid, institutionalized by Netanyahu after October 2023. Stage 0 of the 2026 war (October 2023 → June 2025 systematic degradation) is the doctrine in execution. It is a Likud-right doctrine specifically, not pan-Israeli — the IDF General Staff pragmatist tradition opposed it through 2010-2012 but was systematically dismantled 2024-25. See [Q1](analyses/q1-why-bargaining-failed.qmd).
 
 *Primer chapter:* forthcoming.
 
@@ -97,6 +129,14 @@ Saudi Arabia's Vision 2030, announced by Crown Prince Mohammed bin Salman in 201
 ## Yemen lesson (Saudi-led intervention, 2015–)
 
 In March 2015, Saudi Arabia led a regional coalition into Yemen aiming to defeat the Houthis and restore the Hadi government. After seven years of inconclusive war the Houthis still controlled Sanaa and most population centers; the Saudi-led campaign failed to achieve its strategic objectives despite vastly superior firepower. Gulf monarchies internalized the lesson: a Gulf-led regional war that the GCC cannot definitively finish becomes an existential trap. The lesson is widely cited in MENA-studies sources as the dominant Saudi internal explanation for restraint on direct Iran combat in 2026 — and is one of four secondary mechanisms shaping Gulf wartime behavior in the [Q12.4 paradox](analyses/q12-4-gulf-paradox.qmd).
+
+*Primer chapter:* forthcoming.
+
+---
+
+## Stackelberg leader-follower
+
+A Stackelberg game is one where one player (the leader) moves first and the other (the follower) optimizes given that move. Originally a model of duopoly competition, the structure applies any time one actor sets the agenda and another adapts to a fait accompli. Applied to the US-Israel coalition in 2026, a Stackelberg reading says Israel led: the December 2025 Mar-a-Lago lobbying, the Stage 0 deterrent-layer degradation, the Situation Room war presentation, and especially Khamenei's assassination (a regime-change act much harder to read as US bargaining than as an Israeli fait accompli the US ratified) all fit Israel-as-leader / US-as-follower-with-veto-attempted. See [Q1](analyses/q1-why-bargaining-failed.qmd).
 
 *Primer chapter:* forthcoming.
 

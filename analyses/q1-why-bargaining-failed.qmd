@@ -1,0 +1,553 @@
+---
+title: "Q1 — Why did bargaining fail on 28 February 2026?"
+subtitle: "Why strikes happened during active negotiations — and why the answer is not a single mechanism but a coordinated convergence"
+description: "Two load-bearing mechanisms — the IRGC-bonyad veto on the Iranian side and Israeli political-coalition consolidation on the strikers' side — closed the bargaining range. A power-shift mechanism the canonical literature does not directly model is in the middle of it."
+categories: [analysis, q1, bargaining-failure, commitment-problem, stackelberg, octopus-doctrine]
+date: 2026-05-09
+date-modified: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+On 28 February 2026, the US and Israel struck Iran during active nuclear negotiations. Iran's foreign ministry had reportedly transmitted a stockpile-halt offer with full IAEA access through Omani mediators the day before. Khamenei was killed in the opening hours. If a deal was on the table, why the strike? And if it wasn't, why the talks at all?
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+By February 2026 the US and Iran were in a fifth round of Omani-mediated nuclear talks led by Trump's envoy Steve Witkoff and Iran's foreign minister Abbas Araghchi (with Oman's foreign minister Badr al-Busaidi as intermediary). On 27 February, multiple analysts reported, Iran transmitted via the Omani channel a **stockpile halt plus full IAEA access** offer — the verifiable cap that bargaining theory says should resolve a discontinuous power-shift problem. On 28 February, the US joined Israel in *Operation Roaring Lion / Operation Epic Fury*: coordinated strikes on Iran's nuclear facilities, IRGC headquarters, leadership compounds. Khamenei was killed in the opening hours. The 27 February offer was bombed the next morning.
+
+If a Powell-style verification fix was on the table, why the strike? If it wasn't, why was the diplomatic track running for months? And if the answer is "one side preferred war," which side, and why *now* — not in 2010, not in 2018, not in 2024?
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Two load-bearing mechanisms jointly closed the bargaining range: the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"}'s veto on enrichment concessions in Tehran, and Israeli political-coalition consolidation that produced first-mover capability against an Iran whose deterrent layers had been degraded since October 2023. P(both jointly load-bearing) ≈ **0.50**. The [commitment problem]{.gloss data-gloss="powell-commitment"} (Powell 2006) is real but conditional on the IRGC veto; private-information explanations are ruled out (the power shift was observable to both sides). Q1.4 flags an *original-contribution opportunity*: the canonical bargaining literature does not formally model "the striker's prior actions against the target's allies" as the source of the power shift the striker then exploits.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** The bargaining range in February 2026 was empty for *several* distinct reasons that have to be kept separate, not collapsed into one. Two mechanisms emerge as load-bearing in the post-briefing-review reconciliation:
+
+- **Mechanism 1 — the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"}'s veto on Iranian concessions.** The formal Iranian state (Pezeshkian) was sidelined; the IRGC institutional consensus had hardened around enrichment-on-soil; the bonyads were sanctions-immune. *Any equilibrium settlement required the IRGC's institutional consent* — and the IRGC did not consent. (Posterior P(load-bearing) ≈ 0.7.)
+
+- **Mechanism 3' — Israeli political-coalition consolidation enabling coordinated first-mover.** The [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} (Bennett 2018) had been operationalized as Stage 0 across three Israeli governments since October 2023; the IDF General Staff pragmatist tradition that constrained Netanyahu in 2010-2012 ("trying to steal a war") was deliberately dismantled in 2024-25 (Gallant and Bar fired, the Halevi/Haliva/Finkelman resignation cascade); the Mar-a-Lago December 2025 lobbying lined up the US patron in a [Stackelberg leader-follower]{.gloss data-gloss="stackelberg-leader-follower"} structure. (Posterior P(load-bearing) ≈ 0.65.)
+
+The [commitment problem]{.gloss data-gloss="powell-commitment"} (Powell 2006) is real but conditional on Mechanism 1 — Iran's verification offer would have resolved the structural problem, *if* the IRGC-bonyad complex would have ratified it (it would not). Issue indivisibility (sovereignty framing of right-to-enrich) is operative but minor. Private-information explanations (Fearon mechanism 1) are ruled out: the power shift was observable to both sides. **No single mechanism has posterior > 0.5 of being load-bearing alone — but the joint configuration (Mechanism 1 + Mechanism 3') has posterior ≈ 0.50.**
+
+Q1.4 — Stage 0 as power-shift mechanism — flags an *original-contribution opportunity*: the canonical dynamic-bargaining literature (Powell 2006, Fearon 1996, Krainin 2017, Bas-Coe 2016, Debs-Monteiro 2014, Chadefaux 2011) does not formally model "the striker's own prior actions against the target's allies" as the source of the endogenous shift the striker then exploits. The case is in the middle of a configuration the canon does not directly address.
+:::
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — the eight-step protocol used here
+
+This chapter applies the project's standard protocol: (1) pre-write a prior; (2) corpus passage extraction; (3) think-tank cross-check; (4) opposing steel-mans; (5) pre-DA synthesis; (6) hostile devil's advocate; (7) reconcile; (8) source-confidence tier audit + Bayesian framing + pre-mortem. After protocol completion, an **external corpus review** (the Iran_war briefing's Round 7-9) sharpened the IRGC-veto inference from T3 to T2 (ICG Crisis Monitor #4 evidence), refined Mechanism 3 to a 5-faction Israeli Stackelberg, identified the [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} as the named theoretical framework operating since 2018, and downgraded Mechanism 5 (private information) — the corpus consensus is that the power shift was *observable* to both sides, ruling out asymmetric-information explanations. A subsequent mechanism-inflation watch (per the Q11 devil's advocate critique) collapsed Mechanisms 3, 4, and a candidate cycle-inversion mechanism (ε) into a single "Israeli political-coalition consolidation enabled coordinated first-mover" mechanism (Mech 3').
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the analytical journey. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  Q[Active US-Iran<br/>negotiations<br/>through Feb 2026]
+  Q --> A1[Iran offers<br/>stockpile halt +<br/>IAEA access<br/>27 Feb]
+  Q --> A2[Strikes launched<br/>28 Feb;<br/>Khamenei killed]
+  A1 -.->|How?| A2
+  H1[Steel-man A:<br/>structural<br/>commitment problem]
+  H1 -.->|reads| A2
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef ev fill:#f6f8fa,stroke:#d0d7de
+  classDef th fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-powell-commitment stroke-width:2px
+  class Q q
+  class A1,A2 ev
+  class H1 th
+  class H1 gt-gloss-powell-commitment
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**The structural reading.** [Powell's commitment problem]{.gloss data-gloss="powell-commitment"} predicts war when a future power shift can't be credibly bound. Iran's nuclear capacity is the textbook discontinuous shift. Steel-man A: bargaining failed because Iran couldn't credibly commit to never weaponize, the strike option was endogenously cheap (Stage 0), and audience costs had accumulated past backdown thresholds.]{.concise-only}
+
+::: {.deep-only}
+**Steel-man A: structural [commitment problem]{.gloss data-gloss="powell-commitment"} compounded by an endogenous opportunity window.**
+
+Powell (2006) argues war happens when one side expects a future power shift the other side cannot credibly commit *not* to exploit. Iran's potential nuclear acquisition fits the textbook discontinuous-shift case: small concessions today (allowing enrichment to continue, even capped) translate into dramatic later changes in the distribution of power. Iran cannot credibly commit to never weaponizing; the US/Israel cannot credibly commit to never striking again later.
+
+The framework predicts war when the per-period power shift exceeds the bargaining surplus — and Israel's Stage 0 *systematically degraded Iran's deterrent layers* from October 2023 through June 2025: Hezbollah's command collapsed (the September 2024 pager attacks; Nasrallah killed 27 September); Iranian S-300 air defenses were destroyed in *Operation Days of Repentance* (26 October 2024); the *Twelve-Day War* in June 2025 hit nuclear infrastructure. By February 2026 the marginal cost of striking Iran was at a historic low, and the marginal benefit (preventing weaponization) was at a historic high.
+
+Aumann's 2006 Nobel lecture supplies the deeper logic: when discount rates rise (election cycles compressing time horizons, public escalation locking in commitments, breakout timelines shortening) above ~10%, repeated-game cooperation collapses. By late February both Trump and Iranian leadership had committed past their [audience-cost backdown thresholds]{.gloss data-gloss="audience-costs-fearon"} — neither side could publicly settle even on a Pareto-improving deal. This account has consensus support among the pro-strike think-tank segment (Belfer, Chatham House, Atlantic Council, CSIS, IISS, RAND, FDD).
+
+The reading is internally coherent. It also has a problem.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  S[Steel-man B:<br/>war was theater<br/>on top of pre-decided<br/>action]
+  E1[Mar-a-Lago<br/>Dec 29 2025:<br/>Netanyahu lobbies<br/>for joint strikes]
+  E2[Ratcliffe<br/>11 Feb 2026:<br/>"farcical"<br/>presentation]
+  E3[Iran's 27 Feb<br/>offer:<br/>verifiable cap +<br/>full IAEA access]
+  E4[Trump's<br/>shifting rationales:<br/>5+ different framings]
+  S --> E1
+  S --> E2
+  S --> E3
+  S --> E4
+  E3 -.->|bombed next<br/>morning| BOOM[28 Feb strikes]
+  classDef s fill:#fff8c5,stroke:#d4a72c
+  classDef e fill:#ffe5d9,stroke:#cf222e
+  classDef b fill:#0969da,color:#fff,stroke:#0969da
+  classDef gt-gloss-octopus-doctrine stroke-width:2px
+  class S s
+  class S gt-gloss-octopus-doctrine
+  class E1,E2,E3,E4 e
+  class BOOM b
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**The competing reading.** Steel-man B says the war wasn't a bargaining failure — it was theater on top of pre-decided action. The 27 February offer (Iran's verification fix) was bombed the next morning. The CIA Director reportedly called the 11 February war presentation "farcical." Trump's stated rationales rotated five times. This isn't a Powell story; it's closer to a Powell *1939* story — preference for war by at least one side made the bargaining range empty.]{.concise-only}
+
+::: {.deep-only}
+**Steel-man B: war was theater riding on top of pre-decided action.**
+
+Several specific pieces of evidence the structural account underweights:
+
+*Netanyahu's 29 December 2025 Mar-a-Lago lobbying* explicitly sought joint strikes targeting Iranian leadership (Wikipedia + Quincy + Chatham House). The lobbying was for *war*, not for bargaining leverage.
+
+*The "farcical" Situation Room presentation, 11 February 2026.* Per Wikipedia/Axios, then-CIA Director John Ratcliffe described the war presentation as not holding up; opposed by Vance and Caine. The senior intelligence professional's read was that the case for war was empirically thin. (T2 — single-source-named.)
+
+*Witkoff's negotiating limitations* (Arms Control Association critique; Quincy/Parsi). "Biweekly check whether they've surrendered" diplomacy; reportedly misrepresented Iranian proposals to Trump; technical fluency questioned.
+
+*Iran's 27 February Omani-mediated offer.* CFR, Carnegie, and Quincy reported a verifiable stockpile halt plus full IAEA access; FDD disputes whether it was genuine. If the offer was real, it is *exactly* the Powell-style verification fix. The strikes the next morning then become harder to read as "bargaining failed" and easier to read as "bargaining was never the operative game."
+
+*Trump's shifting rationales.* Washington Post documented the rotation across five-plus framings: regime change → preemption → nuclear → missiles → protester protection. Carnegie/Grajewski and Quincy/Parsi read this as evidence of *no consistent acceptable settlement* — closer to the Powell-1939 "type" case where leader preferences (not structural mechanisms) make the bargaining range empty.
+
+This isn't a Fearon/Powell bargaining-failure story; it's closer to Pape's denial-by-degradation predicate — strikes intended to *physically prevent* an outcome the strikers preferred to deny. The [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} (Bennett 2018, "cut the arms first, then the head") names what was happening as a *plan*, not a contingency response. Stage 0 was war preparation; "active negotiations" in February were the cover.
+
+Bargaining theory misnames this as "failure" when it should be named "preference for war by at least one side." Steel-man A is non-falsifiable as applied: any war can be retrofit to commitment-problem framing.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  M1[Mech 1<br/>IRGC-bonyad<br/>veto]
+  M2[Mech 2<br/>Powell commitment<br/>conditional on Mech 1]
+  M3[Mech 3'<br/>Israel coalition<br/>consolidation]
+  M6[Mech 6<br/>Issue indivisibility<br/>right-to-enrich as<br/>sovereignty]
+  M1 --> EMPTY[Empty<br/>bargaining<br/>range]
+  M2 --> EMPTY
+  M3 --> EMPTY
+  M6 --> EMPTY
+  classDef hi fill:#0969da,color:#fff,stroke:#0969da
+  classDef md fill:#dafbe1,stroke:#2da44e
+  classDef sm fill:#f6f8fa,stroke:#d0d7de
+  classDef em fill:#fff8c5,stroke:#d4a72c
+  classDef gt-gloss-irgc-bonyad-complex stroke-width:2px
+  classDef gt-gloss-powell-commitment stroke-width:2px
+  classDef gt-gloss-stackelberg-leader-follower stroke-width:2px
+  class M1 hi
+  class M1 gt-gloss-irgc-bonyad-complex
+  class M3 hi
+  class M3 gt-gloss-stackelberg-leader-follower
+  class M2 md
+  class M2 gt-gloss-powell-commitment
+  class M6 sm
+  class EMPTY em
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Reconciled synthesis.** Both steel-mans capture something. The honest answer keeps four distinct mechanisms separate, each operating on a different side: **Mech 1** (the [IRGC-bonyad veto]{.gloss data-gloss="irgc-bonyad-complex"}, Iranian-side), **Mech 3'** ([Israel-as-Stackelberg leader]{.gloss data-gloss="stackelberg-leader-follower"} with consolidated coalition, Israeli-side), **Mech 2** ([Powell commitment]{.gloss data-gloss="powell-commitment"}, conditional on Mech 1), and **Mech 6** (issue indivisibility on enrichment as sovereignty). Mechanisms 5 (private info) and 7 (broken process) are not load-bearing.]{.concise-only}
+
+::: {.deep-only}
+**The reconciled synthesis: four distinct mechanisms, each operating on a different side.** Both steel-mans capture something real. The honest answer keeps the mechanisms separate rather than collapsing them.
+
+*Mechanism 1 — the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"}'s veto on Iranian concessions.* The IRGC institutional consensus had hardened around enrichment-on-soil since the 2018 JCPOA collapse. Pezeshkian (the formal president, elected on a moderation platform) could not deliver concessions the IRGC would not ratify. The bonyads — sanctions-immune because they don't operate in Western finance — could not be coerced. By March 2026 Iran was "de facto under IRGC military rule" per ICG Crisis Monitor #4: Vahidi (IRGC-linked) controlled negotiations, Pezeshkian was sidelined. The Witkoff-vs-al-Busaidi divergence the original synthesis treated as "tactical political miscommunication" is better understood as **structural inability of the formal Iranian state to deliver IRGC-binding concessions** — even competent negotiation could not have closed the deal because the Iranian counterparty couldn't ratify.
+
+*Mechanism 3' — Israeli political-coalition consolidation enabling first-mover.* This collapses what were originally three mechanisms (Israel-as-[Stackelberg leader]{.gloss data-gloss="stackelberg-leader-follower"}, the endogenous opportunity window from Stage 0, and a candidate cycle-inversion mechanism) into one underlying claim. The [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} (Bennett 2018) provided the doctrinal template; Stage 0 (October 2023 → June 2025) executed the template; the dismantling of the IDF pragmatist tradition (the Halevi/Haliva/Finkelman resignations, Gallant and Bar fired, Cohen→Barnea Mossad reversal) removed the institutional architecture that constrained Netanyahu in 2010-2012 ("trying to steal a war"). The Mar-a-Lago December 2025 lobbying lined up the US patron. **The political space for Israeli restraint in 2026 is narrower than at any time since 1973** (per the Iran_war briefing).
+
+*Mechanism 2 — [Powell commitment problem]{.gloss data-gloss="powell-commitment"}, conditional on Mechanism 1.* The discontinuous nature of nuclear capability sharpens standard logic. Iran's reported 27 February verifiable cap is *exactly* the Powell-style fix when monitoring is feasible. If the offer was genuine, the commitment problem was not what failed — *the US/Israel acceptance of verification as sufficient* failed. But if Mechanism 1 is operative, the commitment problem retains purchase: a verified cap is non-credible because future Iranian factional shifts could renege. Mechanism 2 is best read as *conditional* on Mechanism 1.
+
+*Mechanism 6 — issue indivisibility (right-to-enrich as sovereignty).* Even physically divisible numbers (enrichment percentage, stockpile size) become politically indivisible when constituted as sovereignty claims. Tehran has framed enrichment as constitutive of state identity since 2003. Operative; minor weight.
+
+What is *not* load-bearing: **Mechanism 5 (private information / signaling failure)** is downgraded — the Iran_war briefing established that "the power shift was measurable and observable to both sides," ruling out asymmetric-information explanations. **Mechanism 7 (political-process collapse)** is an amplifier only — bureaucratic dysfunction is observationally equivalent to bad faith; can't infer "pre-decided action" from negotiating dysfunction alone.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  M1[Mech 1<br/>IRGC-bonyad veto]
+  M3[Mech 3'<br/>Israeli coalition<br/>consolidation]
+  Q14[Q1.4<br/>original-contribution<br/>opportunity]
+  M1 --> EMPTY[Empty range:<br/>P 1+3' jointly<br/>load-bearing<br/>≈ 0.50]
+  M3 --> EMPTY
+  Q14 -.->|extends<br/>Powell+Fearon 1996| EMPTY
+  classDef hi fill:#0969da,color:#fff,stroke:#0969da
+  classDef em fill:#fff8c5,stroke:#d4a72c
+  classDef new fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-irgc-bonyad-complex stroke-width:2px
+  classDef gt-gloss-stackelberg-leader-follower stroke-width:2px
+  class M1 hi
+  class M1 gt-gloss-irgc-bonyad-complex
+  class M3 hi
+  class M3 gt-gloss-stackelberg-leader-follower
+  class Q14 new
+  class EMPTY em
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Most likely configuration.** P(Mech 1 + Mech 3' jointly load-bearing) ≈ 0.50 — the two together close the bargaining range from both sides simultaneously. **Q1.4 flags an original-contribution opportunity**: no paper in the canonical literature formally models "the striker's prior actions against the target's allies" as the source of the endogenous power shift the striker then exploits. The 2026 case is in the middle of a configuration the canon (Powell 2006, Fearon 1996, Krainin 2017, Bas-Coe 2016, Debs-Monteiro 2014, Chadefaux 2011) does not directly address.]{.concise-only}
+
+::: {.deep-only}
+**Most likely configuration: Mechanism 1 + Mechanism 3' jointly load-bearing.** P(joint) ≈ 0.50. Together they close the bargaining range from both sides simultaneously: the IRGC-bonyad complex prevents any *Iranian* concession deliverable enough to satisfy the strikers, while Israeli coalition consolidation prevents any *strikers'* acceptance of verification short of regime change. The other configurations the synthesis considered:
+
+- P(Mechs 1 + 2 + 4 load-bearing — original Steel-man A) ≈ 0.20
+- P(Mechs 3 + 4 + 7 load-bearing — original Steel-man B) ≈ 0.15
+- P(other configurations) ≈ 0.15
+
+**Single empirical question that would shift the most posterior weight**: was the 27 February Omani offer genuine and ratifiable inside Iran's domestic political constraints? If yes-yes, Steel-man B's weight rises to ~0.5; if no-no, Steel-man A's weight rises to ~0.5; if **yes-no** (offer real but undeliverable due to IRGC veto), Mechanism 1 dominates at ~0.6 — which is the synthesis's best current reading.
+
+**Q1.4 — original-contribution opportunity.** No paper in the canonical dynamic-bargaining literature formally models "the striker's own prior actions against the target's allies" as the source of the endogenous shift the striker then exploits. The closest existing formalisms:
+
+- *Powell 2006* models exogenous discontinuous shifts (technological breakthrough, demographic change).
+- *Fearon 1996 "Bargaining over Objects that Influence Future Bargaining Power"* models negotiation over power-determinants — but the canonical case is target-investment-driven (the target builds the capability), not striker-induced.
+- *Krainin 2017* generalizes Powell to slow cumulative shifts — closer to the Stage 0 attrition pattern but still treats the shift as exogenous to the striker.
+- *Bas-Coe 2016* and *Debs-Monteiro 2014* derive the counterintuitive comparative static (improving strike effectiveness *raises* preventive-strike probability) — directly applies to 2026 strike effectiveness at historic peak, but again treats effectiveness as exogenous.
+- *Chadefaux 2011* offers a diagnostic: bargaining failure implies negotiation over power-determinants was itself blocked. The 2026 case fits this diagnostic, but the formalism doesn't capture *who* did the blocking.
+
+The Iran case — striker depleting the target's coalition partners (Hezbollah, Hamas, Houthis, Iraqi militias) over October 2023–June 2025, then exercising the strike option in February 2026 — is a configuration the canon does not directly address. Reframes Q1.4 from "find the right model" to "**construct the right model from primitives**." The construction would extend Fearon 1996's "objects" structure to include third-party allies as objects, formalize Krainin 2017's slow-cumulative shift as endogenous to the striker, and incorporate the Bas-Coe / Debs-Monteiro counterintuitive comparative static.
+
+The original-contribution flag is *not* "we have a new model"; it is "the most likely configuration in the empirical case is one the canon hasn't formally treated." A publishable finding requires base-rate analysis (does the pattern recur in other cases?), explicit engagement with prior literature on preventive war (Schelling, Sagan, Posen, Bergman, Bar-Joseph, Byman), and a falsification criterion. All three are queued.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+The figures below capture the analytical state without requiring you to read the walkthrough. Three views: (1) the mechanism-by-mechanism [Bayesian posteriors]{.gloss data-gloss="bayesian-posterior"}, (2) the Stage 0 timeline that produced the endogenous opportunity window, (3) the per-side mechanism breakdown.
+
+### Figure 1 — Mechanism posteriors
+
+How likely is each mechanism to be operative — and given it is operative, how likely to be load-bearing? Estimates after the eight-step protocol *plus* the briefing-review revision *plus* the Round 8-9 enrichment pass (which collapsed Mechs 3 + 4 + ε into Mech 3').
+
+```{ojs}
+//| label: fig-q1-posteriors
+//| fig-cap: "Posterior probabilities over each Q1 mechanism. Light grey bar = posterior P(operative); colored bar = posterior P(load-bearing); color encodes source-confidence tier. Dashed line at 0.5 = load-bearing threshold. Hover any bar for full mechanism name + numeric values. On mobile the y-axis shows mechanism codes; see legend below."
+
+{
+  const data = [
+    {id: "M1",  full: "M1 — IRGC-bonyad veto on Iranian concessions",          post_op: 0.92, post_lb: 0.70, tier: "T2"},
+    {id: "M3'", full: "M3' — Israeli political-coalition consolidation (first-mover)", post_op: 0.90, post_lb: 0.65, tier: "T2"},
+    {id: "M2",  full: "M2 — Powell commitment problem (conditional on M1)",     post_op: 0.70, post_lb: 0.30, tier: "T1"},
+    {id: "M6",  full: "M6 — Issue indivisibility (enrichment as sovereignty)",  post_op: 0.55, post_lb: 0.20, tier: "T2"},
+    {id: "M7",  full: "M7 — Political-process collapse (amplifier only)",       post_op: 0.70, post_lb: 0.15, tier: "T2"},
+    {id: "M5",  full: "M5 — Private info / signaling (downgraded)",             post_op: 0.40, post_lb: 0.10, tier: "T3"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 280 : Math.max(420, Math.min(560, Math.round(width * 0.46)));
+  const cdata = data.map(d => ({ ...d, display: isMobile ? d.id : d.full }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 64 : Math.max(380, Math.round(width * 0.32)),
+    marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Probability",
+      domain: [0, 1],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: cdata.map(d => d.display) },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.barX(cdata, {
+        x: "post_op", y: "display",
+        fill: "#e6e8eb", insetTop: 8, insetBottom: 8
+      }),
+      Plot.barX(cdata, {
+        x: "post_lb", y: "display",
+        fill: "tier", insetTop: 8, insetBottom: 8,
+        channels: {
+          Mechanism: "full",
+          "P(operative)": d => `${Math.round(d.post_op * 100)}%`,
+          "P(load-bearing)": d => `${Math.round(d.post_lb * 100)}%`,
+          Tier: "tier"
+        },
+        tip: true
+      }),
+      Plot.text(cdata, {
+        x: "post_lb", y: "display",
+        text: d => `${Math.round(d.post_lb * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
+      }),
+      Plot.ruleX([0.5], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+      Plot.text([{ x: 0.5, y: cdata[0].display }], {
+        x: "x", y: "y", text: () => "load-bearing →",
+        dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
+        fontSize: annotFont, fill: "#0969da", fontStyle: "italic", fontWeight: 500
+      })
+    ]
+  });
+}
+```
+
+::: {.mech-legend}
+**Mechanism codes** (chart labels expanded):
+
+| Code | Mechanism |
+|:---:|---|
+| **M1** | IRGC-bonyad complex veto on Iranian concessions |
+| **M2** | Powell commitment problem (conditional on M1) |
+| **M3'** | Israeli political-coalition consolidation enabling first-mover |
+| **M5** | Private information / signaling failure *(downgraded)* |
+| **M6** | Issue indivisibility — right-to-enrich as sovereignty claim |
+| **M7** | Political-process collapse *(amplifier only, not load-bearing)* |
+:::
+
+[**Reading the chart.** Two mechanisms cross the load-bearing threshold (dashed line at 0.5): the [IRGC-bonyad veto]{.gloss data-gloss="irgc-bonyad-complex"} on the Iranian side and Israeli coalition consolidation on the strikers' side. Both [T2]{.tier .tier-2}. The joint configuration has posterior ≈ 0.50.]{.concise-only}
+
+[**Reading the chart.** Two mechanisms cross the load-bearing threshold (dashed line at 0.5): the [IRGC-bonyad veto]{.gloss data-gloss="irgc-bonyad-complex"} on the Iranian side (P 0.7, [T2]{.tier .tier-2} per ICG Crisis Monitor #4) and Israeli political-coalition consolidation on the strikers' side (P 0.65, [T2]{.tier .tier-2} per the Iran_war briefing's Round 9 Israeli-factions corpus). Both are [T2]{.tier .tier-2} not [T1]{.tier .tier-1} because each rests on a single high-quality source, not yet independently corroborated. Powell's [commitment problem]{.gloss data-gloss="powell-commitment"} is operative ([T1]{.tier .tier-1}) but only conditional on Mech 1 — Iran's verification offer would have resolved the structural problem if the IRGC would have ratified. Mechs 5 and 7 are below threshold: private-information explanations are ruled out by the briefing's "shift was observable to both sides" finding; political-process collapse is observationally equivalent to bad faith and can't be load-bearing alone. The headline configuration probability — **P(Mech 1 + Mech 3' jointly load-bearing) ≈ 0.50** — is *not* the probability that the war was inevitable; it's the probability that *no equilibrium settlement existed inside the joint US-Israel-Iran win-set in February 2026*.]{.deep-only}
+
+::: {.callout-note collapse="true"}
+## Show the underlying numbers (incl. priors)
+
+| Mechanism | Prior P(op) | Posterior P(op) | Posterior P(load-bearing) | Tier |
+|---|:---:|:---:|:---:|:---:|
+| **M1 — IRGC-bonyad veto** | 0.50 | **0.92** | **0.70** | [T2]{.tier .tier-2} |
+| **M3' — Israeli coalition consolidation** | 0.55 | **0.90** | **0.65** | [T2]{.tier .tier-2} |
+| M2 — Powell commitment (conditional on M1) | 0.85 | 0.70 | 0.30 | [T1]{.tier .tier-1} |
+| M6 — Issue indivisibility | 0.40 | 0.55 | 0.20 | [T2]{.tier .tier-2} |
+| M7 — Political-process collapse (amplifier) | 0.60 | 0.70 | 0.15 | [T2]{.tier .tier-2} |
+| M5 — Private info / signaling (downgraded) | 0.80 | 0.40 | 0.10 | [T3]{.tier .tier-3} |
+
+**Configuration probabilities (post-enrichment):**
+
+- P(M1 + M3' jointly load-bearing) ≈ **0.50** *(headline)*
+- P(M1 + M2 + endogenous-window load-bearing — original Steel-man A) ≈ 0.20
+- P(M3' + endogenous-window + M7 load-bearing — original Steel-man B) ≈ 0.15
+- P(other configurations) ≈ 0.15
+:::
+
+### Figure 2 — Stage 0 timeline
+
+The endogenous opportunity window — Israel's systematic degradation of Iran's deterrent layers — closed the strike option's cost from October 2023 to February 2026. The [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} (Bennett 2018, "cut the arms first, then the head") names the doctrine; Stage 0 is the doctrine in execution.
+
+```{mermaid}
+timeline
+  title Stage 0 — The deterrent-layer degradation campaign
+  Oct 2023 : "Hamas attack on Israel (7 Oct) — strategic shock + political consolidation"
+  Sep 2024 : "Hezbollah pager attacks (17–18 Sep) — command structure cripples"
+           : "Nasrallah killed (27 Sep) — proxy decapitation"
+  Oct 2024 : "S-300 air defenses destroyed (26 Oct) — Operation Days of Repentance"
+  Jun 2025 : "Twelve-Day War — direct strikes on nuclear infrastructure"
+  Dec 2025 : "Mar-a-Lago lobbying (29 Dec) — Netanyahu-Trump alignment"
+  Feb 2026 : "Situation Room presentation (11 Feb) — reportedly described as 'farcical' by CIA Director"
+           : "Omani-mediated offer (27 Feb) — verifiable cap + IAEA access"
+           : "Strikes / Khamenei killed (28 Feb) — Operation Roaring Lion / Epic Fury"
+```
+
+[**Reading the timeline.** Stage 0 was the prerequisite for the cheap strike option of February 2026. Whether the cheap option was *exercised* depends on the other mechanisms — but it would not have been on the table at all without the 28 months of degradation that preceded it.]{.concise-only}
+
+[**Reading the timeline.** Stage 0 was the prerequisite for the cheap strike option of February 2026. The [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} explicitly framed the sequence: first the proxies (Hezbollah, Hamas, Houthis), then the air defenses, then the nuclear infrastructure, then the leadership. Three Israeli governments executed it. By the time the Mar-a-Lago meeting happened in late December 2025, the only question was whether the US would ratify the fait accompli — which Trump did, against Ratcliffe's reported objections.
+
+The timeline is also where Q1.4's original-contribution opportunity becomes visible. Each of those Stage 0 events is the *striker* depleting power-determinant components of the *target* — but in the canonical literature, power shifts happen because the target invests, the technology changes, demographics shift, or shocks hit. The configuration where the striker's own actions cause the shift the striker then exploits is in the middle of the 2026 case and not directly in the formal canon.]{.deep-only}
+
+### Figure 3 — Per-side mechanism breakdown
+
+Different mechanisms operate on different sides of the bargaining table. The synthesis is multi-causal *because* the failure is multi-sided.
+
+```{mermaid}
+flowchart TB
+  subgraph US ["United States (follower-with-veto-attempted)"]
+    M3a[Israel-as-Stackelberg<br/>binds US choices]
+    M7[Broken NSC process<br/>amplifies, doesn't cause]
+  end
+  subgraph ISR ["Israel (Stackelberg leader)"]
+    M3b[Coalition consolidation<br/>2024-25]
+    OCT[Octopus Doctrine<br/>Stage 0 execution]
+    PREF[Powell-1939 type:<br/>preference for war<br/>over any feasible deal]
+  end
+  subgraph IRA ["Iran (constrained counterparty)"]
+    M1[IRGC-bonyad veto<br/>on enrichment concessions]
+    M6[Right-to-enrich as<br/>sovereignty / identity]
+    M2[Cannot credibly<br/>commit even if<br/>verifying technically]
+  end
+  US --> EMPTY[Empty<br/>bargaining<br/>range<br/>Feb 2026]
+  ISR --> EMPTY
+  IRA --> EMPTY
+  classDef us fill:#0969da,color:#fff,stroke:#0969da
+  classDef isr fill:#dafbe1,stroke:#2da44e
+  classDef ira fill:#ffe5d9,stroke:#cf222e
+  classDef em fill:#fff8c5,stroke:#d4a72c
+  class M3a,M7 us
+  class M3b,OCT,PREF isr
+  class M1,M6,M2 ira
+  class EMPTY em
+```
+
+[**Reading the figure.** The synthesis is multi-causal because the bargaining failure is multi-sided. The *US* side is structurally a follower; the *Israeli* side runs the Stackelberg with a Powell-1939 preference; the *Iranian* side has a counterparty (IRGC-bonyad) the formal state can't deliver concessions for.]{.concise-only}
+
+[**Reading the figure.** The synthesis is multi-causal *because* the bargaining failure is multi-sided. The **US side** is structurally a follower in the relevant Stackelberg game (Mechanism 3'); broken NSC process (Mechanism 7) amplifies but does not cause the failure. The **Israeli side** runs the Stackelberg with a Powell-1939 *type* — preference for action over any feasible compromise — enabled by 2024-25 coalition consolidation and operationalized by the [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"}. The **Iranian side** has a constrained counterparty (the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"}) that the formal state cannot deliver concessions for; sovereignty framing of right-to-enrich (Mechanism 6) reinforces; rationally-learned-from-2018-JCPOA-collapse skepticism that any concession would buy security caps the willingness-to-pay.
+
+A unitary "US-Israel coalition" framing — common in the pro-strike think-tank literature — obscures the principal-agent dynamic that may actually drive the timing. The Q11 default framing of the coalition is **Option C: Israel-as-Stackelberg-leader**, not Option B (mutual-veto). Q1's reading is consistent with that default and reinforces it.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+### Figure 4 — Q1.4 original-contribution opportunity
+
+```{mermaid}
+flowchart LR
+  subgraph CANON ["What the canonical bargaining literature models"]
+    A1[Powell 2006:<br/>exogenous discontinuous<br/>shift]
+    A2[Fearon 1996:<br/>target-investment-driven<br/>shift]
+    A3[Krainin 2017:<br/>slow cumulative<br/>shift exogenous]
+    A4[Bas-Coe / Debs-Monteiro:<br/>improving strike<br/>effectiveness — exogenous]
+    A5[Chadefaux 2011:<br/>blocked-negotiation<br/>diagnostic]
+  end
+  subgraph CASE ["What the 2026 case is"]
+    B1[Striker depletes<br/>target's allies<br/>over 28 months]
+    B2[Coalition partners =<br/>power-determinant<br/>components]
+    B3[Striker chooses<br/>both pace and<br/>moment of strike]
+  end
+  CANON -.->|partial coverage| CASE
+  CASE -.->|configuration not<br/>directly in canon| GAP[Q1.4 opportunity:<br/>construct from<br/>primitives]
+  classDef canon fill:#f6f8fa,stroke:#d0d7de
+  classDef case fill:#dafbe1,stroke:#2da44e
+  classDef gap fill:#0969da,color:#fff,stroke:#0969da
+  class A1,A2,A3,A4,A5 canon
+  class B1,B2,B3 case
+  class GAP gap
+```
+
+The canonical dynamic-bargaining literature comes close to but does not directly cover the configuration where **the striker's own prior actions** are the source of the endogenous power shift the striker then exploits. The primitives needed for a model that would cover this case are all present in the existing canon:
+
+- *Fearon 1996* "objects" structure — power-determinant components as bargaining objects
+- *Krainin 2017* slow-cumulative-shift formalism — the right temporal structure
+- *Bas-Coe 2016 + Debs-Monteiro 2014* counterintuitive comparative static — the right reaction-function shape
+- *Chadefaux 2011* blocked-negotiation diagnostic — the right empirical predicate
+
+What is missing is the assembly: a model where the striker chooses both the pace and moment of the shift, and where the target's coalition partners (rather than the target's own investment) are the objects depleted. Whether this is a publishable contribution depends on (a) base-rate analysis (does the striker-attacks-target's-allies pattern recur?), (b) explicit engagement with the existing literature on preventive war (Schelling, Sagan, Posen, Bergman, Bar-Joseph, Byman), and (c) a falsification criterion (what observation would falsify the model?). All three are queued as future work.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+If this synthesis is wrong, the most likely failure modes are:
+
+1. **Underweighting Iranian agency.** The synthesis treats Iran's behavior as the *dependent* variable — Iran is constrained, Iran is constrained by the IRGC, Iran's offer was genuine-or-stalling. An Iranian-perspective steel-man would say the entire framing has the wrong subject: it's not that Iran failed to credibly commit; it's that the US (with Israeli direction) was never bargaining in good faith, and Iran rationally read this since 2018. If correct, the synthesis still gets the equilibrium outcome right (war) but for the wrong reasons, and the model's predictions about how the war ends will be wrong in proportion.
+
+2. **Underweighting structural realism.** Mearsheimer's read (war was structurally inevitable; the diplomatic track was epiphenomenal) is hard to disprove with Q1's empirical record alone. The synthesis treats "why did this round of talks fail in February 2026?" as a meaningful question; structural realism says it isn't. If correct, the synthesis is doing what realists call "shadow boxing" — analyzing micro-level contingency in what is structurally overdetermined.
+
+3. **The IRGC-veto claim doing too much work.** Mechanism 1 is now T2 (per ICG Crisis Monitor #4) but it remains a single-source claim. If the IRGC was actually willing to support the 27 February Omani offer, Mechanism 1 collapses, and the synthesis weight should swing back toward Mechanisms 3' and the original Steel-man B.
+
+4. **Mechanism inflation.** The original synthesis had seven mechanisms; this version has six but with M3 + M4 + ε collapsed into M3'. The Q11 devil's advocate flagged that even the collapsed version may inflate — Mechanisms 1, 3', and the structural-realism reading might all be the same underlying claim ("the political space for restraint had closed on both sides simultaneously by February 2026"). If they collapse, the synthesis simplifies further but loses the per-side decomposition.
+
+5. **Missing mechanisms outside the corpus.** Jervis on perception/misperception, Snyder on logrolling/myths-of-empire, Sagan-Waltz on proliferation, MENA-studies on Iranian strategic culture — none of these are in our corpus; engagement is shallow. If any would change the synthesis substantially, that's a corpus gap.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+The full reasoning, source-by-source corpus pull, devil's-advocate critique, briefing-review delta, briefing Round 8-9 enrichment, and tier audit live in the underlying analysis file: `Q1_why_bargaining_failed.md`.
+
+Key citations: @powell2006commitment, @fearon1995rationalist, @fearon1994domestic, @schelling1966arms, @schelling1960strategy, @weeks2008autocratic, @lake2009hierarchy.
+
+**Highest-priority remaining corpus gaps for Q1:**
+
+- @fearon1995rationalist's "objects" extension (Fearon 1996) — referenced in Iran_war/dynamic_bargaining/ but not yet in the Game theory corpus
+- Krainin 2017 "Preventive War as a Result of Long-term Shifts in Power"
+- Bas & Coe 2016 + Debs & Monteiro 2014 (counterintuitive strike-effectiveness comparative static)
+- Chadefaux 2011 "Bargaining over Power" (diagnostic)
+- Jervis 1976/1978 on perception and security-dilemma signaling
+- Snyder 1991 *Myths of Empire* on logrolling / preventive war
+- Schweller on under-balancing and democratic preventive war
+- MENA-studies primary sources (Adib-Moghaddam, Maloney, Vakil) on Iranian strategic culture and right-to-enrich as sovereignty claim
+
+```{=html}
+</div>
+```
