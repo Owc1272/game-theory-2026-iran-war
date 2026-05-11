@@ -267,19 +267,43 @@ viewof mapLinked = Inputs.toggle({
   );
 
   // Aggregate per country: sum for flow, mean for stock
+  // Build a richer per-country stats object for tooltip use
   const isStock = meta.kind === "stock";
-  const agg = new Map();
-  const counts = new Map();
+  const stats = new Map();
   for (const row of mapFiltered) {
     if (row.value == null) continue;
-    agg.set(row.country, (agg.get(row.country) || 0) + row.value);
-    counts.set(row.country, (counts.get(row.country) || 0) + 1);
-  }
-  if (isStock) {
-    for (const [k, v] of agg.entries()) {
-      agg.set(k, v / counts.get(k));
+    if (!stats.has(row.country)) {
+      stats.set(row.country, {
+        country: row.country,
+        rows: []
+      });
     }
+    stats.get(row.country).rows.push(row);
   }
+  // Compute aggregates + summary fields per country
+  for (const s of stats.values()) {
+    const vals = s.rows.map(r => r.value);
+    s.sum = vals.reduce((a, b) => a + b, 0);
+    s.mean = s.sum / vals.length;
+    s.aggValue = isStock ? s.mean : s.sum;
+    s.minIdx = vals.indexOf(Math.min(...vals));
+    s.maxIdx = vals.indexOf(Math.max(...vals));
+    s.minVal = vals[s.minIdx];
+    s.maxVal = vals[s.maxIdx];
+    s.minYear = s.rows[s.minIdx].year;
+    s.maxYear = s.rows[s.maxIdx].year;
+    s.firstYear = Math.min(...s.rows.map(r => r.year));
+    s.lastYear = Math.max(...s.rows.map(r => r.year));
+    s.yearCount = new Set(s.rows.map(r => r.year)).size;
+    s.sources = [...new Set(s.rows.map(r => r.source_id))];
+    const tierCounts = {};
+    for (const r of s.rows) tierCounts[r.source_tier] = (tierCounts[r.source_tier] || 0) + 1;
+    s.tierMix = Object.entries(tierCounts)
+      .sort((a, b) => b[1] - a[1])
+      .map(([t, c]) => `${t} (${c})`).join(", ");
+  }
+  // Backwards-compat: agg map (country → aggValue) for the choropleth fill
+  const agg = new Map([...stats.entries()].map(([k, v]) => [k, v.aggValue]));
 
   const isMobile = width < 700;
   const baseFont = isMobile ? 12 : Math.max(13, Math.min(16, Math.round(width / 75)));
@@ -340,9 +364,22 @@ viewof mapLinked = Inputs.toggle({
         stroke: d => selectedCountries.includes(d.properties.name) ? "#222" : "#bbb",
         strokeWidth: d => selectedCountries.includes(d.properties.name) ? 1.2 : 0.4,
         title: d => {
-          const v = agg.get(d.properties.name);
-          if (v == null) return d.properties.name + " — no data for this metric";
-          return `${d.properties.name}\n${aggLabel}: ${formatY(v)}`;
+          const s = stats.get(d.properties.name);
+          if (!s) return `${d.properties.name}\n(no data for ${meta.label} between ${mapLo} and ${mapHi})`;
+          const totalYears = mapHi - mapLo + 1;
+          const aggKind = isStock ? "mean" : "sum";
+          const lines = [
+            `${d.properties.name}`,
+            ``,
+            `${meta.label}`,
+            `${aggKind} over ${mapLo}-${mapHi}: ${formatY(s.aggValue)}`,
+            `years with data: ${s.yearCount} of ${totalYears} (${s.firstYear}-${s.lastYear})`,
+            `range: ${formatY(s.minVal)} (${s.minYear}) — ${formatY(s.maxVal)} (${s.maxYear})`,
+            ``,
+            `sources: ${s.sources.join(", ")}`,
+            `tier mix: ${s.tierMix}`
+          ];
+          return lines.join("\n");
         }
       }),
       // Country labels for selected countries only
