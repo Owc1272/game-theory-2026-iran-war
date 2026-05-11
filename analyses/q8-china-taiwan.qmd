@@ -1,0 +1,399 @@
+---
+title: "Q8 — Opportunities and risks for China vis-à-vis Taiwan"
+subtitle: "China is pursuing Friedberg's 'win without fighting' — patient long-game with opportunistic non-kinetic wins — while bounded operationally for kinetic Taiwan action through 2027-28."
+description: "The ADIZ tempo drop to 147 in February is not Chinese retreat; it is strategic patience optimizing for Trump-Xi summit-mediated bargaining. The finding hinges on a four-day forward test."
+categories: [analysis, q8, china, taiwan, cross-theater, friedberg]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+China's air-defense-identification-zone incursions into Taiwan's ADIZ dropped from 3,764 in 2025 to 147 in February 2026 — the lowest of the Lai era. Western analysts read this two ways: as Chinese retreat under Trump's preventive-force demonstration, or as patient signaling. Beijing simultaneously moved on Scarborough Shoal, ran PLA Eastern Theater transits, escalated CIPS volume, and lobbied for a Trump-Xi summit. The same evidence supports opposite readings. Which one is right depends on what game China is playing.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+China's air-defense-identification-zone (ADIZ) incursions into Taiwan's ADIZ — a major proxy for cross-strait coercive pressure — dropped from 3,764 in 2025 (the high-water mark of the Lai era) to **147 in February 2026**, the lowest monthly total since Lai's inauguration. April rebounded modestly to 169. Western analysts read this two ways. The retreat reading: Trump demonstrated preventive force in Iran (28 February 2026 strikes after Israeli pre-strike); Xi updated upward on US-resolve and pulled back. The patience reading: China is conserving signaling capacity while pursuing Trump-Xi summit-mediated bargaining (announced May 14-15) and structural financial-architecture wins (CIPS daily volume ~$134B; MOFCOM May 2 blocking statute on five teapot refineries handling ~25% of Chinese refining capacity). The same evidence supports opposite readings. Meanwhile Beijing moved on Scarborough Shoal (4 March; 352m floating barrier installed 11 April), ran a PLA Eastern Theater Joint Combat Group transit 19-22 April, sailed the Liaoning carrier 20 April, ran Type 076 and Type 055 trials, and intensified diplomatic engagement with Iran (Wang-Araghchi 6 May). The puzzle Q8 sets: what is China actually doing, and what does the 2026 Iran war mean for Taiwan?
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *China is executing [Friedberg's "win without fighting"]{.gloss data-gloss="friedberg-win-without-fighting"} with a [Brands-Beckley peaking-power patience]{.gloss data-gloss="brands-beckley-peaking-power"} overlay.* Posterior **P ≈ 0.40**. The strategy combines structural financial-architecture lock-ins (CIPS, blocking statute), summit-mediated Taiwan concessions (May 14-15), patient PLA capability development bounded by [combined-arms execution]{.gloss data-gloss="biddle-modern-system"} constraints through 2027-28, and a bounded intentions-update on US-Taiwan-resolve. The opportunity is real; its realization hinges on the Trump-Xi summit (4 days out).
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *China is executing [Friedberg's "win without fighting"]{.gloss data-gloss="friedberg-win-without-fighting"} grand strategy with a [Brands-Beckley peaking-power patience]{.gloss data-gloss="brands-beckley-peaking-power"} overlay.* Posterior on the unitary Friedberg-dominant finding: **P ≈ 0.40**. The strategy combines four components operating together: (1) structural financial-architecture lock-ins (PRC MOFCOM May 2 blocking statute on teapot refineries; CIPS daily volume $134B per Eichengreen's gradual [multi-currency shift]{.gloss data-gloss="farrell-newman-interdependence"}); (2) summit-mediated Taiwan-related US concessions (Trump-Xi May 14-15 with $14B arms sales pending and Trump's midterm-clock pressure); (3) PLA capability development continuing but execution-constrained — Naval News May 5 documents Type 076 *Sichuan* trials, Type 055 live-fire during Balikatan-2026, Liaoning April 20 transit, but Zhang Youxia / Liu Zhenli / 73rd Group Army purge effects bound [combined-arms execution]{.gloss data-gloss="biddle-modern-system"} through 2027-28 (Jamestown); (4) a bounded, asymmetric intentions-update — Xi updates substantially upward on US-Iran-resolve but the update on US-Taiwan-resolve is bounded by [Yarhi-Milo selective attention]{.gloss data-gloss="yarhi-milo-selective-attention"} and Weisiger interest-channel transmission (Iran-prioritization can be read as Taiwan-deprioritization). The four mechanisms collapse to one Friedberg strategy rather than four dimension-specific findings — [META rule 7]{.column-margin .deep-only} on framework-domain-native-distinction does not cleanly apply to Q8.
+:::
+
+```{=html}
+</div>
+```
+
+[META rule 7 governs when a dimension-specific finding is principled-multi-framework vs Lakatos rescue. Q8 is the first Q where the rule was *rejected* in favor of unitary-framework headline. Friedberg's framework integrates economic-statecraft, capability-build, and opportunistic tactical wins as one strategy — the components are not natively-domain-distinct in the literature. The headline therefore commits to unitary Friedberg-dominant rather than a Q7-style dimension-specific finding.]{.column-margin .deep-only}
+
+```{=html}
+<div class="deep-mode-indicator">
+<strong>Deep mode is on.</strong> Paragraphs expand with mechanism detail, the five pre-registered summit tests, the six 6-month structural tests, and a pre-mortem. Switch back to <em>Concise</em> at the top of the page to collapse.
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — why unitary Friedberg-dominant beats dimension-specific
+
+This chapter applies the standard 8-step protocol. The devil's-advocate pass forced the most consequential revision: the F1-F6 framework structure originally posited (financial, intentions, operational, etc.) was analyst-constructed, not literature-derived. Friedberg's framework explicitly integrates economic statecraft + strategic patience + asymmetric leverage + capability build as components of one strategy. META rule 7 (literature-derived domain-distinction required for principled-multi-framework finding) was rejected for Q8; headline reverted to unitary Friedberg with Brands-Beckley peaking-power patience overlay. Posterior on the unitary headline is capped at 0.40 by the T3-inference inventory (five load-bearing T3 inferences). Five summit-specific tests are pre-registered for the May 14-15 Trump-Xi meeting; five 6-month structural tests are pre-registered through end-Q3 2026.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  Q[ADIZ tempo<br/>3,764 in 2025<br/>147 in Feb 2026<br/>What is China<br/>doing?]
+  Q --> R1[Reading 1<br/>Retreat under<br/>Trump-Iran<br/>resolve update]
+  Q --> R2[Reading 2<br/>Patient signaling<br/>optimizing for<br/>summit-bargaining]
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef r fill:#f6f8fa,stroke:#d0d7de
+  class Q q
+  class R1,R2 r
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**Two readings of the same data.** The ADIZ tempo drop from 3,764 (2025) to 147 (Feb 2026) is real. Reading 1: China is retreating — Trump's Iran preventive-force demonstration updates Xi upward on US-resolve; the pullback follows. Reading 2: China is patient — conserving signaling capacity while pursuing Trump-Xi summit deliverables and structural financial-architecture wins. The readings make different predictions about post-summit Chinese behavior.]{.concise-only}
+
+::: {.deep-only}
+**Two readings of the same observed pattern.** The empirical fact: Taiwan MOD recorded 3,764 PLA ADIZ incursions in calendar 2025 (the high-water mark of Lai's first year), 147 in February 2026 (the lowest monthly total since Lai's inauguration), and 169 in April (a modest rebound). The same observation supports opposite readings. *Reading 1 — retreat under updated US-resolve:* Trump's 28 February 2026 preventive strikes on Iran (after Israel's 27 February preemption) demonstrate willingness to use force preventively. Xi observes; updates upward on US resolve; pulls back from ADIZ pressure. This is Slantchev-style information-revelation-through-action plus Hudson Lee's resolve-demonstration channel; it predicts Chinese pullback compounds if Trump's preventive-force pattern persists. *Reading 2 — patient signaling optimizing for summit bargaining:* China is conserving signaling capacity for a different purpose. With the Trump-Xi summit announced for May 14-15 (Beijing, focus on trade + Taiwan arms sales + Iran-war relief), China extracts non-kinetic wins through diplomatic channels rather than burning leverage on coercive air patrols. Meanwhile structural financial-architecture wins compound: PRC MOFCOM blocking statute of 2 May 2026 over Hengli plus four other teapot refineries (covering ~25% of Chinese refining capacity) is the first formal Chinese legal defiance of US secondary sanctions; CIPS daily volume reaches ~$134B in March 2026. The two readings predict different post-summit behavior — retreat predicts continued ADIZ suppression regardless of summit outcome; patience predicts ADIZ-tempo recovery if summit delivers no Taiwan-related concessions.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  F[Friedberg 2011<br/>Win without fighting]
+  F --> SIGMA[σ: Financial-architecture<br/>maturation<br/>CIPS + blocking statute]
+  F --> EPS[ε: Summit-mediated<br/>Taiwan concessions<br/>May 14-15]
+  F --> IOTA[ι: PLA capability<br/>development<br/>bounded by purges]
+  F --> TAU[τ: Bounded asymmetric<br/>intentions-update<br/>Yarhi-Milo]
+  classDef f fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-friedberg-win-without-fighting stroke-width:2px
+  classDef gt-gloss-yarhi-milo-selective-attention stroke-width:2px
+  classDef gt-gloss-biddle-modern-system stroke-width:2px
+  class F f
+  class F gt-gloss-friedberg-win-without-fighting
+  class SIGMA,EPS,IOTA,TAU m
+  class TAU gt-gloss-yarhi-milo-selective-attention
+  class IOTA gt-gloss-biddle-modern-system
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**Four mechanisms, one strategy.** σ structural financial-architecture (CIPS + blocking statute, persists regardless of summit); ε summit-mediated Taiwan concessions (heavily conditional on May 14-15 outcome); ι PLA development continuing but operationally bounded by Zhang Youxia / 73rd Group Army purges; τ bounded asymmetric intentions-update per [Yarhi-Milo]{.gloss data-gloss="yarhi-milo-selective-attention"}. The four collapse into one [Friedberg]{.gloss data-gloss="friedberg-win-without-fighting"} strategy rather than four independent findings.]{.concise-only}
+
+::: {.deep-only}
+**The four mechanisms.** *σ — Structural financial-architecture maturation.* PRC MOFCOM 2 May 2026 blocking statute over Hengli plus four other teapot refineries — the first formal Chinese legal defiance of US secondary sanctions — combined with CIPS daily volume at ~$134B and Hengli's 235B yuan bank credit facility (despite verbal Chinese-bank loan suspensions) constitutes structural lock-in. This is Eichengreen's "gradual shift toward a multi-currency system" rather than a sudden rupture, but the directionality is unambiguous, and the architecture persists regardless of summit outcome. P(load-bearing) ≈ 0.60. *ε — Summit-mediated Taiwan-related US concessions.* The Trump-Xi summit (Beijing, 14-15 May 2026) pairs trade (~$14B in pending Taiwan arms sales as bargaining chip), Taiwan (declaratory-shift options), and Iran-war relief. The pre-summit analyst consensus (CSIS Kagan; Brookings Hass-Czin; CFR Froman/Doshi-Sacks; Bruegel García-Herrero) is "modest substance, ambitious optics." Specific Taiwan-rhetoric shifts Taipei is bracing against: "not supporting" Taiwan independence → "opposing"; "support" for "peaceful unification"; arms-sale self-restraint; "one China principle" rather than "policy." P(load-bearing) ≈ 0.45 — heavily conditioned on summit outcome (4 days out). *ι — PLA capability execution bounds.* Naval News 5 May 2026 documents Type 076 *Sichuan* sea trials, Type 055 *Zunyi* live-fire during Balikatan-2026, Liaoning carrier 20 April transit, H-6/YJ-12 patrols. Platform development continues. But [Biddle's modern-system theory]{.gloss data-gloss="biddle-modern-system"} requires functioning command structures + sustained doctrine + training cycles for combined-arms execution; the Zhang Youxia / Liu Zhenli / 73rd Group Army purges (Jamestown) bound execution through 2027-28. P(load-bearing) ≈ 0.55. *τ — Bounded asymmetric intentions-update.* Xi observes Trump's Iran preventive-force willingness; the question is what Xi updates *on*. Xi updates substantially upward on US-Iran-resolve (Hudson Lee resolve-demonstration channel). But [Yarhi-Milo's selective-attention framework]{.gloss data-gloss="yarhi-milo-selective-attention"} predicts the update on US-Taiwan-resolve is *bounded* — Xi is anchored on Taiwan-specific priors (different theater, different historical pattern). And Weisiger interest-channel transmission cuts the other way: observing US prioritization of Iran can be read as US deprioritization of Taiwan. Net effect: Xi's update on US-Taiwan-defense-resolve is modest and ambiguous. P(load-bearing) ≈ 0.45.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  ST[Summit test<br/>May 14-15<br/>4 days out]
+  ST --> T1[Test 1<br/>Taiwan declaratory<br/>shift]
+  ST --> T2[Test 2<br/>Arms-sale<br/>self-restraint]
+  ST --> T3[Test 3<br/>One China<br/>principle vs policy]
+  ST --> T4[Test 4<br/>Iran-Hormuz<br/>mediation language]
+  ST --> T5[Test 5<br/>CRINK secondary-<br/>sanctions concession]
+  T1 --> R[4-5 yes:<br/>P Friedberg → 0.60<br/>2-3 yes: P → 0.45<br/>0-1 yes: P → 0.25]
+  T2 --> R
+  T3 --> R
+  T4 --> R
+  T5 --> R
+  classDef st fill:#0969da,color:#fff,stroke:#0969da
+  classDef t fill:#f6f8fa,stroke:#d0d7de
+  classDef r fill:#dafbe1,stroke:#2da44e
+  class ST st
+  class T1,T2,T3,T4,T5 t
+  class R r
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Five pre-registered summit tests (4 days out).** Each test fires "yes" if the specific outcome obtains. Aggregate: 4-5 yes → P(Friedberg-dominant) → 0.60; 2-3 yes → P → 0.45 (current); 0-1 yes → P → 0.25 and Steel-man B unitary reading (China net loser on Taiwan dimensions) rises to 0.45.]{.concise-only}
+
+::: {.deep-only}
+**Five pre-registered summit tests.** Each test is a specific outcome that, if observed, updates the posterior on the Friedberg-dominant finding. *Test 1 — Taiwan declaratory shift:* does the summit produce a US declaratory shift from "not supporting" to "opposing" Taiwan independence in joint statements or readouts? *Test 2 — Arms-sale self-restraint:* does the US announce any pause, delay, or reduction in the $14B Taiwan arms package? *Test 3 — "One China principle" vs "policy":* does the US shift from "one China policy" (the standard US phrasing since 1979) to "one China principle" (the PRC phrasing implying acceptance of Beijing's sovereignty claim)? *Test 4 — Iran-Hormuz mediation language:* does the summit produce explicit Chinese-mediation language on Iran-war wind-down + Hormuz reopening? *Test 5 — CRINK secondary-sanctions concession:* does the summit produce explicit US concessions on secondary sanctions affecting CRINK financial architecture (Hengli, teapot refineries)? *Aggregate revision rule:* count how many tests fire "yes." 4-5 yes → P(Friedberg-dominant) → 0.60. 2-3 yes → P → 0.45 (current). 0-1 yes → P → 0.25; Steel-man B unitary (China net loser on Taiwan-relevant dimensions) rises to 0.45. The pre-registration makes the synthesis testable within four days.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  TR[6-month<br/>structural tests<br/>through Q3 2026]
+  TR --> T6[CIPS scaling<br/>$200B sustained?]
+  TR --> T7[Blocking statute<br/>extension]
+  TR --> T8[PLA combined-arms<br/>recovery]
+  TR --> T9[Chinese discourse<br/>Position 2+3<br/>incorporation]
+  TR --> T10[Xi update on<br/>US-Taiwan-resolve<br/>disambiguation]
+  classDef tr fill:#0969da,color:#fff,stroke:#0969da
+  classDef t fill:#f6f8fa,stroke:#d0d7de
+  class TR tr
+  class T6,T7,T8,T9,T10 t
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Five 6-month structural tests.** CIPS scaling validates σ as structural-breakpoint rather than gradual shift; blocking statute extension validates structural-defiance; PLA combined-arms recovery would falsify the ι 2027-28 bound; Chinese strategic-discourse incorporation tests whether Western Position 2+3 framings reflect Chinese learning; τ disambiguation tests whether Xi reads Iran preventive force as Taiwan-relevant resolve signal.]{.concise-only}
+
+::: {.deep-only}
+**Five 6-month structural tests.** *Test 6 — CIPS scaling:* does CIPS daily volume reach $200B sustained by end-Q3 2026? If yes, σ validates as structural-breakpoint; if no, Eichengreen's gradual-shift framing validates. *Test 7 — Blocking statute extension:* does the May 2 blocking statute extend to additional Chinese firms (Sinopec/CNPC/CNOOC subsidiaries) or to non-Iran sanctions targets (Russia-buyer intermediaries)? Extension would very strongly validate σ; non-extension would keep the May 2 datum as symbolic-defensive. *Test 8 — PLA combined-arms recovery:* does the PLA show evidence of combined-arms exercises beyond platform demonstrations — cross-service integration, command-recovery from purges? If yes, ι constraint partially falsifies and 2027 readiness becomes plausible. *Test 9 — Chinese strategic-discourse incorporation:* does Chinese strategic discourse (PLA Daily, Global Times, CCP-aligned analysts) incorporate Position 2+3 Hormuz-template framings (law-enforcement-coded or financial-architecture/insurance-blockade approaches)? If yes, Chinese strategic learning validated. If no, the Western-analyst Position 2+3 dominance is framework drift, not Chinese doctrine evolution. *Test 10 — τ disambiguation:* does Chinese strategic discourse show upward update on US-Taiwan-defense-resolve specifically (not US-resolve generally)? If yes, Yarhi-Milo selective-attention bound partially falsifies. The five 6-month tests, combined with the five 4-day summit tests, give the analysis ten distinct empirical hooks.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) posteriors on the Friedberg-dominant headline vs alternatives; (2) the four mechanisms with load-bearing probabilities; (3) the ten pre-registered tests.
+
+### Figure 1 — Posterior over Q8 headline alternatives
+
+```{ojs}
+//| label: fig-q8-posteriors
+//| fig-cap: "Posterior probabilities over four Q8 headline alternatives. Friedberg-dominant unitary is the plurality winner at 40%; Steel-man B (China net loser on Taiwan dimensions) at 25%; dimension-specific finding (rejected per META rule 7 but retained on menu) at 20%; other/hybrid at 15%."
+
+{
+  const headlineData = [
+    {id: "F", full: "F — Friedberg unitary with Brands-Beckley patience", post: 0.40, tier: "T3"},
+    {id: "B", full: "B — Steel-man B: China net loser on Taiwan dimensions", post: 0.25, tier: "T3"},
+    {id: "D", full: "D — Dimension-specific finding (rejected by META rule 7)", post: 0.20, tier: "T3"},
+    {id: "O", full: "O — Other / hybrid (e.g., Brands-Beckley acceleration)", post: 0.15, tier: "T4"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 280 : Math.max(360, Math.min(500, Math.round(width * 0.45)));
+  const data = headlineData.map(d => ({ ...d, display: isMobile ? d.id : d.full }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 56 : Math.max(380, Math.round(width * 0.36)),
+    marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Posterior probability",
+      domain: [0, 0.5],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: data.map(d => d.display) },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.barX(data, {
+        x: "post", y: "display",
+        fill: "tier", insetTop: 8, insetBottom: 8,
+        channels: {
+          Headline: "full",
+          "Posterior": d => `${Math.round(d.post * 100)}%`,
+          Tier: "tier"
+        },
+        tip: {
+          lineWidth: 35,
+          fontSize: isMobile ? 12 : 13
+        }
+      }),
+      Plot.text(data, {
+        x: "post", y: "display",
+        text: d => `${Math.round(d.post * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
+      }),
+      Plot.ruleX([0.40], { stroke: "#cf222e", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+      Plot.text([{ x: 0.40, y: data[0].display }], {
+        x: "x", y: "y", text: () => "T3-inference cap →",
+        dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
+        fontSize: annotFont, fill: "#cf222e", fontStyle: "italic", fontWeight: 500
+      })
+    ]
+  });
+}
+```
+
+[**Reading the chart.** The dashed red line at 40% is the META rule 5 posterior cap on unitary-framework headlines with five load-bearing T3 inferences. The Friedberg-dominant headline sits exactly at the cap. Steel-man B at 25% captures the "China net loser" alternative; dimension-specific at 20% retains the rejected alternative on the menu; other/hybrid at 15% covers low-probability tail scenarios (Brands-Beckley acceleration with a major Taiwan move within 12 months).]{.concise-only}
+[**Reading the chart.** Each row is a headline alternative for Q8. The dashed red line at 40% marks the META rule 5 posterior cap for unitary-framework headlines carrying five load-bearing T3 inferences (Friedberg as the operative framework; Brands-Beckley peaking-power patience as overlay; 2027 readiness bounded by purge effects; Xi's update on US-Taiwan-resolve bounded; Position 2+3 dominance as Western framework drift). The Friedberg-dominant headline sits at the cap precisely. The Steel-man B reading (China net loser on Taiwan-relevant dimensions) is internally coherent and captures real Chinese constraints — it under-weights the financial-architecture gains and treats Chinese strategic pause as weakness, but if those readings are wrong, B becomes operative. The dimension-specific finding sits at 20% — rejected by META rule 7 application but retained on the menu in case the rejection itself is wrong. The other/hybrid 15% covers Brands-Beckley acceleration (China makes a major Taiwan move within 12 months) and other tail scenarios. The colors are red (T3) and grey (T4): no T1 or T2 outcomes are available for Q8 — every headline is an analyst inference.]{.deep-only}
+
+### Figure 2 — Four mechanisms with load-bearing probabilities
+
+```{mermaid}
+flowchart TB
+  F[Friedberg unitary<br/>P=0.40]
+  F --> SIGMA[σ Financial-architecture<br/>maturation<br/>P load-bearing=0.60]
+  F --> EPS[ε Summit-mediated<br/>Taiwan concessions<br/>P load-bearing=0.45]
+  F --> IOTA[ι PLA execution bounds<br/>through 2027-28<br/>P load-bearing=0.55]
+  F --> TAU[τ Bounded asymmetric<br/>intentions-update<br/>P load-bearing=0.45]
+  F -.-> THETA[θ CRINK consolidation<br/>perception SECONDARY<br/>P=0.40]
+  classDef f fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef s fill:#f6f8fa,stroke:#d0d7de
+  class F f
+  class SIGMA,EPS,IOTA,TAU m
+  class THETA s
+```
+
+[Four load-bearing mechanisms + one secondary (θ CRINK consolidation perception — operative now in US policy-formation channels via Hengli sanctions + AEI satellite intel + Atlantic Council framing). σ persists regardless of summit; ε is heavily conditional on summit; ι is structural through 2027-28; τ is the bounded asymmetric update.]{.concise-only}
+[Four load-bearing mechanisms collapse to one Friedberg-dominant unitary headline. σ (financial-architecture maturation) persists regardless of summit outcome — it is structural. ε (summit-mediated Taiwan concessions) is heavily conditioned on May 14-15 outcome. ι (PLA execution bounded through 2027-28) is structural and largely independent of any single event. τ (bounded asymmetric intentions-update) is the framework-derived prediction that the same observation — Trump's Iran preventive force — produces different updates on different US-resolve dimensions. The secondary θ (CRINK consolidation perception) is operative in US policy-formation channels (Treasury sanctions on Hengli April 24; Wang-Araghchi 6 May; AEI April 17 CRINK satellite intel; Atlantic Council "Axis of Evasion" framing) and raises the long-term political cost of future US action against China by making China-as-adversary the default frame.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+### Figure 3 — Ten pre-registered tests
+
+```{mermaid}
+flowchart TB
+  subgraph S [4-day summit tests May 14-15]
+    direction LR
+    T1[1: Taiwan declaratory shift]
+    T2[2: Arms-sale self-restraint]
+    T3[3: One China principle vs policy]
+    T4[4: Iran-Hormuz mediation language]
+    T5[5: CRINK secondary-sanctions concession]
+  end
+  subgraph L [6-month structural tests through Q3 2026]
+    direction LR
+    T6[6: CIPS $200B sustained]
+    T7[7: Blocking statute extension]
+    T8[8: PLA combined-arms recovery]
+    T9[9: Chinese discourse Position 2+3]
+    T10[10: τ disambiguation]
+  end
+  S --> R1[Aggregate revision rule:<br/>4-5 yes: P Friedberg → 0.60<br/>2-3 yes: P → 0.45<br/>0-1 yes: P → 0.25]
+  L --> R2[Each test shifts<br/>specific mechanism's<br/>load-bearing weight]
+  classDef tt fill:#fff8c5,stroke:#d4a72c
+  classDef r fill:#dafbe1,stroke:#2da44e
+  class T1,T2,T3,T4,T5,T6,T7,T8,T9,T10 tt
+  class R1,R2 r
+```
+
+The summit tests fire within four days; the structural tests fire over six months. The synthesis is therefore testable on two time horizons and the posteriors update mechanically as tests fire.
+
+### Figure 4 — Source-confidence tier audit
+
+Of the synthesis's load-bearing claims:
+
+- **[T1]{.tier .tier-1} multi-source verified:** Taiwan ADIZ tempo (3,764 in 2025; 147 in Feb 2026; 169 in April) — Taiwan MOD + USCC China Bulletin; Scarborough Shoal 4 March + floating barrier 11 April — USCC + CSMonitor; PRC MOFCOM 2 May blocking statute over 5 teapot refineries (~25% of Chinese refining capacity) — Bloomberg + Al Jazeera; Wang-Araghchi 6 May — PRC MOFA; Trump-Xi summit 14-15 May (Iran + Taiwan + arms-sale central) — multiple primary sources; Taiwan NT$780B special defense budget — Taipei Times + Taiwan MOD.
+
+- **[T2]{.tier .tier-2} single-source named:** PLA Eastern Theater 19-22 April transit + Liaoning + Type 076 trials + Type 055 live-fire — Naval News May 5; CIPS daily volume ~$134B March 2026 — CSIS China Power + Bloomberg; Hengli 235B yuan bank credit + verbally-instructed loan suspensions — AEI May 8; China Gulf imports -25% YoY March 2026 — Brookings; AEI April 17 CRINK satellite intel; PLA purges (Zhang Youxia / Liu Zhenli / 73rd Group Army) — Jamestown; Freymann customs-quarantine framework (FA April 29); CFR May 10 5-author consensus; Bruegel García-Herrero May 8 + SCMP Magnier May 9 same consensus.
+
+- **[T3]{.tier .tier-3} inference from evidence:** **[Brands-Beckley peaking-power patience explains observed pattern]{.gloss data-gloss="brands-beckley-peaking-power"}** (inference); **[Friedberg "win without fighting" is the operative unitary framework]{.gloss data-gloss="friedberg-win-without-fighting"}** (preferred over Allison/Brands-Beckley standalone; the central load-bearing inference); China cannot execute 2027 Taiwan op due to purge effects (inference from Jamestown via [Biddle modern-system theory]{.gloss data-gloss="biddle-modern-system"}); Xi's update on US-Taiwan-resolve is bounded vs US-Iran-resolve update is substantial (inference from [Yarhi-Milo]{.gloss data-gloss="yarhi-milo-selective-attention"} + Weisiger application); Position 2+3 Hormuz-template dominance reflects Western-analyst framework drift, not Chinese strategic learning (DA Critique 7 acknowledgment).
+
+- **[T4]{.tier .tier-4} conjecture:** none in the load-bearing path; "other/hybrid" 15% headline alternative is a tier-4 catch-all.
+
+**Five load-bearing T3 inferences** trigger the META rule 5 posterior cap at ≤ 0.40 on the unitary headline. The reconciled posterior sits exactly at that cap.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+The most likely ways the analysis will be wrong:
+
+1. **Trump-Xi summit produces substantial Taiwan-related concessions** (P ≈ 0.20-0.25). The Friedberg-dominant headline validates strongly; posterior should jump to 0.55+.
+
+2. **Trump-Xi summit produces NO Taiwan-related concessions** (P ≈ 0.25-0.30). Steel-man B (China net loser on Taiwan dimensions) reading strengthens; Friedberg-dominant drops to 0.25-0.30.
+
+3. **PLA combined-arms recovery faster than projected** (P ≈ 0.10). ι constraint falsifies; 2027 readiness becomes possible; Brands-Beckley peaking-power acceleration scenario becomes operative.
+
+4. **CIPS scales rapidly beyond gradual-shift framing** (P ≈ 0.15). σ validates as structural-breakpoint; financial-architecture dimension becomes more independent of summit outcome; might force dimension-specific re-reading.
+
+5. **China makes major Taiwan move in 2026-2027** (P ≈ 0.05-0.10). Brands-Beckley acceleration validates; Friedberg patience falsified.
+
+6. **DA Critique 1 was wrong**: the dimension-specific finding might be substantively correct, with Friedberg-unitary being the analyst-convenience over-collapse. P ≈ 0.20.
+
+**Lowest-confidence claim**: that the Western-analyst Position 2+3 Hormuz-template framework drift reflects (or doesn't reflect) actual Chinese strategic-doctrine evolution. The empirical test (Chinese strategic-discourse incorporation) is pre-registered as a 6-month-horizon test, not currently resolvable.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+Companion analysis files: [`Q8_china_vs_taiwan.md`](https://github.com/) — final reconciled deliverable; [`Q8_agent_A_corpus_pull.md`](https://github.com/) — corpus primitives; [`Q8_agent_B_case_pull.md`](https://github.com/) — empirical brief; [`Q8_steelmans_and_synthesis.md`](https://github.com/) — pre-DA synthesis; [`Q8_DA_critique.md`](https://github.com/) — devil's-advocate attack transcript.
+
+Key citations: @friedberg2011contest, @brands2022danger, @biddle2004military, @yarhi-milo2014knowing, @fearon1995rationalist, @powell2006commitment, @schelling1966arms, @eichengreen2011exorbitant.
+
+**Highest-priority remaining corpus gaps for Q8 verification:**
+
+- Independent corroboration of CIPS daily volume figures beyond CSIS / Bloomberg estimates.
+- Public-source verification of PLA combined-arms execution status post-purges (currently Jamestown-only).
+- Chinese strategic-discourse evidence on Hormuz Position 2+3 framings (pre-registered as 6-month test).
+
+```{=html}
+</div>
+```

@@ -10,12 +10,12 @@ The primer is descriptive, not prescriptive — it sets out what each model assu
 ## Primer chapters
 
 - **[The bargaining model of war](bargaining-model.qmd)** — Fearon 1995, Powell 2006: when is war the rational outcome, and where does the model break? *Chapter live.*
+- **[Audience costs and signaling resolve](audience-costs.qmd)** — Fearon 1994, Weeks 2008: democratic vs. autocratic, and why the IRGC institutional consensus is the binding audience in 2026 Iran. *Chapter live.*
 
 ## Forthcoming chapters
 
 Each will follow the same format (skip-link / dashboard / scrolly / depth toggle):
 
-- **Audience costs and signaling resolve** — Fearon 1994, Weeks 2008: democratic vs. autocratic, and the IRGC as an audience.
 - **Hierarchy and clientelism** — Lake 2009, Posen patron-client: when "alliance of equals" is the wrong frame.
 - **Omnibalancing and regime survival** — David 1991, Gause 2003/4: when leaders balance internal threats over external ones.
 - **Hedging vs. balancing vs. bandwagoning** — Kuik 2008/2016, Lim & Cooper 2015: what do Gulf states' actions actually fit?

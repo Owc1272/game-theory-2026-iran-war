@@ -1,0 +1,395 @@
+---
+title: "Q7 — Opportunities and risks for Russia in Ukraine"
+subtitle: "On a 12-month forecast horizon, the 2026 Iran war produced passive Russian gains that evaporate vs Ukraine's active capability accumulation that compounds. Putin will continue rather than concede."
+description: "Trump compartmentalized the theaters; Russia could not break the compartmentalization. The Goemans gamble-for-resurrection dynamic dominates the bargaining-trajectory prediction."
+categories: [analysis, q7, russia, ukraine, cross-theater, goemans]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+The 2026 Iran war drove Brent to $86 in early March — a windfall for Russia. Putin then offered to mediate between Washington and Tehran, and the Dmitriev intel-trade dangled Iran intelligence in exchange for Ukraine sanctions relief. Trump rebuffed both. Russia got the oil revenue and nothing else: no Ukraine concessions, no CRINK-tightening that protected Russia from Western sanctions architecture, no break in Trump's compartmentalization of the two theaters. Did Russia gain or lose? The answer differs by dimension.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+In March 2026 the Iran-war Brent spike pushed Russian oil revenue to $19 billion for the month, a 95% month-over-month jump. Putin moved to convert the war into Ukraine-relevant gains. He offered to mediate between Washington and Tehran. The Dmitriev intel-trade dangled Russian Iran intelligence in exchange for Ukraine sanctions relief. Both offers were rebuffed by Trump. Russia's compartmentalization-breaking attempt failed. The structural reason: Russia's multi-front military incapacity (refining output at 4.69 mb/d in May, a 15-year low; 5 straight months casualties exceeding recruitment) meant Russia could not credibly threaten escalation linkage; and the CRINK coalition (China-Russia-Iran-North Korea) is structurally loose-coupled, with no senior partner able to deliver concessions. Meanwhile Ukraine converted Iran-war demand into 201 deployed defense specialists across 5 Gulf states and 10-year defense cooperation frameworks with Saudi/Qatar/UAE (Haavik / Security Distillery, April 20). Russia's gains are *passive* (oil revenue dependent on price and Strait conditions; March federal budget short 234.3B rubles despite the windfall). Ukraine's gains are *active* (defense partnerships scaled to $50B/year production; export permits; deployed specialists). On a 12-month horizon, the trajectory is asymmetric and time-decaying. The puzzle Q7 sets: what does the Iran war mean for the Russia-Ukraine war?
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *On a 12-month horizon, asymmetric and time-decaying gains.* Russia's gains are passive (oil revenue evaporates with prices); Ukraine's gains are active (defense partnerships compound). Russia attempted to break Trump's compartmentalization (Putin mediation, Dmitriev intel-trade) and was rebuffed. On bargaining, [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} dominates: Putin will continue rather than concede. Posterior on the dimension-specific finding: **P ≈ 0.45** (capped by T3-inference inventory). Russia-net-winner reading: 0.10.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *On a 12-month forecast horizon, the 2026 Iran war produced asymmetric and time-decaying gains for Russia in Ukraine.* Posterior on the dimension-specific finding with [Goemans-favored bargaining]{.gloss data-gloss="goemans-gamble-resurrection"}: **P ≈ 0.45**. Russia attempted to break Trump's compartmentalization (Putin mediation offer rebuffed; Dmitriev intel-trade rejected) and failed, because Russia's multi-front military incapacity ([Mearsheimer attrition]{.gloss data-gloss="mearsheimer-attrition"} dynamics) prevented operational linkage and the CRINK coalition is structurally loose-coupled ([Pressman alliance-restraint]{.gloss data-gloss="pressman-alliance-restraint"}). Two load-bearing mechanisms: **τ** asymmetric Russia-degrades-Ukraine-compounds trajectory (P load-bearing ≈ 0.65) with two sub-channels (military: defense-dominant attrition + Ukrainian deep-strike via [Pape coercion-doctrine]{.gloss data-gloss="pape-coercion"} inverted; economic-coalition: passive Russian gains decay per [Drezner sanctions]{.gloss data-gloss="drezner-sanctions"} + [Colgan non-revolutionary petrostate]{.gloss data-gloss="colgan-petrostate"} vs Ukraine's active gains compound per [Farrell-Newman interdependence]{.gloss data-gloss="farrell-newman-interdependence"}); **ω*** Goemans-favored bargaining (P ≈ 0.55; P(Goemans within) ≈ 0.60). Plus one pre-registered upgrade trigger γ' (CRINK financial-architecture extension to Russia-buyers; P ≈ 0.30 by end-Q3 2026). Russia-net-winner reading: 0.10. Russia-net-loser uniformly: 0.30. Genuinely indeterminate: 0.15. Time-horizon explicit: 12-month forecast; longer horizons depend on Western-support-fragility (reversible-on-one-election).
+:::
+
+```{=html}
+</div>
+```
+
+[Q7 is the second *principled-multi-framework* finding in the project (after Q9). Each framework family — battlefield ([Mearsheimer]{.gloss data-gloss="mearsheimer-attrition"} / Posen / Biddle), economic-petrostate ([Colgan]{.gloss data-gloss="colgan-petrostate"} / Ross / [Drezner]{.gloss data-gloss="drezner-sanctions"}), coalition ([Pressman]{.gloss data-gloss="pressman-alliance-restraint"} / Lake / [Farrell-Newman]{.gloss data-gloss="farrell-newman-interdependence"}), bargaining ([Goemans]{.gloss data-gloss="goemans-gamble-resurrection"} / Reiter / Fearon) — has a domain-of-application specified in the IR literature prior to being applied to the Russia-Ukraine case. The dimension-specific finding is principled multi-framework, not Lakatos rescue.]{.column-margin .deep-only}
+
+```{=html}
+<div class="deep-mode-indicator">
+<strong>Deep mode is on.</strong> Paragraphs expand with mechanism detail, pre-registered falsification criteria, the tier audit, and pre-mortem. Switch back to <em>Concise</em> at the top of the page to collapse.
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — principled-multi-framework finding (META rule 7 application)
+
+This chapter applies the standard 8-step protocol. The devil's-advocate pass (12 critiques + Critique 6.5) was the most aggressive of the project, producing substantial revisions. Two were structurally critical: (1) DA Critique 6 forced explicit specification of a 12-month forecast horizon — longer horizons depend on Western-support-fragility (reversible-on-one-election) and are downgraded to "currently-dominant 12-month pattern." (2) DA Critique 2 was accepted: the ω cop-out (Goemans vs Reiter/Fearon framework indeterminacy) was resolved toward Goemans, P(Goemans within) ≈ 0.60. Headline posterior lowered from 0.50 to 0.45 to acknowledge T3-inflation but framework structure preserved. META rule 7 applies: each of the four framework families is pre-analysis-domain-distinct in the IR literature (battlefield vs economic vs coalition vs bargaining), in the same way Q9's Pape/Posen/Ikenberry/Farrell-Newman are domain-distinct.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  W[Iran war creates<br/>opportunities for<br/>Russia in Ukraine?]
+  W --> B[Battlefield]
+  W --> E[Economic /<br/>petrostate]
+  W --> C[Coalition]
+  W --> BR[Bargaining /<br/>war-termination]
+  classDef w fill:#0969da,color:#fff,stroke:#0969da
+  classDef d fill:#f6f8fa,stroke:#d0d7de
+  class W w
+  class B,E,C,BR d
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**Four framework-domains in the IR literature.** Q7 asks the same question through four lenses: battlefield ([Mearsheimer / Posen / Biddle]{.gloss data-gloss="mearsheimer-attrition"}); economic / petrostate ([Colgan / Ross / Drezner]{.gloss data-gloss="colgan-petrostate"}); coalition ([Pressman / Lake / Farrell-Newman]{.gloss data-gloss="pressman-alliance-restraint"}); bargaining / war-termination ([Goemans / Reiter / Fearon]{.gloss data-gloss="goemans-gamble-resurrection"}). Each family is domain-distinct prior to application; the dimension-specific finding is principled multi-framework.]{.concise-only}
+
+::: {.deep-only}
+**Four framework-domains in the IR literature, each pre-analysis-domain-distinct.** *Battlefield / operational:* [Mearsheimer 1983]{.gloss data-gloss="mearsheimer-attrition"} on blitzkrieg-vs-attrition deterrence; Posen 1984 on doctrine adaptation under multi-front pressure; Biddle 2004 on combined-arms execution. The literature does not extend naturally to economic or coalition domains. *Economic / petrostate / sanctions:* [Colgan 2013]{.gloss data-gloss="colgan-petrostate"} on revolutionary-vs-non-revolutionary petrostate aggression; Ross 2012 on oil-revenue volatility; [Drezner 1999/2025]{.gloss data-gloss="drezner-sanctions"} on sanctions effectiveness vs ineffectiveness. The literature does not extend to battlefield doctrine or coalition restraint. *Coalition / alliance-restraint / interdependence:* [Pressman 2008]{.gloss data-gloss="pressman-alliance-restraint"} on alliance-restraint of the junior partner; Lake 2009 on hierarchy; [Farrell-Newman 2019]{.gloss data-gloss="farrell-newman-interdependence"} on weaponized interdependence. The literature does not extend to battlefield doctrine or petrostate political-economy. *Bargaining / war-termination:* [Goemans 2000]{.gloss data-gloss="goemans-gamble-resurrection"} on gamble-for-resurrection in mixed regimes; Reiter 2009 on information-driven settlement willingness; Fearon 1996 / Powell 2006 on dynamic bargaining + commitment problems. The literature does not extend to operational battlefield or petrostate aggression. Each family's domain is specified in the literature before being applied to Russia-Ukraine. The dimension-specific finding is therefore principled multi-framework — META rule 7 cleared.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  T[τ Asymmetric trajectory]
+  T --> TM[τ-military:<br/>Russia constrained<br/>by attrition<br/>Ukraine deep-strike<br/>compounds]
+  T --> TEC[τ-economic-coalition:<br/>Russia gains passive,<br/>evaporate<br/>Ukraine gains active,<br/>compound]
+  TM --> E1[4.69 mb/d refinery output<br/>15-year low]
+  TM --> E2[5 months casualties<br/>greater than recruitment]
+  TM --> E3[First net territory loss<br/>since Aug 2024]
+  TEC --> E4[March $19B revenue<br/>but Q1 deficit $60B]
+  TEC --> E5[201 specialists<br/>10-yr defense frameworks<br/>Saudi/Qatar/UAE]
+  classDef t fill:#0969da,color:#fff,stroke:#0969da
+  classDef sub fill:#dafbe1,stroke:#2da44e
+  classDef ev fill:#f6f8fa,stroke:#d0d7de
+  class T t
+  class TM,TEC sub
+  class E1,E2,E3,E4,E5 ev
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**τ — Asymmetric trajectory** (load-bearing P ≈ 0.65). Two sub-channels. *τ-military:* Russia's refining output dropped to 4.69 mb/d (15-year low); 5 straight months casualties greater than recruitment; first net territory loss since August 2024. *τ-economic-coalition:* Russia's March $19B oil revenue offset by 234.3B-ruble budget shortfall and $60B Q1 deficit; Ukraine's 201 deployed specialists + 10-year defense frameworks with Saudi/Qatar/UAE compound across 12 months.]{.concise-only}
+
+::: {.deep-only}
+**τ — Asymmetric Russia-degrades-Ukraine-compounds trajectory** (P load-bearing ≈ 0.65). Two sub-channels operating together. *τ-military:* Russia is constrained by Ukrainian defense-dominant attrition (Mearsheimer-Posen multi-front constraint applied to ongoing-war timescales). Ukraine actively degrades Russian war-economy chokepoints via deep-strike — Pape's coercion-doctrine inverted: Ukraine doing strategic-strike-for-coercion against Russia's refining, C4ISR feedstock, and storage infrastructure. Empirical anchors: Russian refining output fell to 4.69 mb/d in May 2026 (a 15-year low, with ~20% of capacity destroyed); Russian daily territorial advance rate fell from 9.76 to 2.9 km²/day; the first net territory loss since August 2024 (-116 km², April 2026, per ISW 2 May); the Cheboksary 5 May strike on VNIIR-Progress C4ISR feedstock production using Flamingo missiles at >1,500 km range. *τ-economic-coalition:* Russia's gains are passive — oil revenue dependent on price and Strait conditions, with March $19B (+95% MoM) offset by fuel-support payments to refiners (15B → 207.5B rubles), a March federal budget shortfall of 234.3B rubles despite the windfall, and Q1 2026 federal deficit reaching ~$60B (4.6 trillion rubles, exceeding the full-year 3.8 trillion target). Russia's passive gains evaporate. Ukraine's gains are active — defense partnerships with Saudi/Qatar/UAE, production base scaled to $50B/year, 201 deployed specialists across 5 Gulf states (Haavik / Security Distillery 20 April, T3 single-sourced), 10-year defense cooperation frameworks. Ukraine's active gains compound across the 12-month horizon. The sub-channel collapse (σ + π → τ) was retained on causal grounds against DA Critique 10: Russia's military degradation enables Ukraine's deep-strike effectiveness which enables Ukraine's economic-coalition gains — they are causally linked, not coincidental.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  O[ω* Goemans-favored<br/>bargaining trajectory]
+  O --> S1[Levada approval<br/>-11pts to 69%]
+  O --> S2[Victory Day parade<br/>truncation<br/>no military equipment]
+  O --> S3[Ushakov<br/>no point in talks]
+  O --> S4[5 months casualties<br/>greater than recruitment]
+  O --> S5[Doubled glide-bomb<br/>output<br/>offensive doubling-down]
+  classDef o fill:#0969da,color:#fff,stroke:#0969da
+  classDef s fill:#f6f8fa,stroke:#d0d7de
+  classDef gt-gloss-goemans-gamble-resurrection stroke-width:2px
+  class O o
+  class O gt-gloss-goemans-gamble-resurrection
+  class S1,S2,S3,S4,S5 s
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**ω*** **— [Goemans-favored bargaining]{.gloss data-gloss="goemans-gamble-resurrection"}** (load-bearing P ≈ 0.55). Five empirical signals all consistent with Putin's gamble-for-resurrection. Putin will continue rather than concede, regardless of objective war-capacity decline. The framework dominates the Reiter/Fearon settlement-pressure prediction.]{.concise-only}
+
+::: {.deep-only}
+**ω* — [Goemans-favored bargaining trajectory]{.gloss data-gloss="goemans-gamble-resurrection"}** (P load-bearing ≈ 0.55; P(Goemans within ω*) ≈ 0.60; P(Reiter/Fearon operative) ≈ 0.30; P(other settlement path) ≈ 0.10). Putin's regime-survival concerns push toward gamble-for-resurrection rather than Reiter/Fearon concession-pressure. Goemans's framework predicts that mixed-regime leaders facing personal-political destruction prefer escalation over a moderately bad settlement, even when objective war prospects worsen. The framework predicts continued war-prosecution past the point objective interests would dictate concession. Empirical signals all converging: Levada approval down 11 points to 69%; Victory Day parade truncation (no military equipment displayed for the first time since 2007, attributed to deep-strike vulnerability); Ushakov's "no point in talks" hard-line rejection of negotiations; five straight months of casualties exceeding recruitment (33,200 vs 27,400 in December 2025; pattern continuing through April); the Newsweek "running out of cards" framing; doubled glide-bomb output as offensive doubling-down rather than reduction. These signals are *both* causes of regime-survival anxiety and consequences of war-trajectory deterioration — a Goemans-dynamic feedback loop. **Critical implication**: ω* is consistent with τ. Russia continues fighting (Goemans) while Russia loses ground (τ-military) and accumulates passive gains that decay (τ-economic-coalition). The two mechanisms together predict continued Russian war-prosecution at attrition costs that exceed Russian gains, producing net Russian deterioration despite continued resource expenditure.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  G[γ' CRINK financial<br/>architecture tightening<br/>PRE-REGISTERED<br/>UPGRADE TRIGGER]
+  G --> M[China May 2 blocking<br/>statute over Hengli +<br/>4 teapot refineries]
+  G --> E[Extension to<br/>Russia-buyers?<br/>Indian / Turkish / UAE<br/>intermediaries]
+  E --> Y[YES by end-Q3 2026<br/>P approx 0.30]
+  E --> N[NO]
+  Y --> S[Steel-man B strengthens<br/>P Russia net winner<br/>+0.10]
+  N --> ST[Current state holds<br/>γ' remains latent]
+  classDef g fill:#0969da,color:#fff,stroke:#0969da
+  classDef d fill:#f6f8fa,stroke:#d0d7de
+  classDef y fill:#fff8c5,stroke:#d4a72c
+  class G g
+  class M,E,N,ST d
+  class Y,S y
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**γ' — CRINK financial-architecture tightening** (pre-registered upgrade trigger; P ≈ 0.30 of triggering by end-Q3 2026). If China extends its 2 May 2026 blocking statute to Russia-buyer intermediaries (Indian, Turkish, UAE), γ' upgrades from latent to load-bearing. Russia gains structural protection from US sanctions architecture. Posterior shifts: P(Russia net winner uniformly) +0.10; P(dimension-specific) −0.05.]{.concise-only}
+
+::: {.deep-only}
+**γ' — CRINK financial-architecture tightening** (pre-registered upgrade trigger). Currently *latent*: the architecture is materializing for Iran-buyers via the 2 May 2026 PRC MOFCOM blocking statute over Hengli plus four other teapot refineries, but it has not yet extended to Russia-buyers explicitly. If γ' triggers, the Russia trajectory shifts: Russia gains structural protection from US secondary-sanctions architecture; passive gains stop decaying; Putin's gamble-for-resurrection becomes affordable on longer horizons. The pre-registered trigger condition: does China extend the May 2 blocking statute to Russia-buyer intermediaries (Indian refiners, Turkish ports, UAE storage) by end-Q3 2026? If yes, Steel-man B's "Russia net winner via CRINK financial architecture" reading strengthens, and posteriors shift mechanically: P(Russia net winner uniformly) increases by ≈0.10; P(dimension-specific) decreases by ≈0.05. Agent B identified the May 2 datum as suggestive but found no current evidence of Russia-buyer extension. P(γ' triggers by end-Q3 2026) ≈ 0.30.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) posteriors on Q7 headline alternatives; (2) the two load-bearing mechanisms + one upgrade trigger; (3) pre-registered falsification criteria.
+
+### Figure 1 — Posterior over Q7 headline alternatives
+
+```{ojs}
+//| label: fig-q7-posteriors
+//| fig-cap: "Posterior probabilities over Q7 headline alternatives. Dimension-specific finding with Goemans-favored bargaining is the plurality winner at 45%; Russia net loser uniformly at 30%; Russia net winner uniformly at 10%; genuinely indeterminate at 15%."
+
+{
+  const headlineData = [
+    {id: "D", full: "D — Dimension-specific with Goemans-favored bargaining (12-month)", post: 0.45, tier: "T3"},
+    {id: "L", full: "L — Russia net loser uniformly (all dimensions)", post: 0.30, tier: "T3"},
+    {id: "I", full: "I — Genuinely indeterminate / hybrid required", post: 0.15, tier: "T4"},
+    {id: "W", full: "W — Russia net winner uniformly (Steel-man B)", post: 0.10, tier: "T3"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 280 : Math.max(360, Math.min(500, Math.round(width * 0.45)));
+  const data = headlineData.map(d => ({ ...d, display: isMobile ? d.id : d.full }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 56 : Math.max(380, Math.round(width * 0.36)),
+    marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Posterior probability",
+      domain: [0, 0.5],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: data.map(d => d.display) },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.barX(data, {
+        x: "post", y: "display",
+        fill: "tier", insetTop: 8, insetBottom: 8,
+        channels: {
+          Headline: "full",
+          "Posterior": d => `${Math.round(d.post * 100)}%`,
+          Tier: "tier"
+        },
+        tip: {
+          lineWidth: 35,
+          fontSize: isMobile ? 12 : 13
+        }
+      }),
+      Plot.text(data, {
+        x: "post", y: "display",
+        text: d => `${Math.round(d.post * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
+      }),
+      Plot.ruleX([0.45], { stroke: "#cf222e", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+      Plot.text([{ x: 0.45, y: data[0].display }], {
+        x: "x", y: "y", text: () => "T3-inference cap (multi-framework) →",
+        dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
+        fontSize: annotFont, fill: "#cf222e", fontStyle: "italic", fontWeight: 500
+      })
+    ]
+  });
+}
+```
+
+[**Reading the chart.** The dashed red line at 45% is the META rule 5 posterior cap for principled-multi-framework findings carrying six load-bearing T3 inferences. The dimension-specific headline sits exactly at the cap. Russia-net-loser uniformly at 30% captures the strongest version of "Russia is degrading on every dimension." Russia-net-winner uniformly at 10% captures Steel-man B (CRINK consolidation + sanctions relaxation + Trump compartmentalization breaks down). Genuinely indeterminate at 15% covers configurations not in the framework menu.]{.concise-only}
+[**Reading the chart.** Each row is a headline alternative for Q7. The dashed red line at 45% marks the META rule 5 posterior cap for principled-multi-framework findings carrying six load-bearing T3 inferences (the four framework-domain-native-distinctions plus the "passive vs active gains" integration plus the 12-month horizon assumption). The dimension-specific headline sits at the cap. Russia-net-loser uniformly (30%) captures the strongest version of "every dimension goes against Russia" — Reiter/Fearon over Goemans on bargaining, CRINK doesn't tighten, all sub-channels show Russia-disfavoring trajectory. Russia-net-winner uniformly (10%) is Steel-man B: γ' triggers, Trump sanctions-relaxation accelerates, ω* fully Goemans but in a way that's affordable (Putin continues without bargaining-position deterioration), and τ-active-side fails (Western support cuts). Genuinely indeterminate (15%) covers configurations outside the framework menu — Russian elite defection, Trump-successor signal, sudden Iranian regime collapse altering CRINK structure. Two of the four are tier-3 (red) inferences; one is tier-4 (grey) catch-all; one is tier-3 (red) but capped lower for being the steel-man.]{.deep-only}
+
+### Figure 2 — Mechanism inventory
+
+```{mermaid}
+flowchart TB
+  D[Dimension-specific finding<br/>P=0.45]
+  D --> TAU[τ Asymmetric Russia-degrades<br/>Ukraine-compounds trajectory<br/>P load-bearing=0.65]
+  D --> OMS[ω* Goemans-favored<br/>bargaining trajectory<br/>P load-bearing=0.55<br/>P Goemans within=0.60]
+  D -.-> GAM[γ' CRINK financial-architecture<br/>tightening UPGRADE TRIGGER<br/>P triggers=0.30]
+  TAU --> TM[τ-military:<br/>defense-dominant attrition<br/>+ Ukrainian deep-strike]
+  TAU --> TEC[τ-economic-coalition:<br/>passive Russian gains decay<br/>vs Ukraine active compound]
+  classDef d fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef s fill:#f6f8fa,stroke:#d0d7de
+  classDef t fill:#fff8c5,stroke:#d4a72c
+  class D d
+  class TAU,OMS m
+  class TM,TEC s
+  class GAM t
+```
+
+[Two load-bearing mechanisms (τ + ω*) plus one pre-registered upgrade trigger (γ'). The mechanism inventory passed the inflation-watch test: τ-military and τ-economic-coalition are causally linked (sub-channel collapse retained); ω* is consistent with τ — Russia continues fighting while losing, producing net deterioration despite continued resource expenditure.]{.concise-only}
+[The reconciled mechanism inventory after DA: two load-bearing + one upgrade trigger. τ collapses σ + π from earlier drafts — sub-channels retained on causal grounds because Russia's military degradation enables Ukraine's deep-strike effectiveness which enables Ukraine's economic-coalition gains. ω* resolves the original ω cop-out (Goemans-vs-Reiter/Fearon indeterminacy) toward Goemans on current empirical evidence. The two mechanisms are *consistent* — Russia continues fighting (Goemans) while losing ground (τ), producing the net Russian deterioration the synthesis predicts. The pre-registered upgrade trigger γ' makes the synthesis testable: if China extends the 2 May 2026 blocking statute to Russia-buyer intermediaries by end-Q3 2026, posteriors shift mechanically.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+### Figure 3 — Pre-registered falsification criteria
+
+The synthesis is testable on three time horizons.
+
+**Near-term (3-6 months, fires by 2026-08-10):**
+
+| Test | Predicts | Falsifies if |
+|---|---|---|
+| Trump-Xi summit (May 14-15) Russia content | No Russia deliverable | Summit produces Russia-related triangulation language |
+| CRINK γ' trigger | No extension to Russia-buyers by end-Q3 2026 | Blocking statute extended to Indian/Turkish/UAE intermediaries |
+| Russian advance rate | No recovery >9.76 km²/day sustained | Russia recaptures territory at >9.76 km²/day for >4 weeks |
+| ω* commit-Goemans | No substantial Putin concessions at next negotiating round | Putin accepts substantial territorial concession |
+
+**Medium-term (6-12 months, falsifies through 2027-04):**
+
+| Test | Predicts | Falsifies if |
+|---|---|---|
+| Haavik corroboration | "201 specialists / 10-year frameworks" corroborated by independent source | Single-source remains; downgrade π active-side strength |
+| Western support-cut threshold | US/EU weapons supply sustains | US/EU cut by >50% from current pace |
+| Oil price sustained-test | Brent/Urals do not sustain >$80/bbl 12+ months | Sustained >$80/bbl for 12+ months |
+
+**Long-term (beyond 12 months — undetermined):** The synthesis *explicitly* does not pre-register long-horizon falsification criteria. On 2027-28+ horizons, the Russia-vs-Ukraine trajectory depends critically on Western-support-fragility (reversible-on-one-election), which is downgraded to "currently-dominant 12-month pattern."
+
+### Figure 4 — Source-confidence tier audit
+
+Of the synthesis's load-bearing claims:
+
+- **[T1]{.tier .tier-1} multi-source verified:** Russia first net territory loss since Aug 2024 (-116 km², April 2026) — ISW May 2; Russian refinery output 4.69 mb/d May 2026 (15-year low, ~20% capacity destroyed) — ISW May 1 + Bloomberg/Argus; March 2026 Russian oil revenue $19B (+95% MoM) — Russian MoF; March federal budget short 234.3B rubles despite windfall — Russian MoF; Q1 2026 federal deficit ~$60B (4.6 trillion rubles, exceeds full-year 3.8 trillion target) — Russian MoF via Moscow Times May 6; Putin Dmitriev intel-trade offer rejected by Trump — Moscow Times March 20; China May 2 blocking statute over teapot refineries (25% of Chinese refining capacity) — Bloomberg + Al Jazeera May 3.
+
+- **[T2]{.tier .tier-2} single-source named:** Russian daily advance rate fell 9.76 → 2.9 km²/day — ISW (computed); Russian crude exports collapsed Mar 25–Apr 11 to 3.5 mb/d (vs Q1 5.2) — Bloomberg/Argus shipping data; Fuel-price-support to refiners surged 15B → 207.5B rubles — Moscow Times May 6; December 2025 first month casualties > recruitment (33,200 vs 27,400) — Kyiv Independent + LBC; 5 straight months casualties > recruitment — LBC April 18; Putin mediation offer rebuffed by Trump — multiple sources; Cheboksary deep-strike May 5 (Flamingo missiles >1,500 km on VNIIR-Progress C4ISR feedstock) — ISW + Atlantic Council; Ukraine interceptor production ~40K Jan 2026; $50B annual scale — Security Distillery + Reuters convergent.
+
+- **[T3]{.tier .tier-3} inference from evidence:** 201 Ukrainian specialists deployed across 5 Gulf states (single-sourced; Haavik / Security Distillery April 20); 10-year defense cooperation frameworks Saudi/Qatar/UAE (single-sourced; Haavik / Security Distillery April 20); Russia is non-revolutionary petrostate ([Colgan classification]{.gloss data-gloss="colgan-petrostate"}); [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} applies to modern Russia (inference); "time favors Ukraine" on 12-month horizon (inference from τ-asymmetric-trajectory); [Mearsheimer multi-front constraint]{.gloss data-gloss="mearsheimer-attrition"} applies to ongoing-war Russia (Posen 1984 closer fit); CRINK currently loose-coupling despite May 2 datum ([Pressman alliance-restraint]{.gloss data-gloss="pressman-alliance-restraint"} inference).
+
+- **[T4]{.tier .tier-4} conjecture:** none in the load-bearing path; "genuinely indeterminate / hybrid" 15% headline alternative is a tier-4 catch-all.
+
+**Six load-bearing T3 inferences** trigger the META rule 5 posterior cap at ≤ 0.45 on the principled-multi-framework headline. The reconciled posterior sits exactly at that cap.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+The most likely ways the analysis will be wrong:
+
+1. **[Goemans]{.gloss data-gloss="goemans-gamble-resurrection"} gamble-for-resurrection turns out wrong on Putin** (P ≈ 0.20-0.25). Putin accepts a substantial settlement at next round of negotiations, validating Reiter/Fearon over Goemans. Pre-mortem signal: Putin's acceptance of any settlement reducing pre-war Russian territorial demands by >50% within 12 months.
+
+2. **CRINK financial architecture extends to Russia-buyers within 12 months** (P ≈ 0.30). γ' triggers; Russia gains structural sanctions protection; Steel-man B strengthens. Pre-mortem signal: CRINK extension by end-Q3 2026.
+
+3. **Western support to Ukraine cuts >50% within 12 months** (P ≈ 0.20-0.25). Trump-2 withdraws Ukraine support beyond current pause-and-resume pattern; τ-economic-coalition active side fails. Pre-mortem signal: explicit US weapons-supply termination; EU defense-spending stall; Patriot-supply cessation.
+
+4. **Oil prices sustained >$80/bbl 12+ months** (P ≈ 0.20). Russia's passive gains do not decay; Putin gets sustained budget support; gamble-for-resurrection becomes affordable; trajectory shifts toward Russia-net-winner. Pre-mortem signal: post-Iran-war oil-price stabilization above $80.
+
+5. **Mearsheimer attribution stretch matters more than expected**. The multi-front constraint may not actually hold for ongoing-war Russia in the way the Mearsheimer 1983 framework suggests. Russia's force-generation could recover faster than Ukrainian deep-strike degrades it. Pre-mortem signal: Russian glide-bomb/missile output sustains current acceleration without depletion.
+
+6. **Putin's regime collapses or major elite defection** (P ≈ 0.05). Unforeseen internal-Russia dynamic. Pre-mortem signal: senior elite resignation, Moscow protests, security-service split.
+
+**Lowest-confidence claim**: that the "passive vs active gains" framing (Haavik / Security Distillery) is theoretically rigorous rather than rhetorically attractive. The DA Critique 4 caveat is real — π is descriptively powerful but theoretically grounded only by collapse into Drezner + Ross + Colgan + Pape-inverted formal mechanisms. The framing is defensible as a *useful descriptive integration* of the formal frameworks rather than as an independent theoretical primitive.
+
+**Time-horizon caveat**: the analysis is explicitly limited to 12-month forecast horizon. On longer horizons, Western-support-fragility reverses-on-one-election makes structural claims fragile. The dimension-specific finding may not survive a 2029 US presidential transition that significantly alters Ukraine support.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+Companion analysis files: [`Q7_russia_in_ukraine.md`](https://github.com/) — final reconciled deliverable; [`Q7_agent_A_corpus_pull.md`](https://github.com/) — corpus extraction; [`Q7_agent_B_case_pull.md`](https://github.com/) — current-affairs cross-check; [`Q7_steelmans_and_synthesis.md`](https://github.com/) — pre-DA synthesis; [`Q7_DA_critique.md`](https://github.com/) — devil's-advocate critique.
+
+Key citations: @goemans2000war, @colgan2013petro, @drezner1999sanctions, @pressman2008warring, @farrell-newman2019weaponized, @mearsheimer1983conventional, @posen1984sources, @biddle2004military, @pape1996bombing, @fearon1995rationalist, @powell2006commitment.
+
+**Highest-priority remaining corpus gaps for Q7 verification:**
+
+- Independent corroboration of Haavik's "201 specialists / 10-year frameworks" claim (currently single-source; pre-registered as 6-month falsification test).
+- Russian glide-bomb / missile output trends (the Mearsheimer-attribution-stretch test).
+- Direct evidence on US/EU weapons-supply commitments through 2027.
+
+```{=html}
+</div>
+```

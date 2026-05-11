@@ -50,6 +50,8 @@ website:
         - primer/index.qmd
         - text: "The bargaining model of war"
           href: primer/bargaining-model.qmd
+        - text: "Audience costs and signaling resolve"
+          href: primer/audience-costs.qmd
     - id: timelines
       title: "Timelines"
       style: floating
@@ -66,17 +68,25 @@ website:
           href: analyses/q1-why-bargaining-failed.qmd
         - text: "Q5 — Is the bargaining range empty?"
           href: analyses/q5-bargaining-range.qmd
+        - text: "Q7 — Russia in Ukraine"
+          href: analyses/q7-russia-ukraine.qmd
+        - text: "Q8 — China vis-à-vis Taiwan"
+          href: analyses/q8-china-taiwan.qmd
         - text: "Q11 — US-Israel coalition structure"
           href: analyses/q11-us-israel-coalition.qmd
         - section: "Q12 — Gulf states"
           contents:
             - analyses/q12-4-gulf-paradox.qmd
+            - text: "Q12.5 — Post-war reconfiguration"
+              href: analyses/q12-5-post-war-reconfiguration.qmd
     - id: disagreements
       title: "Disagreements"
       style: floating
       collapse-level: 2
       contents:
         - disagreements/index.qmd
+        - text: "Iran's strategy — deterrent or coercive?"
+          href: disagreements/iran-strategy-deterrent-vs-coercive.qmd
 
 format:
   html:

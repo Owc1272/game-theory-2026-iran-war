@@ -1,0 +1,344 @@
+---
+title: "Primer — Audience costs and signaling resolve"
+subtitle: "Fearon 1994, Weeks 2008: democratic vs autocratic, and why the IRGC institutional consensus is the binding audience in 2026 Iran"
+description: "Public commitments cost leaders politically if reversed. Bigger commitments cost more to retreat from. This converts cheap talk into credible threats — and traps leaders past the point where backing down is feasible."
+categories: [primer, audience-costs, fearon, weeks, two-level-games]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+Two leaders square off in a crisis. Either could back down. Each says "I won't." Talk is cheap; how does anyone know which threat is credible? The bargaining model says leaders signal resolve by paying *audience costs* — public commitments that cost them politically if reversed. Democratic leaders typically face bigger audience costs because elections punish reversal; autocrats face smaller costs unless their institutional elite enforces commitments internally. Both turn out to matter in the 2026 Iran case.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Two leaders face off in a crisis. Either could back down. Each declares — publicly, loudly, repeatedly — "I will not." But talk is cheap. The standard [bargaining model]{.gloss data-gloss="bargaining-range"} says private-information-with-incentives-to-misrepresent (Fearon 1995 Mechanism 1) is one of the three things that can block peace-by-default: leaders may have overlapping bargaining ranges but cannot credibly signal them. So how does anyone know which threat is real?
+
+James Fearon's 1994 paper introduced the concept that fixed this puzzle: [*audience costs*]{.gloss data-gloss="audience-costs-fearon"}. When a leader makes a public commitment ("we will not allow X"), backing down imposes a *political* cost — a domestic audience that observed the commitment punishes the leader for the climb-down. Bigger public commitments cost more to retreat from. This converts cheap talk into a costly signal: a leader who is willing to make a big public commitment is revealing that backing down is more expensive than fighting. The threat becomes credible because the cost of bluffing has been pre-paid.
+
+Jessica Weeks (2008, then 2014's *Dictators at War and Peace*) extended the framework to non-democratic regimes. Her finding: autocrats with coordinated institutional elites (Politburos, ruling parties, military councils) can generate internal audience costs as binding as democratic ones; personalist dictators without such institutions cannot.
+
+In the 2026 Iran case, both halves of the framework matter. Trump's public commitments through January-February 2026 imposed escalating audience costs for backing down. The IRGC institutional consensus on enrichment-on-soil imposed escalating audience costs on Pezeshkian — Weeks's autocratic audience cost, with the IRGC as the binding institutional elite. By late February, both sides had passed their backdown thresholds. The audience-cost framework is one of the standard *enrichments* to the bargaining model when its "binding agreements possible" assumption fails. This primer sets out the framework, its predictions, where it breaks, and how it's used in the analyses on this site.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Audience costs are political penalties leaders pay at home for backing down from public commitments. Bigger commitments cost more to retreat from — which makes threats credible. [Democratic leaders typically face higher audience costs]{.gloss data-gloss="audience-costs-fearon"}; [autocrats with coordinated institutional elites]{.gloss data-gloss="weeks-autocratic"} can match them. The framework is one of the standard fixes for the bargaining model's "binding agreements possible" assumption — it lets analysts model when an existing bargaining range is still unreachable because backing down is infeasible.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Audience costs are political penalties leaders pay at home for backing down from public commitments. Bigger commitments cost more to retreat from, so leaders willing to make bigger commitments reveal that backing down is more expensive than fighting — converting cheap talk into credible threats. [Democratic leaders typically face higher audience costs]{.gloss data-gloss="audience-costs-fearon"} than autocrats because elections punish reversal; [autocrats with coordinated institutional elites]{.gloss data-gloss="weeks-autocratic"} (Politburos, ruling parties, military councils) can generate comparable internal costs. The framework is one of the standard *enrichments* to the bargaining model when its "binding agreements possible" assumption fails. It is paired with [Putnam's two-level games framework]{.gloss data-gloss="two-level-games"} to model how the Level-I bargaining set is constrained by Level-II ratification. In the 2026 Iran case, audience costs operate on both sides: Trump's public commitments through January-February imposed escalating costs for backing down; the IRGC institutional consensus on enrichment-on-soil imposed escalating Weeks-style autocratic audience costs on Pezeshkian. By late February both sides had passed their backdown thresholds. The framework's central limit: audience costs *do not actually require a real audience to be measured by it* — most empirical work shows audiences are inattentive, but leaders behave *as if* costs would materialize. The mechanism is partly behavioral, not just informational.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the framework. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  P[Cheap-talk problem:<br/>both sides can claim resolve<br/>at zero cost]
+  P --> S[Public commitment]
+  S --> A[Domestic audience<br/>observes commitment]
+  A --> B[Backing down<br/>imposes political cost]
+  B --> C[Bigger commitments<br/>= higher cost = more credible]
+  classDef p fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-audience-costs-fearon stroke-width:2px
+  class P p
+  class S,A,B,C m
+  class A gt-gloss-audience-costs-fearon
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**The mechanism in one frame.** A public commitment lets the domestic audience observe; the audience can punish a climb-down; bigger commitments cost more to retreat from. The leader's *willingness* to make a big public commitment is itself a signal — only a leader for whom backing down is worse than fighting will make the commitment. Talk that imposes costs on the speaker is no longer cheap.]{.concise-only}
+
+::: {.deep-only}
+**The mechanism in one frame.** A public commitment lets the domestic audience observe what the leader has promised. The audience — voters in a democracy, the institutional elite in a coordinated autocracy — can punish a climb-down with political costs (electoral defeat, loss of party support, military coup, factional defection). Bigger commitments raise the eventual cost more. This converts the cheap-talk problem into a credibility-by-pre-commitment one: only a leader for whom backing down is worse than fighting will be willing to make a public commitment of escalating size. *The commitment itself becomes the signal*: an adversary observing the commitment learns that the speaker has tied their hands. The bargaining model's Mechanism 1 (private information about resolve) is partly solved by the existence of audience costs — they let leaders credibly reveal what they value.
+
+The framework also predicts a *trap*. Once a leader has made escalating commitments and passed the audience-cost threshold for one of them, backing down is more costly than continuing — *even if continuing is now objectively suboptimal*. Audience costs lock leaders in. This is what [Q1]{.gloss data-gloss="audience-costs-fearon" data-gloss-fallback="audience-costs-fearon"} reads in Trump's January-February 2026 path-dependence: each "we will not allow Iran to have a bomb" public statement was a marginal increment to the audience cost; by late February the cumulative cost of backing down had passed the cost of striking. The same logic applies on the Iran side via Weeks's autocratic version, with the IRGC institutional consensus as the binding audience.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  D[Democratic leader]
+  D --> E1[Faces elections]
+  D --> E2[Free press<br/>amplifies commitments]
+  D --> E3[Opposition party<br/>weaponizes climb-down]
+  E1 --> H1[High audience<br/>cost typical]
+  E2 --> H1
+  E3 --> H1
+  A[Autocratic leader]
+  A --> W[Coordinated<br/>institutional elite?]
+  W --> Y[YES:<br/>Politburo, party,<br/>military council]
+  W --> N[NO:<br/>personalist dictator]
+  Y --> H2[Weeks: comparable<br/>autocratic audience cost]
+  N --> L[Low audience<br/>cost, less credible]
+  classDef d fill:#0969da,color:#fff,stroke:#0969da
+  classDef a fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  classDef high fill:#dafbe1,stroke:#2da44e
+  classDef low fill:#ffe5d9,stroke:#cf222e
+  classDef gt-gloss-weeks-autocratic stroke-width:2px
+  class D d
+  class A a
+  class E1,E2,E3,W,Y,N m
+  class N gt-gloss-weeks-autocratic
+  class H1,H2 high
+  class L low
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**Democratic vs autocratic.** Democratic leaders typically face higher audience costs — elections punish reversal, free press amplifies commitments, opposition parties weaponize climb-downs. Autocrats with coordinated institutional elites (Politburos, ruling parties, military councils) can match these costs ([Weeks 2008]{.gloss data-gloss="weeks-autocratic"}). Personalist dictators without such institutions cannot.]{.concise-only}
+
+::: {.deep-only}
+**Democratic vs autocratic.** Fearon's original 1994 framework predicted democratic leaders would face higher audience costs than autocrats — elections give voters a periodic mechanism to punish reversal, a free press amplifies the original commitment, and opposition parties have incentives to weaponize any climb-down. The empirical literature largely supports this prediction in cross-national comparisons.
+
+[Weeks 2008]{.gloss data-gloss="weeks-autocratic"} sharpened the framework by showing the democratic-vs-autocratic dichotomy is too coarse. The relevant variable is whether the autocratic regime has *coordinated institutional elites* — Politburos, ruling parties, military councils — that can credibly threaten the leader's tenure for a climb-down. When such elites are coordinated, autocratic audience costs can be comparable to democratic ones; the leader is constrained internally even without elections. When they are not — personalist dictators ruling through fragmented patronage — the leader can climb down without paying meaningful costs, and threats from such leaders are correspondingly less credible.
+
+The framework matters for the 2026 Iran analyses because Iran's institutional structure puts it in Weeks's high-autocratic-audience-cost category. The [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"} is the binding institutional elite: a coordinated military-economic structure separate from the formal state, with autonomous foreign-operations (Quds Force) and sanctions-immune economic base (the bonyads). The IRGC institutional consensus on enrichment-on-soil functions as a Weeks-style coordinated-elite audience: Pezeshkian as the formal president cannot back down on enrichment without imposing intolerable costs inside the institutional elite that ultimately controls the Iranian state. Q1 and Q11 both read the 2026 negotiating breakdown through this lens.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  T[Trump January-<br/>February 2026]
+  T --> C1[Repeated public<br/>commitments:<br/>"we will not allow"]
+  C1 --> B1[Accumulating<br/>audience cost]
+  B1 --> X1[Backdown threshold<br/>passed late February]
+  X1 --> Y1[Strike on<br/>28 February]
+  P[Pezeshkian/Iran]
+  P --> C2[IRGC consensus:<br/>enrichment-on-soil<br/>is sovereignty claim]
+  C2 --> B2[Weeks-autocratic<br/>audience cost]
+  B2 --> X2[Backdown threshold<br/>passed late February]
+  X2 --> Y2[Counter-strike<br/>posture, Hormuz<br/>brinkmanship]
+  classDef u fill:#0969da,color:#fff,stroke:#0969da
+  classDef i fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  classDef y fill:#dafbe1,stroke:#2da44e
+  class T u
+  class P i
+  class C1,B1,X1,C2,B2,X2 m
+  class Y1,Y2 y
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Both sides passed their thresholds.** Trump's repeated "we will not allow" public commitments accumulated audience cost through January-February 2026, passing the backdown threshold by late February. On Iran's side, the IRGC institutional consensus on enrichment-on-soil — as sovereignty claim, not bargaining chip — generated equivalent Weeks-autocratic audience cost on Pezeshkian. Both leaders had locked themselves in.]{.concise-only}
+
+::: {.deep-only}
+**Both sides passed their thresholds in 2026.** Trump's repeated public commitments — escalating in stridency through January 2026 ("we will not allow Iran to have a nuclear weapon", "they will not get a nuclear weapon", "if they cross the line we will respond decisively") — accumulated audience cost through the negotiating window. Each statement marginally raised the political cost of any future climb-down. By late February, the cumulative cost of backing down (admitting the threats were bluffs, opposition party amplification, MAGA base abandonment) exceeded the cost of striking. The 28 February strikes are partly explained by this trap: even if Trump had wanted to walk back at the end of February, the audience-cost framework predicts he would have struck anyway. *Once committed publicly, leaders find continuing is cheaper than reversing.*
+
+On the Iran side, the same logic operates through [Weeks's autocratic-audience-cost mechanism]{.gloss data-gloss="weeks-autocratic"}. The [IRGC institutional consensus]{.gloss data-gloss="irgc-bonyad-complex"} on enrichment-on-soil is the binding audience: the IRGC has framed enrichment as a sovereignty claim since 2003 and operates the autonomous structures (Quds Force, the bonyads) that make Pezeshkian's formal-state authority partial rather than total. Pezeshkian's notional concessions on enrichment — even if he had wanted to make them — would have triggered intolerable costs inside the IRGC institutional elite. The Weeks framework explains why Iran's verification offers ("stockpile halt + full IAEA access") could be made *operationally* but not *politically*: the formal Iranian state could deliver compliance, but the substantive counterparty (the IRGC) could not be bound by Pezeshkian's signature.
+
+The Q1 reading: *neither side could have backed down by late February even if they had wanted to*. The audience-cost framework is therefore one of the load-bearing mechanisms in the analyses on why bargaining failed — operating in parallel to [Powell's commitment problem]{.gloss data-gloss="powell-commitment"} and partial [issue indivisibility]{.gloss data-gloss="issue-indivisibility"}.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  M[Bargaining-model<br/>assumption:<br/>binding agreements]
+  M --> F1[Fails when audience<br/>costs are high]
+  M --> F2[Fails when domestic<br/>veto players block ratification]
+  F1 --> X[Even an existing<br/>bargaining range may be<br/>unreachable]
+  F2 --> X
+  X --> P[Putnam two-level games<br/>as the standard enrichment]
+  classDef m fill:#0969da,color:#fff,stroke:#0969da
+  classDef f fill:#ffe5d9,stroke:#cf222e
+  classDef p fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-two-level-games stroke-width:2px
+  class M m
+  class F1,F2,X f
+  class P p
+  class P gt-gloss-two-level-games
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Where audience costs sit in the bargaining model.** The bargaining model assumes parties can make binding agreements. Audience costs make this fail: even when a Level-I deal exists, Level-II ratification may not. [Putnam's two-level games]{.gloss data-gloss="two-level-games"} is the standard enrichment that models international + domestic boards as one — the actual *win-set* is the intersection of Level-II-acceptable deals on both sides.]{.concise-only}
+
+::: {.deep-only}
+**Where audience costs sit in the bargaining model.** The bargaining model assumes the parties can make binding agreements. Audience costs make this assumption fail in a specific way: leaders may have signed Level-I (international) deals that they then cannot ratify at Level-II (domestic), because backing down on prior public commitments — or facing institutional-elite resistance — would impose unaffordable political costs.
+
+[Putnam's "Diplomacy and Domestic Politics: The Logic of Two-Level Games"]{.gloss data-gloss="two-level-games"} (1988) is the standard enrichment of the bargaining model that handles this. Each side's Level-I negotiator must deliver a deal that Level-II ratifiers will accept. The *win-set* — the set of feasible deals — is the intersection of Level-II-acceptable deals on both sides. When that intersection is non-empty, a Level-I bargain can stick. When it is empty, no amount of Level-I goodwill can produce ratification.
+
+Audience costs determine the size of each side's Level-II win-set. High audience costs (committed leaders, coordinated institutional elites) shrink the win-set; low audience costs widen it. Q1 reads the 2026 negotiating window's failure through this lens: the operational Level-I deal that emerged through late February (a "stockpile halt + verification" structure) had no Level-II-acceptable intersection — Trump's audience costs ruled out anything short of zero enrichment + regime concessions; the IRGC's autocratic audience costs ruled out anything that touched enrichment-on-soil. The Level-II win-sets did not overlap. Even Putnam's two-level enrichment cannot save the bargain when both audience-cost ceilings have already been passed.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) audience-cost typology by regime type; (2) the path-dependence trap; (3) where it shows up in the analyses on this site.
+
+### Figure 1 — Audience-cost typology
+
+```{mermaid}
+flowchart TB
+  R[Regime type]
+  R --> D[Democracy]
+  R --> A[Autocracy]
+  D --> DH[High audience cost typical]
+  DH --> EX1[Elections punish reversal]
+  DH --> EX2[Free press amplifies commitments]
+  DH --> EX3[Opposition weaponizes climb-down]
+  A --> AC[Coordinated institutional elite?]
+  AC --> Y[YES]
+  AC --> N[NO personalist]
+  Y --> YH[Weeks: comparable autocratic cost]
+  YH --> YE1[Politburo / party / council enforce internally]
+  YH --> YE2[Iran IRGC institutional consensus]
+  YH --> YE3[Soviet Politburo Cold War cases]
+  N --> NH[Low audience cost]
+  NH --> NE1[Patronage networks fragment]
+  NH --> NE2[Threats less credible]
+  NH --> NE3[Saddam-style cases]
+  classDef r fill:#0969da,color:#fff,stroke:#0969da
+  classDef d fill:#dafbe1,stroke:#2da44e
+  classDef a fill:#fff8c5,stroke:#d4a72c
+  classDef low fill:#ffe5d9,stroke:#cf222e
+  class R r
+  class D,A,AC d
+  class Y,YH,YE1,YE2,YE3,DH,EX1,EX2,EX3 d
+  class N,NH,NE1,NE2,NE3 low
+```
+
+[**Three-way typology.** Democracies generally have high audience costs (elections + press + opposition). Coordinated-autocracies (Iran IRGC, USSR Politburo, party-state structures) match this via institutional-elite enforcement. Personalist dictators have low audience costs — threats from such leaders are less credible.]{.concise-only}
+[**Three-way typology.** The typology refines the original Fearon democratic-vs-autocratic dichotomy by introducing Weeks's institutional-coordination variable. Democracies generally fall in the high-audience-cost cell because elections give voters a periodic punishment mechanism, free press amplifies the original commitments, and opposition parties have structural incentives to weaponize climb-downs. Coordinated autocracies (Soviet Politburo cases during the Cold War; modern Iran's IRGC institutional consensus; party-state structures like China's CCP) match democratic audience-cost levels through internal-elite enforcement: the institutional elite can credibly threaten the leader's tenure for a climb-down, even without elections. Personalist dictators (Saddam Hussein's later regime; Qaddafi; many sub-Saharan cases) fall in the low-audience-cost cell — the patronage networks are fragmented, no coordinated elite enforces commitments, and threats from such leaders are less credible. Iran's classification matters for Q1: the IRGC institutional structure puts it in the coordinated-autocracy / high-cost cell. Pezeshkian as formal president faces the same audience-cost-trap that constrains democratic leaders, with the IRGC as the binding institutional elite.]{.deep-only}
+
+### Figure 2 — The path-dependence trap
+
+```{mermaid}
+flowchart LR
+  T1[Time 1<br/>Small public commitment]
+  T1 --> AC1[Small audience cost]
+  T2[Time 2<br/>Larger commitment]
+  T2 --> AC2[Larger audience cost]
+  T3[Time 3<br/>Largest commitment]
+  T3 --> AC3[Threshold passed:<br/>continuing < reversing]
+  AC1 --> AC2
+  AC2 --> AC3
+  AC3 --> ACT[Action forced<br/>regardless of objective optimality]
+  classDef t fill:#f6f8fa,stroke:#d0d7de
+  classDef ac fill:#fff8c5,stroke:#d4a72c
+  classDef end fill:#cf222e,color:#fff,stroke:#cf222e
+  class T1,T2,T3 t
+  class AC1,AC2,AC3 ac
+  class ACT end
+```
+
+[The trap. Each public commitment increments the audience cost. Once the cumulative cost of backing down exceeds the cost of action, the leader is locked in — even if objective conditions now favor backing down. Trump's January-February pattern of escalating "we will not allow" statements fits this trap structure. So does the IRGC's progressive institutionalization of enrichment-on-soil as sovereignty claim.]{.concise-only}
+[**The path-dependence trap.** The dynamic prediction of the audience-cost framework is that early small commitments accumulate into late large traps. Each public commitment increments the audience cost of any future climb-down. The increments are additive (each statement is observed and remembered) or sometimes super-additive (later statements at higher stridency disproportionately weight the political cost of reversal). At some threshold, the cumulative cost of backing down exceeds the cost of action — the leader is locked in. *Beyond this threshold, the leader takes the action even if objective conditions now favor backing down.* This is the audience-cost trap. Trump's January-February 2026 pattern fits: each "we will not allow" statement marginally raised the audience cost; by late February the cumulative cost of admitting bluff exceeded the cost of striking. Even if Trump had updated favorably on Iran's verification offer (the 27 February stockpile-halt + full IAEA access proposal), the audience-cost trap predicts striking anyway. The same logic operates on Iran's side: each IRGC institutional pronouncement on enrichment-as-sovereignty accumulated Weeks-style autocratic audience cost on Pezeshkian; by late February no Iranian concession on enrichment-on-soil was politically feasible.]{.deep-only}
+
+### Figure 3 — Where audience costs show up in the analyses
+
+```{mermaid}
+flowchart TB
+  AC[Audience costs]
+  AC --> Q1[Q1: Why bargaining failed]
+  AC --> Q5[Q5: Battle of endurance]
+  AC --> Q11[Q11: US-Israel coalition]
+  Q1 --> Q1D[Both sides past backdown thresholds by late February]
+  Q5 --> Q5D[Hokayem asymmetric: each side reservation set by other's most vulnerable constituency]
+  Q11 --> Q11D[IRGC institutional consensus as substantive counterparty Pezeshkian cannot bind]
+  classDef ac fill:#0969da,color:#fff,stroke:#0969da
+  classDef ch fill:#dafbe1,stroke:#2da44e
+  classDef d fill:#f6f8fa,stroke:#d0d7de
+  classDef gt-gloss-audience-costs-fearon stroke-width:2px
+  class AC ac
+  class AC gt-gloss-audience-costs-fearon
+  class Q1,Q5,Q11 ch
+  class Q1D,Q5D,Q11D d
+```
+
+[The framework runs through three analyses on this site. [Q1](../analyses/q1-why-bargaining-failed.qmd) reads both sides as past their backdown thresholds by late February. [Q5](../analyses/q5-bargaining-range.qmd) extends through [Hokayem]{.gloss data-gloss="hokayem-battle-of-endurance"}'s asymmetric variant — each side's reservation utility set by the other's most-vulnerable domestic constituency. [Q11](../analyses/q11-us-israel-coalition.qmd) uses the IRGC institutional consensus as the binding audience that Pezeshkian cannot bypass.]{.concise-only}
+[The framework runs through three analyses on this site. [Q1](../analyses/q1-why-bargaining-failed.qmd) reads both Trump (via repeated public commitments) and the IRGC institutional consensus (via Weeks's autocratic mechanism) as having passed their backdown thresholds by late February 2026 — meaning even if both sides had wanted to accept the 27 February verification offer, the audience-cost framework predicts they could not have. [Q5](../analyses/q5-bargaining-range.qmd) extends the framework through [Hokayem's *battle of endurance / asymmetric audience costs*]{.gloss data-gloss="hokayem-battle-of-endurance"} — each side's reservation utility is set not by their own costs but by the *other side's* most-vulnerable domestic constituency. For the IRGC, war is existential — regime survival depends on never publicly accepting US-imposed terms. For most Americans, war is discretionary; Trump's political cost from sustained war rises faster than the IRGC's cost from sustained war. The asymmetry locks in stalemate. [Q11](../analyses/q11-us-israel-coalition.qmd) uses the IRGC institutional consensus as the *substantive counterparty* in any deal — the formal Iranian state (Pezeshkian) cannot bind the institutional elite that ultimately controls the Iranian state's bargaining position. The audience-cost framework is therefore one of the most-reached-for tools across the site's analyses.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+## Where the framework breaks {#where-it-breaks}
+
+The audience-cost framework has been thoroughly tested empirically and has some well-known limits.
+
+1. **Audiences are often inattentive.** Most empirical work shows mass publics do not, in fact, track foreign-policy commitments very carefully. Some replication studies find audience-cost effects only among the politically engaged. The mechanism may be partly *behavioral* — leaders behave *as if* costs would materialize, even when they would not — rather than purely informational.
+
+2. **Costs may be paid even without explicit climb-downs.** Some empirical studies show leaders pay costs for poor outcomes even when no public commitment was made; the political cost is for the loss, not the reversal of commitment specifically.
+
+3. **Autocratic-coordination is hard to measure.** Weeks's framework requires distinguishing personalist from coordinated autocracies, which is contestable in cases like modern Iran (formal-state vs IRGC), Russia (Putin personalism vs siloviki coordination), or China (Xi personalism vs CCP structures).
+
+4. **The framework can become tautological.** If "audience costs" can be invoked to explain why any leader did what they did, the framework loses falsifiability. The discipline is to identify the *specific* commitments, the *specific* audience, and the *specific* mechanism by which the cost would be paid — not just to label any observed behavior as audience-cost-driven.
+
+5. **The two-level game integration is partial.** Putnam's framework gives the geometry of Level-I/Level-II constraints, but it does not specify how leaders *internally* trade off Level-I against Level-II benefits. Some Q1 readings put more weight on Trump's MAGA-base concerns; others put more on his personal stake in the strike-decisive framing. The framework constrains the question, not the answer.
+
+## Why this primer matters {#why-it-matters}
+
+The audience-cost framework is reached for in three places on this site, and is one of the most-misused tools in conflict analysis when applied carelessly. The disciplined application:
+
+1. **Identify the specific commitments.** Not "Trump made tough statements" but "Trump made statements X, Y, Z on dates A, B, C." The audience-cost prediction is about specific commitments accumulating cost, not general posture.
+
+2. **Identify the binding audience.** In democracies it is usually the electorate filtered through press and opposition; in coordinated autocracies it is the institutional elite. The audience determines whether costs would materialize at all.
+
+3. **Identify the backdown threshold.** Audience costs lock leaders in *after* the cumulative cost of reversal exceeds the cost of action. Identifying *when* this threshold was passed is the empirical question — and it is often only knowable in retrospect.
+
+4. **Check the framework's limits.** Audiences are often inattentive; costs may be paid without explicit climb-downs; autocratic-coordination is hard to measure; the framework can become tautological without discipline.
+
+## Sources & further reading
+
+- @fearon1994domestic — the founding paper
+- @weeks2008autocratic and @weeks2014dictators — the autocratic extension
+- @putnam1988diplomacy — the two-level-games framework (the standard pairing)
+- @snyder1991myths — domestic political pathology that interacts with audience costs
+- @schultz2001democracy — the democratic-advantage literature
+- @downes2012does — the empirical scrutiny that revealed audiences are often inattentive
+
+```{=html}
+</div>
+```

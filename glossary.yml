@@ -144,3 +144,135 @@ glossary:
     body: |
       Every load-bearing claim on this site carries a tier badge. T1 means multi-source verified — independent corroboration from at least two sources of different type (e.g., a wire report plus a peer-reviewed analysis). T2 means single-source named — reported by one named source, not yet independently corroborated. T3 means inference from evidence — a reading of empirical evidence under a chosen analytical framework, where the factual base is solid but the inferential leap is the analyst's. T4 means conjecture — a hypothesis not yet supported by named source or strong inference.
     primer: null
+
+  - id: walt-balance-of-threat
+    title: "Balance-of-threat (Walt, 1987)"
+    body: |
+      Stephen Walt's *The Origins of Alliances* (1987) refined classical balance-of-power theory: states do not balance against power as such, but against the most threatening combination of capability, geographic proximity, offensive intent, and aggressive doctrine. The framework allows a small or middle state facing an unreliable patron to form *alternative* alliance structures rather than simply hedge or bandwagon — which is exactly what Q12.5 reads in Saudi Arabia's post-war moves (Pakistan defense treaty, Turkey procurement, preserved Iran channel). The framework adds an alliance-formation prediction that the looser "hedging" language obscures.
+    primer: null
+
+  - id: snyder-abandonment-entrapment
+    title: "Abandonment vs entrapment (Snyder, 1984)"
+    body: |
+      Glenn Snyder's "The Security Dilemma in Alliance Politics" (1984) argues that every alliance creates two opposing risks for its members: *abandonment* (the partner declines to fight when needed) and *entrapment* (the partner drags you into a fight you would have avoided). Small partners manage abandonment risk by securing alternative deterrence backstops; large partners manage entrapment risk by constraining the junior. Under multipolar conditions where abandonment risk is acute — Trump-era patron unreliability for the Gulf monarchies in 2026 is the canonical case — Snyder predicts the small partner will construct alternative architecture rather than passively hedge.
+    primer: null
+
+  - id: lim-cooper-hedging
+    title: "Lim & Cooper hedging discipline (2015)"
+    body: |
+      Daniel Lim and Zack Cooper's "Reassessing Hedging" (2015) imposed definitional discipline on the loose "hedging" language pervasive in great-power-competition writing. True hedging requires three signals: visible cost-incurring trade-offs (not cheap rhetoric), strategic ambiguity (not commitment to one pole), and credible second-best options. Many states described as "hedging" are actually bandwagoning with the structurally locked-in patron because they have no alternative. Q12.5 applies the test to the Gulf states and finds a bimodal split: Bahrain and Kuwait are bandwagoners (no alternative); Saudi/UAE/Qatar/Oman are true hedgers (real options), but each in distinct ways.
+    primer: null
+
+  - id: fulton-alignment
+    title: "Interest-based alignment-deepening (Fulton, 2026)"
+    body: |
+      Jonathan Fulton (*State of Great Power Competition in the Gulf*, 2026) argues against the standard "Gulf-states-are-hedging" reading. His claim is that GCC states are *interest-based alignment-deepeners* with the US, not wait-and-see hedgers — they have *deepened* US security ties (CSIPA, expanded basing, joint air defense) precisely because the US has proved reliable in crisis. The framework predicts that subordinate states in a stable hierarchy do not hedge; they double down when the patron has demonstrated commitment. Q12.5 finds Fulton's reading correct for Bahrain (operational bandwagoning) but partial-only for Saudi, where third-pole construction is visible alongside US-deepening.
+    primer: null
+
+  - id: saudi-pakistan-smda
+    title: "Saudi-Pakistan SMDA (September 2025)"
+    body: |
+      The Saudi-Pakistan Strategic Mutual Defence Agreement, signed September 2025, is a formal alliance treaty — not a generic defense-cooperation MoU. It establishes mutual-defense obligations and commits both states to coordinate strategic-asset deployment; the implicit reach to Pakistan's nuclear umbrella is the most consequential feature. The agreement pre-dates the 2026 war but was operationalized post-war (April-May 2026 saw $3bn Saudi debt relief to Pakistan plus accelerated Saudi-Turkey KAAN fighter procurement). The SMDA is the load-bearing evidence for Q12.5's Configuration F (Saudi-led Sunni-Muslim third pole) — Lim-Cooper's hedging definitional discipline explicitly excludes treaty-level commitments, so this is alliance formation, not hedging.
+    primer: null
+
+  - id: bahrain-csipa
+    title: "Bahrain CSIPA Article II invocation (5 March 2026)"
+    body: |
+      The US-Bahrain Comprehensive Security Integration and Prosperity Agreement (CSIPA), signed in 2023, includes Article II provisions for mutual consultation on major security threats. Its 5 March 2026 invocation — the first ever — triggered senior-level Defense Working Group consultations and UK joining via RAF Typhoon deployment to Bahrain. Combined with Bahrain's leadership of a 135-state UN Security Council resolution on Iran and 160+ IRGC-linked detentions inside Bahrain, the invocation is Q12.5's strongest single piece of evidence that *some* Gulf states are operationally bandwagoning with the US, not rhetorically hedging. Bahrain is the leading indicator for the Configuration A pattern.
+    primer: null
+
+  - id: friedberg-win-without-fighting
+    title: "Win without fighting (Friedberg, 2011)"
+    body: |
+      Aaron Friedberg's *A Contest for Supremacy* (2011) argued that China's grand strategy is to displace the United States as the leading power in Asia while avoiding direct military confrontation — to "win without fighting." The strategy combines strategic patience, asymmetric leverage, regional asymmetric coalition-building, and quiet capability development. The framework explicitly integrates economic statecraft, capability-building, and opportunistic tactical wins as components of a single posture. Q8 reads China's 2026 behavior — strategic ADIZ pause, Trump-Xi summit pursuit, CIPS / blocking-statute structural moves, continued PLA platform development — as Friedberg's strategy in execution rather than as Chinese retreat or weakness.
+    primer: null
+
+  - id: brands-beckley-peaking-power
+    title: "Peaking-power thesis (Brands & Beckley, 2022)"
+    body: |
+      Hal Brands and Michael Beckley's *Danger Zone* (2022) argue that China is a peaking power: its long-term growth, demographic, and technological trajectories are flattening, while US capacity in key dimensions is poised to recover or compound. Peaking powers face a use-it-or-lose-it pressure to act before their window closes — but the thesis also allows for peaking-power *patience* when the window remains open and the cost of premature action is high. Q8 finds Brands-Beckley patience overlays Friedberg's strategy in 2026: China extracts non-kinetic gains while the window holds rather than accelerating toward a kinetic Taiwan operation it cannot execute before 2027-28.
+    primer: null
+
+  - id: biddle-modern-system
+    title: "Modern-system combined arms (Biddle, 2004)"
+    body: |
+      Stephen Biddle's *Military Power* (2004) argues that modern combat effectiveness depends less on raw force ratios or technology than on a "modern system" of cover, concealment, suppression, and combined-arms integration that requires functioning command structures, sustained doctrine, and continuous training cycles. Force structure that looks formidable on paper but lacks combined-arms execution will under-perform sharply. Q8 reads PLA capability after Zhang Youxia / Liu Zhenli / 73rd Group Army purges through this lens: platform development continues (Type 076, Type 055) but combined-arms execution is bounded through 2027-28, foreclosing near-term Taiwan operational options.
+    primer: null
+
+  - id: yarhi-milo-selective-attention
+    title: "Selective attention to resolve signals (Yarhi-Milo, 2014)"
+    body: |
+      Keren Yarhi-Milo's *Knowing the Adversary* (2014) shows that leaders update their assessments of foreign-state resolve through a strongly selective filter shaped by prior beliefs, bureaucratic position, and theater-specific priors — not through Bayesian processing of all available signals. A leader anchored on "this adversary is different in my theater" will discount strong resolve signals from other theaters. Q8 applies the framework to Xi's reading of the Trump-Iran preventive strike: Xi updates substantially on US-Iran-resolve but the same observation produces only a bounded, ambiguous update on US-Taiwan-resolve — different theater, different selective-attention frame.
+    primer: null
+
+  - id: goemans-gamble-resurrection
+    title: "Gamble for resurrection (Goemans, 2000)"
+    body: |
+      Hein Goemans's *War and Punishment* (2000) argues that leaders of mixed regimes — autocrats with some accountability, but not democratic exit guarantees — face a distinct war-termination calculus. If losing the war means losing power and possibly life, the leader prefers escalation over a moderately bad settlement even when objective war prospects worsen. The framework predicts continued war-prosecution past the point where objective interests would dictate concession. Q7 reads Putin's 2026 behavior — rejected mediation offers, Levada drop, parade truncation, hard-line rhetoric, doubled glide-bomb output — as Goemans's gamble-for-resurrection in execution. The framework dominates the Reiter/Fearon settlement-pressure prediction on current evidence.
+    primer: null
+
+  - id: colgan-petrostate
+    title: "Revolutionary petrostate aggression (Colgan, 2013)"
+    body: |
+      Jeff Colgan's *Petro-Aggression* (2013) refined the petrostate-aggression literature by separating *revolutionary* petrostates (those whose leadership came to power through revolutionary upheaval and faces external regime-survival threats) from *non-revolutionary* ones. Revolutionary petrostates use oil rents to project power abroad; non-revolutionary petrostates do not. The framework matters in Q7 because it classifies modern Russia as *non-revolutionary*: Putin's regime is not Iran-style revolutionary, so Russia's oil revenue gains are best read through Drezner-sanctions and Ross-volatility lenses (transactional, decay-prone) rather than as petrostate-aggression fuel.
+    primer: null
+
+  - id: drezner-sanctions
+    title: "Sanctions don't coerce (Drezner, 1999 / 2025)"
+    body: |
+      Daniel Drezner's *The Sanctions Paradox* (1999) and his updated 2025 reassessment argue that sanctions rarely succeed at extracting territorial or political concessions from a target state. Their function is mostly sovereignty-signaling (the sender demonstrates non-acceptance) plus slow capacity-degradation, not coercion in the strict sense. The framework matters in Q7 because it shows why Trump's sanctions-relaxation moves are rationally consistent with continued US opposition to Russia: the relaxations do not give Russia anything sanctions were extracting, because sanctions were not coercive to begin with. The framework also predicts Russia's oil-revenue gains will not buy Ukraine concessions.
+    primer: null
+
+  - id: pressman-alliance-restraint
+    title: "Alliance restraint of junior partner (Pressman, 2008)"
+    body: |
+      Jeremy Pressman's *Warring Friends* (2008) argues that within asymmetric alliances, the senior partner can restrain the junior partner from initiating war, but only when three conditions hold: the senior credibly threatens to withhold support, the junior values the alliance more than the prospective conflict, and the senior actually attempts restraint rather than enabling. Where any condition fails, restraint fails. Q7 uses the framework to explain why the loose CRINK (China-Russia-Iran-North Korea) coalition produced no Russia-Ukraine concessions during the 2026 Iran war: there is no senior partner with the leverage to deliver concessions, and the partners' interests in restraining each other are too weak.
+    primer: null
+
+  - id: farrell-newman-interdependence
+    title: "Weaponized interdependence (Farrell & Newman, 2019)"
+    body: |
+      Henry Farrell and Abraham Newman's "Weaponized Interdependence" (2019) showed that asymmetric network structures — financial messaging (SWIFT), payment systems (USD clearing), data infrastructure — give the state controlling chokepoints coercive leverage independent of military power. The framework predicts that states facing chokepoint coercion will build alternative architecture (renminbi clearing, BRICS+ payment rails) over time. Q7 reads China's May 2026 MOFCOM blocking statute as one major datapoint in this gradual shift; Q8 reads CIPS daily volume reaching ~$134B as another. The framework underlies the "passive vs active gains" asymmetry between Russia and Ukraine.
+    primer: null
+
+  - id: mearsheimer-attrition
+    title: "Attrition-vs-blitzkrieg multi-front constraint (Mearsheimer, 1983; Posen, 1984)"
+    body: |
+      John Mearsheimer's *Conventional Deterrence* (1983) distinguished blitzkrieg (rapid decisive offense) from attrition (slow grinding) and argued the blitzkrieg option is highly conditional on operational concentration. Barry Posen's *Sources of Military Doctrine* (1984) extended the framework to show how multi-front pressure forces a state into attrition doctrine and constrains force generation. Q7 applies the joint framework to Russia in 2026: deep-strike degradation of refining/C4ISR/storage feedstock plus continued Ukrainian defense-dominance forces Russia into a sustained attrition posture it can no longer afford, with first net territory loss since August 2024 confirming the dynamic.
+    primer: null
+
+  - id: pape-coercion
+    title: "Coercion by punishment vs denial (Pape, 1996)"
+    body: |
+      Robert Pape's *Bombing to Win* (1996) distinguished *punishment* coercion (raising civilian costs to pressure regimes) from *denial* coercion (defeating the adversary's military strategy on the battlefield) and argued denial generally outperforms punishment. The framework matters in Q7 because Ukraine's deep-strike campaign against Russian refineries and C4ISR feedstock plants is Pape's denial logic inverted: a defender using strategic strike to deny the aggressor the material base for sustained offense. The framework predicts deep-strike effectiveness compounds with each round of refinery destruction, which matches the empirical trajectory through May 2026.
+    primer: null
+
+  - id: weeks-autocratic
+    title: "Autocratic audience costs (Weeks, 2008; 2014)"
+    body: |
+      Jessica Weeks's "Autocratic Audience Costs" (2008) and *Dictators at War and Peace* (2014) extended Fearon's audience-cost framework to non-democracies. Her finding: autocrats with coordinated institutional elites (Politburos, ruling parties, military councils) can generate internal audience costs as binding as democratic ones; autocrats without such institutions (personalist dictators) cannot. The framework matters in this site's analyses because the IRGC institutional consensus on enrichment-on-soil functions as Weeks's elite-coordinated audience: Pezeshkian as the formal president cannot back down without imposing intolerable costs inside the institutional elite that ultimately controls the Iranian state.
+    primer: null
+
+  - id: two-level-games
+    title: "Two-level games (Putnam, 1988)"
+    body: |
+      Robert Putnam's "Diplomacy and Domestic Politics: The Logic of Two-Level Games" (1988) modeled international negotiations as occurring simultaneously on two boards. On Level I, lead negotiators bargain abroad; on Level II, the resulting agreement must be ratified by domestic constituencies. The negotiation's *win-set* is the intersection of Level-II-acceptable agreements on both sides. When Level-II win-sets do not overlap, no Level-I agreement can stick — even if both lead negotiators want a deal. The framework is the standard fix for the bargaining model's "binding agreements possible" assumption: it lets analysts model audience costs and veto-player dynamics as constraints on what Level-I bargains can survive ratification.
+    primer: null
+
+  - id: hesder-pipeline
+    title: "Hesder yeshiva officer pipeline"
+    body: |
+      Hesder yeshivas are religious-Zionist seminaries that combine Talmudic study with IDF combat service through a five-year program. Their graduates feed disproportionately into combat-officer schools: by the mid-2020s, Hesder alumni and the broader religious-Zionist demographic supplied roughly a third of IDF infantry officers and around half of combat-officer school graduates. The pipeline progressively shifts the IDF officer corps from the historically secular-pragmatist Ashkenazi tradition toward a religious-Zionist-aligned cohort. The site treats the pipeline as one component of the structural lock-in of Israel's hawkish posture beyond any single Netanyahu coalition.
+    primer: null
+
+  - id: configuration-f-saudi-third-pole
+    title: "Configuration F — Saudi-led Sunni-Muslim third pole"
+    body: |
+      Configuration F is Q12.5's most distinctive finding: a post-war Gulf in which Saudi Arabia constructs an alternative security architecture in parallel to (not necessarily in opposition to) the US-Israel-led one. The components: the formal Saudi-Pakistan Strategic Mutual Defence Agreement (September 2025), accelerated Saudi-Turkey defense procurement (KAAN fighter deal), preserved bilateral channels with Iran (Hajj coordination, embassy intact), and explicit US-independence signaling (denial of Project Freedom airspace, May 2026). Configuration F is generated by Walt balance-of-threat plus Snyder abandonment-anxiety under acute multipolar conditions. Posterior probability ≈ 0.40 — the most likely single system-level descriptor.
+    primer: null
+
+  - id: bahrain-test
+    title: "The Bahrain test"
+    body: |
+      The Bahrain test asks: is Bahrain's post-28-February-2026 behavior more consistent with operational bandwagoning with the US or with rhetorical hedging? The behaviors observable: CSIPA Article II invocation (5 March), leadership of the 135-state UNSC resolution, RAF Typhoon deployment hosting, and 160+ IRGC-linked internal detentions. Bandwagoning predicts all four; hedging predicts none of them. The test is the single cleanest discriminator between Lim-Cooper's bimodal-strict reading (some Gulf states bandwagon, others hedge) and Kuik's broad uniform-hedger reading. Bahrain's behavior decisively confirms the bimodal-strict reading.
+    primer: null
