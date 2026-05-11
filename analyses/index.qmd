@@ -8,7 +8,7 @@ subtitle: "Each chapter takes one question, one canonical formal model (or where
 | # | Question | Status |
 |---|----------|--------|
 | **Q1** | **[Why did bargaining fail on 28 February 2026 — *during* active negotiations?](q1-why-bargaining-failed.qmd)** | **chapter live** |
-| Q2 | Why has the war persisted past initial strikes? | drafting |
+| **Q2** | **[Why has the war persisted past initial strikes?](q2-war-persistence.qmd)** | **chapter live** |
 | Q3 | Why is the Pakistan-mediated ceasefire unstable? | drafting |
 | Q4 | What sustains the coalitions? | drafting |
 | **Q5** | **[What does the bargaining range look like now — is it empty?](q5-bargaining-range.qmd)** | **chapter live** |

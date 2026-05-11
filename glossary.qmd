@@ -435,3 +435,27 @@ Stephen Krasner's "State Power and the Structure of International Trade" (1976) 
 Rosemary Kelanic's *Black Gold and Blackmail* (2020) argued that the United States, since World War II, has been uniquely *invulnerable* to oil coercion — its naval and air dominance ("command of the commons") makes the US the chief military threat to other states' oil access rather than a target of such threats. [Q10](analyses/q10-us-hormuz-interest.qmd) inverts the framework: if the US is uniquely invulnerable + chief military threat, then the US can sustain Hormuz disruption without inviting coercive response. The inversion is exactly the structural envelope Q10 identifies — Kelanic herself flagged the inverted form as a literature gap.
 
 *Primer chapter:* forthcoming.
+
+---
+
+## Third-party enforcement requirement (Walter, 1997)
+
+Barbara Walter's "The Critical Barrier to Civil War Settlement" (1997) argued that civil-war combatants face a near-impossible commitment problem: any agreement to disarm leaves the disarming side vulnerable to the other side's reneging, so neither side disarms and the war continues. The fix that empirically works is *third-party security guarantee* — an external power that credibly commits to enforce the agreement against either side that violates. The framework generalizes to interstate war termination where post-war compliance is at risk. [Q2](analyses/q2-war-persistence.qmd) reads the Iran-US war's persistence through this lens: no available major power has both the capacity and the impartiality to enforce against both Iran and the US.
+
+*Primer chapter:* forthcoming.
+
+---
+
+## Three diagnostics for peace durability (Werner, 1999)
+
+Suzanne Werner's "The Precarious Nature of Peace" (1999) and related war-termination literature identified three jointly-necessary conditions for durable post-war peace: (1) underlying *issues are resolved* or made manageable; (2) the settlement *includes credible enforcement*; (3) the *terms are consistent with the balance of power*. Ceasefires that fail on any of the three reliably break. [Q2](analyses/q2-war-persistence.qmd) applies the diagnostics to the 2026 Iran war and finds all three failing simultaneously — Iran's 14-point framework and US terms have no overlap on regime-change, enrichment, or Hormuz-toll; no third-party enforcer is available; any terms acceptable to one side are inconsistent with the other side's revealed power-position.
+
+*Primer chapter:* forthcoming.
+
+---
+
+## The Soleimani-Khamenei differential (Q2 base-rate)
+
+[Q2](analyses/q2-war-persistence.qmd)'s load-bearing base-rate test: same US administration (Trump), same Iranian state, two strike outcomes 6 years apart. *January 2020 — Qasem Soleimani killed* (IRGC Quds Force commander; operationally critical but institutionally replaceable; Qaani installed without regime crisis): Iran's response was symbolic strikes on US Iraqi bases; the conflict de-escalated. *February 2026 — Ali Khamenei killed* (Supreme Leader; regime-defining figure; succession unresolved): IRGC consolidation under Vahidi; sustained war; refusal to settle. The differential validates Goemans's gamble-for-resurrection prediction — persistence is proportional to the regime-defining-ness of the struck leader, holding admin and target state constant.
+
+*Primer chapter:* forthcoming.

@@ -1,0 +1,458 @@
+---
+title: "Q2 — Why has the war persisted past initial strikes?"
+subtitle: "Khamenei was killed in the opening hours. Decapitation usually compels concession; this war kept going. Three mechanisms — Iranian, American, structural — explain why."
+description: "Iran-side regime-survival (Goemans + Weeks) + US-side audience-cost lock-in (Putnam + Fearon + Q10's α) + structural commitment-trap envelope (Walter + Werner + Powell-Reiter + Pape + Schelling) jointly produce persistence. The 2020 Soleimani vs 2026 Khamenei differential validates the Iran-side mechanism."
+categories: [analysis, q2, war-persistence, decapitation, goemans, walter-werner]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+Khamenei was killed in the opening hours of 28 February 2026. Decapitation typically compels concession — a regime's leadership is taken off the board and the survivors settle. In January 2020 Trump killed Soleimani; Iran fired symbolic missiles at US Iraqi bases and de-escalated within a week. In February 2026 Trump killed the Supreme Leader; ten weeks later Iran is still in the fight, the IRGC has consolidated, the renminbi-toll regime is operational, and the dual blockade continues. Same US administration, opposite outcome. Why?
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+On the night of 27-28 February 2026, coordinated US-Israeli strikes hit Iranian nuclear and command infrastructure. In the opening hours, Ali Khamenei — Iran's Supreme Leader since 1989 — was killed. Decapitation strikes are typically expected to compel concession: the regime's defining figure is taken off the board, the institutional successors face an existential moment of weakness, and they settle quickly to consolidate. Iran's *previous* exposure to a Trump decapitation strike fit this pattern. In January 2020, Qasem Soleimani — IRGC Quds Force commander, operationally critical but institutionally replaceable — was killed in a US strike at Baghdad airport. Iran responded with symbolic missile strikes on US bases in Iraq, deliberately calibrated to avoid US casualties, and de-escalated within a week. The Qaani succession installed without regime crisis. The 2020 case looks like a textbook decapitation-compels-concession outcome. The 2026 case looks like the opposite: IRGC consolidation under Vahidi (de facto leadership), sustained war prosecution, refusal to settle, renminbi-toll alternative architecture operationalized, dual blockade continuing through 8 May 2026. Same US administration in both cases. The variable is the strike target's role. The puzzle Q2 sets: *why has the war persisted past initial strikes — particularly after successful Iranian decapitation that should, on the standard model, have compelled concession?*
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *Principled multi-framework persistence (P ≈ 0.65)*. Three load-bearing mechanisms. **α** — Iran-side [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} + [Weeks autocratic audience costs]{.gloss data-gloss="weeks-autocratic"}: IRGC institutional position is existential under Vahidi; no acceptable concession exists. **β** — US-side [audience-cost lock-in]{.gloss data-gloss="audience-costs-fearon"} via Putnam + Fearon + [Q10's α producer-coalition dominance]{.gloss data-gloss="grossman-helpman-lobby"}: admin-contingent. **γ** — Structural commitment-trap envelope per [Walter 1997]{.gloss data-gloss="walter-third-party-enforcement"} + [Werner 1999]{.gloss data-gloss="werner-peace-durability"} + Powell-Reiter + Pape + Schelling: no third-party enforcer; all three Werner diagnostics fail. The [Soleimani-Khamenei differential]{.gloss data-gloss="soleimani-khamenei-differential"} is the load-bearing base-rate validator.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *Principled multi-framework persistence (P ≈ 0.65).* Three load-bearing mechanisms, jointly necessary for war-persistence. **α — Iran-side regime-survival under [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} + [Weeks autocratic audience costs]{.gloss data-gloss="weeks-autocratic"}** (P operative 0.90; P load-bearing 0.65). Khamenei's death triggered IRGC institutional gamble-for-resurrection; Vahidi (de facto leadership) faces existential stake; no acceptable concession exists that preserves the IRGC's institutional position. Operates through (i) decision-making sidelining of Pezeshkian, (ii) "survival = victory" framing internalized via Weeks-style observability/value-of-backing-down channels, (iii) alternative-architecture construction (renminbi-toll) as defensive regime-survival response. **β — US-side [audience-cost lock-in]{.gloss data-gloss="audience-costs-fearon"} via Putnam + Fearon + [Q10's α producer-coalition dominance]{.gloss data-gloss="grossman-helpman-lobby"}** (P operative 0.75; P load-bearing 0.55). Trump-admin war-aim expansion (preventive defense → regime change → oil seizure) is a Putnam Level-II lock-in; each public escalation increases the cost of backing down without visible result; reinforced by Q10's producer-coalition lobby weight. **γ — Structural commitment-trap envelope** (P operative 0.95; P load-bearing 0.50): [Walter 1997 no-third-party-enforcer]{.gloss data-gloss="walter-third-party-enforcement"} + [Werner 1999 all-three-diagnostics-fail]{.gloss data-gloss="werner-peace-durability"} + Powell-Reiter mutual commitment failure + [Pape coercion-failure]{.gloss data-gloss="pape-coercion"} + Schelling commitment-irreversibility (Khamenei assassination forecloses Iranian face-saving exit). Five load-bearing T3 inferences cap the posterior at ≤ 0.65. Q2 is the **fourth principled-multi-framework case** in the project (after Q7, Q9, Q10). The pattern is well-validated. Critical META rule 3 distinction: *retrospective* persistence (why HAS it persisted to 8 May 2026) is high-confidence at P ≈ 0.70; *prospective* persistence (will it continue) is admin-contingent at P ≈ 0.55, because β is Q10-admin-contingent — if Trump pivots under gasoline-price stress, β collapses, and α alone cannot sustain war without US prosecution.
+:::
+
+```{=html}
+</div>
+```
+
+[The most distinctive analytical contribution: the [2020 Soleimani vs 2026 Khamenei differential]{.gloss data-gloss="soleimani-khamenei-differential"}. Same Trump administration in both cases; only variable is the target's regime-defining-ness. The differential prediction — P(persistence) ∝ regime-defining-ness of struck leader — is empirically supported and validates Goemans's gamble-for-resurrection framework as load-bearing for α.]{.column-margin .deep-only}
+
+```{=html}
+<div class="deep-mode-indicator">
+<strong>Deep mode is on.</strong> Paragraphs expand with the three mechanisms in detail, the Soleimani-Khamenei base-rate analysis, the retrospective-vs-prospective distinction, pre-registered falsification criteria, source-confidence audit, and pre-mortem. Switch back to <em>Concise</em> at the top of the page to collapse.
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — Tier-2 abbreviated protocol + the four-fold validated principled-multi-framework pattern
+
+This chapter applies the Tier-2 abbreviated protocol: pre-Q corpus audit, four new corpus acquisitions (Walter 1997, Fortna 2003, Werner 1999 compilation, Stedman 1997), steel-mans A/B/C written in-house, the seven META rules applied throughout. The candidate mechanism set reduced from nine to three via the META rule 4 discipline, with an in-analysis correction reassigning the renminbi-toll mechanism from β to α-side. Q2 is the fourth principled-multi-framework case in the project (after Q7, Q9, Q10) — the pattern is well-validated. The Soleimani-Khamenei base-rate test is the most distinctive analytical contribution available and would have been very hard to surface without the META rule 2 discipline. The retrospective-vs-prospective distinction (META rule 3 applied per mechanism, not globally) is structurally cleaner than Q10's full admin-contingency: Q2 has structurally-locked-in components (α + γ) that persist even if β collapses, but the war itself ends if β collapses because war requires US participation.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  Q[Why has the war<br/>persisted past<br/>successful decapitation?]
+  Q --> S1[2020 Soleimani:<br/>Iran de-escalated<br/>within a week]
+  Q --> S2[2026 Khamenei:<br/>10+ weeks of war<br/>and counting]
+  S1 --> D[Same Trump admin<br/>Only variable:<br/>target's role]
+  S2 --> D
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef s fill:#f6f8fa,stroke:#d0d7de
+  classDef d fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-soleimani-khamenei-differential stroke-width:2px
+  class Q q
+  class S1,S2 s
+  class D d
+  class D gt-gloss-soleimani-khamenei-differential
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**The base-rate test.** Same Trump administration. January 2020: Soleimani killed (operationally critical, institutionally replaceable). Iran fired symbolic missiles; de-escalated within a week. February 2026: Khamenei killed (regime-defining figure). Iran consolidated and persists. The [Soleimani-Khamenei differential]{.gloss data-gloss="soleimani-khamenei-differential"} is the load-bearing base-rate test for what's driving 2026's persistence.]{.concise-only}
+
+::: {.deep-only}
+**The [Soleimani-Khamenei differential]{.gloss data-gloss="soleimani-khamenei-differential"} is Q2's load-bearing base-rate test (META rule 2 application).** Two strike outcomes six years apart, with the same US administration (Trump, in both cases Republican president), the same Iranian state, and the same general policy posture. *January 2020 — Qasem Soleimani*: IRGC Quds Force commander, the operational head of Iran's regional proxy network. Killed by US drone strike at Baghdad airport. Operationally critical but institutionally replaceable — Qaani was installed without regime crisis. Iran's response: symbolic strikes on US bases in Iraq (Al Asad and Erbil), explicitly calibrated to avoid US casualties; de-escalation within a week; the standoff did not escalate to war. *February 2026 — Ali Khamenei*: Supreme Leader since 1989, the regime-defining figure. Killed in opening-hour strikes on a fortified bunker. Succession unresolved (Mojtaba Khamenei "behind security cordon" per ICG Crisis Monitor #4); IRGC institutional position existential. Iran's response: IRGC consolidation under Vahidi; sustained war prosecution; refusal to settle; renminbi-toll alternative architecture operationalized; dual blockade through 8 May 2026 and counting. The differential is what allows Q2 to identify the load-bearing mechanism: holding admin and target state constant, the variable is the *regime-defining-ness* of the struck leader. Goemans's framework predicts gamble-for-resurrection scales with the leader's institutional centrality; the differential empirically supports the prediction.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  A[α Iran-side<br/>regime-survival]
+  A --> G[Goemans gamble-<br/>for-resurrection]
+  A --> W[Weeks autocratic<br/>audience costs]
+  G --> V[Vahidi faces<br/>existential stake]
+  W --> O["Survival = victory"<br/>framing internalized]
+  V --> R[Renminbi-toll<br/>alternative architecture<br/>as defensive response]
+  O --> R
+  classDef a fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef f fill:#f6f8fa,stroke:#d0d7de
+  classDef o fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-goemans-gamble-resurrection stroke-width:2px
+  classDef gt-gloss-weeks-autocratic stroke-width:2px
+  class A a
+  class G f
+  class G gt-gloss-goemans-gamble-resurrection
+  class W f
+  class W gt-gloss-weeks-autocratic
+  class V,O,R o
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**α — Iran-side regime-survival.** [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} (Vahidi faces existential stake; settlement requires terms that wreck IRGC institutional position) + [Weeks autocratic audience costs]{.gloss data-gloss="weeks-autocratic"} ("survival = victory" framing internalized via observability/backing-down channels). Renminbi-toll is the defensive regime-survival response — construct an outside option to reduce dependence on settlement that requires US concession. Structurally-locked-in across leader-cycles.]{.concise-only}
+
+::: {.deep-only}
+**Mechanism α — Iran-side regime-survival under [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} + [Weeks autocratic audience costs]{.gloss data-gloss="weeks-autocratic"}** (P operative 0.90; P load-bearing 0.65). The framework combination: Goemans 2000 — mixed-regime leaders facing severe personal punishment from defeat engage in gamble-for-resurrection, preferring escalation to settlement and hoping for low-probability turnaround. Weeks 2008 — autocratic audience costs operate via three channels: coordination among insiders, value-of-leader's-backing-down, observability of leader's commitment by domestic security-sector audience. The Q2 application: IRGC institutional position is existential. Khamenei's death triggered succession crisis (Mojtaba "behind security cordon"; succession unresolved per ICG Crisis Monitor #4). Vahidi as de facto leadership faces personal + institutional punishment-from-defeat threshold higher than Putin's per the Q7 application — defeat means the dismantling of IRGC's structural autonomy from the Iranian formal state, the institutional position the IRGC has built since 1979. Weeks-style audience costs: the IRGC security-sector audience values resistance commitment; backing down imposes high cost on Vahidi personally and on the IRGC institutionally. The renminbi-toll alternative-architecture construction is the regime-survival response — by building a non-dollar settlement option (China-financed Iran trade), Iran reduces dependence on a settlement that requires US concession. This is a *defensive structural move*, not an offensive war aim. The "survival = victory" framing visible in IRGC and Iranian official discourse is the cognitive surface of the Goemans + Weeks combined logic: Iran wins by surviving because the alternative (regime collapse) is catastrophic for IRGC leadership. Per META rule 3, α is *structurally-locked-in for the war's duration* — IRGC institutional consolidation is stable on multi-year horizon; the Goemans logic persists across leader-cycles (Vahidi → successor will face the same stakes); Mojtaba Khamenei succession, when it occurs, will not change α-mechanism because he is an IRGC-figurehead within the same institutional structure.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  B[β US-side<br/>audience-cost lock-in]
+  B --> P[Putnam two-level<br/>games + Fearon<br/>audience costs]
+  B --> Q10[Q10 alpha producer-<br/>coalition dominance]
+  P --> E[Trump war-aim<br/>expansion locked in:<br/>preventive defense<br/>to regime change<br/>to oil seizure]
+  Q10 --> R[Producer-coalition<br/>lobby weight rewards<br/>sustained disruption]
+  E --> AC[Admin-contingent<br/>per Q10 base-rate]
+  R --> AC
+  classDef b fill:#0969da,color:#fff,stroke:#0969da
+  classDef f fill:#f6f8fa,stroke:#d0d7de
+  classDef o fill:#fff8c5,stroke:#d4a72c
+  classDef gt-gloss-audience-costs-fearon stroke-width:2px
+  classDef gt-gloss-grossman-helpman-lobby stroke-width:2px
+  class B b
+  class P f
+  class P gt-gloss-audience-costs-fearon
+  class Q10 f
+  class Q10 gt-gloss-grossman-helpman-lobby
+  class E,R o
+  class AC o
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**β — US-side audience-cost lock-in.** [Putnam two-level games + Fearon audience costs]{.gloss data-gloss="audience-costs-fearon"} + [Q10's α producer-coalition dominance]{.gloss data-gloss="grossman-helpman-lobby"}. Trump's war-aim expansion (preventive defense → regime change → oil seizure) sequentially tightens the Level-II constraint; producer-coalition rewards sustained disruption; consumer-coalition hasn't crossed the mobilization threshold. **Admin-contingent** — reversible on 2028 election or sustained $4.50/gal gasoline.]{.concise-only}
+
+::: {.deep-only}
+**Mechanism β — US-side audience-cost lock-in via Putnam + Fearon 1994 + [Q10's α producer-coalition dominance]{.gloss data-gloss="grossman-helpman-lobby"}** (P operative 0.75; P load-bearing 0.55, capped per Q10 admin-contingency). The framework combination: Putnam 1988 two-level games — admin's revealed policy is constrained by Level-II (domestic) win-set; Fearon 1994 — [audience costs make commitment credible]{.gloss data-gloss="audience-costs-fearon"} but also trap leaders past the backdown threshold; Q10's α-mechanism — Grossman-Helpman 1994 government objective function with low α-weight on aggregate consumer welfare under Trump admin specifically. The Q2 application: Trump's war-aim expansion (preventive defense → regime change → oil seizure → "no longer cared about negotiations") is a sequential public-commitment escalation. Each escalation tightens the Level-II constraint by enlarging the set of voters who would view backing-down-without-result as failure. Q10's α-mechanism reinforces β — producer-coalition rewards sustained disruption + LNG-export ramp; the consumer-coalition has not yet mobilized to the gasoline-price threshold (~$4.50/gal sustained 60 days per Q10) that would force pivot. Joint effect: Trump-admin sustained war prosecution is *doubly locked-in* (audience-cost + producer-coalition lobby weight). Per META rule 3, β is *currently-dominant under Trump admin but NOT structurally-locked-in across admins* — admin-change can reset (Q10's 2022 Biden base-rate established this); Q10 falsifier 2 (SPR acceleration > 5 mb/week sustained) is also Q2's β-falsifier; if Trump pivots, β collapses. This is the dimension that makes Q2 *prospective* persistence admin-contingent.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  G[γ Structural<br/>commitment-trap<br/>envelope]
+  G --> W[Walter 1997<br/>no third-party<br/>enforcer available]
+  G --> WE[Werner 1999<br/>all three diagnostics<br/>fail]
+  G --> P[Powell-Reiter<br/>mutual commitment<br/>failure]
+  G --> PA[Pape coercion-<br/>failure]
+  G --> S[Schelling Khamenei<br/>assassination<br/>forecloses<br/>face-saving exit]
+  classDef g fill:#0969da,color:#fff,stroke:#0969da
+  classDef f fill:#f6f8fa,stroke:#d0d7de
+  classDef gt-gloss-walter-third-party-enforcement stroke-width:2px
+  classDef gt-gloss-werner-peace-durability stroke-width:2px
+  classDef gt-gloss-pape-coercion stroke-width:2px
+  class G g
+  class W,WE,P,PA,S f
+  class W gt-gloss-walter-third-party-enforcement
+  class WE gt-gloss-werner-peace-durability
+  class PA gt-gloss-pape-coercion
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**γ — Structural commitment-trap envelope.** [Walter 1997 third-party enforcement absent]{.gloss data-gloss="walter-third-party-enforcement"} + [Werner 1999 all three diagnostics fail]{.gloss data-gloss="werner-peace-durability"} (issues unresolved + enforcement absent + balance-of-power inconsistent) + Powell-Reiter mutual commitment failure + [Pape coercion-failure]{.gloss data-gloss="pape-coercion"} (US punishment cannot deny Iran's strategic options) + Schelling commitment-irreversibility (Khamenei assassination forecloses face-saving Iranian exit). Structurally-locked-in.]{.concise-only}
+
+::: {.deep-only}
+**Mechanism γ — Structural commitment-trap envelope** (P operative 0.95; P load-bearing 0.50). Six mutually-reinforcing framework components, none alone sufficient, jointly binding. *[Walter 1997]{.gloss data-gloss="walter-third-party-enforcement"}*: civil-war settlements require third-party security guarantee for credible commitment. The argument generalizes to interstate war termination where post-war compliance is at risk. The Q2 application: no third-party enforcer is available — Pakistan-mediated ceasefire lacks enforcement teeth; Pakistan cannot militarily compel compliance from either side; China + Russia vetoed UNSC enforcement resolution; Oman is too small to enforce. The result: settlement-via-mediation cannot produce stable peace; commitment problems persist permanently within current geopolitical configuration. *[Werner 1999]{.gloss data-gloss="werner-peace-durability"}*: post-war peace durable when (a) underlying issues resolved, (b) settlement includes enforcement, (c) terms consistent with balance of power. All three diagnostics fail simultaneously for the 2026 Iran-US case — *issues unresolved* (Iran's 14-point framework and US terms have no overlap on regime-change goal, enrichment access, Hormuz-toll regime); *enforcement absent* (Walter condition fails); *balance-of-power inconsistency* (terms acceptable to one side are inconsistent with the other side's revealed power-position — Iran cannot accept terms premised on its post-strike weakened position because Iran's revealed strategic options demonstrate continued bargaining power). *Powell-Reiter mutual commitment failure*: classic structure of unresolvable commitment problem; absolute victory is one solution but unachievable here. *[Pape coercion-failure]{.gloss data-gloss="pape-coercion"}*: punishment fails when target's strategic options are diverse and chokepoint-denial is feasible — exactly Iran's case (chokepoint denial; proxy network; alternative-architecture financial infrastructure). *Schelling commitment irreversibility*: Khamenei assassination is the ultimate irreversible commitment foreclosing face-saving Iranian de-escalation — Iran cannot "back down" without acknowledging defeat-of-regime-defining-figure's-death. *Slantchev 2011 costly signaling*: ongoing strikes signal commitment-resolve, raising audience-cost penalty for backing down. Per META rule 3, γ is *structurally-locked-in for the war's foreseeable duration* under current geopolitics — no third-party-enforcer mechanism is on the horizon; Werner diagnostics will continue to fail.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) the three load-bearing mechanism posteriors; (2) the Soleimani-Khamenei base-rate table; (3) the retrospective-vs-prospective decomposition.
+
+### Figure 1 — Mechanism posteriors
+
+```{ojs}
+//| label: fig-q2-mechanisms
+//| fig-cap: "Posteriors on Q2's three load-bearing mechanisms. α (Iran-side regime-survival) has the strongest load-bearing weight (0.65); β (US-side audience-cost lock-in) is capped at 0.55 by Q10 admin-contingency; γ (structural envelope) at 0.50 is the binding outer constraint."
+
+{
+  const mechData = [
+    {id: "α", full: "α — Iran-side regime-survival (Goemans + Weeks)", post_op: 0.90, post_lb: 0.65, tier: "T3"},
+    {id: "β", full: "β — US-side audience-cost lock-in (Putnam + Fearon + Q10's α)", post_op: 0.75, post_lb: 0.55, tier: "T2"},
+    {id: "γ", full: "γ — Structural commitment-trap envelope (Walter + Werner + Pape + Schelling)", post_op: 0.95, post_lb: 0.50, tier: "T3"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 240 : Math.max(320, Math.min(440, Math.round(width * 0.4)));
+  const data = mechData.map(d => ({ ...d, display: isMobile ? d.id : d.full }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 56 : Math.max(380, Math.round(width * 0.36)),
+    marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Probability",
+      domain: [0, 1],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: data.map(d => d.display) },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.barX(data, {
+        x: "post_op", y: "display",
+        fill: "#e6e8eb", insetTop: 8, insetBottom: 8
+      }),
+      Plot.barX(data, {
+        x: "post_lb", y: "display",
+        fill: "tier", insetTop: 8, insetBottom: 8,
+        channels: {
+          Mechanism: "full",
+          "P(operative)": d => `${Math.round(d.post_op * 100)}%`,
+          "P(load-bearing)": d => `${Math.round(d.post_lb * 100)}%`,
+          Tier: "tier"
+        },
+        tip: {
+          lineWidth: 35,
+          fontSize: isMobile ? 12 : 13
+        }
+      }),
+      Plot.text(data, {
+        x: "post_lb", y: "display",
+        text: d => `${Math.round(d.post_lb * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
+      }),
+      Plot.ruleX([0.5], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+      Plot.text([{ x: 0.5, y: data[0].display }], {
+        x: "x", y: "y", text: () => "load-bearing →",
+        dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
+        fontSize: annotFont, fill: "#0969da", fontStyle: "italic", fontWeight: 500
+      })
+    ]
+  });
+}
+```
+
+::: {.mech-legend}
+**Mechanism codes** (chart labels expanded):
+
+| Code | Mechanism |
+|:---:|---|
+| **α** | Iran-side regime-survival (Goemans + Weeks; structurally-locked-in) |
+| **β** | US-side audience-cost lock-in (Putnam + Fearon + Q10's α; admin-contingent) |
+| **γ** | Structural commitment-trap envelope (Walter + Werner + Pape + Schelling; structurally-locked-in) |
+:::
+
+[**Reading the chart.** Each row = one mechanism. Grey bar = P(operative); colored bar = P(load-bearing). All three mechanisms are operative with high probability (0.75-0.95); load-bearing weights are lower because the mechanisms are *jointly necessary* rather than independently sufficient. α is structurally-locked-in for war's duration; γ is structurally-locked-in under current geopolitics; β is admin-contingent — the load-bearing weight is capped per Q10's 2022 Biden base-rate disconfirmer.]{.concise-only}
+[**Reading the chart.** Each row is one of Q2's three load-bearing mechanisms. The light grey bar shows posterior P(operative) — how likely the mechanism is at play (all three are operative at 0.75-0.95). The colored foreground bar shows posterior P(load-bearing) — how much of the persistence the mechanism actually explains. The mechanisms are *jointly necessary* (α + β both required for war prosecution; γ required to prevent settlement), so their load-bearing weights are lower than their P(operative). α — Iran-side regime-survival — has the highest load-bearing weight (0.65) supported by the [Soleimani-Khamenei differential]{.gloss data-gloss="soleimani-khamenei-differential"} base-rate validation. β — US-side audience-cost lock-in — is capped at 0.55 by Q10's 2022 Biden base-rate disconfirmer (admin-contingent). γ — structural commitment-trap envelope — is at 0.50: highly operative (no third-party enforcer; Werner diagnostics all fail) but in the load-bearing sense the *envelope* is structural while individual war-prosecution mechanisms (α + β) are what produce active fighting.]{.deep-only}
+
+### Figure 2 — The Soleimani-Khamenei differential
+
+| Strike target | Year | Strike target's role | Iranian response | Outcome |
+|---|---|---|---|---|
+| Soleimani | Jan 2020 | IRGC Quds Force commander; operationally critical, institutionally replaceable | Symbolic strikes on US Iraq bases; no escalation | **De-escalated** within a week |
+| **Khamenei** | **Feb 2026** | **Supreme Leader; regime-defining figure** | **IRGC consolidation; sustained war; dual blockade** | **Persisted** through 8 May |
+
+[Same US administration. Same Iranian state. Variable: target's regime-defining-ness. Goemans-derived prediction: P(persistence) ∝ regime-defining-ness. Validated.]{.column-margin}
+
+### Figure 3 — Retrospective vs prospective persistence
+
+```{mermaid}
+flowchart LR
+  R[Retrospective:<br/>Why HAS the war<br/>persisted to 8 May?]
+  R --> RA[α structurally-<br/>locked-in]
+  R --> RB[β currently-dominant<br/>under Trump]
+  R --> RG[γ structurally-<br/>locked-in]
+  RA --> RC[Joint α+β+γ<br/>operative<br/>P approx 0.70]
+  RB --> RC
+  RG --> RC
+  P[Prospective:<br/>Will the war<br/>continue?]
+  P --> PA[α stable for<br/>war's duration]
+  P --> PB[β admin-contingent<br/>per Q10]
+  P --> PG[γ stable under<br/>current geopolitics]
+  PA --> PC[Joint persistence<br/>depends on β<br/>P approx 0.55]
+  PB --> PC
+  PG --> PC
+  classDef rh fill:#0969da,color:#fff,stroke:#0969da
+  classDef p fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  classDef c fill:#dafbe1,stroke:#2da44e
+  class R rh
+  class P p
+  class RA,RB,RG,PA,PB,PG m
+  class RC,PC c
+```
+
+[**META rule 3 applied per mechanism**, not globally. Retrospective Q2 (why HAS it persisted to 8 May) is high-confidence (P ≈ 0.70); all three mechanisms are operative and the war's continuation through May is fully explained. Prospective Q2 (will it continue) is admin-contingent (P ≈ 0.55) because β is reversible on admin change per Q10. If Trump pivots under gasoline-price stress, β collapses; α alone cannot sustain war without US prosecution; war could end via unilateral US exit.]{.concise-only}
+[**The retrospective-vs-prospective distinction is structurally cleaner than Q10's full admin-contingency**. Q10's α-mechanism is fully admin-contingent; the strong-form claim was killed entirely by 2022 Biden. Q2's α-mechanism (Iran-side Goemans) is *structurally-locked-in* — IRGC institutional consolidation persists across leader-cycles. γ-mechanism (commitment-trap envelope) is *structurally-locked-in* — no third-party enforcer is on the horizon. Only β-mechanism (US-side audience-cost lock-in) is admin-contingent per Q10's finding. The result: Q2 retrospective persistence is high-confidence (P ≈ 0.70) — the joint α+β+γ explains the observed pattern through 8 May; Q2 prospective persistence is admin-contingent (P ≈ 0.55) — if Trump pivots to consumer-side, β collapses, and the war could end via unilateral US exit even though α and γ remain operative on the Iran side. This is a substantively different prediction from Q10's: under Q2, the war *might end* via β collapse, but Iran would still face all the structural drivers of regime-survival behavior; the post-war state would be unstable per Q3.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+### Figure 4 — Pre-registered falsification criteria
+
+Track over next 90 days:
+
+| Falsifier | Predicts | Falsifies if |
+|---|---|---|
+| α IRGC settlement acceptance | IRGC will NOT accept settlement substantially de-arming the institution | IAEA full enrichment-site access + Quds Force dismantling within 90 days |
+| β Trump concession | Trump admin will NOT lower war aims back to pre-strike nuclear-only frame | Drops regime-change + drops oil-seizure + drops missile restrictions |
+| α succession variable | Post-Khamenei succession remains commitment-bound | Pezeshkian re-empowered; Mojtaba deposed; civilian-moderate ascendant |
+| γ third-party enforcer | No third-party enforcement mechanism emerges | Pakistan + Oman + China jointly construct verification regime with credible enforcement |
+| β admin-contingency (Q10 tie) | Trump admin sustains producer-side stance | SPR acceleration > 5 mb/week sustained (Q10 falsifier 2 tie) |
+| Cross-case Goemans differential | Future similar case produces persistence | Future regime-defining leadership strike produces de-escalation |
+
+If two or more falsifiers fire within 90 days, headline posterior drops below 0.55.
+
+### Figure 5 — Source-confidence tier audit
+
+Of the synthesis's load-bearing claims:
+
+- **[T1]{.tier .tier-1} multi-source verified:** IRGC consolidated under Vahidi, Pezeshkian sidelined (ICG Crisis Monitor #4 + multiple); Khamenei killed in opening strikes 28 Feb 2026 (Wikipedia + multiple); 2020 Soleimani killing followed by Iranian de-escalation (public historical record); Trump war-aim expansion preventive → regime change → oil seizure (Wikipedia + CFR + multiple); renminbi-toll regime operational (CFR Ewers/Tabatabai; PRC MOFCOM declarations).
+
+- **[T2]{.tier .tier-2} single-source named:** Goemans framework applies to IRGC institutional behavior (Goemans developed for state-level autocracies; IRGC is sub-state institution — mapping is inferential but consistent with Goemans's regime-survival logic); β reduces to admin-contingent rather than structural per Q10 base-rate (Q10 finding directly applies); [Walter 1997 third-party-enforcement]{.gloss data-gloss="walter-third-party-enforcement"} absence applies to Iran-US case (observable: Pakistan + Oman + China are not enforcement powers in Walter's sense).
+
+- **[T3]{.tier .tier-3} inference from evidence:** **Vahidi specifically faces gamble-for-resurrection stake** (inferred from his institutional position + observable refusal-to-settle behavior); **the [Soleimani-Khamenei differential]{.gloss data-gloss="soleimani-khamenei-differential"} is explained by Goemans-stake variable** (cross-case inference; could equally support "Trump admin chose harder line in 2026" reading); **γ-envelope is jointly binding** (all 6-7 components mutually reinforce — theoretical convergence); **[Werner 1999 all-three-diagnostics-fail]{.gloss data-gloss="werner-peace-durability"}** (Werner's diagnostics derived from civil-war/COW dataset; interstate-war-with-asymmetric-stakes generalization is theoretical); **information-revelation has not yet converged bargaining ranges** (Hokayem "battle of endurance" framing; not directly measurable).
+
+- **[T4]{.tier .tier-4} conjecture:** none in the load-bearing path.
+
+**Five load-bearing T3 inferences** trigger the META rule 5 posterior cap at ≤ 0.65 on the multi-framework headline. The reconciled posterior sits at the cap.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+The most likely ways the analysis will be wrong:
+
+1. **Mistaken Vahidi-specific gamble-stake** (P ≈ 0.20). Vahidi is not in fact the de facto leader (alternative scenarios: Mojtaba Khamenei operating; council-led IRGC; Pezeshkian regaining authority). Mitigation: Goemans framework still applies to IRGC as institution even if specific actor identification differs.
+
+2. **Information-revelation reading is correct** (P ≈ 0.20). The war is simply unfinished information-revelation (Wagner/Reiter) and will end via convergence rather than via mechanism α failure. Mitigation: information-revelation is folded into γ; principal framework remains multi-framework.
+
+3. **Q10's β admin-contingency overstated** (P ≈ 0.20). Trump-admin producer-coalition dominance is more durable than 2022 Biden base-rate suggested (a 2028 Republican successor would pursue producer-side). Mitigation: doesn't change retrospective Q2 finding; prospective Q2 finding strengthens.
+
+4. **Soleimani-Khamenei differential is confounded** (P ≈ 0.25). 2026 differs from 2020 along dimensions beyond strike-target-role (2024 Hezbollah/Hamas degradation lowered Iran's deterrent; Israel was different actor in 2026). Mitigation: even with confounders, the differential is consistent with Goemans prediction.
+
+5. **Pakistan or Oman successfully constructs enforcement mechanism** (P ≈ 0.10). γ-envelope collapses. Mitigation: would require major-power-coalition realignment.
+
+6. **Stedman spoilers framework should be a fourth mechanism** (P ≈ 0.15). IRGC and/or Netanyahu function as Stedman-type spoilers (total spoilers rejecting any agreement). Mitigation: spoiler dimension matters more for Q3 (post-ceasefire); Stedman applied here would be mechanism inflation.
+
+**Total probability the finding is substantively wrong**: ≈ 0.35 (with overlap; not strictly additive). Consistent with the META-rule-5-capped posterior of 0.65.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Connections to other Q-chapters
+
+| Q-chapter | How Q2 connects |
+|---|---|
+| [Q1](q1-why-bargaining-failed.qmd) | Q2's α-mechanism is the post-decapitation continuation of Q1's IRGC-hardliner veto on enrichment concessions. Pre-war veto became post-war gamble-for-resurrection. Same institutional logic. |
+| [Q3](analyses/index.qmd#q12--the-gulf-states-sub-questions) | Q2's γ-mechanism (Walter + Werner + Powell-Reiter) is Q3's central explanatory frame. Ceasefire is unstable for the same structural reasons the war persists. |
+| [Q4](analyses/index.qmd) | Q2's α-mechanism (Iran-side regime-survival) is the Iran-side coalition cohesion mechanism. IRGC's gamble-for-resurrection compels proxy network continuation. |
+| [Q5](q5-bargaining-range.qmd) | Q2's γ-mechanism explains Q5's empty/operationally-inaccessible-range. All three Werner diagnostics failing → bargaining range cannot intersect. |
+| [Q6](analyses/index.qmd) | Q2's mechanisms specify what would end the war: α collapse (low P); β collapse (admin-contingent); γ-envelope contraction (very low P). |
+| [Q7](q7-russia-ukraine.qmd) | Q7's Goemans-favored bargaining (Putin) is the same framework as Q2's α (IRGC-Vahidi). Goemans is cross-case validated. |
+| [Q8](q8-china-taiwan.qmd) | Q8's Friedberg unitary "win without fighting" is the *opposite* of Q2's persistence — China is patient, Iran is committed. The difference reflects whether active war prosecution is feasible. |
+| [Q9](q9-europe-us-relationship.qmd) | Q9's Pape soft-balancing reflects EU view of US as unreliable under Trump-admin; this view is strengthened by US war-aim expansion (Q2's β). |
+| [Q10](q10-us-hormuz-interest.qmd) | Q10's α and Q2's β operate jointly. Producer-coalition reward + audience-cost lock-in jointly constitute US-side persistence. |
+| [Q11](q11-us-israel-coalition.qmd) | Trump's permissive posture toward Israeli first-mover actions reflects Q2's β audience-cost lock-in. Israeli aims constrain Trump's exit options via P-A slippage. |
+| [Q12.5](q12-5-post-war-reconfiguration.qmd) | Configuration F (Saudi-led Sunni-Muslim third pole) is the Gulf clients' response to Q2's γ-envelope (US unable to deliver settlement) + Q10's α (US patron-reliability erosion). |
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+Companion analysis file: [`Q2_war_persistence_past_initial_strikes.md`](https://github.com/) — final deliverable. Tier-2 abbreviated protocol; no separate steel-man / DA delegated cycle.
+
+Key citations: @goemans2000war, @weeks2008autocratic, @putnam1988diplomacy, @fearon1994domestic, @walter1997critical, @werner1999precarious, @powell2006commitment, @reiter2009how, @pape1996bombing, @schelling1966arms, @slantchev2011military.
+
+**Highest-priority remaining corpus gaps for Q2 verification:**
+
+- Direct evidence on Vahidi-specific de facto leadership role beyond ICG Crisis Monitor reporting.
+- Walter 1997 application to interstate-war-with-asymmetric-stakes (currently inferential generalization).
+- Cross-case Goemans validation beyond the Soleimani-Khamenei differential (would benefit from Iran-Iraq War 1980-88, Vietnam 1973-75, Korea 1953 — none currently in corpus).
+
+```{=html}
+</div>
+```

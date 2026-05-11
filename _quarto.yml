@@ -66,6 +66,8 @@ website:
         - analyses/index.qmd
         - text: "Q1 — Why bargaining failed"
           href: analyses/q1-why-bargaining-failed.qmd
+        - text: "Q2 — Why the war has persisted"
+          href: analyses/q2-war-persistence.qmd
         - text: "Q5 — Is the bargaining range empty?"
           href: analyses/q5-bargaining-range.qmd
         - text: "Q7 — Russia in Ukraine"
