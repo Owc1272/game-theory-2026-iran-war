@@ -31,7 +31,7 @@ This page collects ~8,500 country-year-metric rows across 18 countries (15 Middl
 
 The dataset has known gaps the page handles gracefully: 2025-2026 figures are sparse for non-energy metrics (only SIPRI extends to 2025); 2026 has zero rows for population and GDP (so picking those metrics will show data ending 2024-2025). Russia 1979-1991 uses USSR aggregates. Iran 2019-2026 GDP figures use the official rial rate and likely overstate real-dollar GDP (T3 marked). Syria post-2011 and Yemen post-2014 carry wide uncertainty (also T3). The chart will show line gaps where data is missing rather than zero-fill.
 
-A planned Phase-2 layer will add a separate map (Figure 3) showing 2026-war-and-precursor strike events with US/Israel attribution. Not in this version.
+A standalone map (Figure 3, below) shows 2026-war-and-precursor strike events with toggleable attribution (US / Israel / Both / Iran / unknown), independent date range, and event-cluster bubbles sized by strike count. Independent of Figures 1 and 2.
 :::
 
 ::: {.bottom-line}
@@ -53,7 +53,7 @@ A planned Phase-2 layer will add a separate map (Figure 3) showing 2026-war-and-
 
 **Aggregation over time on the map.** The map color encodes either the *sum* (for flow metrics like oil exports) or the *mean* (for stock metrics like population, GDP per capita, percentages) over the selected time range. Toggle "Sync map with chart" off to give the map its own time range — useful for comparing a chart-period story against a map-period baseline.
 
-**Phase 2 — bombing intensity overlay (forthcoming).** A separate map (Figure 3) will add 2026-war-and-precursor strike events to the page, with US/Israel attribution toggleable independently of Figure 2. Drawn from ACLED + ISW + project corpus + IDF/DOD press releases. Not in this version.
+**Bombing intensity (Figure 3).** A standalone map shows 257 distinct strike-or-cluster events from Oct 2023 through May 2026, drawn from ACLED, ISW, project corpus on Stage 0 + Twelve-Day War + 2026 strikes, plus IDF and DOD/CENTCOM press releases. Each row carries an attribution (US, Israel, US+Israel, Iran for retaliation events, or unknown) and a tier mark. The strike map's controls are fully independent of Figure 1 and Figure 2 — own date range, own attribution filter, own bubble-size choice. The shared Mercator projection makes the two maps visually comparable when stacked.
 :::
 
 ```{=html}
@@ -361,6 +361,181 @@ viewof mapLinked = Inputs.toggle({
 }
 ```
 
+## Figure 3 — Bombing-intensity map (independent)
+
+A standalone map of 257 distinct strike-or-cluster events from Oct 2023 through May 2026. Independent of Figures 1 and 2 — own controls below.
+
+```{ojs}
+//| echo: false
+strikes = FileAttachment("../data/strike-events.csv").csv({typed: true})
+```
+
+```{ojs}
+//| echo: false
+allAttributions = ["Israel", "US", "US+Israel", "Iran", "unknown"]
+```
+
+```{ojs}
+//| echo: false
+attributionColor = ({
+  "Israel":    "#0969da",
+  "US":        "#cf222e",
+  "US+Israel": "#8250df",
+  "Iran":      "#fb8500",
+  "unknown":   "#888888"
+})
+```
+
+```{ojs}
+viewof selectedAttributions = Inputs.checkbox(allAttributions, {
+  label: "Strike attribution (default: all)",
+  value: allAttributions
+})
+```
+
+```{ojs}
+viewof strikeStartDate = Inputs.date({
+  label: "Strike date — earliest",
+  value: new Date("2023-10-01"),
+  min: new Date("2023-10-01"),
+  max: new Date("2026-05-31")
+})
+```
+
+```{ojs}
+viewof strikeEndDate = Inputs.date({
+  label: "Strike date — latest",
+  value: new Date("2026-05-31"),
+  min: new Date("2023-10-01"),
+  max: new Date("2026-05-31")
+})
+```
+
+```{ojs}
+viewof bubbleSizeBy = Inputs.radio(["event_count", "severity"], {
+  label: "Bubble size",
+  value: "event_count"
+})
+```
+
+```{ojs}
+//| label: fig-strike-map
+//| fig-cap: "Strike events Oct 2023 — May 2026, plotted at approximate lat/lon. Bubble color = attribution; bubble size = event count or severity (toggle above). Hover for date, target, attribution, and source. Map uses the same Mercator projection as Figure 2 for visual consistency."
+
+{
+  // Helper: parse event_count strings like "1", "~10", "~30"
+  const parseCount = (s) => {
+    if (s == null || s === "") return 1;
+    const cleaned = String(s).replace(/^~/, "").trim();
+    const n = parseInt(cleaned, 10);
+    return isNaN(n) ? 1 : n;
+  };
+
+  // Helper: severity to numeric
+  const severityNum = { low: 1, medium: 2, high: 3, unknown: 1 };
+
+  const lo = strikeStartDate;
+  const hi = strikeEndDate;
+
+  const filteredStrikes = strikes.filter(d => {
+    const dt = (d.date instanceof Date) ? d.date : new Date(d.date);
+    return selectedAttributions.includes(d.attributed_source)
+      && dt >= lo
+      && dt <= hi;
+  });
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 12 : Math.max(13, Math.min(16, Math.round(width / 75)));
+
+  // Fit-domain: countries in the filtered strike set, fall back to all strike-affected countries
+  const strikeCountries = new Set(filteredStrikes.map(d => d.country));
+  let fitFeatures = geo.features.filter(f => strikeCountries.has(f.properties.name));
+  if (fitFeatures.length === 0) {
+    // No strikes match — fall back to Middle East-focused
+    fitFeatures = geo.features.filter(f =>
+      ["Iran", "Iraq", "Saudi Arabia", "Yemen", "Lebanon", "Israel", "Syria", "Egypt"].includes(f.properties.name)
+    );
+  }
+  const fitDomain = { type: "FeatureCollection", features: fitFeatures };
+
+  if (filteredStrikes.length === 0) {
+    return html`<div style="padding:2em;text-align:center;color:#666;font-size:${baseFont}px;">
+      No strike events match the current attribution + date filters. Re-check at least one attribution above and widen the date range.
+    </div>`;
+  }
+
+  // Bubble radius scaler
+  const sizeFn = bubbleSizeBy === "event_count"
+    ? (d) => Math.sqrt(parseCount(d.event_count)) * 1.6 + 3
+    : (d) => (severityNum[d.severity] || 1) * 4 + 3;
+
+  return Plot.plot({
+    width,
+    height: isMobile ? 360 : 540,
+    projection: {
+      type: "mercator",
+      domain: fitDomain
+    },
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    color: {
+      type: "categorical",
+      domain: allAttributions,
+      range: allAttributions.map(a => attributionColor[a]),
+      legend: true,
+      label: "Strike attribution"
+    },
+    marks: [
+      // Base map: faint country outlines
+      Plot.geo(geo, {
+        fill: "#f5f5f5",
+        stroke: "#cccccc",
+        strokeWidth: 0.5
+      }),
+      // Strike bubbles (jittered slightly to reduce overlap at exact city centroids)
+      Plot.dot(filteredStrikes, {
+        x: "lon",
+        y: "lat",
+        r: sizeFn,
+        fill: "attributed_source",
+        stroke: "white",
+        strokeWidth: 0.8,
+        fillOpacity: 0.65,
+        title: d => {
+          const dateStr = (d.date instanceof Date)
+            ? d.date.toISOString().slice(0, 10)
+            : d.date;
+          return `${dateStr} — ${d.country}, ${d.region}\n` +
+                 `Target: ${d.target_description}\n` +
+                 `Type: ${d.target_type} · Attribution: ${d.attributed_source} · Severity: ${d.severity}\n` +
+                 `Events in cluster: ${d.event_count} · Source: ${d.source_id} (${d.tier})`;
+        }
+      }),
+      // Country labels for the most strike-heavy countries
+      Plot.text(
+        geo.features.filter(f =>
+          ["Iran", "Iraq", "Saudi Arabia", "Yemen", "Lebanon", "Israel", "Syria"].includes(f.properties.name)
+          && strikeCountries.has(f.properties.name)
+        ),
+        {
+          x: d => d3.geoCentroid(d)[0],
+          y: d => d3.geoCentroid(d)[1],
+          text: d => d.properties.name,
+          fontSize: Math.max(9, baseFont - 2),
+          fontWeight: 600,
+          fill: "#444",
+          stroke: "white",
+          strokeWidth: 2,
+          dy: -8
+        }
+      )
+    ]
+  });
+}
+```
+
 ```{=html}
 <div class="data-sources" style="margin-top:2em;padding-top:1em;border-top:1px solid #ddd;font-size:0.82em;color:#555;line-height:1.6;">
   <strong>Data sources</strong> &nbsp;<span style="color:#888;">(hover for full citation)</span>
@@ -374,7 +549,17 @@ viewof mapLinked = Inputs.toggle({
   <span title="Stockholm International Peace Research Institute, Military Expenditure Database 1949-2025 v1.2 (April 2026), DOI 10.55163/CQGC9685, sipri.org/databases/milex. Used for military spending in current USD and as a share of GDP." style="text-decoration: underline dotted; cursor: help;">SIPRI-MILEX-2024</span> ·
   <span title="IMF, World Economic Outlook October 2024 (imf.org/en/Publications/WEO). Listed as the cross-validation source for GDP and as the canonical 2025-2026 projection anchor; cited as the methodological reference even where the value is sourced from World Bank or SIPRI." style="text-decoration: underline dotted; cursor: help;">IMF-WEO-2024-Oct</span> ·
   <span title="Internal project database (Iran_war/output/oil_gas_db/database.csv) aggregating IEA, Kpler, Reuters, Bloomberg sources for 2024-2026 oil and gas production and export detail at country and field level." style="text-decoration: underline dotted; cursor: help;">PROJ-DB</span>
+  <br/><br/>
+  <strong>Strike-events sources (Figure 3)</strong> &nbsp;<span style="color:#888;">(hover for full citation)</span>
   <br/>
-  <span style="color:#888;">Source-tier marks (T1 / T2 / T3 / T4) are visible in chart tooltips. T1 = multi-source verified within ~5%; T2 = single named authoritative source; T3 = derived inference (used for sanctions-distorted Iran 2019+ GDP, Russia/USSR aggregates pre-1992, Syria/Yemen civil-war years); T4 = rough estimate or war-period flux. Missing year-country cells are blank rather than zero-filled — Lebanon and Jordan disappear from energy metrics; 2025-2026 data thins for non-energy metrics.</span>
+  <span title="Armed Conflict Location and Event Data Project (ACLED), acleddata.com, academic-licensed event database with lat/lon, attribution, fatality estimates. Used as cross-validation infrastructure behind multi-source-verified rows." style="text-decoration: underline dotted; cursor: help;">ACLED-2026</span> ·
+  <span title="Institute for the Study of War, Iran Project daily updates (understandingwar.org/project/iran-project), since June 2025. Used as cross-validation source for Stage-1 (Feb 2026 onward) strike attribution and target identification." style="text-decoration: underline dotted; cursor: help;">ISW-IRAN-2026</span> ·
+  <span title="Open-source intelligence verification: Bellingcat, GeoConfirmed, and other OSINT communities using satellite imagery and social-media verification. Used as backstop where formal attribution is delayed or contested." style="text-decoration: underline dotted; cursor: help;">OSINT-2026</span> ·
+  <span title="Israel Defense Forces Spokesperson press releases (various dates Oct 2023 — May 2026, idf.il). Primary-source attribution for Israeli-attributed strikes, with the caveat that selective publication patterns mean absence is not non-occurrence." style="text-decoration: underline dotted; cursor: help;">IDF-PR</span> ·
+  <span title="US Department of Defense / CENTCOM press releases (various dates Feb — May 2026, defense.gov + centcom.mil). Primary-source attribution for US-attributed strikes." style="text-decoration: underline dotted; cursor: help;">DOD-PR</span> ·
+  <span title="Wikipedia 2026 Iran war article and 8 related articles (en.wikipedia.org), used as a cited-source aggregator. Each strike event traceable through Wikipedia to underlying primary or wire sources." style="text-decoration: underline dotted; cursor: help;">WIKI-2026-IRAN</span> ·
+  <span title="Multi-source corroboration anchor: rows tagged 'multi' have at least two independent named sources concurring on date, location, and attribution within 24 hours of the event. Used for the highest-tier (T1) events." style="text-decoration: underline dotted; cursor: help;">multi</span>
+  <br/><br/>
+  <span style="color:#888;">Source-tier marks (T1 / T2 / T3 / T4) are visible in chart and map tooltips. T1 = multi-source verified within ~5% (or, for strikes, multi-source attribution within 24h); T2 = single named authoritative source; T3 = derived inference (used for sanctions-distorted Iran 2019+ GDP, Russia/USSR aggregates pre-1992, Syria/Yemen civil-war years, and inferred-attribution strike events); T4 = rough estimate or war-period flux. Missing year-country cells in Figures 1-2 are blank rather than zero-filled — Lebanon and Jordan disappear from energy metrics; 2025-2026 data thins for non-energy metrics. Figure 3 strike events do not include casualty figures (the underlying corpus is uneven on this dimension); attribution-as-`unknown` (gray) typically signals an Iranian/Houthi outbound retaliation strike where origin is not always public-source confirmed.</span>
 </div>
 ```

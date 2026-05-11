@@ -64,3 +64,55 @@ Stockholm International Peace Research Institute, *Military Expenditure Database
 - **Unemployment rate** begins in 1991 because the World Bank uses the modeled ILO series, which starts in 1991.
 - **2025-2026 demographics/wealth projections** are not present because the World Bank vintage stops at 2024 and the IMF WEO API was not reachable. The page should expect these cells to be empty for the new metrics; the energy metrics still have 2025-2026 values from EIA-STEO and PROJ-DB. SIPRI provides 2025 military spending values which are present in the CSV.
 - **2026 figures** for energy are necessarily provisional: the IEA OMR May edition releases 13 May 2026 and will revise the March-April actuals further. The CSV's 2026 rows should be treated as the best available snapshot as of 9 May 2026.
+
+---
+
+# Data sources for the Strike Events map (Figure 3)
+
+`strike-events.csv` is a separate long-format file: one row per distinct strike event or geographically-clustered same-day event group, covering October 2023 — May 2026. Each row carries `attributed_source` (US / Israel / US+Israel / Iran / unknown), `target_type` (10 categorical values), `severity`, `tier`, and `source_id`. Rows tagged with `attributed_source = unknown` and `target_type = other` are predominantly inverse-direction events (Iranian or Houthi retaliation strikes on US/Israeli/Gulf targets) included so the map can show two-way kinetic activity, not only Western strikes. Coverage is densest where the underlying corpus is densest: October 2024 Israeli campaign on Iranian air defenses, September 2024 Hezbollah decapitation, June 2025 Twelve-Day War, and the 28 February 2026 — May 2026 Iran war / Hormuz dual blockade phase. Coverage is sparser for routine strikes during the long October 2023 — September 2024 attrition phase in Lebanon and the routine US/UK Operation Poseidon Archer 2024 Yemen strikes — those rows aggregate sustained tempo rather than enumerating each strike.
+
+## ACLED 2026 Iran war event database (`ACLED-2026`)
+
+Armed Conflict Location & Event Data Project (ACLED), academic-licensed event database, accessed via Iran-2026 country page at acleddata.com (May 2026). Provides geocoded events with attribution, date, location, fatality estimates, and source citations for the 2026 Iran war and its Stage 0 precursors. ACLED's methodology aggregates wire-service, government, and OSINT reporting; events typically appear in the database within 5-10 days of occurrence. The strike-events CSV uses ACLED-2026 as the cross-validation anchor for event-existence (date and location) but does not lift fatality figures or precise lat/lon directly. ACLED's "17 Iranian warships destroyed" running total is conservative relative to CENTCOM's "60+ ships" claim; both figures are reflected in the corpus.
+
+## Institute for the Study of War — Iran Project (`ISW-IRAN-2026`)
+
+Institute for the Study of War, *Iran Update* daily series, published since June 2025 with continuous coverage from 28 February 2026, accessed at understandingwar.org/research/iran-project. Daily situation reports with maps, target descriptions, weapons systems identification, and assessment of operational tempo. ISW maps are the primary open-source tool for tracking specific dated strike clusters during the war (e.g. 7 May 2026 Bandar Abbas / Qeshm coast strikes, 4 May 2026 UAE Fujairah attack). ISW reporting is generally one named source — tagged T2 here unless corroborated by a second outlet within 24 hours.
+
+## Bellingcat / GeoConfirmed OSINT (`OSINT-2026`)
+
+Aggregate label for OSINT verification work by Bellingcat (bellingcat.com), GeoConfirmed (geoconfirmed.azurewebsites.net), and the loose community of geolocation analysts on X/Mastodon. Their work is the primary tool for verifying specific strike coordinates and weapons signatures. Used here as a cross-reference for lat/lon precision rather than as a primary attribution source. Where lat/lon in the CSV are precise to 2 decimal places near a named target (Natanz 32.78/51.51, Khorramabad 33.49/48.36), GeoConfirmed-equivalent OSINT is the underlying anchor; coordinates flagged at city-centroid level are intentionally left at that resolution.
+
+## IDF press releases (`IDF-PR-YYYY-MM`)
+
+Israel Defense Forces, Spokesperson's Unit press releases, accessed at idf.il/en/mini-sites/spokesperson and via the IDF X/Telegram feeds, various dates 2023-2026. Primary-source attribution for Israeli-claimed strikes. The IDF claims attribution for most named strikes within hours; non-attribution is itself a signal (e.g. the 2024 pager attack went publicly unclaimed for weeks). Where a row's `attributed_source` is `Israel` and the only cited source is IDF-PR, tier is T2; where IDF claim is matched by a Lebanese/Iranian state acknowledgment plus an independent wire (Reuters/AFP/AP) report within 24 hours, tier is T1 ("multi" listed as `source_id`).
+
+## DOD/CENTCOM press releases (`DOD-PR-YYYY-MM`)
+
+US Department of Defense + US Central Command (CENTCOM) press releases and operational updates, accessed at defense.gov/News/Releases and centcom.mil (the centcom.mil domain returned HTTP 403 for several attempts during the May 2026 research period; the project corpus relies on Pentagon-press-pool readouts via Reuters/AP/Bloomberg as a secondary channel). Used for primary-source attribution of US strikes. Specific operations cited: Operation Prosperity Guardian (Dec 2023 onward), Operation Poseidon Archer (Jan 2024 onward), Operation Rough Rider (Mar-May 2025), Operation Midnight Hammer (22 Jun 2025), Operation Epic Fury (28 Feb 2026 onward), Operation Project Freedom (4 May 2026 onward). Where a row's `attributed_source` includes `US` and the only cited source is DOD-PR, tier is T2.
+
+## Wikipedia 2026 Iran war article and cross-references (`WIKI-2026-IRAN`)
+
+Wikipedia, *2026 Iran war* article and related pages: *List of attacks during the 2026 Iran war*, *List of ships attacked during the 2026 Iran war*, *2026 Strait of Hormuz crisis*, *Operation Epic Fury*, *Operation Project Freedom*, *Twelve-Day War*, *October 2024 Israeli strikes on Iran*, *Israel–Hezbollah conflict (2023–present)*, *2025 Israeli attacks in Yemen*, en.wikipedia.org, accessed May 2026. Wikipedia is used as the primary aggregator for low-tempo events and as a route to underlying citations. Where a row cites WIKI-2026-IRAN as `source_id`, the underlying Wikipedia citations have generally been spot-checked but not fully traced; this is the basis for tier T2 (single named aggregator) on those rows.
+
+## Multi-source convention (`multi`)
+
+`source_id = multi` indicates that the event is corroborated by two or more named sources within the corpus, typically: an IDF/DOD primary-source claim, a wire-service report, and an independent OSINT verification. T1 tier requires at least two of these three legs; the convention is that `multi` is reserved for tier T1 events. The Iran_war project corpus at `C:/Claude/Projects/Iran_war/output/precursors/`, `C:/Claude/Projects/Iran_war/output/hormuz/`, `C:/Claude/Projects/Iran_war/output/israel_factions/`, and `C:/Claude/Projects/Iran_war/output/iran_factions/` (~250 underlying source pieces in total) is the working set. Where a `multi` row's specific underlying citations are needed, the project corpus INDEX files at those paths route to the named primary sources.
+
+---
+
+## Strike-events tier discipline (specific to `strike-events.csv`)
+
+- **T1** — multi-source primary attribution: IDF/DOD claim + wire-service report + OSINT/ISW corroboration within 24 hours. ~45% of rows. Examples: 27 Sep 2024 Nasrallah strike, 22 Jun 2025 Operation Midnight Hammer, 28 Feb 2026 opening Khamenei strike (the strike itself; specific Khamenei-killed claim is T2 per regime succession ambiguity), 4 Apr 2026 IRIS Dena torpedoing.
+- **T2** — single named source attribution: IDF press release alone, ISW reporting alone, or Wikipedia 2026 Iran war article alone. ~52% of rows. This is the modal tier and applies especially to (a) sustained low-tempo strikes during long campaigns where each individual strike is not separately newsworthy, (b) post-ceasefire-violation strikes that the IDF claims but receive limited Western media coverage, and (c) routine Iranian retaliation strikes on Gulf targets where attribution is acknowledged but specific weapon and lat/lon are not OSINT-verified.
+- **T3** — inferred attribution from open-source pattern: ~2% of rows. Used where a strike "fits the pattern" of an attributed actor's campaign but no specific claim exists. Example: late-September 2025 INSS-documented ceasefire violations (the strikes are documented but each is not individually attributed in primary IDF channels).
+- **T4** — uncertain: <1% of rows. Reserved for events that occurred but where attribution is genuinely disputed, or where the post-cutoff status of the data makes the event itself uncertain. Example: 17 Oct 2023 Al-Ahli Hospital blast (attribution disputed between IDF and PIJ); the 2026-04-15 Bushehr "context" row (event_count=0) flagging the politically-significant Russian-staff non-targeting decision.
+
+## Strike-events coverage gaps
+
+- **Routine Iraqi-militia strikes 2024-2025** are aggregated at the campaign level rather than enumerated; the Iran_war corpus has stronger Lebanon/Yemen/Iran coverage than Iraq/Syria.
+- **Mid-2024 to early-2025 Yemen US strikes (Operation Poseidon Archer)** are aggregated to ~7 monthly cluster rows; underlying ACLED detail is much denser.
+- **Sustained-attrition Israel-Hezbollah cross-border fires (Oct 2023 — Sept 2024)** are mostly captured by the ~10,200 cross-border-attack figure cited in the Iran_war corpus; the CSV aggregates these into a few large-event rows rather than enumerating ~10,000 micro-events.
+- **Specific casualty counts** are not in the CSV schema; the corpus aggregates total casualties at the operation level (1,100+ Iranian dead in 12-Day War, ~6,000 Lebanese dead by March 2025, etc).
+- **Post-Day-71 events (10 May 2026 onward)** are out of scope for this CSV vintage; the Iran_war corpus working date is 9-10 May 2026.
+- **Iran-aligned militia strikes in Iraq/Syria targeting US bases** (Tower 22 Jan 2024, etc.) are partially captured as inverse events; the underlying corpus has stronger US-strikes-on-them than them-strikes-on-US coverage.

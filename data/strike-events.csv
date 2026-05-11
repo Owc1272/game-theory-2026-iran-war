@@ -1,0 +1,258 @@
+date,lat,lon,country,region,attributed_source,target_type,target_description,event_count,severity,tier,source_id
+2023-10-08,33.10,35.34,Lebanon,Southern Lebanon border,Israel,proxy_lebanon,Israeli air/artillery response to Hezbollah opening cross-border fire,~30,medium,T1,multi
+2023-10-08,33.20,35.55,Israel,Northern Israel/Galilee,Israel,proxy_lebanon,Israeli return fire on Hezbollah positions inside Lebanon,~10,low,T2,WIKI-2026-IRAN
+2023-10-12,31.50,34.46,Israel,Gaza Strip,Israel,proxy_gaza,Initial IDF air campaign Gaza first 5 days,~6000,high,T1,multi
+2023-10-17,31.52,34.45,Israel,Gaza Strip - Al-Ahli Hospital,Israel,proxy_gaza,Al-Ahli Arab Hospital blast (attribution disputed),1,high,T4,WIKI-2026-IRAN
+2023-10-27,31.50,34.47,Israel,Gaza Strip,Israel,proxy_gaza,Ground operation begins; expanded air strikes North Gaza,~50,high,T1,multi
+2023-11-15,31.53,34.45,Israel,Gaza City - Al-Shifa,Israel,proxy_gaza,IDF raid Al-Shifa hospital complex,1,high,T2,WIKI-2026-IRAN
+2023-12-02,31.40,34.30,Israel,Khan Younis,Israel,proxy_gaza,IDF expands ground op to southern Gaza,~40,high,T2,WIKI-2026-IRAN
+2024-01-02,33.86,35.51,Lebanon,Beirut southern suburbs,Israel,proxy_lebanon,Saleh al-Arouri (Hamas deputy political chief) killed in Dahieh strike,1,high,T1,multi
+2024-01-08,33.10,35.30,Lebanon,Southern Lebanon,Israel,proxy_lebanon,Wissam al-Tawil (Radwan commander) killed,1,medium,T2,WIKI-2026-IRAN
+2024-02-14,33.27,35.20,Lebanon,Nabatieh district,Israel,proxy_lebanon,Cluster of strikes on Hezbollah infrastructure southern Lebanon,~10,medium,T2,IDF-PR-2024-02
+2024-04-01,33.51,36.27,Syria,Damascus - Iranian consulate annex,Israel,leadership,IRGC Brig Gen Mohammad Reza Zahedi (Quds Force Lebanon/Syria) + 6 IRGC officers,1,high,T1,multi
+2024-04-13,32.10,34.85,Israel,Central Israel and Golan,Israel,air_defense,Defensive interceptions of Iran Operation True Promise I (~300 missiles/drones),~300,high,T1,multi
+2024-04-19,32.55,51.66,Iran,Isfahan - Eighth Shekari Air Base,Israel,air_defense,30N6E2 Tomb Stone radar destroyed (S-300 component) - first Israeli strike on Iranian soil,1,low,T1,multi
+2024-05-19,33.86,35.51,Lebanon,Beirut southern suburbs,Israel,proxy_lebanon,Strike on Hezbollah operative residence,1,low,T2,IDF-PR-2024-05
+2024-06-12,33.10,35.34,Lebanon,Southern Lebanon,Israel,proxy_lebanon,Taleb Sami Abdullah (senior Hezbollah commander) killed,1,medium,T2,WIKI-2026-IRAN
+2024-07-20,14.79,42.95,Yemen,Hodeidah port,Israel,proxy_yemen,Israel's first acknowledged Yemen strike: oil tanks port infrastructure (response to Tel Aviv drone),~5,medium,T1,multi
+2024-07-27,33.27,35.77,Israel,Majdal Shams (Golan),unknown,other,Hezbollah-attributed Falaq-1 rocket strike on football pitch (12 children killed) - included as inverse-direction event,1,high,T1,multi
+2024-07-30,33.86,35.50,Lebanon,Beirut - Haret Hreik,Israel,proxy_lebanon,Fuad Shukr (Hezbollah strategic operations head) killed in Dahieh strike,1,high,T1,multi
+2024-07-31,35.70,51.40,Iran,Tehran,Israel,leadership,"Ismail Haniyeh (Hamas political chief) assassinated in IRGC guesthouse, Tehran",1,high,T1,multi
+2024-08-25,33.10,35.34,Lebanon,Southern Lebanon,Israel,proxy_lebanon,Pre-emptive strike on ~40 Hezbollah launch sites,~40,medium,T2,IDF-PR-2024-08
+2024-09-08,35.07,36.34,Syria,Masyaf,Israel,proxy_lebanon,IDF commando operation destroying Iranian missile manufacturing site (27 killed),1,medium,T1,multi
+2024-09-17,33.86,35.51,Lebanon,Beirut/southern Lebanon (cluster),Israel,proxy_lebanon,Pager attack: ~3000 wounded ~12 killed (covert kinetic operation),~3000,high,T1,multi
+2024-09-18,33.86,35.51,Lebanon,Beirut/southern Lebanon (cluster),Israel,proxy_lebanon,Walkie-talkie second wave,~450,medium,T1,multi
+2024-09-20,33.85,35.50,Lebanon,Beirut Dahieh,Israel,proxy_lebanon,Ibrahim Aqil (Radwan Force commander) + 14 commanders killed,1,high,T1,multi
+2024-09-23,33.20,35.50,Lebanon,Lebanon-wide,Israel,proxy_lebanon,Operation Northern Arrows opens; ~700 killed first day; 3 wave campaign,~1500,high,T1,multi
+2024-09-25,34.00,36.28,Lebanon,Bekaa Valley,Israel,proxy_lebanon,Bekaa Valley missile/rocket warehouses,~50,high,T2,IDF-PR-2024-09
+2024-09-27,33.85,35.49,Lebanon,Beirut - Haret Hreik,Israel,proxy_lebanon,"Hassan Nasrallah killed in HQ strike (80+ bombs); Karaki, Nilforoushan also killed",1,high,T1,multi
+2024-09-28,33.86,35.51,Lebanon,Beirut southern suburbs,Israel,proxy_lebanon,Continuing strikes targeting Hezbollah successor leadership,~40,high,T2,WIKI-2026-IRAN
+2024-10-01,32.10,34.85,Israel,Central Israel,Israel,air_defense,Defensive interceptions of Iran Operation True Promise II (~180 ballistic missiles),~180,high,T1,multi
+2024-10-01,33.20,35.55,Lebanon,Southern Lebanon,Israel,proxy_lebanon,Israeli ground invasion of southern Lebanon begins (5 divisions),~30,high,T1,multi
+2024-10-04,33.86,35.51,Lebanon,Beirut Dahieh,Israel,proxy_lebanon,Hashem Safieddine (Nasrallah designated successor) killed in strike,1,high,T1,multi
+2024-10-16,15.37,44.19,Yemen,Sanaa-Saada area,US,proxy_yemen,B-2 stealth bombers strike 5 hardened underground Houthi sites (first B-2 use since 2017),5,high,T1,multi
+2024-10-26,35.69,51.39,Iran,Tehran (Parchin/Khojir),Israel,air_defense,Operation Days of Repentance Wave 1: Parchin Taleghan-2 + Khojir solid-propellant production,~12,high,T1,multi
+2024-10-26,35.42,51.16,Iran,Imam Khomeini Intl Airport area,Israel,air_defense,S-300PMU-2 battery destroyed at IKIA,1,medium,T1,multi
+2024-10-26,30.36,48.30,Iran,Abadan,Israel,air_defense,S-300 battery destroyed at Abadan oil refinery air-defense site,1,medium,T1,multi
+2024-10-26,30.41,49.07,Iran,Bandar Imam Khomeini,Israel,air_defense,S-300 battery destroyed at petrochemical port,1,medium,T1,multi
+2024-10-26,34.60,47.20,Iran,Tang-eh Bijar,Israel,air_defense,S-300 battery destroyed at gas field,1,medium,T1,multi
+2024-10-26,36.42,55.33,Iran,Shahroud,Israel,missile_program,Shahroud Space Center / IRGC missile facility,1,medium,T2,WIKI-2026-IRAN
+2024-10-26,32.42,48.69,Iran,Ahvaz,Israel,air_defense,Ghadir long-range early-warning radar destroyed,1,medium,T1,multi
+2024-10-26,33.64,46.42,Iran,Ilam,Israel,air_defense,Ghadir long-range early-warning radar destroyed,1,medium,T1,multi
+2024-10-26,33.51,36.27,Syria,Damascus area,Israel,air_defense,Coordinated strikes on Syrian air-defense radars supporting Iran flight path,~5,low,T2,IDF-PR-2024-10
+2024-10-26,33.31,44.36,Iraq,Western Iraq,Israel,air_defense,Coordinated strikes on Iraq Iran-aligned militia radar/launcher sites,~3,low,T3,WIKI-2026-IRAN
+2024-11-12,33.85,35.50,Lebanon,Beirut southern suburbs,Israel,proxy_lebanon,Pre-ceasefire surge strikes on Hezbollah remnant leadership,~25,medium,T2,IDF-PR-2024-11
+2024-11-26,34.20,36.34,Lebanon,Janta - eastern Bekaa,Israel,proxy_lebanon,Janta underground precision-missile factory destroyed (1.4km tunnel complex),1,high,T1,multi
+2024-12-02,34.00,36.28,Lebanon,Bekaa Valley,Israel,proxy_lebanon,Strike on Hezbollah missile manufacturing facility (post-ceasefire violation pattern begins),1,medium,T2,IDF-PR-2024-12
+2024-12-26,15.37,44.19,Yemen,Sanaa Intl Airport,Israel,proxy_yemen,Operation Tzelilei HaKerem: Sanaa Intl Airport (Tedros incident),1,high,T1,multi
+2024-12-26,15.30,44.10,Yemen,Sanaa - Hezyaz power station,Israel,proxy_yemen,Hezyaz power station,1,medium,T2,IDF-PR-2024-12
+2024-12-26,14.79,42.95,Yemen,Hodeidah/Salif/Ras Isa ports,Israel,proxy_yemen,Coordinated multi-port infrastructure strike,~3,medium,T1,multi
+2024-12-26,14.95,42.83,Yemen,Ras Kanatib power station,Israel,proxy_yemen,Power station Hodeidah governorate,1,low,T2,IDF-PR-2024-12
+2025-01-15,33.50,35.65,Lebanon,Border crossings (Jousiya/Arida),Israel,proxy_lebanon,Strike on Syrian-Lebanon border weapons-smuggling routes,~5,low,T2,IDF-PR-2025-01
+2025-02-10,34.20,36.30,Lebanon,Bekaa Valley,Israel,proxy_lebanon,Continued post-ceasefire strikes on missile manufacturing facilities,~8,low,T2,IDF-PR-2025-02
+2025-02-25,33.40,35.50,Lebanon,Shebaa Farms,Israel,proxy_lebanon,Radwan tunnel destroyed with weapons caches,1,low,T2,IDF-PR-2025-02
+2025-03-15,15.37,44.19,Yemen,Sanaa,US,proxy_yemen,Operation Rough Rider opens: F/A-18s + B-2s strike Sanaa governorate,~25,medium,T1,multi
+2025-03-15,16.95,43.76,Yemen,Saada,US,proxy_yemen,Operation Rough Rider strikes on Saada Houthi heartland,~15,medium,T1,multi
+2025-03-15,14.79,42.95,Yemen,Hodeidah,US,proxy_yemen,Operation Rough Rider strikes on weapons storage Al Hudaydah,~20,medium,T1,multi
+2025-03-22,15.37,44.19,Yemen,Sanaa - leadership compounds,US,proxy_yemen,Houthi leadership compound strikes (Signalgate operation),~10,medium,T1,multi
+2025-04-17,14.79,42.95,Yemen,Ras Issa fuel port,US,proxy_yemen,Ras Issa fuel terminal strike (most controversial: ~80 killed Houthi-claimed),1,high,T2,DOD-PR-2025-04
+2025-04-25,15.30,44.20,Yemen,Sanaa governorate,US,proxy_yemen,Continued sustained strikes on radar/AD installations,~30,medium,T2,DOD-PR-2025-04
+2025-05-06,15.37,44.19,Yemen,Sanaa Intl Airport + al-Dailami AB,Israel,proxy_yemen,20 IAF jet response to Ben Gurion missile: airport + 3 airliners + power,~10,high,T1,multi
+2025-05-11,14.79,42.95,Yemen,"Hodeidah, Ras Isa, Salif ports",Israel,proxy_yemen,Multi-port arms-shipment infrastructure strike,~3,medium,T1,multi
+2025-05-16,14.79,42.95,Yemen,Hodeidah/Salif,Israel,proxy_yemen,15 IAF jets drop 30 munitions on port infrastructure,~2,medium,T1,multi
+2025-05-28,15.37,44.19,Yemen,Sanaa Intl Airport,Israel,proxy_yemen,Last operational Yemenia airliner destroyed,1,low,T2,IDF-PR-2025-05
+2025-06-10,14.79,42.95,Yemen,Hodeidah port,Israel,proxy_yemen,Israeli Navy first acknowledged Yemen strike (Sa'ar 6 corvettes),1,medium,T2,IDF-PR-2025-06
+2025-06-13,35.70,51.40,Iran,Tehran (residences),Israel,leadership,"Operation Red Wedding/Narnia: 30+ generals killed (Bagheri, Salami, Hajizadeh, Rashid)",~30,high,T1,multi
+2025-06-13,35.70,51.40,Iran,Tehran (residences),Israel,nuclear,"~14 nuclear scientists killed in homes (Abbasi, Tehranchi, etc)",~14,high,T1,multi
+2025-06-13,32.78,51.51,Iran,Natanz,Israel,nuclear,Operation Rising Lion: PFEP destroyed; above-ground infrastructure,1,high,T1,multi
+2025-06-13,32.66,51.67,Iran,Isfahan,Israel,nuclear,UCF + Fuel Plate Fabrication Plant damaged,1,high,T1,multi
+2025-06-13,34.39,49.24,Iran,Fordow,Israel,nuclear,Initial Israeli strike on Fordow (limited damage; awaited US MOPs),1,medium,T1,multi
+2025-06-13,34.99,50.84,Iran,Khondab/Arak,Israel,nuclear,Heavy water reactor containment building struck,1,medium,T2,WIKI-2026-IRAN
+2025-06-13,35.50,51.50,Iran,Khojir/Parchin,Israel,missile_program,Missile production sites Tehran environs (continuation of Oct 2024 campaign),~10,high,T1,multi
+2025-06-13,35.70,51.40,Iran,Tehran,Israel,leadership,IRIB state TV studio struck on-air,1,medium,T1,multi
+2025-06-14,33.49,48.36,Iran,Khorramabad - Imam Ali base,Israel,missile_program,Underground IRGC missile base struck (~1/3 long-range TELs claim),1,high,T1,multi
+2025-06-15,32.10,34.85,Israel,Bat Yam/Rehovot,unknown,other,Iranian/Houthi missile salvo: 9 killed Bat Yam residential building (inverse event),~3,high,T1,multi
+2025-06-16,32.79,35.04,Israel,Haifa - Bazan refinery,unknown,economic_infra,Iranian missile strike on Haifa refinery (3 killed - inverse event),1,high,T1,multi
+2025-06-16,35.70,51.40,Iran,Tehran (ministries),Israel,leadership,Foreign Ministry + Justice + Intelligence ministries struck,~3,medium,T2,IDF-PR-2025-06
+2025-06-16,35.70,51.40,Iran,Shahran oil depot Tehran,Israel,economic_infra,Shahran oil depot,1,medium,T2,IDF-PR-2025-06
+2025-06-16,35.59,51.42,Iran,Shahr Rey refinery,Israel,economic_infra,Shahr Rey refinery,1,medium,T2,IDF-PR-2025-06
+2025-06-22,34.39,49.24,Iran,Fordow,US,nuclear,Operation Midnight Hammer: 12 GBU-57 MOPs from 6 B-2s (first MOP combat use),12,high,T1,multi
+2025-06-22,32.78,51.51,Iran,Natanz,US,nuclear,Operation Midnight Hammer: 2 MOPs + Tomahawks,~5,high,T1,multi
+2025-06-22,32.66,51.67,Iran,Isfahan,US,nuclear,Operation Midnight Hammer: ~30 Tomahawks from USS Georgia SSGN,~25,high,T1,multi
+2025-06-23,25.12,51.31,Qatar,Al Udeid Air Base,unknown,other,Iran retaliation: 14 IRBMs at Al Udeid (advance warning - inverse event),~14,medium,T1,multi
+2025-06-23,35.74,51.46,Iran,Tehran - Evin Prison,Israel,leadership,Evin Prison gate strike,1,medium,T2,WIKI-2026-IRAN
+2025-06-24,31.25,34.79,Israel,Beersheba,unknown,other,Final Iranian missile strike of war (4 killed - inverse event),1,medium,T1,multi
+2025-07-15,15.37,44.19,Yemen,Sanaa,Israel,proxy_yemen,Continued post-Twelve-Day-War strikes Houthi infrastructure,~5,low,T2,IDF-PR-2025-07
+2025-08-28,15.37,44.19,Yemen,Sanaa - residence,Israel,leadership,Houthi PM Ahmed al-Rahawi + ministers killed in residence strike,1,high,T1,multi
+2025-09-10,16.50,45.20,Yemen,Al Jawf governorate,Israel,proxy_yemen,Strikes on Houthi military camps (~35 killed - heaviest single strike),~5,medium,T2,WIKI-2026-IRAN
+2025-09-25,15.37,44.19,Yemen,Sanaa,Israel,proxy_yemen,Continued sustained strikes through October,~10,low,T2,IDF-PR-2025-09
+2025-10-15,33.20,35.50,Lebanon,Southern Lebanon,Israel,proxy_lebanon,Continued post-ceasefire violation strikes,~12,low,T2,IDF-PR-2025-10
+2025-12-15,34.20,36.30,Lebanon,Bekaa Valley,Israel,proxy_lebanon,Late-2025 strikes on Hezbollah residual infrastructure,~8,low,T2,IDF-PR-2025-12
+2026-02-28,35.69,51.39,Iran,Tehran - Khamenei compound,US+Israel,leadership,"Operation Epic Fury/Roaring Lion opens: Khamenei assassination strike, IRGC HQ",1,high,T1,multi
+2026-02-28,35.70,51.40,Iran,Tehran - government district,US+Israel,leadership,Coordinated strikes on senior Iranian political leadership residences/offices,~20,high,T1,multi
+2026-02-28,32.78,51.51,Iran,Natanz,US+Israel,nuclear,"Repeat MOP strikes on Natanz, more comprehensive than June 2025",~10,high,T1,multi
+2026-02-28,34.39,49.24,Iran,Fordow,US+Israel,nuclear,Repeat MOP strikes on Fordow,~5,high,T1,multi
+2026-02-28,32.66,51.67,Iran,Isfahan/Esfahan,US+Israel,nuclear,Esfahan tunnel chicane barriers + UCF additional strikes,~5,high,T1,multi
+2026-02-28,33.10,55.50,Iran,Pickaxe Mountain (Kuh-e Kolang Gaz La),US+Israel,nuclear,Strike on suspected new third enrichment facility (Pickaxe Mountain),1,high,T2,WIKI-2026-IRAN
+2026-02-28,33.49,48.36,Iran,Khorramabad missile base,US+Israel,missile_program,Underground tunnel destroyed at Khorramabad,1,high,T1,multi
+2026-02-28,25.40,57.30,Iran,Konarak naval base,US+Israel,other,Konarak air base hangar destruction + runway cratering,1,high,T1,multi
+2026-02-28,29.49,60.86,Iran,Chabahar naval base,US,other,IRIS Jamaran (Moudge-class frigate) sunk in port,1,high,T1,multi
+2026-02-28,25.43,60.41,Iran,Konarak naval base,US,other,IRIS Bayandor + IRIS Naghdi (Bayandor-class corvettes) sunk,2,high,T1,multi
+2026-02-28,32.10,34.85,Israel,Central Israel,unknown,other,Iranian missile retaliation begins (hundreds of drones+missiles - inverse event),~300,high,T1,multi
+2026-03-01,24.46,54.37,United Arab Emirates,Mina Saqr/Ras Al-Khaimah area,unknown,other,Hercules Star + MKD Vyom + Skylight tankers struck (multiple flag-state),~3,medium,T2,WIKI-2026-IRAN
+2026-03-01,35.70,51.40,Iran,Tehran missile-launch sites,US+Israel,missile_program,Sustained Day-2 strikes on missile launchers/TELs,~50,high,T1,multi
+2026-03-02,26.05,50.55,Bahrain,Sitra/Manama port,unknown,other,Stena Imperative tanker struck twice at Bahrain port (1 worker killed),1,medium,T2,WIKI-2026-IRAN
+2026-03-03,27.18,56.27,Iran,Persian Gulf - Bandar Abbas approach,US,other,IRGCN Soleimani-class corvette IRIS Shahid Soleimani sunk,1,high,T1,multi
+2026-03-04,29.34,48.07,Kuwait,Mubarak Al Kabeer Port,unknown,other,Sonangol Namibe (Bahamas-flagged tanker) sea-drone strike (800+ km from strait),1,medium,T2,WIKI-2026-IRAN
+2026-03-04,26.50,56.50,Iran,Strait of Hormuz,unknown,other,Safeen Prestige (Malta container ship) struck/abandoned,1,medium,T2,WIKI-2026-IRAN
+2026-03-05,32.66,51.67,Iran,Esfahan,US+Israel,nuclear,Continued strikes on Esfahan tunnel approaches,~5,medium,T2,DOD-PR-2026-03
+2026-03-06,26.50,56.50,Iran,Strait of Hormuz,unknown,other,Mussafah 2 (UAE tugboat) sunk by 2 missiles (3-4 dead),1,medium,T2,WIKI-2026-IRAN
+2026-03-08,32.10,34.85,Israel,Central Israel,unknown,other,Continuing Iranian missile barrages first 10 days,~100,high,T1,multi
+2026-03-10,27.20,56.30,Iran,Persian Gulf,US,other,Mass naval strike: 16 minelayers + Tondar FAC + Khadir-class sub destroyed,~20,high,T1,multi
+2026-03-10,27.20,56.30,Iran,Persian Gulf,US,other,IRIS Shahid Sayad Shirazi (Soleimani-class corvette) set ablaze,1,high,T1,multi
+2026-03-10,23.30,57.50,Oman,Off Oman coast,unknown,other,Mayuree Naree (Thai bulk carrier) attacked (3 missing),1,medium,T2,WIKI-2026-IRAN
+2026-03-11,29.30,47.93,Kuwait,Camp Arifjan,unknown,other,Iran 37th wave: 2 missiles at Camp Arifjan US base (inverse event),~2,medium,T1,multi
+2026-03-11,26.07,50.61,Bahrain,5th Fleet HQ Manama,unknown,other,Iran 37th wave: 4 missiles at US 5th Fleet HQ; civilian casualties Manama,~4,high,T1,multi
+2026-03-11,22.50,53.50,Saudi Arabia,Shaybah oilfield,unknown,economic_infra,5 Iranian drones at Shaybah oilfield (Empty Quarter) - intercepted (inverse event),~5,medium,T1,multi
+2026-03-11,26.50,50.10,Bahrain,Ma'ameer facility,unknown,economic_infra,Drone strike caused fire at Ma'ameer facility,1,medium,T2,WIKI-2026-IRAN
+2026-03-11,25.27,55.30,United Arab Emirates,Dubai vicinity,unknown,other,2 drones fell near Dubai airport (4 wounded),~2,low,T2,WIKI-2026-IRAN
+2026-03-12,26.50,56.50,Iran,Strait of Hormuz,unknown,other,Iranian USVs hit Safesea Vishnu/Zefyros/Mayuree Naree/ONE Majesty/Star Gwyneth (~6 vessels),~6,medium,T2,WIKI-2026-IRAN
+2026-03-15,32.78,51.51,Iran,Natanz,US+Israel,nuclear,Continued strikes on Natanz approaches,~3,medium,T2,DOD-PR-2026-03
+2026-03-18,25.50,56.50,United Arab Emirates,East of Khor Fakkan,unknown,other,Parimal (Palau chemical tanker) struck (captain missing),1,medium,T2,WIKI-2026-IRAN
+2026-03-20,35.70,51.40,Iran,Tehran command centers,US+Israel,leadership,Sustained strikes on command-and-control nodes; ISR sites,~30,high,T2,DOD-PR-2026-03
+2026-03-24,25.92,51.55,Qatar,Ras Laffan LNG,unknown,economic_infra,QatarEnergy declares force majeure on 12.8 Mtpa following Ras Laffan strike,1,high,T1,multi
+2026-03-26,27.20,56.30,Iran,Persian Gulf,US+Israel,leadership,IRGCN commander Tangsiri killed in strike,1,high,T1,multi
+2026-03-27,27.20,55.00,Iran,Strait of Hormuz coast (cluster),Iran,other,Iran formally announces strait closure to US/Israel/allied ports (inverse event),1,medium,T2,WIKI-2026-IRAN
+2026-03-30,33.49,48.36,Iran,Khorramabad,US+Israel,missile_program,Continued strikes on missile production infrastructure,~5,medium,T2,DOD-PR-2026-03
+2026-04-01,35.70,51.40,Iran,Tehran,US+Israel,leadership,Continued political/military command strikes,~15,medium,T2,DOD-PR-2026-04
+2026-04-04,06.93,79.85,Iran,Off Sri Lanka,US,other,IRIS Dena (Moudge-class frigate) torpedoed by USS Charlotte (104 KIA),1,high,T1,multi
+2026-04-08,32.10,34.85,Israel,Central Israel,unknown,other,Pakistan-brokered ceasefire begins (Iranian retaliatory tempo declines),1,medium,T1,multi
+2026-04-09,21.40,39.10,Saudi Arabia,East-West Pipeline pumping station,unknown,economic_infra,Iranian drone attack on Saudi Petroline pumping station (-700 kb/d),1,high,T1,multi
+2026-04-11,26.50,56.50,Iran,Strait of Hormuz,US,other,US destroyers enter Strait first time since war began (mine clearance ops),1,medium,T2,WIKI-2026-IRAN
+2026-04-13,27.20,55.00,Iran,Iranian ports,US,economic_infra,US naval blockade implementation: prevention of ships entering/exiting Iranian ports,1,high,T1,multi
+2026-04-19,24.50,57.50,Iran,Gulf of Oman,US,other,USS Spruance disables Touska with 9 inert 5-inch shells; 31st MEU boards,1,medium,T1,multi
+2026-04-20,12.00,76.00,Iran,Off southern India,US,economic_infra,Dorena (Iranian supertanker) seized,1,low,T2,DOD-PR-2026-04
+2026-04-21,15.00,72.00,Iran,Indian Ocean,US,economic_infra,Tifani (1.9M bbl/$171M Iranian supertanker) seized,1,medium,T1,multi
+2026-04-22,15.00,72.00,Iran,Indian Ocean,US,economic_infra,Majestic X (Guyana-flagged Iranian oil tanker) seized,1,low,T2,DOD-PR-2026-04
+2026-04-22,23.30,57.50,Oman,Off Oman,unknown,other,Epaminondas (Greek-owned) attacked + MSC Francesca captured by IRGC,2,medium,T2,WIKI-2026-IRAN
+2026-04-24,27.20,56.30,Iran,Persian Gulf,US,economic_infra,Unknown Iranian oil tanker captured by USS Rafael Peralta,1,low,T2,DOD-PR-2026-04
+2026-04-25,16.00,60.00,Iran,Arabian Sea,US,economic_infra,Sevan (Panama-flag propane/butane carrier) captured by USS Pinckney,1,low,T2,DOD-PR-2026-04
+2026-05-04,25.30,56.50,United Arab Emirates,Fujairah Petroleum Industries Zone,unknown,economic_infra,Iranian drone igniting large fire at Fujairah refinery (3 injured),1,high,T1,multi
+2026-05-04,25.30,56.50,United Arab Emirates,Fujairah - Strait of Hormuz,unknown,other,12 BM + 3 CM + 4 drones at UAE; Barakah ADNOC tanker drone strike,~21,high,T1,multi
+2026-05-04,26.00,56.20,Iran,Persian Gulf,US,other,Six Iranian fast attack craft sunk by AH-64 Apaches + MH-60 Seahawks,6,high,T1,multi
+2026-05-04,25.10,55.30,United Arab Emirates,~36nm N of Dubai,unknown,other,HMM Namu (S Korean-flag) struck by Iranian missile (Trump cited damage),1,medium,T2,WIKI-2026-IRAN
+2026-05-06,24.50,57.50,Iran,Gulf of Oman,US,other,F/A-18 from CSG-9 disables M/T Hasna rudder,1,medium,T2,WIKI-2026-IRAN
+2026-05-07,27.18,56.27,Iran,Bandar Abbas port,US,other,US strikes on Bandar Abbas port (3-destroyer transit support),1,high,T1,multi
+2026-05-07,26.92,56.27,Iran,Qeshm Island - Bahman Pier,US,other,US strikes on Qeshm Island commercial pier,1,medium,T1,multi
+2026-05-07,27.10,56.50,Iran,Bandar Kargan / Minab,US,other,Bandar Kargan naval checkpoint Minab struck,1,medium,T2,DOD-PR-2026-05
+2026-05-07,27.05,56.95,Iran,Gachin/Bandar e Khamir/Sirik (cluster),US,other,Multiple coastal strikes Iranian Strait coastline,~4,medium,T2,DOD-PR-2026-05
+2026-05-07,27.20,56.30,Iran,Strait of Hormuz,Iran,other,IRGC Navy claimed combined ASBM/CM/drone op vs US destroyers (no damage - inverse event),~10,medium,T2,WIKI-2026-IRAN
+2026-05-08,26.00,56.30,Iran,Persian Gulf,Iran,economic_infra,Iran seizes Ocean Koi (Barbados-flag oil tanker) - inverse event,1,medium,T2,WIKI-2026-IRAN
+2024-04-08,33.51,36.27,Syria,Damascus area,Israel,proxy_iraq_syria,Syria air-defense radar / Iran-Hezbollah arms transfer site,~3,low,T2,IDF-PR-2024-04
+2024-05-15,33.51,36.27,Syria,Aleppo area,Israel,proxy_iraq_syria,Iran-aligned militia weapons depot,~2,low,T2,WIKI-2026-IRAN
+2024-06-20,35.20,38.00,Syria,Deir ez-Zor area,Israel,proxy_iraq_syria,Strikes on Iran/Hezbollah weapons transfer corridor,~5,low,T2,IDF-PR-2024-06
+2024-08-15,33.51,36.27,Syria,Damascus,Israel,proxy_iraq_syria,Continuing strikes on Iranian Quds Force facilities,~3,low,T2,IDF-PR-2024-08
+2024-12-08,33.51,36.27,Syria,Damascus,Israel,proxy_iraq_syria,Israeli strikes amid Assad regime fall - prevent transfer to other actors,~50,high,T1,multi
+2024-12-09,35.50,35.78,Syria,Tartus naval base,Israel,proxy_iraq_syria,Strikes on weapons depots after Assad fall,~10,medium,T1,multi
+2024-12-10,33.51,36.27,Syria,Damascus airport / Mezzeh,Israel,proxy_iraq_syria,Comprehensive strikes on Syrian military assets - prevent loose-weapons,~30,high,T2,IDF-PR-2024-12
+2024-12-11,35.51,35.78,Syria,Coastal Syria,Israel,proxy_iraq_syria,Strikes on chemical weapons sites + naval assets,~20,medium,T2,IDF-PR-2024-12
+2024-01-04,34.50,44.20,Iraq,Baghdad area,US,proxy_iraq_syria,US strikes on Iran-backed Iraqi militia facility (response to Tower 22),~3,medium,T2,DOD-PR-2024-01
+2024-02-02,34.50,40.90,Iraq,Anbar/Syria border,US,proxy_iraq_syria,Major US response to Tower 22: 85 targets across Iraq+Syria,~85,high,T1,multi
+2024-02-02,35.50,38.00,Syria,Eastern Syria,US,proxy_iraq_syria,Same Feb-2 strikes: Iran-aligned facilities Syria,~40,high,T1,multi
+2024-08-05,33.32,44.42,Iraq,Baghdad - Al-Qaim area,US,proxy_iraq_syria,Strikes on Iran-backed PMF positions,~5,medium,T2,DOD-PR-2024-08
+2025-01-12,33.20,44.30,Iraq,Western Iraq,US,proxy_iraq_syria,Continued targeting of Iran-aligned militias,~3,low,T2,DOD-PR-2025-01
+2024-04-13,32.10,34.85,Israel,Central Israel,unknown,other,Iran Op True Promise I retaliation: 99% intercept rate (inverse event),~300,high,T1,multi
+2024-10-01,32.10,34.85,Israel,Central Israel,unknown,other,Iran Op True Promise II: 180+ ballistic missiles (inverse event),~180,high,T1,multi
+2025-05-04,32.01,34.89,Israel,Ben Gurion Airport,unknown,other,Houthi Palestine-2 missile strikes near BGN Airport (inverse event),1,high,T1,multi
+2026-02-28,29.30,47.93,Kuwait,US bases Kuwait,unknown,other,Iranian retaliation strikes on US bases Kuwait (inverse event),~5,medium,T2,WIKI-2026-IRAN
+2026-02-28,25.10,55.30,United Arab Emirates,UAE-wide,unknown,other,Iran retaliation: drones+missiles 28 Feb (UAE absorbed cumulatively 2256 drones; inverse event),~30,high,T1,multi
+2026-02-28,26.00,50.50,Bahrain,Bahrain (US 5th Fleet),unknown,other,Iranian retaliation strikes on Bahrain US facilities (inverse event),~10,medium,T2,WIKI-2026-IRAN
+2026-02-28,23.50,58.00,Oman,Oman,unknown,other,Iran-attributed strikes near Oman (inverse event),~3,low,T3,WIKI-2026-IRAN
+2026-02-28,25.30,51.50,Qatar,Qatar / Al Udeid,unknown,other,Iranian retaliation strikes Qatar (inverse event),~5,medium,T2,WIKI-2026-IRAN
+2026-02-28,24.70,46.70,Saudi Arabia,Saudi Arabia,unknown,other,Iranian retaliation strikes Saudi Arabia (inverse event),~10,medium,T2,WIKI-2026-IRAN
+2026-02-28,31.94,35.92,Jordan,Jordan,unknown,other,Iranian retaliation strikes Jordan (inverse event),~3,low,T3,WIKI-2026-IRAN
+2026-03-01,32.10,34.85,Israel,Israel,unknown,other,Iran continued multi-day missile barrages (inverse event),~50,high,T1,multi
+2026-03-05,33.86,35.51,Lebanon,Beirut + southern Lebanon,Israel,proxy_lebanon,Pre-emptive strikes on residual Hezbollah infrastructure during Iran war,~15,medium,T2,IDF-PR-2026-03
+2026-03-08,15.37,44.19,Yemen,Sanaa,Israel,proxy_yemen,Strikes on Houthi launchers during Iran war,~5,medium,T2,IDF-PR-2026-03
+2026-03-15,33.49,48.36,Iran,Khorramabad/Borujerd,US,missile_program,Sustained missile-base strikes,~5,medium,T2,DOD-PR-2026-03
+2026-03-20,32.78,51.51,Iran,Natanz region,US,nuclear,Continued nuclear-site enforcement strikes,~3,medium,T2,DOD-PR-2026-03
+2026-03-25,35.70,51.40,Iran,Tehran,US+Israel,leadership,Continued political-leadership strikes mid-March,~10,medium,T2,DOD-PR-2026-03
+2026-04-01,32.10,34.85,Israel,Central Israel,unknown,other,Iran continues missile/drone fires through early April (inverse event),~30,medium,T2,WIKI-2026-IRAN
+2026-04-05,32.66,51.67,Iran,Esfahan area,US+Israel,nuclear,Continued nuclear-area strikes,~5,medium,T2,DOD-PR-2026-04
+2026-04-15,29.50,52.50,Iran,Bushehr area,US,other,Avoidance of Bushehr (637 Russian staff present) - context only,0,unknown,T4,WIKI-2026-IRAN
+2026-04-25,15.37,44.19,Yemen,Sanaa,Israel,proxy_yemen,Israeli strikes Yemen during Iran war (lower tempo),~3,low,T2,IDF-PR-2026-04
+2026-05-01,33.49,48.36,Iran,Khorramabad area,US,missile_program,Continued missile-base interdiction,~3,medium,T2,DOD-PR-2026-05
+2026-05-04,32.10,34.85,Israel,Central Israel,unknown,other,Iran limited missile salvos through May (inverse event),~10,medium,T2,WIKI-2026-IRAN
+2026-05-08,27.20,56.30,Iran,Persian Gulf,US,other,Continued naval enforcement actions through ceasefire era,~5,medium,T2,DOD-PR-2026-05
+2024-09-08,35.07,36.34,Syria,Masyaf - precision missile site,Israel,proxy_iraq_syria,Israel commando op precision missile factory (27 killed - acknowledged Jan 2025),1,high,T1,multi
+2024-11-05,35.40,38.00,Syria,Aleppo area,Israel,proxy_iraq_syria,Strikes on Iran-aligned arms convoys,~3,low,T2,IDF-PR-2024-11
+2025-02-15,33.51,36.27,Syria,Damascus,Israel,proxy_iraq_syria,Post-Assad strikes on residual Iranian assets,~5,low,T2,IDF-PR-2025-02
+2025-04-20,33.51,36.27,Syria,Damascus area,Israel,proxy_iraq_syria,Continued degradation of residual Iran-aligned facilities,~3,low,T2,IDF-PR-2025-04
+2024-07-19,32.10,34.85,Israel,Tel Aviv,unknown,other,Houthi Samad-3 drone kills 1 in Tel Aviv (inverse event),1,medium,T1,multi
+2024-08-21,29.00,42.00,Yemen,Off Yemen coast (Red Sea),unknown,economic_infra,Sounion tanker attack: 1M bbl Iraqi crude near-environmental disaster (inverse event),1,high,T1,multi
+2024-03-06,12.50,43.00,Yemen,Bab al-Mandab approach,unknown,other,Rubymar (UK-owned bulker) sunk by Houthi anti-ship missile (inverse event),1,medium,T1,multi
+2024-06-12,12.80,43.00,Yemen,Red Sea,unknown,other,Tutor (Greek-owned bulker) sunk by Houthi USV (inverse event),1,medium,T1,multi
+2025-07-06,12.80,43.00,Yemen,Red Sea,unknown,other,Magic Seas + Eternity C sunk by Houthis in 1 week (3 dead Eternity C - inverse event),2,medium,T1,multi
+2026-03-12,29.00,49.00,Saudi Arabia,Eastern Province,unknown,economic_infra,2 drones intercepted Eastern Province Saudi (inverse event),2,low,T2,WIKI-2026-IRAN
+2026-03-15,26.00,50.55,Bahrain,Manama,unknown,other,Continued Iranian drone attacks Bahrain civilian areas (inverse event),~3,medium,T2,WIKI-2026-IRAN
+2026-03-22,25.30,55.40,United Arab Emirates,Dubai/Abu Dhabi,unknown,economic_infra,Continued Iranian drone attempts UAE infrastructure (inverse event),~10,medium,T2,WIKI-2026-IRAN
+2026-04-01,29.00,49.00,Saudi Arabia,Eastern Province / Ghawar area,unknown,economic_infra,Iranian harassment fires on Saudi oil infrastructure (inverse event),~5,medium,T3,WIKI-2026-IRAN
+2026-03-05,29.49,60.86,Iran,Chabahar,US+Israel,other,Strikes on Chabahar naval area (early war),~3,medium,T2,DOD-PR-2026-03
+2026-03-08,25.43,60.41,Iran,Konarak,US+Israel,other,Continued strikes Konarak naval area,~3,medium,T2,DOD-PR-2026-03
+2026-03-12,27.20,56.30,Iran,Persian Gulf,US,other,Continued naval engagements Persian Gulf,~5,medium,T2,DOD-PR-2026-03
+2026-04-08,27.20,55.00,Iran,Iran Strait coast,US,other,Pakistan-brokered ceasefire announced; tempo declines but US blockade holds,1,medium,T1,multi
+2025-09-15,33.20,35.30,Lebanon,Southern Lebanon,Israel,proxy_lebanon,Sustained INSS-documented Israeli ceasefire violations Sep-Nov 2025,~30,low,T3,WIKI-2026-IRAN
+2024-12-30,15.30,44.20,Yemen,Sanaa,US,proxy_yemen,Late-2024 US strikes Houthi infrastructure,~5,low,T2,DOD-PR-2024-12
+2024-01-12,15.30,44.20,Yemen,Sanaa-Hodeidah corridor,US,proxy_yemen,Operation Poseidon Archer opens: US/UK strikes 60+ Houthi targets,~60,high,T1,multi
+2024-01-22,15.30,44.20,Yemen,Sanaa-Hodeidah corridor,US,proxy_yemen,Continued Poseidon Archer strikes,~30,medium,T2,DOD-PR-2024-01
+2024-02-24,15.30,44.20,Yemen,Sanaa-Hodeidah,US,proxy_yemen,Continued US/UK Houthi-target strikes,~20,medium,T2,DOD-PR-2024-02
+2024-03-15,15.30,44.20,Yemen,Sanaa-Hodeidah,US,proxy_yemen,Continued sustained Poseidon Archer strikes,~25,medium,T2,DOD-PR-2024-03
+2024-05-30,15.30,44.20,Yemen,Sanaa,US,proxy_yemen,Continued strikes on Houthi infrastructure,~15,low,T2,DOD-PR-2024-05
+2024-07-15,15.30,44.20,Yemen,Sanaa-Hodeidah,US,proxy_yemen,Continued strikes,~10,low,T2,DOD-PR-2024-07
+2025-01-15,15.30,44.20,Yemen,Sanaa,US,proxy_yemen,Late-Biden US strikes,~10,low,T2,DOD-PR-2025-01
+2024-01-04,33.32,44.42,Iraq,Baghdad,US,proxy_iraq_syria,US strike kills Kataib Hezbollah commander Mushtaq Talib al-Saidi,1,medium,T2,DOD-PR-2024-01
+2024-02-08,33.32,44.42,Iraq,Baghdad,US,proxy_iraq_syria,Drone strike kills Kataib Hezbollah commander al-Saadi in Baghdad,1,medium,T2,DOD-PR-2024-02
+2024-11-15,35.50,38.00,Syria,Eastern Syria,Israel,proxy_iraq_syria,Strikes on Iran arms transfers via Syria,~3,low,T2,IDF-PR-2024-11
+2025-08-15,33.51,36.27,Syria,Damascus,Israel,proxy_iraq_syria,Continued strikes on residual Iranian assets post-Assad,~5,low,T2,IDF-PR-2025-08
+2026-03-01,32.10,34.85,Israel,Israel-wide,unknown,other,Major opening Iranian missile barrage 28 Feb-1 Mar (inverse event),~150,high,T1,multi
+2026-03-02,32.10,34.85,Israel,Israel,unknown,other,Continued Iranian retaliation second day,~80,high,T1,multi
+2024-09-29,33.20,35.50,Lebanon,Southern Lebanon,Israel,proxy_lebanon,Pre-ground-invasion airstrike intensification,~80,high,T1,multi
+2024-10-15,33.20,35.50,Lebanon,Southern Lebanon,Israel,proxy_lebanon,Mid-ground-op strikes (Bint Jbeil/Aitaroun area),~50,high,T1,multi
+2025-06-13,32.78,51.51,Iran,Natanz secondary strikes,Israel,nuclear,Continued Day-1 strikes Natanz environs,~5,high,T1,multi
+2025-06-14,35.70,51.40,Iran,Tehran missile production,Israel,missile_program,Continued missile-production strikes,~10,high,T2,IDF-PR-2025-06
+2025-06-15,32.66,51.67,Iran,Esfahan,Israel,nuclear,Continued strikes Esfahan UCF/FPFP,~3,high,T2,IDF-PR-2025-06
+2025-06-17,33.49,48.36,Iran,Khorramabad,Israel,missile_program,Imam Ali base secondary strikes,~3,high,T2,IDF-PR-2025-06
+2025-06-18,34.99,50.84,Iran,Arak/Khondab heavy water reactor,Israel,nuclear,Heavy water reactor containment building,1,high,T1,multi
+2025-06-20,35.70,51.40,Iran,Tehran command,Israel,leadership,Continued command-and-control strikes,~10,medium,T2,IDF-PR-2025-06
+2025-06-22,32.78,51.51,Iran,Natanz,US,nuclear,Operation Midnight Hammer Tomahawks at Natanz support,~5,high,T1,multi
+2025-06-23,35.74,51.46,Iran,Tehran - Evin Prison,Israel,leadership,Evin Prison gate strike (controversial),1,medium,T1,multi
+2026-02-28,32.78,51.51,Iran,Natanz - PFEP/FEP,US+Israel,nuclear,"Multi-MOP strikes Natanz (more comprehensive than 2025): PFEP, FEP",~10,high,T1,multi
+2026-02-28,34.39,49.24,Iran,Fordow underground,US+Israel,nuclear,Multi-MOP strikes Fordow underground: ventilation severely damaged,~5,high,T1,multi
+2026-02-28,33.10,55.50,Iran,Pickaxe Mountain (Kuh-e Kolang Gaz La),US,nuclear,First strikes on Pickaxe Mountain new enrichment site (T2 unverified),1,high,T2,WIKI-2026-IRAN
+2026-02-28,32.66,51.67,Iran,Esfahan tunnels,US+Israel,nuclear,"Strike on Esfahan tunnel mouths/chicane barriers, where HEU consolidated 9 Jun 2025",~3,high,T1,multi
+2026-02-28,35.70,51.40,Iran,Tehran - Khamenei compound,US+Israel,leadership,"Khamenei reportedly killed in opening 28 Feb 2026 strike (regime succession ambiguity)",1,high,T2,WIKI-2026-IRAN
+2026-03-01,35.70,51.40,Iran,Tehran - regime continuity targets,US+Israel,leadership,Strikes on regime succession candidates and IRGC HQ,~10,high,T2,DOD-PR-2026-03
+2026-03-08,33.49,48.36,Iran,Khorramabad,US,missile_program,Major missile-base strike continuation,~5,high,T2,DOD-PR-2026-03
+2026-03-12,32.78,51.51,Iran,Natanz vicinity,US+Israel,nuclear,Continued nuclear-area strikes,~3,medium,T2,DOD-PR-2026-03
+2026-03-18,35.70,51.40,Iran,Tehran command nodes,US+Israel,leadership,Sustained strikes on command/intelligence/decision nodes,~15,medium,T2,DOD-PR-2026-03
+2026-03-25,29.49,60.86,Iran,Chabahar naval base area,US,other,Naval base supporting strikes,~3,medium,T2,DOD-PR-2026-03
+2026-04-02,33.49,48.36,Iran,Iranian missile production,US,missile_program,Sustained PrSM-led missile-production interdiction,~10,medium,T2,DOD-PR-2026-04
+2026-04-15,32.78,51.51,Iran,Natanz approaches,US,nuclear,Maintenance strikes Natanz access tunnels,~3,medium,T2,DOD-PR-2026-04
+2026-04-22,33.10,55.50,Iran,Pickaxe Mountain,US,nuclear,Continued degradation strikes Pickaxe Mountain,~2,medium,T2,DOD-PR-2026-04
+2026-05-01,32.66,51.67,Iran,Esfahan,US,nuclear,Maintenance strikes Esfahan tunnels,~3,medium,T2,DOD-PR-2026-05
+2026-05-05,27.18,56.27,Iran,Bandar Abbas,US,other,Pre-7 May naval-area strike preparation,~3,medium,T2,DOD-PR-2026-05
+2026-05-09,32.10,34.85,Israel,Israel,unknown,other,Late-period limited Iranian fires (inverse event),~5,low,T2,WIKI-2026-IRAN
+2026-04-08,32.10,34.85,Israel,Israel,unknown,other,Pakistan-brokered ceasefire entry; Iran retaliation tempo declines,1,medium,T1,multi
+2024-04-13,35.70,51.40,Iran,Tehran,Israel,leadership,Israeli strike planning post-True-Promise-I,1,low,T3,WIKI-2026-IRAN
+2024-09-30,33.20,35.50,Lebanon,Southern Lebanon - 5 brigade sectors,Israel,proxy_lebanon,Ground invasion: 36th/91st/98th/146th/210th divisions deploy,~30,high,T1,multi
+2024-10-10,33.20,35.50,Lebanon,Southern Lebanon - tunnel network,Israel,proxy_lebanon,Tunnel-network destruction across border villages,~25,medium,T2,IDF-PR-2024-10
+2024-11-25,33.86,35.51,Lebanon,Beirut + Bekaa,Israel,proxy_lebanon,Ceasefire-eve maximum strike intensity,~50,high,T1,multi
+2024-12-15,33.50,35.65,Lebanon,Border crossings,Israel,proxy_lebanon,Strike on Jousiya/Arida Syrian-Lebanon border crossings,~3,low,T2,IDF-PR-2024-12
+2025-03-15,33.50,35.65,Lebanon,Border crossings,Israel,proxy_lebanon,Strike on Hezbollah weapons-smuggling routes,~3,low,T2,IDF-PR-2025-03
+2025-07-20,33.20,35.30,Lebanon,Southern Lebanon,Israel,proxy_lebanon,Mid-2025 ceasefire violations continued,~10,low,T2,IDF-PR-2025-07
+2025-11-15,34.20,36.30,Lebanon,Bekaa Valley,Israel,proxy_lebanon,Late-2025 ceasefire violations,~5,low,T2,IDF-PR-2025-11
+2026-02-15,33.86,35.51,Lebanon,Beirut southern suburbs,Israel,proxy_lebanon,Pre-Iran-war strikes on residual Hezbollah assets,~3,low,T2,IDF-PR-2026-02
+2026-04-10,33.20,35.30,Lebanon,Southern Lebanon,Israel,proxy_lebanon,Limited strikes on Hezbollah during Iran war,~3,low,T2,IDF-PR-2026-04
+2025-08-29,15.37,44.19,Yemen,Sanaa,Israel,proxy_yemen,Followup strikes after al-Rahawi assassination,~5,medium,T2,IDF-PR-2025-08
+2025-09-30,15.37,44.19,Yemen,Sanaa-Hodeidah,Israel,proxy_yemen,Late-Sept Israeli strikes,~10,medium,T2,IDF-PR-2025-09
+2025-10-05,15.37,44.19,Yemen,Sanaa,Israel,proxy_yemen,Final pre-Gaza-ceasefire strikes Yemen,~3,low,T2,IDF-PR-2025-10
