@@ -9,6 +9,172 @@ $code-color: #c9d1d9;
 $border-color: #30363d;
 
 /*-- scss:rules --*/
+
+// This file compiles into a Bootstrap stylesheet that ONLY loads when the
+// reader has switched to dark mode (via Quarto's color-scheme toggle in the
+// navbar). Every rule here is therefore implicitly dark-only — no
+// [data-bs-theme="dark"] selector prefix needed.
+//
+// We override surfaces that use Bootstrap's --bs-light or --bs-white tokens,
+// since those tokens are NOT theme-aware in Bootstrap 5.3 (they stay light
+// regardless of mode). We use !important to defeat any specificity contest
+// with cosmo's bundled rules.
+
 .navbar-title {
   font-weight: 600;
 }
+
+// ---------- Custom panels (reader controls, bottom-line, dashboard cards) ----------
+
+.reader-controls,
+.bottom-line,
+.dashboard-card,
+.mech-legend,
+.disagreement-col {
+  background: #161b22 !important;
+  border-color: #30363d !important;
+  color: #c9d1d9;
+}
+
+.reader-controls .depth-toggle button {
+  background: #21262d !important;
+  color: #c9d1d9 !important;
+  border-color: #30363d !important;
+}
+.reader-controls .depth-toggle button[aria-pressed="true"] {
+  background: #58a6ff !important;
+  color: #ffffff !important;
+  border-color: #58a6ff !important;
+}
+
+.bottom-line strong:first-child {
+  color: #8b949e !important;
+}
+
+// ---------- Deep-mode indicator (the blue notice in deep mode) ----------
+
+.deep-mode-indicator {
+  background: rgba(88, 166, 255, 0.14) !important;
+  border-left-color: #58a6ff !important;
+  color: #c9d1d9 !important;
+}
+
+// ---------- Disagreement-column nested elements ----------
+
+.disagreement-col .predictions {
+  border-top-color: #30363d !important;
+}
+.disagreement-col .predictions strong {
+  color: #8b949e !important;
+}
+
+// ---------- Quarto native callouts (.callout, .callout-note, .callout-warning, etc.) ----------
+// Quarto's default callout body uses a light grey background that doesn't auto-flip in dark.
+
+.callout {
+  background-color: #161b22 !important;
+  border-color: #30363d !important;
+  color: #c9d1d9;
+}
+.callout .callout-header,
+.callout > .callout-header {
+  background-color: #21262d !important;
+  color: #c9d1d9 !important;
+  border-color: #30363d !important;
+}
+.callout .callout-body-container,
+.callout .callout-body {
+  background-color: #161b22 !important;
+  color: #c9d1d9 !important;
+}
+.callout-title-container,
+.callout-title {
+  color: #c9d1d9 !important;
+}
+// The callout-icon (note/warning/important/etc.) keeps its semantic accent color
+// but the surrounding card goes dark.
+.callout.callout-note {
+  border-left-color: #58a6ff !important;
+}
+.callout.callout-warning {
+  border-left-color: #d4a72c !important;
+}
+.callout.callout-important {
+  border-left-color: #cf222e !important;
+}
+.callout.callout-tip {
+  border-left-color: #2da44e !important;
+}
+.callout.callout-caution {
+  border-left-color: #ff8a4c !important;
+}
+
+// ---------- Custom SVG-node popover ----------
+
+#gt-custom-popover {
+  background: #161b22 !important;
+  border-color: #30363d !important;
+  color: #c9d1d9 !important;
+}
+#gt-custom-popover .gt-popover-header {
+  background: #21262d !important;
+  border-bottom-color: #30363d !important;
+  color: #c9d1d9 !important;
+}
+#gt-custom-popover[data-placement="top"] .gt-popover-arrow::after {
+  background: #161b22 !important;
+  border-right-color: #30363d !important;
+  border-bottom-color: #30363d !important;
+}
+#gt-custom-popover[data-placement="bottom"] .gt-popover-arrow::after {
+  background: #21262d !important;
+  border-left-color: #30363d !important;
+  border-top-color: #30363d !important;
+}
+
+// ---------- Bootstrap inline-gloss popover ----------
+
+.popover.gloss-popover {
+  background: #161b22 !important;
+  border-color: #30363d !important;
+  color: #c9d1d9 !important;
+}
+.gloss-popover .popover-header {
+  background: #21262d !important;
+  color: #c9d1d9 !important;
+  border-bottom-color: #30363d !important;
+}
+.gloss-popover .popover-body {
+  background: #161b22 !important;
+  color: #c9d1d9 !important;
+}
+.gloss-popover .popover-arrow::before {
+  border-top-color: #30363d !important;
+  border-bottom-color: #30363d !important;
+}
+.gloss-popover .popover-arrow::after {
+  border-top-color: #161b22 !important;
+  border-bottom-color: #161b22 !important;
+}
+
+// ---------- Gloss-trigger hover state ----------
+
+.gloss-trigger {
+  border-bottom-color: #58a6ff !important;
+}
+.gloss-trigger:hover,
+.gloss-trigger:focus,
+.gloss-trigger:focus-visible {
+  background-color: rgba(88, 166, 255, 0.14) !important;
+  border-bottom-color: #58a6ff !important;
+}
+.gloss-icon {
+  color: #58a6ff !important;
+}
+
+// ---------- Source-confidence tier badges ----------
+
+.tier-1 { background: #033a16 !important; color: #56d364 !important; border-color: #2da44e !important; }
+.tier-2 { background: #4d3800 !important; color: #d4a72c !important; border-color: #d4a72c !important; }
+.tier-3 { background: #5d1a05 !important; color: #ff8a4c !important; border-color: #cf222e !important; }
+.tier-4 { background: #21262d !important; color: #8b949e !important; border-color: #30363d !important; }

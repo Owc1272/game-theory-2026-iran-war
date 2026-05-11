@@ -1,0 +1,426 @@
+---
+title: "Primer — Strategic ambiguity and threats that leave something to chance"
+subtitle: "Schelling's Strategy of Conflict (1960) and Arms and Influence (1966): how rational actors generate credible threats by trading certainty for irreversibility"
+description: "A threat to do something costly to the threatener cannot, in classical bargaining, be credible. Schelling's contribution: introduce controlled randomness, burn bridges, or coordinate on focal points. Threats that leave something to chance, commitment via tying one's own hands, brinkmanship, and Schelling points are the four interlocking mechanisms — all four operate in the 2026 Iran war."
+categories: [primer, schelling, brinkmanship, commitment, focal-points]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+How can a threat be credible when carrying it out would hurt the threatener as much as the target? A purely rational actor would not execute a costly threat after the moment of choice — so the threat shouldn't work in the first place. Thomas Schelling's answer, across *The Strategy of Conflict* (1960) and *Arms and Influence* (1966): the threatener can introduce controlled randomness ("threats that leave something to chance"), can burn bridges so the threat becomes self-executing, can manipulate shared risk through brinkmanship, or can coordinate on prominent equilibria when communication breaks down. All four mechanisms are operative in the 2026 Iran war.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Imagine two rational actors at the brink. Either could back down. Each says "I will not — and if you don't, I will do X, which costs me Y." Stop the action at the moment of execution: would either actually do X, knowing Y is the cost? In classical bargaining the answer is no. The threat is not credible *ex post* (it would be irrational to execute) — therefore it should not be credible *ex ante* (a rational adversary, knowing this, ignores it). The ladder of mutual rationality predicts the threat collapses before it does any work. Yet leaders make exactly such threats constantly, and they often work. How?
+
+Thomas Schelling's *The Strategy of Conflict* (1960) and *Arms and Influence* (1966) are the canonical answer. Schelling's reframe: stop assuming the threatener controls execution. *Introduce structures that make the threat partly self-executing.* Four mechanisms do this work:
+
+1. **Threats that leave something to chance.** Deploy force in ways that neither side fully controls — mines in a chokepoint, fast-attack-craft swarms, irregular proxies — so escalation becomes a probabilistic process rather than a discrete decision. Now the adversary cannot rely on the threatener's ex-post rationality to spare them; they must back down to avoid a random walk through the escalation ladder.
+
+2. **Commitment by tying one's own hands.** Make the threat self-binding by burning bridges — public statements impossible to walk back, deployments impossible to reverse, alliances that bind irreversibly, leaders killed who would have brokered face-saving compromise. The threat is now executed by the structure of the situation, not by the threatener's ongoing choice.
+
+3. **Brinkmanship — manipulation of shared risk.** Push the situation closer to the edge of the cliff, where the slope of escalation risk steepens. Each step toward the edge is a costly signal: the threatener is willing to accept *more* shared risk than the adversary, who must back down or face joint disaster.
+
+4. **Focal points.** When communication is impossible or distrusted, both sides coordinate on prominent equilibria — settlements that "stand out" from the continuum of feasible options and that both sides can credibly believe the other will converge on. Schelling's example: tell two strangers to meet in New York with no further coordination — most go to Grand Central Station at noon. *The salient equilibrium is the equilibrium.*
+
+The four mechanisms are not alternatives — they interlock. Q3, Q5, and Q11 of this site each lean on different combinations. The chapter sets out all four, shows how each is operative in 2026, and identifies where the framework breaks.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Schelling's framework solves the credibility puzzle by introducing structures that make threats partly self-executing. **Threats that [leave something to chance]{.gloss data-gloss="schelling-something-to-chance"}** trade certainty for credibility through controlled randomness — Iran's chokepoint manipulation in Hormuz is the canonical 2026 case. **Commitment by tying one's own hands** burns bridges so reversal is impossible — the Khamenei assassination is the 2026 commitment-irreversibility on the US-Israel side that forecloses Iranian face-saving. **Brinkmanship** manipulates shared risk through controlled escalation. **Focal points** are the prominent equilibria parties coordinate on when communication fails. The framework is one of the foundational alternatives to the [bargaining model]{.gloss data-gloss="bargaining-range"} — it explains threats the bargaining model cannot rationalize.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Schelling's framework solves the classical credibility puzzle — that a rational actor would not execute a costly threat ex post — by introducing four interlocking structures that make threats partly self-executing. **Threats that [leave something to chance]{.gloss data-gloss="schelling-something-to-chance"}** deploy force in ways neither side fully controls (mines, swarms, autonomous proxies) so escalation becomes probabilistic rather than discrete; the adversary backs down to avoid a random walk through escalation rather than relying on the threatener's restraint. Iran's chokepoint manipulation in Hormuz, the 7-8 May Bandar Abbas/Qeshm tactical exchange, and the IRGC missile launches against the UAE all fit this mechanism — each tactical incident is a deliberate risk-acceptance signal, not an escalation-control failure. **Commitment by tying one's own hands** uses irreversible acts — public statements, deployments, and most pointedly the Khamenei assassination — to make threats self-binding; once the bridge is burned, the threat is executed by the structure of the situation rather than the threatener's ongoing choice, and *the adversary's face-saving exit is foreclosed*. **Brinkmanship** is the dynamic version: push the situation closer to the edge of the cliff, where each step is a costly signal of willingness to accept shared risk; the adversary backs down or faces joint disaster. **Focal points** (Schelling points) are the prominent equilibria parties coordinate on when communication is impossible — Hormuz freedom-of-navigation as the implicit ceasefire structure in May 2026 is the 2026 case. The framework is one of the foundational alternatives to the [bargaining model of war]{.gloss data-gloss="bargaining-range"}: where Fearon-Powell ask *which mechanism blocks the peace bargain*, Schelling asks *how a threat made of bluff becomes credible*. The two frameworks are complementary rather than competing — but Schelling's mechanisms are essential when the question is the *operational* dynamics of an active war, not the *structural* analysis of why bargaining failed. The framework's central limit: brinkmanship requires accurate beliefs about adversary thresholds (which [Yarhi-Milo's selective attention]{.gloss data-gloss="yarhi-milo-selective-attention"} shows is rare in practice), and *if both sides commit irreversibly the result is war* — exactly the 2026 outcome.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the four mechanisms. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  C[Classical credibility<br/>puzzle: rational actor<br/>will not execute<br/>costly threat ex post]
+  C --> NC[Threat not credible<br/>ex post]
+  NC --> NA[Adversary ignores<br/>threat ex ante]
+  NA --> P[Bluff fails:<br/>threats should not work]
+  S[Schelling reframe:<br/>introduce structures<br/>that take execution<br/>partly out of<br/>threatener's hands]
+  S --> R[Now the threat is<br/>partly self-executing]
+  R --> ADV[Adversary cannot rely<br/>on threatener restraint]
+  classDef c fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef s fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  classDef o fill:#dafbe1,stroke:#2da44e
+  class C c
+  class S s
+  class NC,NA,R,ADV m
+  class P c
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**The credibility puzzle in classical bargaining.** A rational actor would not execute a threat that costs them more than the value of being obeyed; an adversary, knowing this, would ignore the threat. So how do threats ever work? Schelling's reframe: stop assuming the threatener controls execution. Introduce structures that take execution partly out of the threatener's hands — randomness, irreversible commitment, brinkmanship, focal coordination. The four Schelling mechanisms all do this same fundamental work.]{.concise-only}
+
+::: {.deep-only}
+**The credibility puzzle in classical bargaining.** Imagine the simplest threat: side A says "if you take action X, I will retaliate with Y." If Y is costly to A, then *at the moment after X has occurred*, a rational A reconsiders. Y costs A more than tolerating X, so A doesn't execute Y. Side B knows A is rational, knows A will not execute Y, and therefore takes action X. The threat is *not credible ex post*, so it is *not credible ex ante*, so it does not work. This is the credibility problem at the heart of any costly-threat framework.
+
+The classical solutions in the bargaining tradition — [audience costs]{.gloss data-gloss="audience-costs-fearon"}, [Powell-style commitment fixes]{.gloss data-gloss="powell-commitment"}, verification regimes — all try to solve credibility by changing A's payoffs so executing Y becomes ex-post-rational. Schelling's contribution is structurally different: stop assuming A controls whether Y happens. Introduce structures that make Y partly self-executing — randomness, burned bridges, brinkmanship-induced shared risk, focal-point coordination. Once Y is partly out of A's hands, B can no longer rely on A's ex-post rationality to spare them.
+
+This reframe matters because most actual threats in international politics are *not* perfectly executable choices made fresh at the moment of execution. Mines once laid stay laid; deployments once moved are politically costly to recall; assassinations once made cannot be undone; public statements once made bind future behavior. The world is full of structures that pre-commit threats — Schelling's framework is the analytical apparatus for thinking clearly about them. Where the bargaining model asks *which Fearon mechanism blocks the peaceful settlement*, Schelling asks *how does a threat made of bluff become credible*. The two frameworks are complementary rather than competing — see the dashboard for the division of labor.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  T[Threats that leave<br/>something to chance:<br/>deploy force in ways<br/>neither side fully<br/>controls]
+  T --> M1[Mines in a chokepoint]
+  T --> M2[Fast-attack-craft<br/>swarms]
+  T --> M3[Irregular proxies<br/>with autonomous<br/>operations]
+  M1 --> R[Escalation now<br/>probabilistic, not<br/>discrete]
+  M2 --> R
+  M3 --> R
+  R --> ADV[Adversary backs down<br/>to avoid random walk<br/>through escalation]
+  classDef t fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  classDef r fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-schelling-something-to-chance stroke-width:2px
+  class T t
+  class T gt-gloss-schelling-something-to-chance
+  class M1,M2,M3 m
+  class R,ADV r
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**Threats that leave something to chance.** Schelling's most distinctive mechanism: deploy force in ways neither side fully controls, so escalation becomes a probabilistic process rather than a discrete decision. The threatener trades certainty for credibility — *because* they cannot guarantee restraint, the threat cannot be safely ignored. Iran's chokepoint manipulation in Hormuz is the canonical 2026 example: mines once laid, fast-attack-craft swarms with delegated authority, IRGCN command nodes operating semi-autonomously — escalation is a random walk, not a chess move.]{.concise-only}
+
+::: {.deep-only}
+**Threats that leave something to chance.** This is Schelling's most distinctive contribution and the mechanism that does most of the analytical work in the 2026 case. The classical credibility puzzle assumes the threatener has clean ex-post control over whether to execute. Schelling's move: introduce structures where execution becomes partly probabilistic — mines that auto-detonate on contact, fast-attack-craft swarms with delegated firing authority, irregular proxies operating semi-autonomously, missile defenses with rules of engagement that can fire on radar contact. Once the threat is partly probabilistic, the adversary cannot rely on the threatener's restraint to spare them. They must back down *to avoid the random walk* through escalation, not because the threatener is committed to executing.
+
+Crucially, the threatener also accepts shared risk: by deploying force in ways they cannot fully recall, they have made themselves vulnerable to escalation paths they would have preferred to avoid. The mechanism trades certainty for credibility precisely *because* both sides know neither can guarantee restraint. Schelling's phrase: it is "the threat that leaves something to chance" — and the adversary is coerced not by what the threatener will *certainly* do, but by what the deployed structure *might* do.
+
+The 2026 Iran war's chokepoint dynamics are the canonical case. Iran has 2,000-6,000 mines, the IRGCN operates a swarm of fast attack craft with autonomous-fire authority, the Khordad-15 missile batteries have decentralized command, and the Quds Force operates regional proxies (Houthi, Iraqi militias) with limited central control. The 4 May Operation Project Freedom sinking of six IRGCN fast-attack craft, the 7-8 May tactical exchange at Bandar Abbas/Qeshm, and the IRGC missile launches against the UAE all fit this pattern — *each tactical incident is a deliberate risk-acceptance signal, not an escalation-control failure*. Q5's α-mechanism reads exactly this dynamic: the system is at a Schelling shared-risk equilibrium where both sides have accepted controlled escalation risk *because* certain threats (US/Israel cannot commit to permanent regime preservation; Iran cannot commit to permanent non-rebuild) are not credible — and brinkmanship via probabilistic threats is the rational substitute.
+
+[Q12.4]{.gloss data-gloss="schelling-something-to-chance"}'s reading of Iran's strikes on every GCC capital — regardless of contribution to the war — extends the same mechanism: not retaliation deterrence (which would target only contributors), but *offensive coercive escalation* aimed at breaking GCC collective-action capacity. The strikes leave the *destination* of escalation partly to chance — any GCC state might be the next target — and Iran benefits from the chronic uncertainty even when no specific strike materializes.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  C[Commitment by tying<br/>one's own hands]
+  C --> M1[Public statements<br/>impossible to walk back]
+  C --> M2[Deployments impossible<br/>to reverse]
+  C --> M3[Treaties that bind<br/>irreversibly]
+  C --> M4[Leaders killed who<br/>would have brokered<br/>face-saving compromise]
+  M4 --> K[2026 Khamenei<br/>assassination forecloses<br/>Iranian face-saving exit]
+  M1 --> S[Threat now executed<br/>by the structure of<br/>the situation, not the<br/>threatener's ongoing choice]
+  M2 --> S
+  M3 --> S
+  M4 --> S
+  classDef c fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  classDef s fill:#dafbe1,stroke:#2da44e
+  classDef k fill:#cf222e,color:#fff,stroke:#cf222e
+  class C c
+  class M1,M2,M3,M4 m
+  class S s
+  class K k
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Commitment by tying one's own hands.** The threat becomes self-binding. Public statements that cannot be walked back, deployments that cannot be reversed, treaties that bind irreversibly, leaders killed who would have brokered face-saving compromise — all are devices that take execution out of the threatener's ongoing choice. The Khamenei assassination is the 2026 commitment-irreversibility on the US-Israel side: it forecloses any face-saving exit Iran could have taken, because the specific actor who could have authorized it no longer exists.]{.concise-only}
+
+::: {.deep-only}
+**Commitment by tying one's own hands.** The second Schelling mechanism solves the credibility puzzle by *making the threat irreversible*. The threatener burns the bridges of retreat: a public statement that becomes politically impossible to walk back ([audience costs]{.gloss data-gloss="audience-costs-fearon"} are the formalization), a deployment that would be politically catastrophic to recall, a treaty that creates third-party expectations the threatener cannot disappoint, an assassination that cannot be undone. Once the bridge is burned, the threat is executed by the structure of the situation rather than the threatener's ongoing choice — and the adversary cannot rely on the threatener's prudence to spare them.
+
+The mechanism explains why leaders deliberately do things that *appear* irrational from a single-shot perspective. Why make a public commitment that limits your own future flexibility? Because the loss of flexibility *is the point*: it makes the threat credible. Why station tripwire forces you cannot defend? Because their loss commits you to escalation. Why kill an adversary leader rather than negotiate? Because the killing forecloses paths the negotiation might have taken.
+
+The 2026 case has commitment-irreversibility devices on both sides. On the US-Israel side, the **Khamenei assassination** is the most consequential. Khamenei's killing in the 28 February 2026 opening strikes was not, on standard bargaining-model logic, a coercive move — *killing the leader you need to negotiate with does not coerce them into concessions*. It is, however, a perfect Schelling commitment-irreversibility device. The IRGC under Vahidi cannot now offer the US the kind of face-saving compromise Khamenei could have authorized — Khamenei was the *only actor* with the religious-political standing to bless a major retreat from enrichment-on-soil, and his elimination forecloses that exit. The act is irreversible by definition. [Q11]{.gloss data-gloss="stackelberg-leader-follower"}'s reading: Israel obtained via the Khamenei strike what June 2025's "Trump veto" had blocked — and the act itself made any subsequent US-side restraint moot.
+
+The mechanism also operates on the Iran side. The IRGC's progressive institutional commitment to enrichment-on-soil since 2003 — through clerical pronouncements, parliament resolutions, public budget allocations to centrifuge programs, and Vahidi's institutional consensus — is a slow-motion bridge-burning that ties Iranian future hands. Khomeini's 26 October 1964 capitulations speech, *now 62 years deep in Iranian institutional discourse*, similarly constrains what any 2026 Iranian leader can credibly offer the US on face-saving formulas. The deeper a commitment is structurally embedded, the harder it is to walk back — and the more credible the threat that backing down is impossible.
+
+The interaction with [audience costs]{.gloss data-gloss="audience-costs-fearon"} is direct: audience costs are the formal model of *one specific* commitment-by-tying-your-hands mechanism — the one that operates through a domestic political audience that punishes climb-down. Schelling's framework is the broader category; audience costs are the mechanism's most-formalized special case.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  B[Brinkmanship:<br/>manipulation of<br/>shared risk]
+  B --> S1[Push closer to the<br/>edge of the cliff]
+  S1 --> SR[Slope of escalation<br/>risk steepens]
+  SR --> CS[Each step is a<br/>costly signal of<br/>willingness to accept<br/>shared risk]
+  CS --> ADV[Adversary backs down<br/>or faces joint disaster]
+  F[Focal points:<br/>prominent equilibria<br/>parties coordinate on<br/>when communication<br/>fails]
+  F --> EX1[Hormuz freedom-of-navigation<br/>as implicit ceasefire<br/>structure]
+  F --> EX2[NPT 3.67 percent<br/>enrichment as<br/>shared salient floor]
+  classDef b fill:#0969da,color:#fff,stroke:#0969da
+  classDef f fill:#dafbe1,stroke:#2da44e
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  class B b
+  class F f
+  class S1,SR,CS,ADV,EX1,EX2 m
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Brinkmanship and focal points.** *Brinkmanship* is the dynamic version of risk manipulation: push the situation closer to the edge, where the slope of escalation risk steepens. Each step is a costly signal of willingness to accept shared risk — the adversary backs down or faces joint disaster. *Focal points* are the prominent equilibria parties coordinate on when communication is impossible. Hormuz freedom-of-navigation is the 2026 Schelling-point ceasefire structure: a salient settlement both sides can converge on without explicit agreement.]{.concise-only}
+
+::: {.deep-only}
+**Brinkmanship — manipulation of shared risk.** Brinkmanship is the dynamic version of the threat-that-leaves-something-to-chance. Schelling's metaphor: imagine two adversaries at the edge of a cliff. Each step closer to the edge increases the probability of both falling. The adversary who is willing to take more steps is, in effect, willing to accept more shared risk — and the adversary who is less willing must back down to avoid the joint plunge. Brinkmanship is rational *only* because the situation is partly out of either side's control: at the margin, either side could stumble, the wind could shift, the ground could give way. The slope of escalation risk steepens with each step toward the edge.
+
+The mechanism predicts the *pattern* of escalation we observe in the 2026 Iran war: not a single decisive escalation but a staircase of incremental tactical exchanges, each calibrated to push the adversary one step closer to the edge while signaling willingness to take the next step oneself. Iran's 17-18 April attempted Hormuz transit, the US 20 April *Touska* seizure, the 4 May Project Freedom sinking, the 7 May Bandar Abbas / Qeshm strikes, the 8 May UAE missile launches — each is a brinkmanship step, not an escalation-control failure. The bargaining-model framing alone has trouble explaining why neither side simply de-escalates after the costs become evident; the Schelling brinkmanship framing gets the pattern right.
+
+**Focal points (Schelling points).** The fourth mechanism solves a different puzzle: how do parties coordinate when explicit communication is impossible or distrusted? Schelling's classic experimental result: tell two strangers to meet in New York with no further coordination — most go to Grand Central Station at noon. The salient equilibrium *is* the equilibrium, because each side knows the other is searching for the equilibrium each side knows the other is searching for, and the salient option is the one most likely to converge. Focal points work through prominence — historical, geographic, numerical, institutional — not through optimality.
+
+The 2026 Iran war has at least two operative Schelling-point structures. **Hormuz freedom-of-navigation** is the implicit ceasefire structure: both sides can credibly believe the other will stop fighting if Hormuz reopens, because Hormuz-as-shared-good is salient enough to anchor coordination without a written agreement. The 5-7 May "Hormuz first, nuclear later" sequencing emerged exactly as a focal-point coordination move — neither side proposed it formally, but it became the salient structure both could converge on. **NPT 3.67% enrichment** is a second focal point: a numerically arbitrary but historically prominent floor that both sides can use as a reference point even when neither would design that exact threshold from scratch.
+
+Focal points fail when prominence is contested — when both sides see *different* equilibria as salient. The 2026 case has one critical contested focal point: **regime preservation vs regime change** as the implicit war-termination structure. The US-Israel side sees regime change as the salient endpoint (especially after Khamenei's killing made it concretely visible); Iran sees regime preservation as the salient endpoint (the IRGC institutional consensus has 47 years of history). The two sides cannot coordinate because their salient equilibria do not overlap — and Q5's γ-mechanism, regime change as live war aim, is precisely the failure of focal-point coordination at the strategic level even as Hormuz works as a tactical Schelling point.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) the four interlocking Schelling mechanisms and how they relate to each other; (2) which mechanism is operative in which 2026 chapter; (3) timeline of 2026 commitment-irreversibility events.
+
+### Figure 1 — The four interlocking mechanisms
+
+```{mermaid}
+flowchart TB
+  P[Classical credibility puzzle:<br/>rational actors will not execute<br/>costly threats ex post]
+  P --> S[Schelling reframe:<br/>introduce structures<br/>that make threats<br/>partly self-executing]
+  S --> M1[1. Threats that leave<br/>something to chance]
+  S --> M2[2. Commitment by<br/>tying one's own hands]
+  S --> M3[3. Brinkmanship —<br/>manipulation of<br/>shared risk]
+  S --> M4[4. Focal points —<br/>prominent equilibria<br/>for coordination<br/>without communication]
+  M1 -.->|dynamic version| M3
+  M2 -.->|formal version<br/>operates as| AC[Audience costs<br/>Fearon-Weeks]
+  M4 -.->|fails when prominence<br/>is contested| FAIL[Coordination failure<br/>= war]
+  classDef p fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef s fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef ac fill:#fff8c5,stroke:#d4a72c
+  classDef f fill:#ffe5d9,stroke:#cf222e
+  classDef gt-gloss-schelling-something-to-chance stroke-width:2px
+  classDef gt-gloss-audience-costs-fearon stroke-width:2px
+  class P p
+  class S s
+  class M1,M2,M3,M4 m
+  class M1 gt-gloss-schelling-something-to-chance
+  class AC ac
+  class AC gt-gloss-audience-costs-fearon
+  class FAIL f
+```
+
+[**Reading the figure.** All four mechanisms solve the same classical credibility puzzle (rational actors will not execute costly threats ex post) by introducing structures that take execution partly out of the threatener's hands. Mechanism 1 ([leaves-something-to-chance]{.gloss data-gloss="schelling-something-to-chance"}) and Mechanism 3 (brinkmanship) are static and dynamic versions of the same shared-risk logic. Mechanism 2 (tying hands) operates *partly* through the [audience costs]{.gloss data-gloss="audience-costs-fearon"} machinery — Schelling is the broader category, audience costs is the formalized special case. Mechanism 4 (focal points) fails when prominence is contested — and that failure is one route to war.]{.concise-only}
+
+[**Reading the figure.** All four mechanisms solve the same classical credibility puzzle: a rational actor will not execute a costly threat ex post, so the threat should not be credible ex ante, so the bluff should not work. Schelling's reframe is uniform across the four: introduce structures that take execution partly out of the threatener's hands. *Mechanism 1 — [threats that leave something to chance]{.gloss data-gloss="schelling-something-to-chance"}* — uses controlled randomness (mines, swarms, autonomous proxies) to make escalation probabilistic. *Mechanism 2 — commitment by tying one's own hands* — uses irreversible acts (public statements, deployments, assassinations) to make the threat self-binding. The mechanism overlaps significantly with [audience costs]{.gloss data-gloss="audience-costs-fearon"}: the audience-cost framework formalizes one specific bridge-burning device (public commitments + domestic punishment for reversal), while Schelling's framework is the broader category encompassing irreversible deployments, treaty bindings, and assassinations alongside public statements. *Mechanism 3 — brinkmanship* — is the dynamic version of Mechanism 1: each step closer to the cliff edge is a costly signal of willingness to accept shared risk. *Mechanism 4 — focal points* — solves the coordination problem when communication is impossible: parties converge on prominent equilibria not because they are optimal but because they are *salient*. The mechanism fails when prominence is contested — when both sides see *different* equilibria as salient — and that failure is one direct route to war. The 2026 case has all four mechanisms operative simultaneously, with Mechanism 1 doing most of the operational analytical work, Mechanism 2 doing most of the structural commitment-irreversibility work, Mechanism 3 explaining the staircase pattern of tactical exchanges, and Mechanism 4 partially failing at the strategic level (regime-preservation vs regime-change have no shared salience) even as it works at the tactical level (Hormuz freedom-of-navigation as implicit ceasefire structure).]{.deep-only}
+
+### Figure 2 — Schelling mechanisms across 2026 analyses
+
+Each chapter on this site that uses the Schelling framework leans on a different combination of the four mechanisms.
+
+```{ojs}
+//| label: fig-schelling-applications
+//| fig-cap: "Which Schelling mechanism is operative in each 2026 analysis chapter. Bar height = analyst posterior P(mechanism is operative in that chapter), 0-1 scale. Color encodes which mechanism. Hover any bar for the specific 2026 application."
+
+{
+  const data = [
+    {chapter: "Q3 — Ceasefire instability", mech: "M1 — Leaves something to chance", post: 0.85, application: "Each ceasefire violation (4 May Project Freedom, 7 May Bandar Abbas, 8 May UAE) is a brinkmanship step, not an escalation-control failure. Mediator pressure decay leaves chokepoint risk uncovered."},
+    {chapter: "Q3 — Ceasefire instability", mech: "M3 — Brinkmanship", post: 0.80, application: "Staircase pattern of tactical exchanges; each side calibrating risk to test the other's threshold."},
+    {chapter: "Q5 — Bargaining range", mech: "M1 — Leaves something to chance", post: 0.90, application: "Q5's α-mechanism: Schelling shared-risk equilibrium. Both sides accept controlled escalation as the only credible threat available because certain threats (regime preservation, non-rebuild) are not credible."},
+    {chapter: "Q5 — Bargaining range", mech: "M4 — Focal points", post: 0.55, application: "Hormuz freedom-of-navigation as implicit ceasefire structure (Schelling point works tactically); regime preservation vs regime change as contested focal point (Schelling point fails strategically)."},
+    {chapter: "Q11 — US-Israel coalition", mech: "M2 — Tying hands", post: 0.85, application: "Khamenei assassination as commitment-irreversibility on US-Israel side: forecloses Iranian face-saving exit because Khamenei was the only actor with standing to authorize a major retreat from enrichment-on-soil."},
+    {chapter: "Q11 — US-Israel coalition", mech: "M3 — Brinkmanship", post: 0.50, application: "Burning bridges via Stackelberg fait accompli: Israel-led operations create irreversible facts that constrain US choices."},
+    {chapter: "Q12.4 — Gulf paradox", mech: "M1 — Leaves something to chance", post: 0.75, application: "Iran's strikes on every GCC capital regardless of contribution: not retaliation deterrence (which would target only contributors) but offensive coercive escalation aimed at breaking GCC collective-action capacity."}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 13 : Math.max(15, Math.min(20, Math.round(width / 50)));
+  const chartHeight = isMobile ? 320 : Math.max(360, Math.min(440, Math.round(width * 0.36)));
+
+  const colorScale = {
+    "M1 — Leaves something to chance": "#0969da",
+    "M2 — Tying hands": "#cf222e",
+    "M3 — Brinkmanship": "#d4a72c",
+    "M4 — Focal points": "#2da44e"
+  };
+
+  return Plot.plot({
+    marginLeft: isMobile ? 56 : Math.max(220, Math.round(width * 0.22)),
+    marginRight: isMobile ? 24 : 60,
+    marginTop: Math.max(40, Math.round(baseFont * 2.4)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "P(mechanism operative in chapter) →",
+      domain: [0, 1],
+      grid: true,
+      tickFormat: ".0%"
+    },
+    y: { label: null, domain: data.map(d => d.chapter + " · " + d.mech.split(" — ")[0]) },
+    color: {
+      domain: Object.keys(colorScale),
+      range: Object.values(colorScale),
+      legend: true
+    },
+    marks: [
+      Plot.barX(data, {
+        x: "post",
+        y: d => d.chapter + " · " + d.mech.split(" — ")[0],
+        fill: "mech",
+        tip: { lineWidth: 35, fontSize: isMobile ? 12 : 13 },
+        channels: { Application: "application", Mechanism: "mech" }
+      }),
+      Plot.text(data, {
+        x: "post",
+        y: d => d.chapter + " · " + d.mech.split(" — ")[0],
+        text: d => (d.post * 100).toFixed(0) + "%",
+        dx: 6, textAnchor: "start",
+        fontWeight: 600, fontSize: baseFont, fill: "#24292f"
+      })
+    ]
+  });
+}
+```
+
+```{=html}
+<div class="mech-legend always">
+```
+
+| Code | Mechanism |
+|---|---|
+| **M1** | Threats that leave something to chance — controlled randomness, escalation as probabilistic process |
+| **M2** | Commitment by tying one's own hands — irreversible acts that make the threat self-binding |
+| **M3** | Brinkmanship — dynamic manipulation of shared risk through staircase escalation |
+| **M4** | Focal points — coordination on prominent equilibria when communication fails |
+
+```{=html}
+</div>
+```
+
+[**Reading the chart.** The Schelling framework is reached for in four chapters on this site, with different mechanism mixes. [Q3](../analyses/q3-ceasefire-instability.qmd) and [Q5](../analyses/q5-bargaining-range.qmd) lean heavily on M1 (leaves-something-to-chance) — the operational dynamics of an active war are hard to explain without the controlled-randomness mechanism. [Q11](../analyses/q11-us-israel-coalition.qmd) leans on M2 (tying hands) — the Khamenei assassination is the chapter's cleanest commitment-irreversibility datapoint. [Q12.4](../analyses/q12-4-gulf-paradox.qmd) uses M1 to explain Iran's strikes on every GCC capital regardless of contribution — offensive coercive escalation rather than retaliation deterrence.]{.concise-only}
+
+[**Reading the chart.** The Schelling framework is reached for in four chapters on this site, with different mechanism mixes that reflect each chapter's distinct analytical question. [Q3](../analyses/q3-ceasefire-instability.qmd) leans on M1 (leaves-something-to-chance, P operative ≈ 0.85) and M3 (brinkmanship, P operative ≈ 0.80) — the operational dynamics of the 8 April → 8 May ceasefire violation cascade are best explained as a staircase of brinkmanship steps, each a deliberate risk-acceptance signal rather than an escalation-control failure. The chapter's β'-mechanism (Walter no-enforcer) is what makes brinkmanship the only credible coercion available; the absence of third-party enforcement leaves chokepoint risk as the only operational lever. [Q5](../analyses/q5-bargaining-range.qmd) leans on M1 (P operative ≈ 0.90, the chapter's α-mechanism) and partially on M4 (P operative ≈ 0.55) — Hormuz works as a tactical focal point even as regime-preservation vs regime-change fails as a strategic focal point. The chapter explicitly identifies the Schelling shared-risk equilibrium as one of the three load-bearing mechanisms keeping the bargaining range closed. [Q11](../analyses/q11-us-israel-coalition.qmd) leans on M2 (P operative ≈ 0.85) — the Khamenei assassination is the chapter's cleanest commitment-irreversibility datapoint, illustrating how an act of bridge-burning by one principal in a coalition (Israel) constrains the second principal (US) into accepting positions it had previously vetoed. The chapter cites Schelling's *Strategy of Conflict* on burning bridges and *Arms and Influence* on shared-risk manipulation as joint analytical anchors. [Q12.4](../analyses/q12-4-gulf-paradox.qmd) uses M1 (P operative ≈ 0.75) — Iran's strikes on every GCC capital regardless of contribution to the war — as the central diagnostic for offensive coercive escalation rather than retaliation deterrence. The discriminating prediction: retaliation deterrence would target only contributors; coercive escalation aimed at GCC collective-action breakdown targets all.]{.deep-only}
+
+### Figure 3 — Timeline of 2026 commitment-irreversibility events
+
+The Schelling framework's most distinctive 2026 footprint: a sequence of irreversible acts that progressively foreclose face-saving exits.
+
+```{mermaid}
+flowchart TB
+  T1[June 2025<br/>Twelve-Day War on<br/>Iran nuclear infrastructure;<br/>Trump vetoes Khamenei strike]
+  T1 --> T2[28 February 2026<br/>Strikes; Khamenei killed<br/>over CIA / CJCS / State / VP<br/>objections; Israeli intel<br/>decisive factor]
+  T2 --> T3[8 April 2026<br/>Israel Operation<br/>Eternal Darkness simultaneous<br/>with Pakistan ceasefire]
+  T3 --> T4[20 April 2026<br/>US Navy seizes<br/>Touska tanker]
+  T4 --> T5[4 May 2026<br/>Project Freedom sinks<br/>six IRGCN fast attack craft]
+  T5 --> T6[7 May 2026<br/>US strikes Bandar Abbas<br/>and Qeshm IRGCN<br/>command nodes]
+  T6 --> T7[8 May 2026<br/>IRGC missile launches<br/>against UAE intercepted<br/>by Patriot batteries]
+  classDef t fill:#f6f8fa,stroke:#d0d7de
+  classDef k fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef m fill:#0969da,color:#fff,stroke:#0969da
+  class T1,T3,T4,T5,T6,T7 t
+  class T2 k
+```
+
+[**Reading the timeline.** The Khamenei assassination (28 February 2026) is the structural turning point — the single most consequential commitment-irreversibility act of the war. It forecloses Iranian face-saving exits because the only actor with standing to authorize a major retreat from enrichment-on-soil no longer exists. Subsequent events (8 April Eternal Darkness, 20 April Touska, 4 May Project Freedom, 7-8 May Bandar Abbas/Qeshm/UAE) are brinkmanship steps within the constrained space the Khamenei strike created.]{.concise-only}
+
+[**Reading the timeline.** The 2026 timeline has a clear structural shape from a Schelling-framework perspective. The June 2025 Twelve-Day War established Israel's operational template (degradation-then-strike) but kept commitment-irreversibility limited — Trump's June 2025 [Khamenei-strike veto]{.gloss data-gloss="stackelberg-leader-follower"} held for 8 months. The 28 February 2026 strikes broke that limit decisively: the killing of Khamenei was the single most consequential commitment-irreversibility act of the war, executed over CIA/CJCS/State/VP objections with Israeli intelligence as the "decisive factor." The act forecloses Iranian face-saving exits in a structurally specific way: Khamenei was the only actor in the Iranian system with the religious-political standing to bless a major retreat from enrichment-on-soil — the IRGC under Vahidi cannot now offer the kind of compromise the system required Khamenei's *velayat-e faqih* authority to authorize. The bridge is burned. Subsequent events (8 April Operation Eternal Darkness simultaneous with the Pakistan ceasefire, 20 April US Navy *Touska* seizure, 4 May Project Freedom sinking six IRGCN fast attack craft, 7 May US strikes on Bandar Abbas/Qeshm IRGCN command nodes, 8 May IRGC missile launches against the UAE intercepted by Patriot batteries) are brinkmanship steps — each a deliberate risk-acceptance signal calibrated to test the adversary's threshold — within the constrained space the Khamenei strike created. The pattern fits Schelling's framework cleanly: a major commitment-irreversibility act creates the structural envelope; brinkmanship steps fill it; threats-that-leave-something-to-chance (mines, swarms, autonomous proxies) provide the operational substrate. The framework explains the *form* of the 2026 escalation, even as the bargaining model explains *why* the structural conditions for the war existed in the first place.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem — where Schelling could be wrong about 2026 {#pre-mortem}
+
+The Schelling framework is reached for in four chapters on this site. Where could the framework be misleading the analysis?
+
+1. **Brinkmanship requires accurate beliefs about adversary thresholds — and these beliefs are usually wrong.** [Yarhi-Milo's selective-attention framework]{.gloss data-gloss="yarhi-milo-selective-attention"} shows leaders update on resolve signals through strongly selective filters. If both sides systematically misperceive each other's thresholds, the brinkmanship staircase produces *escalation past the joint preferred outcome* — the very disaster brinkmanship is supposed to avoid. Q5's reading of the May 2026 state as a "Nash equilibrium nobody wants but stable" partially reflects this: brinkmanship has succeeded in coercing each side into rejecting the other's terms, but the cumulative result is an outcome neither side designed.
+
+2. **If both sides commit irreversibly, the result is war — not credible deterrence.** Schelling's commitment mechanism is supposed to make threats credible enough that the adversary backs down. But the mechanism is symmetric: both sides can play it. If both sides burn bridges, neither can climb down. The 2026 outcome — both Trump (via repeated public commitments and the Khamenei strike) and the IRGC (via the institutional consensus on enrichment-on-soil) past their backdown thresholds — is exactly this case. The framework predicts the war's *occurrence*, not its avoidance.
+
+3. **Focal points presume some shared interpretive frame.** Hormuz freedom-of-navigation works as a focal point because both sides see Hormuz as a shared-good problem. Regime preservation vs regime change does not work as a focal point because the two sides do not share the underlying interpretive frame — Iran sees regime preservation as a sovereignty bedrock; the US-Israel side sees regime change as the optimal endpoint. When the interpretive frames diverge, focal-point coordination fails — and the mechanism turns from a coordination tool into a coordination failure.
+
+4. **Threats-that-leave-something-to-chance can be miscalibrated.** The mechanism works only if the *probability* of accidental escalation is calibrated correctly. Too low: the adversary discounts the threat. Too high: accidental disaster occurs before the adversary can respond. The 2026 case has at least one near-miss already — the 8 May UAE missile launches were intercepted by Patriot batteries, but a successful strike on a UAE civilian target would have triggered an entirely different escalation path. The mechanism is fragile in ways that aggregate over many tactical exchanges.
+
+5. **The framework is operational, not structural.** Schelling tells you how a tactical exchange plays out; it does not tell you why the war happened in the first place. For *structural* analysis the [bargaining model]{.gloss data-gloss="bargaining-range"} is the appropriate frame; for *operational* analysis Schelling is the appropriate frame. The risk is using the operational frame to answer structural questions, which produces analytical confusion. Q5 keeps the two frames separate by labeling the Schelling mechanism (α) explicitly as one of the three *load-bearing* mechanisms operating *within* the structurally-empty bargaining range, not as a separate explanation for why the range is empty.
+
+## Why this primer matters {#why-it-matters}
+
+The Schelling framework is the canonical tool for thinking clearly about coercion, escalation, and the strategic use of commitment in active conflict. The disciplined way to use it on the 2026 Iran war (or any other case):
+
+1. **Identify which mechanism is operative.** Not "Schelling applies" but "this is a leaves-something-to-chance dynamic" or "this is a tying-hands commitment device" or "this is brinkmanship" or "this is a focal point." The mechanisms have different predictions and different failure modes.
+
+2. **Identify the structural commitment devices.** The 2026 case has at least three: the Khamenei assassination (Israel-side bridge burning), the IRGC institutional consensus on enrichment-on-soil (Iran-side slow-motion bridge burning), and Trump's repeated public commitments through January-February (Trump-side audience-cost trap). Each is a distinct structural anchor — naming them by mechanism is the discipline the framework imposes.
+
+3. **Identify the operational risk substrate.** Mines, fast-attack-craft swarms, autonomous proxies, missile-defense rules of engagement — these are the structures that make threats partly probabilistic. The 2026 Hormuz dynamics are best understood as Schelling threats-that-leave-something-to-chance executed through Iran's chokepoint architecture.
+
+4. **Check the framework's limits.** Brinkmanship requires accurate threshold beliefs ([Yarhi-Milo]{.gloss data-gloss="yarhi-milo-selective-attention"} shows these are typically wrong); both sides committing irreversibly produces war, not deterrence; focal points fail when interpretive frames diverge; threats-that-leave-something-to-chance can be miscalibrated. The framework is operational, not structural — it tells you how the tactical exchange plays out, not why the war happened.
+
+The Schelling framework is at its best as the operational complement to the [bargaining model]{.gloss data-gloss="bargaining-range"}. Together the two frameworks cover both the structural (why is the bargaining range empty?) and operational (how does the active war's coercion play out?) dimensions of the 2026 case.
+
+## Sources & further reading
+
+- @schelling1960strategy — *The Strategy of Conflict*; the foundational text on focal points and commitment
+- @schelling1966arms — *Arms and Influence*; the canonical text on threats that leave something to chance and brinkmanship
+- @fearon1994domestic — audience costs as the formalized special case of Mechanism 2 (tying hands)
+- @powell2006commitment — the bargaining-model commitment-problem complement to Schelling's commitment mechanism
+- @fearon1995rationalist — the structural framework that Schelling's operational framework complements
+- @weeks2008autocratic — autocratic audience costs (the IRGC institutional consensus as a Mechanism-2 device on Iran's side)
+- @lake2009hierarchy — hierarchy as the structural frame within which Stackelberg fait-accompli commitment moves operate
+
+```{=html}
+</div>
+```
