@@ -63,6 +63,8 @@ On the night of 27-28 February 2026, coordinated US-Israeli strikes hit Iranian 
 
 [The most distinctive analytical contribution: the [2020 Soleimani vs 2026 Khamenei differential]{.gloss data-gloss="soleimani-khamenei-differential"}. Same Trump administration in both cases; only variable is the target's regime-defining-ness. The differential prediction — P(persistence) ∝ regime-defining-ness of struck leader — is empirically supported and validates Goemans's gamble-for-resurrection framework as load-bearing for α.]{.column-margin .deep-only}
 
+[Mechanism α's "IRGC institutional position is existential" claim rests on a parastatal complex whose contemporary form — ~50%+ of Iranian GDP outside the formal state — was crystallized not in 1979 but in **Rafsanjani's 1989-94 privatization stream capture**. Privileged-access rules for share-buyers "who had sacrificed for the revolution" delivered the privatization wave to bonyads, IRGC affiliates, and clerical-associated entities. *This is the institutional event that explains why the IRGC consolidated rather than collapsed after the Khamenei strike — defeating the IRGC kinetically does not eliminate the template.* See [Historical roots](../historical-roots.qmd) Pattern 2.]{.column-margin .deep-only}
+
 ```{=html}
 <div class="deep-mode-indicator">
 <strong>Deep mode is on.</strong> Paragraphs expand with the three mechanisms in detail, the Soleimani-Khamenei base-rate analysis, the retrospective-vs-prospective distinction, pre-registered falsification criteria, source-confidence audit, and pre-mortem. Switch back to <em>Concise</em> at the top of the page to collapse.

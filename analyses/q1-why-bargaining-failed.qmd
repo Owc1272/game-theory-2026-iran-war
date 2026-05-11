@@ -72,6 +72,8 @@ Q1.4 — Stage 0 as power-shift mechanism — flags an *original-contribution op
 </div>
 ```
 
+[The 1979 constitutional architecture that Mechanism 1's IRGC-bonyad veto inherits is itself a procedurally captured outcome. Bazargan's PRG draft — a Belgian-1906-derived structure with a clerical veto-committee but no clerical governance, supported by the National Front, the Freedom Movement, and the moderate clergy (Shariatmadari, the Najaf-quietist tradition) — was displaced by an August 1979 Khomeinist-controlled Assembly of Experts election under National Front, Kurdish, and Azerbaijani boycott; the November 1979 hostage crisis provided cover for the December ratification. *Mechanism 1's institutional baseline is itself a captured outcome, not a popular mandate.* See [Historical roots](../historical-roots.qmd) Pattern 4.]{.column-margin .deep-only}
+
 ```{=html}
 <div class="deep-only">
 ```

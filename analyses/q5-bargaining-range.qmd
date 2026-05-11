@@ -74,6 +74,8 @@ The question Q5 asks is whether a settlement (s, 1−s) over the contested issue
 </div>
 ```
 
+[The November 2005 Russian compromise proposal — Iran allowed to convert uranium to gas at Isfahan, with enrichment moved to Russia and Russia returning enriched fuel for Bushehr — was the simplest pre-Stuxnet, pre-JCPOA settlement architecture available. The US rejected it in February 2006. *Bargaining-range narrowing pre-dates 2026 by 21 years*: one side's rejection of technically-viable terms is a structurally consistent feature of US-Iran negotiation, not a 2026-specific failure. Mechanism γ's "regime change as live war aim" has a 21-year prequel in the structural unwillingness to accept settlement architectures that preserve Iranian regime form. See [Historical roots](../historical-roots.qmd) Pattern 4.]{.column-margin .deep-only}
+
 ```{=html}
 <div class="deep-only">
 ```

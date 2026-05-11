@@ -384,3 +384,27 @@ glossary:
     body: |
       The Bahrain test asks: is Bahrain's post-28-February-2026 behavior more consistent with operational bandwagoning with the US or with rhetorical hedging? The behaviors observable: CSIPA Article II invocation (5 March), leadership of the 135-state UNSC resolution, RAF Typhoon deployment hosting, and 160+ IRGC-linked internal detentions. Bandwagoning predicts all four; hedging predicts none of them. The test is the single cleanest discriminator between Lim-Cooper's bimodal-strict reading (some Gulf states bandwagon, others hedge) and Kuik's broad uniform-hedger reading. Bahrain's behavior decisively confirms the bimodal-strict reading.
     primer: null
+
+  - id: velayat-e-motlaqeh
+    title: "Absolute guardianship — velayat-e motlaqeh (1989)"
+    body: |
+      The 1989 constitutional amendment that placed the Supreme Leader's authority above any constitutional constraint. Khomeini ordered the revision in April 1989, two months before his death, partly because his planned successor Khamenei had only weak religious credentials. The amendment reduced religious qualifications for the faqih (shifting the basis from "top-rank marja'-e taqlid" to political knowledge), formalized the Supreme Leader's control over military, judiciary, IRGC, state media and major foundations, abolished the prime ministership, and constitutionalized the Expediency Council. The 1989 revision is the moment velayat-e faqih became *definitively political* rather than *definitively religious* — a fact often missed in Western analyses that treat the institution as an unchanging theocratic feature.
+    primer: null
+
+  - id: bani-sadr-marginalization
+    title: "Bani Sadr template — seven-step marginalization (1981)"
+    body: |
+      The institutional sequence by which Iran's first elected president — Abolhasan Bani Sadr, who won 76% of the vote in January 1980 — was eliminated within four months in 1981. The seven steps: (1) manufacture or amplify minor confrontations; (2) deploy the judiciary to investigate the moderate, not the attacker; (3) set up a "conciliation committee" institutionally favoring the establishment side; (4) close the moderate's media; (5) use the Majles to pass formal censure; (6) activate parastatal violence at moderate rallies; (7) deploy the Supreme Leader's constitutional powers for the final removal. The template has been replicated against Bazargan, Shariatmadari, Montazeri, Khatami, Karbaschi, Mousavi/Karrubi, and (per pattern) the Pezeshkian government in 2024-26.
+    primer: null
+
+  - id: four-layer-reformist-defeat
+    title: "Four-layer reformist-defeat funnel (Khatami case)"
+    body: |
+      The institutional mechanism that defeated Khatami's 1997-2005 reformist movement and has structurally defeated every elected reformist mandate inside the Islamic Republic. Layer 1 — Pre-electoral candidate veto: the Guardian Council disqualifies reformists before voters can vote (1992 Islamic Left, 1998 Assembly of Experts, 2004 Majles ~2,000 candidates including 80 sitting deputies). Layer 2 — Post-electoral legislative veto: the Guardian Council vetoes reform bills the elected Majles passes. Layer 3 — Judicial repression: the Supreme-Leader-controlled judiciary closes reformist newspapers, prosecutes editors, jails activists. Layer 4 — Parastatal violence: IRGC, Basij, and "rogue elements" of intelligence services operate outside legal accountability (1998 chain murders, 1999 dormitory raid, 2000 Hajjarian shooting). The four layers operate in series; survival requires breaking all four, which has not happened in any of the four reformist episodes since 1905. Sets a 5-15% base-rate probability for reformist-led termination of the 2026 war.
+    primer: null
+
+  - id: najaf-quietism
+    title: "Najaf quietism (Borujerdi → Khoei → Sistani)"
+    body: |
+      The mainstream 20th-century Twelver Shi'i tradition that holds clerical political activism should be a last-resort response to existential threats to Islam, not a normal mode of governance. The leadership runs through Najaf in Iraq: Aqa Hosain Borujerdi (d. 1961, Khomeini's own teacher), Mohsen al-Hakim, Abu al-Qasem al-Khoei (d. 1992), and currently Ali al-Sistani (b. 1930). The tradition explicitly rejects velayat-e faqih and limits clerical authority to a *veto* function over governmental actions inconsistent with Islam (the 1891 Tobacco Protest is paradigmatic). Sistani is the most senior living Shi'i marja' in 2026 and the institutional alternative to Khomeinist clerical rule — relevant to post-Khamenei succession scenarios in Q6 and to the structural depth of regime legitimacy in Q2.
+    primer: null
