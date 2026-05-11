@@ -11,13 +11,13 @@ glossary:
     title: "Free-rider hypothesis (Olson & Zeckhauser, 1966)"
     body: |
       In 1966 Mancur Olson and Richard Zeckhauser argued that alliances behave like clubs sharing a public good: once provided, every member benefits whether they paid or not, so small members rationally let larger members carry the cost. The classic example is NATO during the Cold War — the US provided most of the defense, smaller European allies under-contributed. The model assumes alliance members are formal equals and the security benefit can't be withheld from any member. Where those assumptions break — for instance, in patron-client hierarchies — the prediction of free-riding can mislead. Q12.4 argues this is the wrong frame for Gulf-US relations.
-    primer: null
+    primer: primer/hierarchy-clientelism.qmd
 
   - id: lake-hierarchy
     title: "Hierarchy / patron-client (Lake, 2009; Posen)"
     body: |
       David Lake's *Hierarchy in International Relations* (2009) argues many "alliances" are not between equals. The small state cedes some authority — over basing rights, foreign-policy alignment, weapons procurement — in exchange for security from the large state. The relationship is hierarchical and reciprocal: the patron is constrained by what it can demand without violating the implicit bargain. Barry Posen's parallel "patron-client" framing makes the same point. This frame predicts client states can resist patron action when patron requests damage client interests. Saudi airspace denial in 2026 fits the prediction. It is the right frame for Gulf-US relations.
-    primer: null
+    primer: primer/hierarchy-clientelism.qmd
 
   - id: omnibalancing
     title: "Omnibalancing (David, 1991; Gause, 2003/4)"
