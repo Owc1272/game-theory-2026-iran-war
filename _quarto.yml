@@ -13,7 +13,7 @@ filters:
 
 website:
   title: "Game Theory of the 2026 Iran War"
-  description: "A modular game-theoretic analysis of the 2026 US–Israel war on Iran. Primer, timelines, twelve analyses, and a section on disagreements."
+  description: "A modular game-theoretic analysis of the 2026 US–Israel war on Iran. Primer, timelines, and twelve analyses."
   site-url: ""    # populated after Pages is enabled
   repo-url: ""    # populated after repo is pushed
   navbar:
@@ -37,8 +37,6 @@ website:
         href: timelines/index.qmd
       - text: "Analyses"
         href: analyses/index.qmd
-      - text: "Disagreements"
-        href: disagreements/index.qmd
       - text: "Glossary"
         href: glossary.qmd
     right:
@@ -129,14 +127,6 @@ website:
             - analyses/q12-4-gulf-paradox.qmd
             - text: "Q12.5 — Post-war reconfiguration"
               href: analyses/q12-5-post-war-reconfiguration.qmd
-    - id: disagreements
-      title: "Disagreements"
-      style: floating
-      collapse-level: 2
-      contents:
-        - disagreements/index.qmd
-        - text: "Iran's strategy — deterrent or coercive?"
-          href: disagreements/iran-strategy-deterrent-vs-coercive.qmd
 
 format:
   html:
