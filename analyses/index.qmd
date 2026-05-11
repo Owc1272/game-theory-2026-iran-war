@@ -15,8 +15,8 @@ subtitle: "Each chapter takes one question, one canonical formal model (or where
 | Q6 | What ends the war? | drafting |
 | **Q7** | **[Opportunities and risks for Russia in Ukraine?](q7-russia-ukraine.qmd)** | **chapter live** |
 | **Q8** | **[Opportunities and risks for China vis-à-vis Taiwan?](q8-china-taiwan.qmd)** | **chapter live** |
-| Q9 | What does the war do to the Europe-US relationship? | drafting |
-| Q10 | Does the US have a structural interest in Hormuz *not* fully reopening? | drafting |
+| **Q9** | **[What does the war do to the Europe-US relationship?](q9-europe-us-relationship.qmd)** | **chapter live** |
+| **Q10** | **[Does the US have a structural interest in Hormuz *not* fully reopening?](q10-us-hormuz-interest.qmd)** | **chapter live** |
 | **Q11** | **[How should the US-Israel coalition be conceptualized?](q11-us-israel-coalition.qmd)** | **chapter live** |
 | Q12 | How have Gulf-state strategies evolved before and after the war? | partial — see below |
 

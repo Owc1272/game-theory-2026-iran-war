@@ -72,6 +72,10 @@ website:
           href: analyses/q7-russia-ukraine.qmd
         - text: "Q8 — China vis-à-vis Taiwan"
           href: analyses/q8-china-taiwan.qmd
+        - text: "Q9 — Europe-US relationship"
+          href: analyses/q9-europe-us-relationship.qmd
+        - text: "Q10 — US Hormuz structural interest"
+          href: analyses/q10-us-hormuz-interest.qmd
         - text: "Q11 — US-Israel coalition structure"
           href: analyses/q11-us-israel-coalition.qmd
         - section: "Q12 — Gulf states"

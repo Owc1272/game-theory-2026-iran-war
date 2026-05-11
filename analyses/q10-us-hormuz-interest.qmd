@@ -1,0 +1,422 @@
+---
+title: "Q10 — Does the US have a structural interest in Hormuz NOT fully reopening?"
+subtitle: "Qualified yes, but the structural part is the strategic envelope, not the policy choice. Within the envelope, administration variation determines whether the US pursues consumer-side (Biden 2022) or producer-side (Trump 2026)."
+description: "The 2022 Biden case is the base-rate killer for the strong-form structural claim. Same US net-exporter status, opposite revealed wartime energy policy. Q10 ends up at admin-contingent producer-coalition dominance within a US-as-energy-exporter envelope."
+categories: [analysis, q10, us-energy-policy, hormuz, grossman-helpman, krasner-kelanic]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+Hormuz throughput collapsed from 138 daily transits to 4 (a 97% reduction). Trump declined the 16 March Saudi/UAE call to fully reopen. He released only 22.7 mb from the SPR (Biden released 180 mb in 2022 over a Russian-oil shock of ~10% magnitude). Is the US structurally interested in keeping Hormuz partially blocked — because the US is now the world's largest oil and LNG producer, and each $10/b Brent uplift is worth ~$50bn/yr to US producers? Or is this just Trump's coalition, not a structural feature of the US polity?
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+After 28 February 2026, Hormuz throughput collapsed from 138 daily transits to 4 — a 97% reduction. Trump declined the 16 March Saudi/UAE call to fully reopen the Strait. The Trump administration released only 22.7 million barrels from the Strategic Petroleum Reserve between 27 February and 1 May 2026 — for comparison, Biden released 180 million barrels in 2022 over a much smaller Russian-oil shock (~10% magnitude). Operation Project Freedom (4 May+) restored escort operations and partial commercial transit but was deliberately bounded; the dual blockade (Western on Iran, Iranian on Hormuz) continues. Meanwhile US shale producers are *expanding* drilling capacity in the Permian; LNG export terminals are running at design throughput; US LNG is now ~60% of EU imports. The structural claim: the US — as the world's largest oil and LNG producer — has a *structural* interest in Hormuz *not* returning to pre-war flow levels. Each $10/b sustained Brent uplift yields ~$50bn/year to US oil sector revenue. The Asian buyer dependence on US LNG deepens. The strategic-rivalry containment of CRINK tightens. Is this a structural feature of the post-shale US polity — or is it Trump's coalition specifically, reversible on administration change? The 2022 Biden case is the load-bearing test.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *Qualified yes (weak-form), administration-contingent within a structural envelope (P ≈ 0.55).* Two load-bearing mechanisms: **α** [Grossman-Helpman lobby-weight]{.gloss data-gloss="grossman-helpman-lobby"} — Trump-admin producer-coalition dominance reflects domestic political economy, not structural relocation. **β** [Kelanic-inverted command-of-commons]{.gloss data-gloss="kelanic-command-of-commons"} + [Krasner-HST Saudi-exporter exception]{.gloss data-gloss="krasner-hegemonic-stability"} — sets the strategic envelope within which producer-side options are strategically permissible. The 2022 Biden case (180 mb SPR; identical structural status) is the base-rate killer for the strong-form. Reversible on administration change.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *Qualified yes with administration-contingent framing (P ≈ 0.55).* The weak-form claim — Trump-admin producer-coalition dominance is currently operative — holds. The strong-form claim — US polity has *structurally relocated* to producer-side interest regardless of admin — is **rejected** (P ≈ 0.25, capped by the 2022 Biden base-rate disconfirmer). Two load-bearing mechanisms operating simultaneously. **α — [Grossman-Helpman lobby-weight]{.gloss data-gloss="grossman-helpman-lobby"} dominance under Trump admin specifically**: the government's revealed objective function *v⁰ = ΣA_i(p) + α·W(p)* has low α-weight on aggregate consumer welfare; producer-coalition contributions (Permian operators, LNG exporters, oil-state Senate caucus) dominate. P(operative) = 0.80; P(load-bearing for policy choice) = 0.60. **β — [Kelanic-inverted command-of-commons]{.gloss data-gloss="kelanic-command-of-commons"} + [Krasner-HST Saudi-exporter exception]{.gloss data-gloss="krasner-hegemonic-stability"}**: post-shale net-exporter status creates a structural envelope within which producer-side options are strategically permissible (US can sustain disruption without inviting coercive response from rivals). P(operative) = 0.85; P(load-bearing for envelope) = 0.40. **α determines policy choice; β sets the feasible set.** The 2022 Biden case is the base-rate disconfirmer for strong-form: under identical US net-exporter status, Biden chose consumer-side (180 mb SPR; aggressive Saudi production diplomacy; Russian-oil price-cap rather than embargo). Six load-bearing T3 inferences cap the posterior at ≤ 0.55 per META rule 5. Q10 is the third principled-multi-framework case in the project (after Q7 and Q9) — the framework-domain mapping (Grossman-Helpman domestic political economy × Krasner-Kelanic international structural position) is *literature-derived* and pre-analysis, not Lakatos rescue.
+:::
+
+```{=html}
+</div>
+```
+
+[Q10 used the **Tier-2 abbreviated protocol** (steel-mans A/B/C written in-house rather than delegated; pre-Q corpus audit substituted for in-depth corpus pull; no separate DA cycle). The seven META rules caught what a DA cycle would have caught — mechanism inflation 6→2, the partial-disruption-hypothesis rescue subsumption, the base-rate disconfirmer. The headline finding is honest underdetermination (weak-form 0.55; strong-form 0.25), comparable to Q11's posture.]{.column-margin .deep-only}
+
+```{=html}
+<div class="deep-mode-indicator">
+<strong>Deep mode is on.</strong> Paragraphs expand with the formal Grossman-Helpman apparatus, the base-rate table comparing 2022 Biden to 2026 Trump, the structurally-locked-in test (META rule 3), pre-registered falsification criteria, and pre-mortem. Switch back to <em>Concise</em> at the top of the page to collapse.
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — Tier-2 abbreviated protocol + the BIDIRECTIONAL META rule 7 test
+
+This chapter applies the Tier-2 abbreviated protocol: pre-Q corpus audit, three new acquisitions (Krasner 1976, Kelanic 2020, Grossman-Helpman 1994), steel-mans A/B/C written in-house, the seven META rules applied throughout. No separate multi-agent DA cycle; META rule discipline substitutes. The most consequential moves: META rule 2 (base-rate) catches the 2022 Biden disconfirmer that kills strong-form; META rule 3 (currently-dominant vs structurally-locked-in) forces the weak-form finding; META rule 4 (mechanism reduction) collapses six candidates to two; META rule 6 (no refinement rescue) subsumes the partial-disruption hypothesis under weak-form. Q10 also applies the BIDIRECTIONAL form of META rule 7 (generated by Q9): test unitary alternatives *before* defaulting to multi-framework. No single framework covers both the domestic-political-economy axis (admin variation) and the international-structural-position axis (US net-exporter + command-of-commons). The multi-framework finding is principled (literature-derived domains), not rescue.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  Q[Does US have<br/>structural interest in<br/>Hormuz NOT fully<br/>reopening?]
+  Q --> S[Strong-form:<br/>polity structurally<br/>relocated to<br/>producer-side]
+  Q --> W[Weak-form:<br/>Trump-admin<br/>producer-coalition<br/>dominance]
+  Q --> P[Partial-disruption:<br/>active management<br/>toward specific<br/>throughput levels]
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef s fill:#f6f8fa,stroke:#d0d7de
+  class Q q
+  class S,W,P s
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**Three readings.** *Strong-form*: structural relocation — any US admin would now pursue producer-side wartime policy. *Weak-form*: Trump-admin producer-coalition dominance — reflects domestic political economy, reversible on admin change. *Partial-disruption*: active management toward 50-70% throughput. The 2022 Biden case is the base-rate test: identical US net-exporter status, opposite admin policy.]{.concise-only}
+
+::: {.deep-only}
+**Three readings of the same observed Trump-admin behavior pattern.** *Strong-form structural-yes*: the US has structurally relocated to a producer-side interest such that any administration would pursue producer-side wartime policy. Anchor: post-shale net-exporter status; Kelanic-inverted command-of-commons; Krasner's Saudi-exporter exception; producer-state structural political weight (8 of 100 Senate seats from oil-state coalition). *Weak-form admin-contingent*: the producer-side revealed preference reflects Trump-administration coalition composition specifically, not US-polity structural relocation. Anchor: Grossman-Helpman 1994 government objective function with variable α-weight; Putnam two-level games for Level-II constraints; Olson's collective-action logic on concentrated producer vs diffuse consumer interests. *Partial-disruption*: the US is actively managing throughput toward specific intermediate levels — high enough to keep prices elevated, low enough to avoid global recession and full ally defection (the plan §3 explicit prior). The 2022 Biden case is the load-bearing base-rate test for the strong-form: under identical US net-exporter structural status, did the admin choose producer-side or consumer-side?
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  B[2022 Biden]
+  T[2026 Trump]
+  B --> B1[180 mb SPR release<br/>largest in US history]
+  B --> B2[Aggressive Saudi<br/>production diplomacy<br/>July 2022 fist-bump]
+  B --> B3[Russian-oil price-cap<br/>not embargo]
+  T --> T1[22.7 mb SPR release<br/>moderate]
+  T --> T2[Declined Saudi/UAE<br/>16 March Hormuz call]
+  T --> T3[Sustained dual blockade<br/>+ LNG export ramp]
+  B1 --> S[Same US net-exporter status<br/>Opposite revealed policy]
+  T1 --> S
+  S --> K[Base-rate disconfirms<br/>strong-form]
+  classDef b fill:#0969da,color:#fff,stroke:#0969da
+  classDef t fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef o fill:#f6f8fa,stroke:#d0d7de
+  classDef k fill:#dafbe1,stroke:#2da44e
+  class B b
+  class T t
+  class B1,B2,B3,T1,T2,T3 o
+  class S,K k
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**The base-rate killer.** 2022 Biden under identical US net-exporter status: 180 mb SPR release (largest in US history), aggressive Saudi production pressure (the July 2022 fist-bump trip), Russian-oil price-cap rather than embargo. 2026 Trump: 22.7 mb SPR (~12% the size), declined Saudi/UAE Hormuz-opening call, sustained dual blockade. Same structural status; opposite revealed policy. *Strong-form is dead.*]{.concise-only}
+
+::: {.deep-only}
+**The base-rate killer for strong-form.** META rule 2 (base-rate analysis) requires an explicit comparison case. The 2022 Russia-Ukraine response is the load-bearing case: same US net-exporter structural status; opposite admin policy choice. *Biden's revealed wartime energy policy (March-October 2022)*: 180 million barrel SPR release — the largest in US history, 1 million barrels per day for six months; aggressive Saudi production diplomacy including Biden's July 2022 fist-bump Riyadh visit pressing MBS for ramp-up; initially declined Russian-oil sanctions; eventually opted for a Russian-oil price-cap rather than embargo because of price concerns. Net effect: Brent peaked at $128/b in March 2022 (the 2026 Iran war reached an identical $128/b peak on 2 April); Biden's response was *price-suppressive*. Trump's response in 2026 is *price-permissive*. *The strong-form's prediction "any US admin under net-exporter status would pursue producer-side wartime policy" is empirically false.* The 22.7 mb 2026 SPR release is ~12% the size of Biden's 2022 release for a war that has produced a 97% Hormuz reduction (vs Biden's ~10% Russian-oil shock). The base-rate inference: P(admin choosing producer-side | net-exporter + war + Republican with oil-state coalition) ≈ 0.75; P(admin choosing producer-side | net-exporter + war + Democratic) ≈ 0.20. The admin variable dominates the structural variable in observed revealed preference. Confounders aside (2026 has higher peak severity, higher CRINK rivalry stakes, higher producer-coalition political weight in admin), no plausible counterfactual has Biden 2022 sustaining a 97% Hormuz blockade while declining ally restoration requests.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  GH[α Grossman-Helpman<br/>lobby-weight<br/>government objective]
+  GH --> EQ["v0 = sum A_i(p) + alpha W(p)"]
+  EQ --> AL[α Trump<br/>much less than<br/>α Biden]
+  AL --> P1[Trump: producer-coalition<br/>contributions dominate]
+  AL --> P2[Biden: consumer-coalition<br/>welfare dominates]
+  P1 --> PR[Predicts<br/>Trump sustains<br/>disruption while<br/>gasoline less than $4.50]
+  P2 --> PR2[Predicts<br/>Biden chose<br/>consumer-side]
+  classDef g fill:#0969da,color:#fff,stroke:#0969da
+  classDef e fill:#f6f8fa,stroke:#d0d7de
+  classDef p fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-grossman-helpman-lobby stroke-width:2px
+  class GH g
+  class GH gt-gloss-grossman-helpman-lobby
+  class EQ,AL,P1,P2 e
+  class PR,PR2 p
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Mechanism α — [Grossman-Helpman lobby-weight]{.gloss data-gloss="grossman-helpman-lobby"} dominance under Trump admin.** The government's revealed objective is *v⁰ = ΣA_i(p) + α·W(p)*. α_Trump ≪ α_Biden. The α parameter is *exogenous* in this period (set by election results, coalition composition); endogenous over longer horizons. Predicts: Trump admin sustains disruption while consumer-coalition mobilization is below threshold (gasoline national average < $4.50/gal sustained 60 days).]{.concise-only}
+
+::: {.deep-only}
+**Mechanism α — [Grossman-Helpman lobby-weight]{.gloss data-gloss="grossman-helpman-lobby"} dominance under Trump admin specifically.** The formal apparatus: the government's revealed policy objective is *v⁰ = ΣA_i(p) + α·W(p)* where v⁰ is the government's revealed objective function, A_i(p) is the contribution schedule from organized interest group i (here: producer coalition — Permian operators, LNG exporters, oil-state Senate caucus), W(p) is aggregate welfare of voters (here: consumer coalition, diffuse), and α is the weight government attaches to aggregate welfare relative to net valuation of contributions. *Trump 2026 has α_Trump ≪ α_Biden.* Producer-coalition contributions dominate the revealed-policy function. Biden 2022 had α_Biden ≫ α_Trump — consumer-coalition concerns (gasoline-price politics, electoral consequence) dominated. The α parameter is exogenous to the model in this period (set by election results, coalition composition); it is endogenous over longer horizons (lobby-weight investments shape future α). *Predictions (operationalized)*: Trump admin sustains Hormuz disruption while consumer-coalition mobilization remains below threshold (gasoline national average < $4.50/gal). If gasoline national average sustains > $4.50/gal for 60+ days, expect partial pivot (SPR release acceleration; Saudi production pressure). A Democratic admin succeeding Trump (2029) under similar structural conditions would pivot to consumer-side; the reversal would take 6-12 months due to producer-coalition investment path-dependence. Posterior: P(operative) = 0.80; P(load-bearing for Q10 policy choice) = 0.60. Three load-bearing T3 inferences.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  KK[β Kelanic-inverted<br/>+ Krasner Saudi-exporter<br/>exception]
+  KK --> E1[US uniquely invulnerable<br/>to oil coercion<br/>command of commons]
+  KK --> E2[US is chief military<br/>threat to others'<br/>oil access]
+  KK --> E3[Saudi-exporter exception:<br/>large reserves reduce<br/>opportunity cost of closure]
+  E1 --> ENV[Strategic envelope:<br/>US can sustain disruption<br/>without coercive response]
+  E2 --> ENV
+  E3 --> ENV
+  ENV --> NOT[β sets envelope<br/>does NOT determine<br/>policy choice]
+  classDef k fill:#0969da,color:#fff,stroke:#0969da
+  classDef e fill:#f6f8fa,stroke:#d0d7de
+  classDef env fill:#fff8c5,stroke:#d4a72c
+  classDef gt-gloss-kelanic-command-of-commons stroke-width:2px
+  classDef gt-gloss-krasner-hegemonic-stability stroke-width:2px
+  class KK k
+  class KK gt-gloss-kelanic-command-of-commons
+  class E1,E2,E3 e
+  class ENV,NOT env
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Mechanism β — Structural envelope.** [Kelanic-inverted command-of-commons]{.gloss data-gloss="kelanic-command-of-commons"} (US uniquely invulnerable; chief military threat) + [Krasner Saudi-exporter exception]{.gloss data-gloss="krasner-hegemonic-stability"} (large reserves reduce opportunity cost of closure) set the *envelope* within which producer-side options are strategically permissible. **β does NOT determine policy choice** — that's α's job. β determines the feasible set.]{.concise-only}
+
+::: {.deep-only}
+**Mechanism β — International structural envelope from US post-2018 net-exporter status + command-of-commons.** Formal apparatus: [Kelanic 2020]{.gloss data-gloss="kelanic-command-of-commons"} on the US's unique invulnerability to oil coercion (command-of-commons makes the US the chief military threat to other states' oil access, not a target of such threats); [Krasner 1976]{.gloss data-gloss="krasner-hegemonic-stability"} on hegemons' preferences depending on relative power × four state goals, with the explicit Saudi-exporter exception when reserves dramatically reduce the opportunity cost of closure. *Application to Q10*: US 2026 satisfies the Saudi-exporter-exception structural condition — large reserves + production capability + command-of-commons + LNG export leverage. The "hegemon prefers openness" prediction (Krasner default) is *reversed* for the energy-system subdomain. The strategic envelope set: US can sustain Hormuz disruption without inviting coercive response from rivals (no rival has the naval reach to retaliate against US continental positions); US can absorb its own consumer-side political costs because of fiscal capacity; US can offer LNG/oil to disrupted allies, deepening dependency. *This mechanism does NOT determine policy choice* — β does not select between Trump and Biden revealed preferences. β sets the outer envelope of feasibility. *Predictions (operationalized)*: the envelope is binding when consumer-side mobilization fully exceeds producer-coalition weight; even then, full restoration is not pursued because of CRINK strategic stakes. The envelope contracts if (a) US net-exporter status reverses (low probability 2026-30; rising 2030+) or (b) command-of-commons erodes (e.g., A2/AD parity from PLA Navy by 2035). Within the envelope, admin variation determines policy; the envelope itself is structurally stable on a 5-10 year horizon. Posterior: P(operative) = 0.85; P(load-bearing for envelope) = 0.40. Two load-bearing T3 inferences. **α and β are NOT additive on policy choice.** α is the *selection* mechanism (within envelope); β is the *bounding* mechanism (envelope edges). Both simultaneously operative; one determines outcome, the other determines feasible set.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) posteriors on Q10 headline alternatives; (2) base-rate table 2022 vs 2026; (3) mechanism interaction diagram.
+
+### Figure 1 — Posterior over Q10 headline alternatives
+
+```{ojs}
+//| label: fig-q10-posteriors
+//| fig-cap: "Posterior probabilities over Q10 headline alternatives. Weak-form admin-contingent finding at 55% (META rule 5 capped from initial 0.65 estimate); strong-form structural relocation at 25% (base-rate disconfirmed)."
+
+{
+  const headlineData = [
+    {id: "W", full: "W — Weak-form admin-contingent (Trump-α dominance within β envelope)", post: 0.55, tier: "T3"},
+    {id: "S", full: "S — Strong-form structural relocation (any admin would pursue producer-side)", post: 0.25, tier: "T3"},
+    {id: "O", full: "Other / hybrid (subsumes partial-disruption hypothesis)", post: 0.20, tier: "T4"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 240 : Math.max(320, Math.min(440, Math.round(width * 0.4)));
+  const data = headlineData.map(d => ({ ...d, display: isMobile ? d.id : d.full }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 56 : Math.max(380, Math.round(width * 0.36)),
+    marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Posterior probability",
+      domain: [0, 0.6],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: data.map(d => d.display) },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.barX(data, {
+        x: "post", y: "display",
+        fill: "tier", insetTop: 8, insetBottom: 8,
+        channels: {
+          Headline: "full",
+          "Posterior": d => `${Math.round(d.post * 100)}%`,
+          Tier: "tier"
+        },
+        tip: {
+          lineWidth: 35,
+          fontSize: isMobile ? 12 : 13
+        }
+      }),
+      Plot.text(data, {
+        x: "post", y: "display",
+        text: d => `${Math.round(d.post * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
+      }),
+      Plot.ruleX([0.55], { stroke: "#cf222e", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+      Plot.text([{ x: 0.55, y: data[0].display }], {
+        x: "x", y: "y", text: () => "T3-inference cap →",
+        dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
+        fontSize: annotFont, fill: "#cf222e", fontStyle: "italic", fontWeight: 500
+      })
+    ]
+  });
+}
+```
+
+[**Reading the chart.** The dashed red line at 55% is the META rule 5 posterior cap for principled-multi-framework findings carrying six load-bearing T3 inferences. The weak-form admin-contingent finding sits at the cap (down from initial 0.65 estimate per META-rule-5 downgrade). Strong-form structural relocation at 25% is capped by the 2022 Biden base-rate disconfirmer. Other/hybrid at 20% subsumes the partial-disruption hypothesis (META rule 6 — no separate refinement; the partial pattern is the observable surface of α equilibrium under specific consumer-mobilization thresholds).]{.concise-only}
+[**Reading the chart.** Each row is a Q10 headline alternative. The dashed red line at 55% marks the META rule 5 posterior cap for the weak-form principled-multi-framework finding, capped from an initial 0.65 estimate by six load-bearing T3 inferences (Trump α inference, producer-coalition load-bearing, structural-envelope non-determining, Krasner extension, max-bounded reading, partial-disruption subsumption). Weak-form sits at the cap. Strong-form at 25% is capped by the 2022 Biden base-rate disconfirmer (META rule 2): under identical US net-exporter status, Biden chose consumer-side (180 mb SPR, fist-bump Saudi diplomacy, Russian-oil price-cap rather than embargo). The 2022 case empirically falsifies the strong-form prediction "any admin would pursue producer-side." Other/hybrid at 20% subsumes the plan §3 partial-disruption hypothesis (META rule 6 forbids preserving as separate refinement — the "partial" pattern is the observable surface of α equilibrium under specific consumer-mobilization thresholds, not a distinct mechanism). Both tier-3 (red) finding rows have ~5 T3 inferences each; the tier-4 (grey) other/hybrid row captures unobservable tail scenarios.]{.deep-only}
+
+### Figure 2 — 2022 Biden vs 2026 Trump base-rate
+
+| Year | Conflict | US net-exporter? | Admin | Revealed wartime energy policy |
+|---|---|:---:|---|---|
+| 2022 | Russia-Ukraine | **Yes** | Biden | **180 mb SPR; aggressive Saudi diplomacy; Russian oil price-cap not embargo; consumer-side framing dominant** |
+| **2026** | **Iran war** | **Yes** | **Trump** | **22.7 mb SPR; declined Saudi/UAE 16 March Hormuz call; sustained dual blockade; LNG export ramp** |
+
+[Same US structural status. Opposite admin policy choice. The 2022 Biden case empirically falsifies the strong-form prediction "any US admin under net-exporter status would pursue producer-side wartime policy."]{.column-margin}
+
+### Figure 3 — Mechanism interaction
+
+```{mermaid}
+flowchart TB
+  W[Weak-form headline<br/>P=0.55]
+  W --> A[α Grossman-Helpman<br/>lobby-weight<br/>SELECTION mechanism<br/>P load-bearing=0.60]
+  W --> B[β Kelanic + Krasner<br/>structural envelope<br/>BOUNDING mechanism<br/>P load-bearing=0.40]
+  A --> AP[Determines policy choice<br/>within feasible set]
+  B --> BP[Sets feasible set<br/>does NOT select<br/>among options]
+  AP --> EQ[Trump-admin α-low policy<br/>= sustained Hormuz disruption<br/>+ producer-coalition payoff]
+  BP --> EQ
+  classDef w fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef p fill:#f6f8fa,stroke:#d0d7de
+  classDef e fill:#fff8c5,stroke:#d4a72c
+  class W w
+  class A,B m
+  class AP,BP p
+  class EQ e
+```
+
+[α and β are not additive on policy choice. α is the *selection* mechanism (within envelope); β is the *bounding* mechanism (envelope edges). Both simultaneously operative; one determines outcome, the other determines feasible set. The headline finding: yes — but the "structural interest" is the envelope, not the policy choice. Reversible on administration change per META rule 3.]{.concise-only}
+[The mechanism interaction is the load-bearing analytical move. α and β operate simultaneously but serve different functions. α — Grossman-Helpman lobby-weight — is the *selection* mechanism: it determines what policy choice the administration makes from the available options. β — Kelanic-inverted + Krasner Saudi-exporter exception — is the *bounding* mechanism: it determines which options are strategically permissible at all. The structural envelope is what makes Trump's producer-side choice *feasible*; it does not make the choice *necessary*. Under a Democratic administration with a different α, the same envelope would permit consumer-side policy (the Biden 2022 case). The strong-form claim — "US polity has structurally relocated such that any admin would choose producer-side" — would require β to *force* the choice, not merely permit it. The 2022 Biden disconfirmer shows β does not force the choice. The weak-form survives; the strong-form does not.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+### Figure 4 — Pre-registered falsification criteria
+
+Track over next 90 days:
+
+| Falsifier | Predicts | Falsifies if |
+|---|---|---|
+| Saudi production pressure | Trump admin will NOT publicly/privately request >1.5 mb/d Saudi ramp-up | Public demarches asking for >1.5 mb/d Saudi production increase |
+| SPR drawdown acceleration | Total release stays under 70 mb cumulative | Sustained >5 mb/wk release accelerating beyond 22.7 mb already released |
+| Sanctions-relief offer | Ceasefire terms do NOT include sanctions-relief on Iranian oil exports | Ceasefire terms include Iranian-oil sanctions-relief |
+| Lobby-weight incoherence | Trump admin does NOT extend support for both Permian severance-tax cut AND anti-shale-export restrictions | Both extended simultaneously (would indicate lobby weight is incoherent) |
+| Strong-form falsifier | (Pre-falsified by 2022 Biden case) | — already pre-falsified — |
+
+If two or more falsifiers fire within 90 days, weak-form posterior drops below 0.50 and the finding requires substantial revision.
+
+### Figure 5 — Source-confidence tier audit
+
+Of the synthesis's load-bearing claims:
+
+- **[T1]{.tier .tier-1} multi-source verified:** US is world's largest oil + LNG producer (multiple sources); 22.7 mb SPR release between 27 Feb-1 May (Argus, briefing); Trump declined 16 March ally-support call (Wikipedia + multiple); 138→4 daily Hormuz transits, 97% reduction (Hormuz SYNTHESIS); 2022 Biden SPR 180 mb release (DOE records, public); NATO Article 4 not invoked despite multiple territorial strikes (NATO/Rutte).
+
+- **[T2]{.tier .tier-2} single-source named:** Each $10/b Brent ≈ $50bn/yr US oil revenue (back-of-envelope from production × price); Trump-coalition oil-state political weight (multiple sources document TX, OK, ND donor + Senate weight; specific % unmeasured); Kelanic-inverted "command-of-commons" applies to 2026 case (Kelanic explicitly identifies the inversion).
+
+- **[T3]{.tier .tier-3} inference from evidence:** **Trump admin lobby-weight α is structurally lower than Biden α** (inference from policy revealed-preference plus electoral-coalition composition; no smoking-gun document); **[Producer-coalition mechanism is load-bearing for Q10 policy]{.gloss data-gloss="grossman-helpman-lobby"}** (inferred from steel-man B; depends on T3 lobby-weight inference); **Structural-envelope mechanism is operative but non-determining** (inferred from steel-man B counterfactual against Biden 2022); [Krasner HST applies to US-as-quasi-exporter]{.gloss data-gloss="krasner-hegemonic-stability"} (Krasner identifies Saudi-exporter exception but does not extend to US case); "Trump admin pursues max disruption bounded by recession risk" (inferred from observed pattern); the partial-disruption hypothesis is subsumed under weak-form (subsumption argument is inference).
+
+- **[T4]{.tier .tier-4} conjecture:** none in the load-bearing path; "other/hybrid" 20% headline alternative is a tier-4 catch-all.
+
+**Six load-bearing T3 inferences** trigger the META rule 5 posterior cap at ≤ 0.50-0.55 on the weak-form headline. The reconciled posterior at 0.55 is at the upper bound permitted (six inferences include redundancy: Trump α, producer load-bearing, and max-bounded are essentially three views of the same inference; effective count is 3-4 and cap is ≤ 0.55).
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+The most likely ways the analysis will be wrong:
+
+1. **Underestimating producer-coalition durability** (P ≈ 0.20). The Permian financial sector + oil-state Senate caucus has lobby-weight α-effect that persists across admin changes — Democratic admins from 2029+ feel similar pressure. Weak-form is wrong and a strengthened weak-form (or even strong-form) is correct.
+
+2. **Misreading Biden 2022 case** (P ≈ 0.20). Biden 2022 was actually responding to recession-risk concerns (the envelope's hard edge from β) rather than consumer-coalition lobby-weight (α). The admin variation is illusory — it's the same mechanism (envelope binding) firing under different parameters.
+
+3. **CRINK containment is the actually-load-bearing mechanism, not producer-coalition** (P ≈ 0.25). The Trump admin's revealed preference is primarily about CRINK strategic-rivalry containment rather than producer-revenue. The signature would be Trump admin sustaining Hormuz pressure even after gasoline prices fully normalize (i.e., even after α-mechanism would have predicted pivot).
+
+4. **Partial-disruption hypothesis was right** (P ≈ 0.15). The subsumption may be premature. If Trump admin actively moderates throughput at specific levels (e.g., explicit calls for restoring 50% of pre-war flow), the partial-preference framing is the actual mechanism.
+
+5. **The 2022/2026 cases are not comparable** (P ≈ 0.20). Structural conditions differ enough that the base-rate inference fails (2022 Russian-oil shock was 10% vs 2026 Hormuz at 97%; admin response under 97% scenario could be uniform across parties). Strong-form revives.
+
+**Total probability the finding is substantively wrong**: ≈ 0.40 (with overlap; not strictly additive). Consistent with the META-rule-5-capped posterior of 0.55.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Connections to other Q-chapters
+
+| Q-chapter | How Q10 connects |
+|---|---|
+| [Q1](q1-why-bargaining-failed.qmd) | Trump's bargaining position was NOT unitary US-interest-driven but reflected producer-coalition's α-weighted preferences |
+| [Q5](q5-bargaining-range.qmd) | US's reservation point on Iran terminal status is "level of disruption consistent with α-Trump producer-coalition payoff" — narrower than Q5's empty/non-empty finding |
+| [Q7](q7-russia-ukraine.qmd) | Q10 mechanism α (producer-coalition lobby-weight dominance) generalizes to Russia: Putin's regime-survival under Goemans is a closely-related domestic-political-economy mechanism in a different formal apparatus |
+| [Q8](q8-china-taiwan.qmd) | Q10 mechanism β (CRINK financial-architecture containment) is the same mechanism as Q8's σ' (CIPS + May 2 blocking statute) — different observational surfaces of the same state-variable transition |
+| [Q9](q9-europe-us-relationship.qmd) | Q10's revealed US-defection from public-good provision is the *empirical surface* of the Pape soft-balancing dimension (Q9). EU's diplomatic reorientation is a *response to* the US α-shift from Biden to Trump |
+| [Q11](q11-us-israel-coalition.qmd) | Q10's domestic-political-economy mechanism applies to the US side of Q11's Stackelberg-or-P-A-slippage finding |
+| [Q12.4](q12-4-gulf-paradox.qmd), [Q12.5](q12-5-post-war-reconfiguration.qmd) | Q10 sharpens Q12.5's Configuration F: if US patron has structurally relocated to producer-side interest, Gulf clients' rational response is to construct alternative architecture — exactly what Configuration F observes. Q10 provides the *causal* mechanism for Q12.5's *descriptive* configuration shift |
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+Companion analysis file: [`Q10_us_oil_producer_hormuz_interest.md`](https://github.com/) — final reconciled deliverable. Tier-2 abbreviated protocol; no separate steel-man / DA delegated cycle.
+
+Key citations: @grossmanhelpman1994protection, @krasner1976state, @kelanic2020black, @olson1965logic, @putnam1988diplomacy, @farrell-newman2019weaponized, @lake2009hierarchy.
+
+**Highest-priority remaining corpus gaps for Q10 verification:**
+
+- Permian / LNG producer-coalition political contribution flows (specific dollar-weighted measures of lobby α).
+- Direct evidence on whether the 22.7 mb SPR release was at the "ceiling Trump admin would tolerate" vs "below ceiling but politically optimal."
+- Survey of Democratic-presidential-nominee positions on wartime energy policy (forward base-rate check for 2028).
+
+```{=html}
+</div>
+```

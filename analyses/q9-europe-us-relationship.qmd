@@ -1,0 +1,416 @@
+---
+title: "Q9 — What does the 2026 Iran war do to the Europe-US relationship?"
+subtitle: "Three dimensions, three frameworks, one structurally heterogeneous European response — and the methodological rule (META rule 7) that distinguishes principled multi-framework finding from post-hoc rescue."
+description: "Europe is decoupling on diplomacy and security while deepening on finance. The dimension-specific finding is principled, not rescue — because Pape, Posen, and Farrell-Newman have natively distinct domains."
+categories: [analysis, q9, europe, transatlantic, pape, ikenberry, posen]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+The transatlantic press contradicts itself by dimension. Macron invoked Article 42.7 on European soil. Spain refused Rota/Morón for offensive Iran operations. Germany announced a 460,000-troop target. But EU LNG dependence is now ~60% US-sourced, the EU said nothing about China's 2 May blocking statute, and EU sanctions architecture stays aligned with the US. Decoupling on diplomacy and security; deepening on finance. Which is the *real* trajectory?
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+The transatlantic press has contradicted itself by dimension since 28 February 2026. *On diplomacy*: EU foreign-policy chief Kallas said the US war "shaken the transatlantic relationship to its foundation." Macron invoked Article 42.7 (the EU Treaty's mutual defense clause) in Athens on 26 April. Spain refused Rota/Morón for offensive Iran operations; Poland refused Patriot redeployment; the E3 (UK/France/Germany) issued a joint statement on 1 March that did not endorse the US strikes. *On security*: Macron announced an 8-country aircraft deployment framework; Germany's mid-2030s target is 460,000 troops; the Enders €50bn/year German expert plan names 10 capability gaps to close. *On finance*: US LNG dependence has now deepened to ~60% of EU LNG imports; EU silent on China's 2 May 2026 blocking statute; EU IRGC designation 29 January demonstrated EU-US sanctions convergence rather than divergence; the renminbi alternative architecture remains too thin (~2% of FX reserves) to give EU firms a viable hedge. Which trajectory is real? A single-framework answer would say "decoupling" or "deepening" or "no real change." The empirical record matches *none* of the unitary answers cleanly. The puzzle Q9 sets: what's actually happening, and which framework captures it?
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *Dimension-specific framework dominance, not a unitary answer (P ≈ 0.50)*. Diplomacy → [Pape soft-balancing]{.gloss data-gloss="pape-soft-balancing"} (institutional friction, no military rupture). Security → [Posen F3-trending-from-F2]{.gloss data-gloss="posen-restraint"} (capability plans announced, execution pending). Finance → [Ikenberry with erosion]{.gloss data-gloss="ikenberry-institutional-persistence"} bounded by [Farrell-Newman γ]{.gloss data-gloss="farrell-newman-interdependence"} (LNG/SWIFT/sanctions architecture is a structural trap). The finding is *principled* multi-framework, not Lakatos rescue — these frameworks have natively distinct domains in the literature.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *Dimension-specific framework dominance, not a unitary answer*: posterior P ≈ 0.50, with no uniform-framework alternative breaching the 25% threshold. The diplomatic / institutional dimension fits [Pape's soft-balancing]{.gloss data-gloss="pape-soft-balancing"} cleanly: Article 42.7 invocation, Spain's Rota/Morón refusal, EU IRGC designation friction, "quiet quitting" of US Iran policy through institutional channels rather than military counterbalancing. The security architecture dimension is [Posen F3-trending-from-F2]{.gloss data-gloss="posen-restraint"}: Macron 8-country aircraft framework + Germany 460,000-troop target + Enders €50bn/year plan are *announced* (level 1-2 in a five-level pipeline) but not yet *executed* (level 3-4); the dimension is in transition with milestone test at end-Q4 2027. The financial / interdependence dimension is [Ikenberry-with-erosion]{.gloss data-gloss="ikenberry-institutional-persistence"} bounded by [Farrell-Newman γ]{.gloss data-gloss="farrell-newman-interdependence"} (~60% US LNG, EU silent on China Blocking Rules, renminbi alternative too thin). Two load-bearing mechanisms: **σ** structural-constraint-bounded autonomy reorientation (collapses Walt-recoded-as-substitution and Farrell-Newman trap; P load-bearing 0.65); **ε** Snyder alliance-management under reliability stress in effective-bipolar mode (P load-bearing 0.45). Six load-bearing T3 inferences cap the posterior at ≤ 0.50 for any uniform-framework headline. The finding is *principled* multi-framework — the framework-domain mappings (Pape's institutional-instrument focus, Posen's security-architecture focus, Farrell-Newman's interdependence focus) are literature-derived and pre-analysis, distinct from post-hoc rescue. Q9 generates **META rule 7** for the project: the BIDIRECTIONAL test that distinguishes principled multi-framework finding from Lakatos rescue.
+:::
+
+```{=html}
+</div>
+```
+
+[Q9 is the second principled-multi-framework case in the project (Q7 was the first; Q10 is the third). The pattern is now stable. The methodological contribution is META rule 7 itself: framework-domain mappings derived from the literature *before* the analysis is principled; sub-structure invented after the analysis to absorb contradicting evidence is rescue. Q9 was originally drafted as a unitary-framework rescue and the DA forced the substantive multi-framework finding.]{.column-margin .deep-only}
+
+```{=html}
+<div class="deep-mode-indicator">
+<strong>Deep mode is on.</strong> Paragraphs expand with the three dimensions in detail, the five-level commitment-execution pipeline distinction, pre-registered falsification tests, source-confidence audit, and pre-mortem. Switch back to <em>Concise</em> at the top of the page to collapse.
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — META rule 7 (NEW) and the principled-vs-rescue distinction
+
+This chapter applies the project's 8-step protocol. The devil's-advocate pass forced the most consequential methodological move in the project so far: the original synthesis *rejected* dimension-specificity as a procedural compliance with the no-rescue META rules (developed in Q5/Q12.5/Q11 to prevent unitary-framework rescue). The DA showed the rejection was itself a procedural error — Q9's framework-domain mappings (Pape's institutional/diplomatic, Posen's security architecture, Farrell-Newman's interdependence) are *literature-derived* and pre-analysis, not invented post-hoc. The principled-vs-rescue distinction became META rule 7: dimension-specificity is the substantive finding when framework-domain mappings are *pre-analysis*; dimension-specificity is rescue when sub-structure is invented *after* the analysis to save a unitary framework. The rule is BIDIRECTIONAL — it applies forward (Q9, Q7, Q10) and was generated by reflection on prior failures (Q5, Q12.5, Q11). The mechanism inventory collapsed from five to three to two (σ + ε); the synthesis's three mechanisms reduced via DA Critique 9 to two.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  Q[What does the<br/>2026 Iran war<br/>do to Europe-US?]
+  Q --> D1[Diplomatic /<br/>institutional]
+  Q --> D2[Security<br/>architecture]
+  Q --> D3[Financial /<br/>interdependence]
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef d fill:#f6f8fa,stroke:#d0d7de
+  class Q q
+  class D1,D2,D3 d
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**Three dimensions, three different stories.** *Diplomatic* — Article 42.7, Spain base refusal, EU IRGC designation. *Security* — Macron framework, German 460k target, Enders €50bn plan. *Financial* — US LNG ~60% of EU imports, EU silent on China Blocking Rules, sanctions alignment. The dimensions move in different directions; the unitary-framework answers do not fit.]{.concise-only}
+
+::: {.deep-only}
+**Three dimensions, three different stories.** The standard transatlantic-relationship literature presents single-framework answers: *Ikenberry-with-erosion* says the architecture persists (institutions are sticky); *Pape soft-balancing* says secondary states quietly delay-and-frustrate; *Posen forced-autonomy* says Europe builds operational alternatives under hegemonic unreliability. The 2026 case is awkward for each: institutional persistence is correct in finance but contradicted by Spain's basing refusal and Article 42.7 invocation; soft-balancing fits the diplomatic record but understates the costed German rearmament plans; forced-autonomy describes the security trajectory but cannot accommodate Europe's deepening dollar/SWIFT/LNG dependence. The empirical record points at *different frameworks for different dimensions* — which the standard methodological discipline (avoid Lakatos rescue) would normally pre-reject as ad-hoc sub-structure. The Q9 finding's contribution is to show this pre-rejection is itself wrong when the framework-domain mappings are *literature-derived*. Pape's 2005 *Soft Balancing against the United States* is natively about institutional-instrument behavior; Posen's *Restraint* (2014) is natively about security-architecture choices; Farrell-Newman's *Weaponized Interdependence* (2019) is natively about financial-architecture chokepoints. The frameworks have non-overlapping natural domains in the literature *before* the analysis. The dimension-specific finding is therefore principled, not rescue.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  D1[Diplomatic /<br/>institutional dimension]
+  D1 --> O1[Article 42.7<br/>invocation Athens<br/>26 April]
+  D1 --> O2[Spain refused<br/>Rota / Morón]
+  D1 --> O3[Polish Patriot<br/>redeployment refused]
+  D1 --> O4[EU IRGC designation<br/>+ E3 joint statement]
+  O1 --> P[Pape soft-balancing<br/>institutional friction<br/>no military rupture]
+  O2 --> P
+  O3 --> P
+  O4 --> P
+  classDef d fill:#0969da,color:#fff,stroke:#0969da
+  classDef o fill:#f6f8fa,stroke:#d0d7de
+  classDef p fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-pape-soft-balancing stroke-width:2px
+  class D1 d
+  class O1,O2,O3,O4 o
+  class P p
+  class P gt-gloss-pape-soft-balancing
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**Diplomatic dimension → [Pape soft-balancing]{.gloss data-gloss="pape-soft-balancing"} cleanly.** Article 42.7 invocation, Spain's Rota/Morón refusal for offensive Iran operations, Polish Patriot redeployment refusal, EU IRGC designation friction. Institutional, dispersed, deliberately ambiguous — what Pape predicts secondary states do when the unipolar leader pursues aggressive unilateral policies.]{.concise-only}
+
+::: {.deep-only}
+**Diplomatic / institutional dimension → [Pape soft-balancing]{.gloss data-gloss="pape-soft-balancing"} (2005) cleanly applied.** The observed European behavior fits Pape's predictions point-by-point. *Entangling diplomacy*: EU foreign-policy chief Kallas's "shaken the transatlantic relationship to its foundation" framing; Macron's Article 42.7 invocation in Athens on 26 April 2026 (the EU treaty's mutual-defense clause, never previously invoked over a US action); the E3 joint statement of 1 March that did not endorse the US strikes; EU IRGC designation 29 January demonstrated alignment on sanctions but also institutional friction over conduct; Spain's legal-sovereignty framing of base refusal. *Territorial denial*: Spain's Rota and Morón closure for offensive Iran operations *specifically* (rather than general basing); Polish Patriot redeployment refusal; selective German and Italian basing constraints throughout the war. *Style of engagement*: institutional, dispersed, deliberately ambiguous — what Politico's Momtaz captured as "quiet quitting" of US Iran policy. Not military counterbalancing; not full institutional rupture; selective non-cooperation through legal and procedural channels. *These behaviors do not require capability-substitution and do not require US-as-threat classification.* They are exactly what Pape (2005) predicts secondary states do when the unipolar leader pursues aggressive unilateral policies: institutional friction without military rupture.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  D2[Security architecture<br/>dimension]
+  D2 --> O5[Macron 8-country<br/>aircraft framework]
+  D2 --> O6[Germany 460k-troop<br/>target mid-2030s]
+  D2 --> O7[Enders €50bn/yr<br/>10 capability gaps]
+  D2 --> O8[5,000 US troops<br/>withdrawn from Germany]
+  O5 --> T[Posen F3-trending-<br/>from-F2 forced-autonomy<br/>announced not executed]
+  O6 --> T
+  O7 --> T
+  O8 --> T
+  T --> M[Milestone test<br/>end-Q4 2027<br/>level-3 budget<br/>appropriation]
+  classDef d fill:#0969da,color:#fff,stroke:#0969da
+  classDef o fill:#f6f8fa,stroke:#d0d7de
+  classDef t fill:#fff8c5,stroke:#d4a72c
+  classDef gt-gloss-posen-restraint stroke-width:2px
+  class D2 d
+  class O5,O6,O7,O8 o
+  class T t
+  class T gt-gloss-posen-restraint
+  class M t
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Security dimension → [Posen F3-trending-from-F2]{.gloss data-gloss="posen-restraint"} forced-autonomy.** Macron 8-country aircraft framework + Germany 460k-troop target + Enders €50bn/year plan are *announced* (level 1-2 of a 5-level pipeline) but not yet *executed* (level 3-4). The dimension is in transition. Milestone test at end-Q4 2027: is at least one of France/Germany/Poland at level-3 (budget appropriation) for Enders-named capability gaps?]{.concise-only}
+
+::: {.deep-only}
+**Security architecture dimension → [Posen F3-trending-from-F2]{.gloss data-gloss="posen-restraint"} in transition.** The dimension is genuinely contested between the F2 reading (current equilibrium of institutional persistence with erosion) and the F3 reading (trending toward forced-autonomy). *F2 evidence (current equilibrium)*: 14% troop reduction announced but not yet executed; Tomahawk redeployment plan canceled but reversible; 86% of US forces remain in Germany; NATO Article 5 reaffirmed by Rutte to Türkiye; institutional NATO architecture intact; allied basing for non-Iran missions presumably still available. *F3 evidence (trending state)*: Macron's 8-country aircraft deployment framework (Île Longue speech, 2 March); Germany's 460,000-troop target by mid-2030s (Brookings/Stelzenmüller); the Enders €50bn/year German expert plan with 10 named capability gaps; expected NATO 5%-of-GDP-by-2035 target; the Carnegie/Daalder/Stelzenmüller/Lute analyst convergence on autonomy-as-required. *The dimension is genuinely contested.* F3 is the most likely trajectory if costed plans execute (level 1-2 → level 3-4 transition), but execution risk is non-trivial: the historical base rate of European-defense-autonomy-named-in-expert-paper to budgeted-and-executed-program is below 50%. The 1999 Helsinki rapid-reaction force, the 2003 European Security Strategy, and Macron's 2017 Sorbonne speeches are precedents that did not execute. *Treat the dimension as F2-currently / F3-trending, with a milestone test at end-Q4 2027 (€50bn benchmark, level-3 budget appropriation in at least one of France/Germany/Poland).*
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  D3[Financial /<br/>interdependence dimension]
+  D3 --> O9[US LNG ~60% of<br/>EU LNG imports]
+  D3 --> O10[EU silent on China<br/>Blocking Rules<br/>2 May 2026]
+  D3 --> O11[Renminbi only<br/>2% FX reserves]
+  D3 --> O12[EU IRGC designation<br/>aligned with US]
+  O9 --> I[Ikenberry with erosion<br/>bounded by<br/>Farrell-Newman gamma]
+  O10 --> I
+  O11 --> I
+  O12 --> I
+  classDef d fill:#0969da,color:#fff,stroke:#0969da
+  classDef o fill:#f6f8fa,stroke:#d0d7de
+  classDef i fill:#ffe5d9,stroke:#cf222e
+  classDef gt-gloss-ikenberry-institutional-persistence stroke-width:2px
+  classDef gt-gloss-farrell-newman-interdependence stroke-width:2px
+  class D3 d
+  class O9,O10,O11,O12 o
+  class I i
+  class I gt-gloss-ikenberry-institutional-persistence
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Financial dimension → [Ikenberry-with-erosion]{.gloss data-gloss="ikenberry-institutional-persistence"} bounded by [Farrell-Newman γ]{.gloss data-gloss="farrell-newman-interdependence"}.** US LNG ~60% of EU imports; EU silent on China Blocking Rules; renminbi only 2% of FX reserves; EU sanctions architecture aligned with US. Europe is *more* US-dependent in finance/energy in May 2026 than it was in February — even as it visibly decouples on security and diplomacy.]{.concise-only}
+
+::: {.deep-only}
+**Financial / interdependence dimension → [Ikenberry-with-erosion]{.gloss data-gloss="ikenberry-institutional-persistence"} bounded by [Farrell-Newman γ]{.gloss data-gloss="farrell-newman-interdependence"} structural trap.** The empirical record points in the opposite direction from the diplomatic and security dimensions. *US LNG dependence deepening*: now ~60% of EU LNG imports (per Demarais / ECFR, computed from Eurostat); LNG ~50% of EU gas; €24-25bn EU fossil-fuel import overspend over winter 2025-26 (Bruegel + Carbon Brief + Commission convergent). *EU silent on China Blocking Rules*: as of 10 May 2026, eight days after Beijing's 2 May blocking statute over Hengli plus four other teapot refineries, there has been no EU institutional statement. This is the largest single corpus gap and confirms that Europe is structurally trapped in dollar/SWIFT/secondary-sanctions architecture — it has no operational alternative to align with. *Renminbi alternative architecture too thin*: 80% of global oil still dollar-settled; renminbi only ~2% of FX reserves. EU firms have no viable hedge against US sanctions architecture. *EU sanctions architecture aligned with US*: EU IRGC designation 29 January 2026 demonstrated EU/US sanctions convergence rather than divergence — the institutional friction is over Iran policy *conduct*, not over the underlying architecture. *Bruegel METSAF analysis* (7 May 2026): EU institutional response to energy shock is fragmenting (France + Germany together over 50% of CISAF; Hungary nearly 2% of GDP) rather than consolidating. This is the dimension where Farrell-Newman γ is most clearly load-bearing. Europe cannot operationally decouple from US economic architecture in any reasonable timeframe; the structural trap holds. Ikenberry's "institutions persist with erosion" describes the architecture's status well; the *erosion* part is real (selective rules contested) but the *persistence* part is structurally enforced (no alternative exists at operational scale).
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) posteriors on Q9 framework alternatives; (2) the three dimensions mapped to frameworks; (3) the five-level commitment-execution pipeline distinction.
+
+### Figure 1 — Posterior over Q9 framework alternatives
+
+```{ojs}
+//| label: fig-q9-posteriors
+//| fig-cap: "Posterior probabilities over four Q9 framework alternatives. Dimension-specific finding is the plurality winner at 50%; no unitary alternative breaches the 25% threshold."
+
+{
+  const headlineData = [
+    {id: "D", full: "D — Dimension-specific (Pape diplomatic + F3-trending security + F2-financial)", post: 0.50, tier: "T3"},
+    {id: "F2", full: "F2 — Ikenberry with erosion uniform", post: 0.25, tier: "T3"},
+    {id: "F3", full: "F3 — Posen forced-autonomy uniform", post: 0.15, tier: "T3"},
+    {id: "O", full: "Other / hybrid (incl. F1 Pape pure)", post: 0.10, tier: "T4"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 280 : Math.max(360, Math.min(500, Math.round(width * 0.45)));
+  const data = headlineData.map(d => ({ ...d, display: isMobile ? d.id : d.full }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 56 : Math.max(400, Math.round(width * 0.38)),
+    marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Posterior probability",
+      domain: [0, 0.6],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: data.map(d => d.display) },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.barX(data, {
+        x: "post", y: "display",
+        fill: "tier", insetTop: 8, insetBottom: 8,
+        channels: {
+          Headline: "full",
+          "Posterior": d => `${Math.round(d.post * 100)}%`,
+          Tier: "tier"
+        },
+        tip: {
+          lineWidth: 35,
+          fontSize: isMobile ? 12 : 13
+        }
+      }),
+      Plot.text(data, {
+        x: "post", y: "display",
+        text: d => `${Math.round(d.post * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
+      }),
+      Plot.ruleX([0.50], { stroke: "#cf222e", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+      Plot.text([{ x: 0.50, y: data[0].display }], {
+        x: "x", y: "y", text: () => "T3-inference cap (multi-framework) →",
+        dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
+        fontSize: annotFont, fill: "#cf222e", fontStyle: "italic", fontWeight: 500
+      })
+    ]
+  });
+}
+```
+
+[**Reading the chart.** The dashed red line at 50% is the META rule 5 posterior cap for principled-multi-framework findings carrying six load-bearing T3 inferences. The dimension-specific finding sits at the cap. F2 (Ikenberry-with-erosion uniform) at 25% captures "the institutional architecture persists; the apparent decoupling is selective erosion." F3 (Posen forced-autonomy uniform) at 15% captures "Europe is genuinely building operational alternatives." Other / hybrid at 10% covers F1 Pape pure and Configuration-F-style novel-architecture readings.]{.concise-only}
+[**Reading the chart.** Each row is a framework alternative for Q9. The dashed red line at 50% marks the META rule 5 posterior cap for principled-multi-framework findings carrying six load-bearing T3 inferences (Walt classification, Snyder mechanism choice, equilibrium-vs-aspirational classification of security dimension, Macron framework reading, European autonomy-survives-next-election, Russia-Baltic gray-zone attribution). The dimension-specific headline sits at the cap. F2 (Ikenberry-with-erosion uniform) at 25% captures the strongest unitary alternative: institutional architecture persists, the apparent decoupling on security is selective erosion that does not threaten the underlying order, Press revisionism is right about Russia-Baltic non-transmission, and Trump-successor partially reverses operational decoupling. F3 (Posen forced-autonomy uniform) at 15% captures "Europe is genuinely building operational alternatives" — costed plans execute (level 3-4), Macron nuclear architecture crosses operability threshold, EU produces coordinated response to China Blocking Rules. F1 (Pape pure) is folded into "other" at 10% because the security-dimension capability-building doesn't fit pure soft-balancing. The colors are red (T3) and grey (T4) — Q9 has no T1 or T2 outcomes available; every headline is an analyst inference.]{.deep-only}
+
+### Figure 2 — Three dimensions, three frameworks
+
+| Dimension | Framework | Status | Mechanism |
+|---|---|---|---|
+| **Diplomatic / institutional** | [Pape soft-balancing]{.gloss data-gloss="pape-soft-balancing"} | Current equilibrium | Article 42.7 + Spain refusal + EU IRGC + E3 joint statement |
+| **Security architecture** | [Posen F3-trending-from-F2]{.gloss data-gloss="posen-restraint"} | In transition | Macron 8-country framework + Germany 460k target + Enders €50bn/year |
+| **Financial / interdependence** | [Ikenberry with erosion]{.gloss data-gloss="ikenberry-institutional-persistence"} bounded by [Farrell-Newman γ]{.gloss data-gloss="farrell-newman-interdependence"} | Current equilibrium | US LNG ~60% + EU silent on China Blocking Rules + renminbi 2% of FX |
+
+[The three frameworks have **natively distinct domains in the IR literature**. Pape 2005 is natively about institutional-instrument behavior under unipolar hegemonic policy. Posen 2014 is natively about security-architecture choices under hegemonic unreliability. Farrell-Newman 2019 is natively about financial-architecture chokepoints. The dimension-specific mapping is *literature-derived*, not invented post-hoc to fit the case.]{.column-margin}
+
+### Figure 3 — The five-level commitment-execution pipeline
+
+```{mermaid}
+flowchart LR
+  L1[Level 1<br/>Named in<br/>expert paper]
+  L2[Level 2<br/>Endorsed by<br/>minister/leader]
+  L3[Level 3<br/>Approved in<br/>coalition treaty]
+  L4[Level 4<br/>Appropriated<br/>in budget]
+  L5[Level 5<br/>Executed in<br/>program]
+  L1 --> L2 --> L3 --> L4 --> L5
+  P[Most current European<br/>defense commitments<br/>sit at L1-L2]
+  F[F3 forced-autonomy<br/>requires L3-L4<br/>at minimum]
+  P -.-> L2
+  F -.-> L3
+  classDef l fill:#f6f8fa,stroke:#d0d7de
+  classDef p fill:#fff8c5,stroke:#d4a72c
+  classDef f fill:#dafbe1,stroke:#2da44e
+  class L1,L2,L3,L4,L5 l
+  class P p
+  class F f
+```
+
+[The five-level pipeline distinguishes *announced* from *executed* European defense commitments. Most 2026 commitments sit at L1-L2 (named in expert papers; endorsed by ministers). F3 forced-autonomy requires L3-L4 (approved in coalition treaty; appropriated in budget). The milestone test at end-Q4 2027 asks: is at least one of {France, Germany, Poland} at L4 (budget appropriation) for Enders-paper-named capability gaps?]{.concise-only}
+[**The five-level commitment-execution pipeline.** A critical methodological move (per DA Critique 7): distinguish what is *announced* from what is *executed*. Most current European defense commitments sit at L1-L2 — named in expert papers (Enders €50bn/year, Macron 8-country aircraft framework) or endorsed by ministers (Germany 460,000-troop target). F3 forced-autonomy requires at minimum L3-L4 (approved in coalition treaty; appropriated in budget). The historical base rate of L1-L2 commitments reaching L4-L5 execution is below 50% — Helsinki 1999 rapid-reaction force, European Security Strategy 2003, Macron's 2017 Sorbonne speeches are all precedents that did not execute. The pre-registered milestone test at end-Q4 2027: is at least one of {France, Germany, Poland} at Level 3 (budget appropriation) for Enders-paper-named capability gaps? If yes for ≥ 2 member states, F3 security dimension validates and the dimension moves from F3-trending to F3-current. If no, F3 was over-projected and reduce P(security dimension F3-trending) by 0.15.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+### Figure 4 — Pre-registered falsification criteria
+
+**Near-term (3-6 months, fires in 2026):**
+
+| Test | Predicts | Falsifies if |
+|---|---|---|
+| Trump-Xi summit (May 14-15) triangulation | No explicit EU-affecting secondary-sanctions language + EU silence if it appears | Summit produces triangulation AND EU produces institutional response by end-Q3 2026 |
+| NATO Ankara summit communiqué | Article 5 reaffirmed at pre-2024 strength | Visibly weakened Article 5 language |
+| Russia-Baltic gray-zone tempo (6-month) | No 30%+ deviation from 2024-25 baseline | 30%+ deviation observed |
+
+**Medium-term (6-18 months, falsifies through 2027):**
+
+| Test | Predicts | Falsifies if |
+|---|---|---|
+| Enders €50bn benchmark execution (end-Q4 2027) | Not at L3 (budget appropriation) for any member state | ≥ 2 member states at L3 |
+| CDU-SPD coalition treaty test | No explicit Enders-paper capability-gap funding at L3 | Explicit endorsement at appropriation level |
+| Spain/Italy troop reduction execution (end-2026) | Remains at L2 threat | Executed as L4 operational change |
+
+**Long-term (2028-2030):** Macron nuclear architecture operability test — has French nuclear C2 integrated allied targeting (L3-L4)?
+
+### Figure 5 — Source-confidence tier audit
+
+Of the synthesis's load-bearing claims:
+
+- **[T1]{.tier .tier-1} multi-source verified:** 5,000 US troops withdrawn from Germany ordered May 1-3 (Stars and Stripes + multiple); Spain refused Rota/Morón for Iran offensive operations (Sánchez/Albares/Robles); Macron Article 42.7 invocation in Athens 26 April (Élysée + Macron speech); Macron 8-country aircraft deployment framework (Île Longue speech 2 March); 850 Tomahawks fired with 10-year replacement timeline (EUISS); 1,800+ Patriots fired in 16 days vs ~600/year production (multiple); NATO Article 4 not invoked despite multiple territorial strikes (NATO/Rutte); EU silent on China Blocking Rules as of 10 May (confirmed by absence of statements).
+
+- **[T2]{.tier .tier-2} single-source named:** Germany 460,000-troop target by mid-2030s (Brookings/Stelzenmüller via NPR); €24-25bn EU fossil-fuel import overspend (Bruegel + Carbon Brief computed); US is ~60% of EU LNG (Demarais ECFR computed); China Blocking Rules 2 May and Hengli $34.4bn credit (Bloomberg/Fortune); White House blacklist of NATO allies (Politico — original document not public); Daalder "something fundamental has broken" (OPB/NPR Neuman 8 May).
+
+- **[T3]{.tier .tier-3} inference from evidence:** **F3 security dimension is *trending* from F2** (equilibrium-vs-aspirational classification, the central T3 inference); [Walt balance-of-threat]{.gloss data-gloss="walt-balance-of-threat"} *not* operative (no capabilities-targeted-against-US documented); [Snyder]{.gloss data-gloss="snyder-abandonment-entrapment"} operates in effective-bipolar mode in 2026; Russian gray-zone shift attributable to Iran-war US conduct (currently not strongly established); Macron framework structural-not-rhetorical (inference from announcement-level evidence); European autonomy-building survives next US election (inference from base-rate-of-execution).
+
+- **[T4]{.tier .tier-4} conjecture:** none in the load-bearing path.
+
+**Six load-bearing T3 inferences** trigger the META rule 5 posterior cap at ≤ 0.50 for any uniform-framework headline. The dimension-specific finding at P=0.50 sits exactly at the cap *and* qualifies as not-a-uniform-framework-headline — the cap permits it.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+The most likely ways the analysis will be wrong:
+
+1. **The dimension-specific finding becomes F3 uniform by 2027-28** (P ≈ 0.20-0.25). Costed European security plans execute and the F3-trending security dimension crystallizes. Pre-mortem signal: by end-Q4 2027, ≥ 2 member states at level-3 budget appropriation for Enders-paper capability gaps.
+
+2. **The dimension-specific finding becomes F2-with-erosion uniform by 2027-28** (P ≈ 0.30-0.35). Costed security plans do not execute, Press revisionism plays out empirically through Russian non-probing of Eastern flank, and Trump-successor partially reverses operational decoupling.
+
+3. **A novel framework emerges (Configuration F-style)** (P ≈ 0.10). Possibly tied to EU-China bilateral arrangement on Iran-related sanctions, or a French-led European nuclear architecture more operationally substantive than current evidence suggests.
+
+4. **Mechanism σ is wrong**: the structural-constraint mechanism could turn out to be reversible if European publics become more anti-Iran (e.g., further European casualties from Iran-aligned proxies after the Frion in Erbil), enabling elite re-alignment with US (P ≈ 0.10).
+
+5. **The Iran war ends near-term**, removing wartime stress and revealing that the European decoupling moves were tactical (Iran-specific) rather than structural (P ≈ 0.10-0.15).
+
+6. **Unforeseen Russia move (escalation against Eastern flank)** restores NATO Article 5 cohesion in observable ways and reveals that the F3-trending security dimension was a paper finding (P ≈ 0.05).
+
+**Lowest-confidence claim**: that European behavior is genuinely *dimensionally* structured rather than reflecting a single underlying mechanism (σ structural-constraint-bounded autonomy reorientation) that produces apparently-different surface behaviors in different dimensions. If pressed: P(genuine dimension-specificity) ≈ 0.55; P(σ-single-mechanism producing dimensional surface) ≈ 0.30. These are not the same thing methodologically.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+Companion analysis files: [`Q9_europe_us_relationship.md`](https://github.com/) — final reconciled deliverable; [`Q9_agent_A_corpus_pull.md`](https://github.com/) — corpus extraction; [`Q9_agent_B_case_pull.md`](https://github.com/) — current-affairs cross-check; [`Q9_steelmans_and_synthesis.md`](https://github.com/) — pre-DA synthesis; [`Q9_DA_critique.md`](https://github.com/) — devil's-advocate critique.
+
+Key citations: @pape2005soft, @ikenberry2001after, @ikenberry2011liberal, @posen2014restraint, @press2005calculating, @farrell-newman2019weaponized, @snyder1984security, @walt1987alliances, @putnam1988diplomacy.
+
+**Highest-priority remaining corpus gaps for Q9 verification:**
+
+- Russia-Baltic gray-zone tempo metrics with explicit 2024-25 baseline.
+- Operational-level evidence on whether Macron's 8-country aircraft framework has crossed L2 to L3 status.
+- Direct evidence on whether the Enders €50bn/year plan has been endorsed at coalition-treaty level in any Bundestag-relevant coalition.
+
+```{=html}
+</div>
+```
