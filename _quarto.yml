@@ -70,6 +70,8 @@ website:
           href: analyses/q2-war-persistence.qmd
         - text: "Q3 — Why the ceasefire is unstable"
           href: analyses/q3-ceasefire-instability.qmd
+        - text: "Q4 — Can the US-led counter-blockade restore Hormuz transit?"
+          href: analyses/q4-blockade-feasibility.qmd
         - text: "Q5 — Is the bargaining range empty?"
           href: analyses/q5-bargaining-range.qmd
         - text: "Q6 — What ends the war?"

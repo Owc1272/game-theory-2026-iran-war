@@ -462,6 +462,38 @@ Suzanne Werner's "The Precarious Nature of Peace" (1999) and related war-termina
 
 ---
 
+## Negative power vs facilitative hegemony (Pandit)
+
+Pandit's framing of the 2026 Hormuz dual blockade: Iran exercises *negative power* — it cannot project force globally but can deny commerce through a confined-water chokepoint with relatively small force projection. The US exercises *facilitative hegemony* — it commands the open commons but cannot, in confined waters under non-permissive A2/AD, *guarantee* that commerce will pass. Denial requires a much smaller force ratio than guarantee. [Q4](analyses/q4-blockade-feasibility.qmd) reads the operational state of play through this lens.
+
+*Primer chapter:* forthcoming.
+
+---
+
+## Close vs distant blockade (Petersen, FPRI)
+
+Petersen (FPRI) argues the 2026 dual blockade has two architectural sub-types. A *close blockade* would have the US Navy operating inside the Strait of Hormuz to force convoy-style commercial transit. A *distant blockade* intercepts Iranian-flagged or Iranian-aligned tankers in the Gulf of Oman and beyond, plus targeted strikes on Iranian naval infrastructure. The US chose distant blockade because close blockade is now too costly under Iran's A2/AD. [Q4](analyses/q4-blockade-feasibility.qmd) reads the architectural choice as revealed preference — the US has empirically conceded that close-blockade Hormuz restoration is operationally infeasible.
+
+*Primer chapter:* forthcoming.
+
+---
+
+## The US mine-countermeasures gap (post-2025)
+
+The US Navy's MCM capability was structurally downgraded in 2025: Avenger-class minesweepers retired September 2025; MH-53E Sea Dragon helicopters phased out August 2025. The replacement architecture is three LCS hulls with MCM mission modules plus Knifefish UUVs — substantially less throughput. Estimate: 4-8 weeks minimum to clear under non-permissive conditions. Iran possesses 2,000-6,000 mines. The MCM gap is the central structural bottleneck for any US-led counter-blockade. See [Q4](analyses/q4-blockade-feasibility.qmd).
+
+*Primer chapter:* forthcoming.
+
+---
+
+## Tanker War 1980-88 base rate (Earnest Will / Praying Mantis)
+
+[Q4](analyses/q4-blockade-feasibility.qmd)'s load-bearing historical base rate. The Iran-Iraq Tanker War (1980-88) produced ~543 attacks on commercial shipping. The US-led response (Operation Earnest Will, 1987-88) reflagged 11 Kuwaiti tankers and escorted them via US Navy convoy through 14 months — successful at the narrow operational goal but did NOT restore freedom of navigation. USS *Samuel B. Roberts* hit an Iranian mine April 1988. Operation Praying Mantis (April 1988) destroyed two Iranian oil platforms; tactical victory; did not end mining. The Tanker War ended via the Iran-Iraq ceasefire (UN 598, August 1988), not via blockade success.
+
+*Primer chapter:* forthcoming.
+
+---
+
 ## Settlement-typology fragility prediction (Toft, 2010)
 
 Monica Duffy Toft's *Securing the Peace* (2010, with an *International Security* article version) compared post-war stability across three settlement types and found a sharp empirical pattern: military victories produce far more durable peace than negotiated settlements. Across her civil-war dataset (1940-2002), negotiated settlements show roughly 50% recurrence within 10 years; military victories ~10-15%; ceasefire/stalemates intermediate. The mechanism: victors can impose preferences and enforce them; negotiated settlements leave commitment problems unresolved. The framework generalizes to interstate war termination. [Q6](analyses/q6-what-ends-the-war.qmd) reads the modal Iran-US termination pathway (Trump-admin pivot + market pressure → mediated settlement) as exactly the type Toft predicts will subsequently fail.

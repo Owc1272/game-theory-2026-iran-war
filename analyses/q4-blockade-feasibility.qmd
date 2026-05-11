@@ -1,0 +1,442 @@
+---
+title: "Q4 — Can the US-led counter-blockade restore Hormuz transit?"
+subtitle: "An operational-feasibility analysis distinct from political will. The MCM gap + Pandit's negative-power asymmetry + distant-blockade revealed-preference jointly produce a structural answer that is largely independent of administration choice."
+description: "Iran exercises negative power; the US exercises facilitative hegemony. Denial requires a much smaller force ratio than guarantee. The US Navy's mine-countermeasures capability was downgraded in 2025. The Tanker War 1980-88 base rate is unambiguous: chokepoint denial under non-permissive A2/AD ends via political settlement, not via blockade success."
+categories: [analysis, q4, blockade-feasibility, hormuz, operational, pandit, petersen, mcm]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+Hormuz throughput collapsed from 138 daily tanker transits to 4 — a 97% reduction. Operation Project Freedom launched 4 May; the US Navy sank six IRGCN fast attack craft the same day; a 3-destroyer transit forced its way through on 7-8 May under fire. The CENTCOM blockade-redirect tally has grown from 25 to 52 vessels in three weeks. But *can the US, operationally, restore Hormuz transit?* This is a different question from whether the US wants to. The answer turns on mine-countermeasures capacity, an A2/AD architecture Iran has spent 20+ years building specifically for this chokepoint, and an asymmetric cost-exchange ratio that favors the denier.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Hormuz throughput collapsed from 138 daily tanker transits to 4 between late February and mid-April 2026 — a 97% reduction, with EIA tracking the Gulf shut-in trajectory at 7.5 mb/d (March) → 9.1 (April peak) → 6.7 (May). On 4 May the US Navy launched Operation Project Freedom: escort operations for non-Iranian-aligned commercial traffic; six IRGCN fast attack craft sunk that day by AH-64 Apaches and MH-60 Seahawks. On 7-8 May, USS *Truxtun*, USS *Mason*, and USS *Rafael Peralta* forced a three-destroyer transit under fire; the US followed with strikes on Bandar Abbas and Qeshm Island. The CENTCOM blockade-redirect tally has grown from 25 (mid-April) to 48 (2 May) to 52 (6 May). Other Q-chapters on this site ask *why the US wants* sustained disruption (Q10's α producer-coalition dominance), *why the Gulf states won't help* (Q12.4's post-war retaliation risk), and *what kind of pathway ends the war* (Q6's pathway typology). None asks: **can the US, operationally, restore Hormuz transit independent of political will?** This is a feasibility question, not a preferences question. The answer turns on mine-countermeasures capacity, the A2/AD architecture Iran has spent 20+ years building specifically for this chokepoint, and the asymmetric cost-exchange ratio that distinguishes denial from guarantee.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *No — not operationally, not on any near or medium horizon (P ≈ 0.70 that restoration to >70% pre-war throughput within 12 months requires Iranian voluntary acceptance, not US enforcement).* Three load-bearing mechanisms. **α** — [The US MCM gap]{.gloss data-gloss="us-mcm-gap"} is the structural bottleneck. **β** — [Pandit's negative-power asymmetry]{.gloss data-gloss="pandit-negative-power"}: Iran needs to inflict cost on shipping; the US needs to prevent it. The former requires a far smaller force ratio. **γ** — [Petersen's distant-blockade revealed-preference]{.gloss data-gloss="petersen-blockade-typology"}: the US chose distant blockade because close blockade is too costly under Iran's A2/AD. The architectural choice is itself an admission. Base rate: [Tanker War 1980-88]{.gloss data-gloss="tanker-war-base-rate"} ended via political settlement, not via blockade success.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *No — not operationally, not on any near or medium horizon.* Posterior P ≈ 0.70 that restoration to >70% pre-war Hormuz throughput within 12 months requires *Iranian voluntary acceptance* (a political outcome), not US enforcement (an operational outcome). Three load-bearing mechanisms. **α — [The US MCM gap]{.gloss data-gloss="us-mcm-gap"} as structural bottleneck** (P operative 0.95; P load-bearing 0.60). The Avenger-class minesweepers retired September 2025; the MH-53E Sea Dragon helicopters phased out August 2025. The replacement architecture is three LCS hulls with MCM modules plus Knifefish UUVs — substantially less throughput than the retired fleet. The Hormuz SYNTHESIS estimates "4-8 weeks minimum to clear under non-permissive conditions" and concludes "if Iran chooses to mine seriously, the US Navy cannot quickly restore traffic." Iran possesses 2,000-6,000 mines including Chinese EM-52 rocket mines. **β — [Pandit's negative-power asymmetry]{.gloss data-gloss="pandit-negative-power"}** (P operative 0.85; P load-bearing 0.55). Iran exercises *negative power* — cannot project, can deny — through a confined-water chokepoint where mines, ASBMs, FAC swarms, and coastal missile batteries deployed within 2-3 nm of the deep-water shipping lanes. The US exercises *facilitative hegemony* — commands the open commons but cannot, in confined waters under non-permissive A2/AD, *guarantee* commerce will pass. Denial requires a far smaller force ratio than guarantee; this is Warren's cost-exchange ratio in extreme asymmetric form. **γ — [Petersen's distant-blockade revealed-preference]{.gloss data-gloss="petersen-blockade-typology"}** (P operative 0.95; P load-bearing 0.45). The US chose distant blockade (interception in the Gulf of Oman; strikes on Iranian naval infrastructure) over close blockade (Hormuz convoy operations) precisely because close blockade is too costly under Iran's A2/AD. The architectural choice is itself empirical evidence that close-blockade Hormuz restoration is operationally infeasible. Project Freedom's "cleared corridor" approach is the most aggressive operationally feasible US move; it is not Hormuz restoration. **The load-bearing historical base rate is the [Tanker War 1980-88]{.gloss data-gloss="tanker-war-base-rate"}**: ~543 attacks on shipping over 8 years; US-led Earnest Will succeeded at the narrow goal of escorting reflagged Kuwaiti tankers (USS *Samuel B. Roberts* hit a mine April 1988); did NOT restore freedom of navigation. Praying Mantis was a tactical victory that did not end mining. The Tanker War ended via the Iran-Iraq ceasefire (UN 598, August 1988), not via blockade success. *The empirical pattern is clear: chokepoint denial campaigns under non-permissive A2/AD have been ended by political settlement, not by operational success of counter-blockades.*
+:::
+
+```{=html}
+</div>
+```
+
+[Q4 is structurally distinct from the other site chapters in being a *feasibility analysis* — "can the US make X happen" — rather than a *structural diagnosis* — "why is X the case." The operational variables (daily transit count; war risk insurance premiums; IRGCN attrition vs Iranian production rate; mine-clearance progress) are unusually discrete and observable, producing the sharpest forward-looking falsification criteria in the project.]{.column-margin .deep-only}
+
+```{=html}
+<div class="deep-mode-indicator">
+<strong>Deep mode is on.</strong> Paragraphs expand with the three mechanisms in detail, the operational state of play, the Tanker War base rate, pre-registered falsification criteria, source-confidence audit, and pre-mortem. Switch back to <em>Concise</em> at the top of the page to collapse.
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — feasibility analysis vs structural diagnosis
+
+This chapter is structurally distinct from the other Q-chapters. The question "can the US operationally restore Hormuz transit?" is a feasibility question with discrete observable variables — not a structural-diagnostic question about why the war persists or what mechanisms sustain it. The methodological consequences: (1) the load-bearing T1 empirical foundation is unusually strong (operational state-of-play is directly observable via daily transit counts, vessel-redirect tallies, IRGCN attrition records, insurance market data, and US MCM platform inventory); (2) the historical base rate is unusually sharp (Tanker War 1980-88 is the canonical analog with 8 years of empirical data on chokepoint denial under non-permissive A2/AD); (3) the framework set is dimension-specific in a different sense than Q6 — operational/military rather than political/structural, drawing on named blockade-warfare frameworks (Pandit, Petersen) and naval-warfare history rather than the political-bargaining or coalition-management frameworks used elsewhere. Five load-bearing T3 inferences cap the posterior at ≤ 0.70; the cap is moderate because much of the analysis rests on T1/T2 operational evidence.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  Q[Can the US-led<br/>counter-blockade restore<br/>Hormuz transit?]
+  Q --> NOT[NOT: does the US<br/>want to?<br/>That's Q10]
+  Q --> NOT2[NOT: why the war<br/>persists?<br/>That's Q2]
+  Q --> NOT3[NOT: what ends it?<br/>That's Q6]
+  Q --> OP[YES: feasibility analysis<br/>independent of political will]
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef n fill:#f6f8fa,stroke:#d0d7de
+  classDef op fill:#dafbe1,stroke:#2da44e
+  class Q q
+  class NOT,NOT2,NOT3 n
+  class OP op
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**The question is a feasibility one, not a preferences one.** Q10 asks whether the US *wants* to restore Hormuz transit. Q2 asks why the war persists. Q6 asks what ends it. **Q4 asks whether the US *can* restore transit if it tried hard.** Operational variables: daily transit count; mine-clearance throughput; IRGCN attrition rate; US munition inventory; insurance war-risk premium. These are observable.]{.concise-only}
+
+::: {.deep-only}
+**Q4 is a feasibility question, not a preferences question.** The distinction matters. Q10 established that Trump-admin α-low means the US currently *prefers* sustained Hormuz disruption (producer-coalition reward + audience-cost lock-in). Q2 established that the war persists because of joint α (Iranian regime-survival) + β (US audience-cost lock-in) + γ (structural commitment-trap envelope). Q6 established that the war ends via one of five pathways with probability-durability decoupling. None of these chapters answers: *if the US fully wanted to restore Hormuz transit and committed maximally to that operational goal, could it succeed?* The Q4 finding is that the answer is largely independent of the admin's preferences — the operational obstacles are structural. Operation Project Freedom (launched 4 May) is the *most aggressive operationally feasible* US move under current MCM capacity and Iranian A2/AD posture; it produces 6 IRGCN FAC kills + a 3-destroyer transit + 52 vessel redirects over three weeks, but it does not restore daily transit counts. Daily transit count is the load-bearing observable: it has not exceeded 4 per day during Project Freedom's first three weeks (per Hormuz SYNTHESIS data); for restoration to >70% of pre-war 138/day, daily count must exceed ~95. The gap is two orders of magnitude.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  A[α The US MCM gap]
+  A --> P1[Avenger-class minesweepers<br/>retired September 2025]
+  A --> P2[MH-53E Sea Dragons<br/>phased out August 2025]
+  A --> P3[Replacement:<br/>3 LCS hulls + MCM modules<br/>+ Knifefish UUVs]
+  P1 --> E[4-8 weeks minimum<br/>to clear under<br/>non-permissive conditions]
+  P2 --> E
+  P3 --> E
+  E --> Q[Iran has<br/>2,000-6,000 mines<br/>including Chinese EM-52]
+  classDef a fill:#0969da,color:#fff,stroke:#0969da
+  classDef p fill:#f6f8fa,stroke:#d0d7de
+  classDef e fill:#ffe5d9,stroke:#cf222e
+  classDef gt-gloss-us-mcm-gap stroke-width:2px
+  class A a
+  class A gt-gloss-us-mcm-gap
+  class P1,P2,P3 p
+  class E,Q e
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**α — [The US MCM gap]{.gloss data-gloss="us-mcm-gap"}.** Avenger-class minesweepers retired September 2025; MH-53E Sea Dragons phased out August 2025; the replacement is 3 LCS hulls with MCM modules + Knifefish UUVs. Iran possesses 2,000-6,000 mines including Chinese EM-52 rocket mines. Estimated 4-8 weeks minimum to clear under non-permissive conditions — multi-month timeline in practice. *If Iran chooses to mine seriously, the US Navy cannot quickly restore traffic.*]{.concise-only}
+
+::: {.deep-only}
+**Mechanism α — [The US mine-countermeasures gap]{.gloss data-gloss="us-mcm-gap"} as the structural bottleneck** (P operative 0.95; P load-bearing 0.60). The 2025 force-structure changes were not made with the 2026 Iran war in mind. The Avenger-class minesweepers — eleven hulls dating from the late 1980s — were retired in September 2025 as part of a long-planned divestment ahead of the Navy's planned MCM transition to unmanned systems and LCS-MCM modules. The MH-53E Sea Dragon helicopters, the Navy's primary airborne mine-countermeasures platform, were phased out in August 2025 for similar reasons. The replacement architecture is three Littoral Combat Ships with MCM mission modules plus Knifefish unmanned underwater vehicles deployed from selected destroyers (USS *Frank E. Petersen Jr.* DDG-121 and USS *Michael Murphy* DDG-112 are the named platforms). This replacement is substantially less throughput than the retired fleet — fewer hulls, less sustained on-station capability, more dependent on UUV operations that require permissive conditions to deploy and recover safely. Iran's mine stockpile is large and diverse: 2,000-6,000 mines including Maham-3 (moored magnetic/acoustic), Maham-7 (limpet seabed), and Chinese-supplied EM-52 rocket mines. The 16 Iranian minelayers were destroyed in the war's first two weeks (Operation Epic Fury), but Iran's mining doctrine relies on dispersed dispersal via FAC, dhow, and small-boat networks — not concentrated platforms. The Hormuz SYNTHESIS estimates "4-8 weeks minimum to clear under non-permissive conditions" — meaning under continued IRGCN harassment, drone swarms, and ASBM threat. Practical clearance timeline is multi-month. *The MCM gap is the central structural bottleneck for any US-led counter-blockade.* Project Freedom's "cleared corridor" approach is a partial-clearance workaround that does not produce a fully swept channel; this is why the daily transit count has not recovered.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  B[β Pandit's negative-power<br/>vs facilitative-hegemony<br/>asymmetry]
+  B --> N[Iran: negative power<br/>cannot project<br/>can deny in<br/>confined waters]
+  B --> F[US: facilitative hegemony<br/>commands open commons<br/>cannot guarantee<br/>under A2/AD]
+  N --> R[Asymmetric force ratio:<br/>denial smaller than guarantee]
+  F --> R
+  R --> W[Warren cost-exchange<br/>extreme asymmetric]
+  classDef b fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  classDef r fill:#fff8c5,stroke:#d4a72c
+  classDef gt-gloss-pandit-negative-power stroke-width:2px
+  class B b
+  class B gt-gloss-pandit-negative-power
+  class N,F m
+  class R,W r
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**β — [Pandit's negative-power asymmetry]{.gloss data-gloss="pandit-negative-power"}.** Iran exercises negative power — cannot project, can deny in confined waters with relatively small force projection (mines + ASBMs + FAC + coastal missile batteries). The US exercises facilitative hegemony — commands the open commons but cannot, in confined waters under non-permissive A2/AD, *guarantee* commerce. *Denial requires a far smaller force ratio than guarantee.* This is Warren cost-exchange in extreme asymmetric form.]{.concise-only}
+
+::: {.deep-only}
+**Mechanism β — [Pandit's negative-power vs facilitative-hegemony asymmetry]{.gloss data-gloss="pandit-negative-power"}** (P operative 0.85; P load-bearing 0.55). The framework articulates a structural asymmetry of the chokepoint blockade game. *Iran exercises "negative power"*: it cannot project force globally (its surface fleet was largely destroyed in the war's first two weeks; all four Shahid Soleimani-class corvettes plus IRIS Jamaran, Bayandor, Naghdi in port; the IRIS Dena Moudge frigate sunk by USS *Charlotte* off Sri Lanka, 104 KIA), but it can *deny* commerce through the Strait of Hormuz with relatively small force projection — mines deployed via dispersed small-boat networks, ASBMs on Qeshm and Bandar Abbas, fast-attack-craft swarms operating in conjunction with Shahed drone swarms, hardened coastal missile sites within 2-3 nm of the deep-water shipping lanes. *The US exercises "facilitative hegemony"*: it commands the open commons (the Tanker War 1980-88 demonstrated US ability to reflag and escort in international waters), but in *confined waters* under non-permissive A2/AD, the US cannot *guarantee* that commerce will pass. The architectural mismatch is the load-bearing asymmetry: Iran needs to inflict cost on a fraction of transiting commerce to drive insurance premiums beyond commercial viability; the US needs to *prevent* cost on enough of transiting commerce to restore commercial viability. The required force ratios for these two operational goals are profoundly asymmetric. Warren's cost-exchange ratio framework operates in extreme asymmetric form: a single mine costs Iran <$10K and a few hours of small-boat operation; clearing that mine under non-permissive conditions costs the US weeks of LCS-MCM operations under coalition air defense (THAAD + Patriot + Iron Dome covering the Gulf) and continuous IRGCN harassment. The empirical signal of this asymmetry: VLCC war-risk insurance moved from 0.15-0.25% of hull value pre-war to 1-5% typical and 7.5-10% high-risk — a ~50× increase. For a $138M hull, this is $10-14M per voyage. The insurance market has empirically priced Iran's denial capacity as binding on commercial viability.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  G[γ Petersen's distant-blockade<br/>revealed-preference]
+  G --> CL[Close blockade:<br/>force convoy operations<br/>through the Strait]
+  G --> DI[Distant blockade:<br/>intercept Iranian tankers<br/>in Gulf of Oman<br/>+ strike infrastructure]
+  CL --> X[US did NOT choose<br/>close blockade]
+  DI --> Y[US DID choose<br/>distant blockade]
+  X --> REV[Revealed preference:<br/>close blockade<br/>operationally too costly<br/>under Iran A2/AD]
+  Y --> REV
+  classDef g fill:#0969da,color:#fff,stroke:#0969da
+  classDef a fill:#f6f8fa,stroke:#d0d7de
+  classDef r fill:#ffe5d9,stroke:#cf222e
+  classDef gt-gloss-petersen-blockade-typology stroke-width:2px
+  class G g
+  class G gt-gloss-petersen-blockade-typology
+  class CL,DI,X,Y a
+  class REV r
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**γ — [Petersen's distant-blockade revealed-preference]{.gloss data-gloss="petersen-blockade-typology"}.** The US chose distant blockade (intercept Iranian tankers in the Gulf of Oman; strike Iranian naval infrastructure) over close blockade (Hormuz convoy operations) because close blockade is operationally too costly under Iran's A2/AD. **The architectural choice is itself empirical evidence** that close-blockade Hormuz restoration is operationally infeasible. The US is treating Iran's A2/AD as binding.]{.concise-only}
+
+::: {.deep-only}
+**Mechanism γ — [Petersen's close vs distant blockade typology]{.gloss data-gloss="petersen-blockade-typology"} as revealed preference** (P operative 0.95; P load-bearing 0.45). The framework distinguishes two architectural sub-types. *Close blockade* would have the US Navy operating *inside* the Strait of Hormuz to force convoy-style commercial transit — the kind of operation that would directly restore daily transit counts toward pre-war levels. *Distant blockade* intercepts Iranian-flagged or Iranian-aligned tankers in the Gulf of Oman and beyond, plus targeted strikes on Iranian naval infrastructure (Bandar Abbas, Qeshm, Ras Laffan-region targets). The US chose the latter. Petersen's analytical contribution: the US chose distant blockade *precisely because* close blockade is now too costly under Iran's A2/AD. The architectural choice is therefore empirical evidence that the US is treating Iran's A2/AD as binding on close operations. *The consequences are direct*: a distant blockade architecture cannot, by definition, restore Hormuz transit — it restricts Iranian commercial transit *away from* the Strait while leaving Iranian denial capacity inside the Strait largely intact. Project Freedom's "cleared corridor" approach is the most aggressive operationally feasible move within the distant-blockade architecture — escort operations in escort corridors with partial mine clearance under air-defense umbrellas (THAAD + Patriot + Iron Dome) — but it is not Hormuz restoration. The empirical evidence supports the revealed-preference reading: USS *Truxtun*, USS *Mason*, and USS *Rafael Peralta* forced a three-destroyer transit on 7-8 May under fire (i.e., even US warships face contested transit); the CENTCOM blockade-redirect tally (25 → 48 → 52 vessels) is growing, but the daily commercial transit count is not. *The US is choosing the operationally feasible architecture and the operationally feasible architecture is not Hormuz restoration.*
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) three-mechanism posteriors; (2) the Tanker War 1980-88 base-rate parallel; (3) operational observables.
+
+### Figure 1 — Mechanism posteriors
+
+```{ojs}
+//| label: fig-q4-mechanisms
+//| fig-cap: "Posteriors on Q4's three load-bearing mechanisms. α (US MCM gap) at P=0.60 load-bearing is the strongest single mechanism. All three operative at 0.85-0.95 — Q4 has strong T1 empirical foundation because operational variables are directly observable."
+
+{
+  const mechData = [
+    {id: "α", full: "α — The US MCM gap (structural bottleneck)", post_op: 0.95, post_lb: 0.60, tier: "T1"},
+    {id: "β", full: "β — Pandit's negative-power asymmetry (denial vs guarantee)", post_op: 0.85, post_lb: 0.55, tier: "T2"},
+    {id: "γ", full: "γ — Petersen's distant-blockade revealed-preference", post_op: 0.95, post_lb: 0.45, tier: "T2"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 240 : Math.max(320, Math.min(440, Math.round(width * 0.4)));
+  const data = mechData.map(d => ({ ...d, display: isMobile ? d.id : d.full }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 56 : Math.max(380, Math.round(width * 0.36)),
+    marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Probability",
+      domain: [0, 1],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: data.map(d => d.display) },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.barX(data, {
+        x: "post_op", y: "display",
+        fill: "#e6e8eb", insetTop: 8, insetBottom: 8
+      }),
+      Plot.barX(data, {
+        x: "post_lb", y: "display",
+        fill: "tier", insetTop: 8, insetBottom: 8,
+        channels: {
+          Mechanism: "full",
+          "P(operative)": d => `${Math.round(d.post_op * 100)}%`,
+          "P(load-bearing)": d => `${Math.round(d.post_lb * 100)}%`,
+          Tier: "tier"
+        },
+        tip: {
+          lineWidth: 35,
+          fontSize: isMobile ? 12 : 13
+        }
+      }),
+      Plot.text(data, {
+        x: "post_lb", y: "display",
+        text: d => `${Math.round(d.post_lb * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
+      }),
+      Plot.ruleX([0.5], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+      Plot.text([{ x: 0.5, y: data[0].display }], {
+        x: "x", y: "y", text: () => "load-bearing →",
+        dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
+        fontSize: annotFont, fill: "#0969da", fontStyle: "italic", fontWeight: 500
+      })
+    ]
+  });
+}
+```
+
+::: {.mech-legend}
+**Mechanism codes** (chart labels expanded):
+
+| Code | Mechanism |
+|:---:|---|
+| **α** | The US MCM gap — Avenger retired + Sea Dragon phased out; replacement insufficient under non-permissive conditions |
+| **β** | Pandit negative-power vs facilitative-hegemony asymmetry — denial requires far smaller force ratio than guarantee |
+| **γ** | Petersen's distant-blockade revealed-preference — US chose distant over close because close is too costly under Iran A2/AD |
+:::
+
+[**Reading the chart.** All three mechanisms are operative with very high probability (0.85-0.95) and the T1/T2 evidence base is unusually strong for a forward-looking analysis. **α is T1** because the Avenger retirement and Sea Dragon phaseout are public force-structure facts; the MCM-gap conclusion is direct inference from those facts. **β and γ are T2** — Pandit and Petersen are named single-source framework attributions but the framework predictions match observable evidence (distant-blockade choice; 50× insurance premium spike; daily transit count stuck at 4). The mechanisms are *jointly necessary* — each contributes to the infeasibility — so their individual load-bearing weights are bounded.]{.concise-only}
+[**Reading the chart.** Each row is one of Q4's three load-bearing mechanisms. P(operative) for all three sits at 0.85-0.95 — Q4 has the strongest T1/T2 empirical foundation of any chapter in the project because operational variables are directly observable in real-time. α (US MCM gap) is tier-1 (green) because the Avenger-class retirement (September 2025) and MH-53E Sea Dragon phaseout (August 2025) are public force-structure facts; Iran's mine stockpile estimate (2,000-6,000) is consistent across multiple sources; the 4-8-week clearance timeline is from public-domain naval-doctrine sources. The MCM-gap conclusion is direct inference from publicly-documented force-structure facts. β (Pandit) is tier-2 (yellow) — Pandit is a named single-source analyst framework attribution, but the framework's empirical predictions (denial requires smaller force ratio than guarantee; insurance market prices denial as binding) are confirmed by observable data — the 50× insurance war-risk premium spike, the Maersk Q1 2026 profit collapse (-92% YoY), and the 97% transit reduction. γ (Petersen) is also tier-2 — Petersen's analytical framing of the distant-blockade choice is the load-bearing inference, supported by observable evidence: the US Navy is empirically operating in the Gulf of Oman and beyond, not inside the Strait at scale; Project Freedom's "cleared corridor" is partial-clearance not full-clearance. The mechanisms are jointly necessary: each contributes to the structural infeasibility of restoration. Their individual load-bearing weights (0.60 / 0.55 / 0.45) sum greater than the headline P=0.70 because of partial overlap in causal chains.]{.deep-only}
+
+### Figure 2 — The Tanker War 1980-88 base-rate parallel
+
+| Operational metric | Tanker War 1980-88 | Hormuz Dual Blockade 2026 |
+|---|---|---|
+| Duration | ~8 years (1980-88) | 71+ days (started 28 Feb; dual blockade 13 Apr) |
+| Attacks on commercial shipping | ~543 over 8 years | UAE alone: 2,256 drones + 537 ballistic missiles + 26 cruise missiles |
+| US response architecture | Earnest Will reflagging (11 Kuwaiti tankers); convoy escort | Project Freedom escort + distant blockade + Bandar Abbas/Qeshm strikes |
+| US ship-mine incidents | USS *Samuel B. Roberts* hit mine April 1988 | None to date (Project Freedom 4 May+) |
+| US MCM platforms | Avenger-class + MH-53E Sea Dragon active | Avenger retired Sept 2025; MH-53E phased out Aug 2025; 3 LCS-MCM + Knifefish UUVs |
+| Iranian denial capacity | ~1,000 mines + early FAC | 2,000-6,000 mines + ASBMs + drone swarms + EM-52 |
+| Terminated by | Iran-Iraq ceasefire (UN 598, Aug 1988) | **Pending — Q4 prediction: political settlement, not blockade success** |
+
+[**The base-rate pattern.** Earnest Will succeeded at the *narrow* goal of escorting reflagged Kuwaiti tankers but did NOT restore freedom of navigation. The Tanker War ended via Iran-Iraq political settlement, not via blockade success. Iranian denial capacity has *grown* by ~5× in absolute mine count plus ASBMs + drones + EM-52. US MCM has *contracted* by retirement of Avenger + Sea Dragon. The base-rate prediction: chokepoint denial under non-permissive A2/AD ends via political settlement.]{.concise-only}
+[**Reading the table.** The Tanker War 1980-88 is the canonical historical analog for the 2026 dual blockade. The base-rate empirical pattern is unambiguous. *Earnest Will succeeded narrowly*: 11 reflagged Kuwaiti tankers, US Navy convoy escort through 14 months, multiple successful transits — but the operation did NOT restore freedom of navigation for non-protected commercial traffic. *Iran's mining campaign continued throughout*: USS *Samuel B. Roberts* hit an Iranian mine in the Persian Gulf on 14 April 1988 (10 sailors wounded; ship nearly lost). *Praying Mantis was a tactical victory*: 18 April 1988 retaliation strike destroyed two Iranian oil platforms (Sirri and Sassan) and the frigate IRIS *Sahand*; tactically decisive in the moment but did not end Iranian mining or denial operations. *The Tanker War ended via political settlement*: Iran-Iraq ceasefire under UN Security Council Resolution 598 on 20 August 1988. The base-rate prediction: chokepoint denial campaigns under non-permissive A2/AD have been ended by *political settlement*, not by *operational success of counter-blockades*. The 2026 case is structurally similar but with two important shifts: Iranian denial capacity has *grown* substantially (mine count 5× higher, plus ASBMs, drone swarms, EM-52 rocket mines that did not exist in 1988); US MCM capacity has *contracted* (Avenger + Sea Dragon retirements). The shifts in capacity both point in the same direction — *toward* infeasibility of operational restoration.]{.deep-only}
+
+### Figure 3 — Operational observables (pre-registered)
+
+```{mermaid}
+flowchart LR
+  P[Project Freedom<br/>operational record]
+  P --> O1[Daily transit count<br/>stuck at 4 per day<br/>vs 138 pre-war]
+  P --> O2[CENTCOM blockade-redirect<br/>tally: 25 to 48 to 52<br/>over 3 weeks]
+  P --> O3[War-risk insurance<br/>premium: 1 to 5 percent<br/>typical 7.5 to 10 percent<br/>high-risk vs 0.15 percent pre-war]
+  P --> O4[VLCC war-risk:<br/>$10 to 14M per voyage<br/>50 times pre-war]
+  P --> O5[Maersk Q1 2026<br/>profit minus 92 percent YoY]
+  P --> O6[6 IRGCN FAC sunk<br/>3-destroyer transit<br/>under fire]
+  classDef p fill:#0969da,color:#fff,stroke:#0969da
+  classDef o fill:#f6f8fa,stroke:#d0d7de
+  class P p
+  class O1,O2,O3,O4,O5,O6 o
+```
+
+[**Project Freedom's three-week record** (4 May → 25 May data window). Daily transit count: stuck at ~4/day (97% reduction from pre-war 138 holds). CENTCOM redirect tally grew 25 → 52 vessels. Insurance war-risk premiums at 1-5% typical (50× pre-war); VLCC war-risk $10-14M per voyage. Maersk Q1 2026 profit collapsed 92% YoY. The operational record matches Q4 predictions: US can disrupt Iranian transit and strike Iranian infrastructure, but cannot restore commercial transit through Hormuz.]{.concise-only}
+[**Operational state of play through 25 May 2026.** Project Freedom's first three weeks produced a measurable operational record that maps directly to Q4's predictions. *What US assets accomplished*: six IRGCN fast attack craft sunk on 4 May (AH-64 Apaches + MH-60 Seahawks); USS *Truxtun*, USS *Mason*, USS *Rafael Peralta* forced a three-destroyer transit on 7-8 May under fire; US strikes on Bandar Abbas + Qeshm; USS *Spruance* (DDG-111) disabled the Iranian cargo ship *Touska* with 9 inert 5-inch MK 45 rounds (19 April; first US destroyer deck-gun action in nearly four decades); F/A-18 from CSG-9 disabled the rudder of M/T *Hasna* in the Gulf of Oman (6 May); CENTCOM blockade-redirect tally grew from 25 (mid-April) → 48 (2 May) → 52 (6 May). *What US assets did not accomplish*: daily commercial transit count remains at ~4/day (97% reduction from pre-war 138/day); war-risk insurance premiums remain at 1-5% typical and 7.5-10% high-risk (50× pre-war 0.15-0.25%); VLCC war-risk insurance at $10-14M per voyage; Maersk Q1 2026 profit collapsed 92% YoY (Vincent Clerc: Hormuz traffic "near standstill"). The operational record is precisely what Q4 predicts: the US can *disrupt* Iranian transit and *strike* Iranian infrastructure, but cannot *restore* commercial transit through Hormuz under current MCM capacity and Iranian A2/AD posture. *The empirical record validates the headline finding three weeks into the operation*.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+### Figure 4 — Pre-registered falsification criteria
+
+Track over next 90-180 days. These are unusually crisp because the operational variables are directly observable:
+
+| Falsifier | Predicts | Falsifies if |
+|---|---|---|
+| Daily transit count | Stays below 50/day under Project Freedom | Exceeds 50/day sustained 30 days |
+| War-risk insurance premium | Stays >1% typical, >5% high-risk | Falls below 0.5% sustained 30 days |
+| VLCC war-risk per voyage | Stays at multi-$M (10-50× pre-war) | Falls back to <$0.5M sustained |
+| Iranian mining incidents | Continued mining activity | Iran ceases mining voluntarily |
+| US MCM regeneration | No new Avenger-class replacement program announced | Expedited LCS-MCM module deployment OR Sea Dragon recall OR new MCM acquisition program |
+| CENTCOM blockade-redirect | Continued growth above 52 | Plateau followed by US abandonment of distant blockade |
+| Daily transit count | Stays <50/day | **EXCEEDS 95/day (>70% restoration)** within 12 months |
+
+If three or more falsifiers fire within 90-180 days, headline posterior drops below 0.50. The Tanker War 1980-88 base rate is the load-bearing falsifier: the analytical claim is that the 2026 case follows the same pattern.
+
+### Figure 5 — Source-confidence tier audit
+
+Of the synthesis's load-bearing claims:
+
+- **[T1]{.tier .tier-1} multi-source verified:** Daily transit count 138 → 4 (97% reduction) — Hormuz SYNTHESIS + oil_gas_db + multiple primary sources; EIA Gulf shut-in trajectory 7.5 → 9.1 → 6.7 mb/d — EIA STEO April 2026; Avenger-class minesweepers retired September 2025 — public Navy force-structure announcements; MH-53E Sea Dragons phased out August 2025 — public Navy announcements; Iran possesses 2,000-6,000 mines — multiple defense-intelligence sources; six IRGCN FAC sunk 4 May (AH-64 Apaches + MH-60 Seahawks) — Project Freedom operational record; three-destroyer 7-8 May transit under fire — Hormuz SYNTHESIS + CENTCOM; USS *Truxtun*, *Mason*, *Rafael Peralta* identified — Hormuz SYNTHESIS; CENTCOM blockade-redirect tally 25 → 48 → 52 — Hormuz SYNTHESIS; QatarEnergy force majeure 24 March on 12.8 Mtpa — multiple primary sources; Maersk Q1 2026 profit -92% YoY ($100M vs $1.2B) — Maersk reporting + Vincent Clerc statements; Tanker War 1980-88 base-rate facts (~543 attacks, USS *Samuel B. Roberts* mine incident, Praying Mantis, UN 598 termination) — historical record.
+
+- **[T2]{.tier .tier-2} single-source named:** [Pandit's negative-power vs facilitative-hegemony framework]{.gloss data-gloss="pandit-negative-power"} — single-source analyst framing; [Petersen's close vs distant blockade typology]{.gloss data-gloss="petersen-blockade-typology"} — FPRI single-source analysis; "4-8 weeks minimum to clear under non-permissive conditions" estimate — Hormuz SYNTHESIS (referenced as defense-intelligence baseline); war-risk insurance premium 1-5% typical, 7.5-10% high-risk — Lloyd's Joint War Committee + maritime-insurance reporting; VLCC war-risk $10-14M per voyage (~50× pre-war 0.15-0.25%) — maritime-insurance market data.
+
+- **[T3]{.tier .tier-3} inference from evidence:** **The US MCM gap is *load-bearing for operational infeasibility*** (inferred from public force-structure facts + non-permissive-conditions clearance estimate); **Iran's mine deployment doctrine relies on dispersed small-boat networks rather than the destroyed minelayers** (inference from operational reporting); **The distant-blockade architecture choice is *revealed preference* not just *capability-matched preference*** (inferred from operational record + force-structure constraints); **Restoration to >70% pre-war transit within 12 months requires Iranian voluntary acceptance** (inference combining α + β + γ); **The Tanker War 1980-88 base-rate generalizes to 2026** (inference from structural similarity with capacity-trend caveats — Iranian capacity grew, US MCM capacity contracted; both point toward the same prediction direction).
+
+- **[T4]{.tier .tier-4} conjecture:** none in the load-bearing path.
+
+**Five load-bearing T3 inferences** trigger the META rule 5 posterior cap at ≤ 0.70 — the cap is moderate because much of the analysis rests on T1/T2 operational evidence directly observable in real-time. The headline posterior at 0.70 sits at the cap.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+The most likely ways the analysis will be wrong:
+
+1. **The MCM gap is not as binding as estimated** (P ≈ 0.15). The 4-8-week clearance estimate might be pessimistic; expedited LCS-MCM module deployment plus coalition (UK Type 26 / French ALFOST) MCM contributions might compress the timeline. Mitigation: even with coalition contributions, the throughput required to sweep a full deep-water channel (vs cleared corridor) is far larger than coalition capacity.
+
+2. **Iran cannot sustain mine deployment under continued US strikes** (P ≈ 0.15). Iranian small-boat networks might be progressively degraded; mining tempo declines; the cleared corridor expands as Iranian denial capacity exhausts. Mitigation: Iran's 2,000-6,000 mine stockpile + dispersed small-boat dispersal means deployment can continue at low tempo under degraded conditions; the bottleneck is the US MCM gap, not Iran's mine availability.
+
+3. **The distant-blockade choice is not revealed preference** (P ≈ 0.20). The US might have chosen distant blockade for *legal* or *coalition* reasons (avoiding UNSC veto fallout, preserving Gulf-state diplomatic options) rather than operational-cost reasons. Mitigation: even granting alternative motivations, the *consequence* of the architectural choice is that Hormuz restoration is not the operational goal; the revealed-preference reading is about *outcome*, not motivation.
+
+4. **Pandit's negative-power framework over-strong** (P ≈ 0.15). The asymmetry between denial and guarantee might be smaller than the framework suggests if Iran's denial capacity has been more degraded by Operation Epic Fury than is publicly visible. Mitigation: the load-bearing observable (war-risk insurance premium + daily transit count) is empirically extreme; insurance market is *empirically* pricing denial as binding regardless of framework attribution.
+
+5. **The Tanker War 1980-88 base-rate doesn't generalize** (P ≈ 0.20). The 2026 case differs from 1980-88 along multiple dimensions: different combatant composition (no Iraq); different Iranian doctrine (post-2024 maximum-pressure adaptation); different US force structure (post-MCM retirement). Mitigation: the dimensions that differ between cases all point *toward* the same prediction direction — Iranian capacity *up*, US MCM capacity *down*, asymmetric architecture *more* pronounced in 2026.
+
+6. **Political settlement happens before operational variables resolve** (P ≈ 0.30). Trump-admin pivot per Q6 Pathway B fires within 12 months; the war ends via political settlement; the operational-feasibility question becomes moot before falsification windows close. *This is not a failure mode of the analysis — it is the predicted base-rate outcome.* The Tanker War 1980-88 was also resolved via political settlement (UN 598). Q4 predicts the same pattern.
+
+**Total probability the finding is substantively wrong**: ≈ 0.30 (with overlap). Consistent with the META-rule-5-capped posterior of 0.70.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Connections to other Q-chapters
+
+| Q-chapter | How Q4 connects |
+|---|---|
+| [Q2](q2-war-persistence.qmd) | Q2's γ-envelope (no third-party enforcer; Werner three diagnostics fail) operates at the political-bargaining level; Q4's α + β + γ operate at the operational-military level. Both produce structural persistence; the operational analysis here is the load-bearing reason no US-led restoration of Hormuz can substitute for political settlement. |
+| [Q3](q3-ceasefire-instability.qmd) | Q3 explained why Operation Project Freedom is part of the ceasefire-violation cascade. Q4 explains *what Project Freedom can and cannot achieve operationally*. Project Freedom is the most aggressive operationally feasible US move under MCM constraints; it is not Hormuz restoration. |
+| [Q6](q6-what-ends-the-war.qmd) | Q6 Pathway C (γ-envelope contraction via battle convergence) at P=0.20-0.25 corresponds to the operational outcome Q4 finds infeasible at <30% probability over 12 months. Q4 sharpens Q6 Pathway C's probability estimate downward and shifts probability mass toward Pathway B (Trump-admin pivot under political pressure). |
+| [Q10](q10-us-hormuz-interest.qmd) | Q10 established Trump-admin α-low producer-coalition dominance — Trump *prefers* sustained disruption. Q4 establishes that even if a future Democratic admin (or post-Trump Republican) chose to restore Hormuz transit, the operational infrastructure does not exist to do so quickly. The α + β + γ mechanisms operate **across administrations**, partially decoupling Q4 from Q10's admin-contingent finding. |
+| [Q12.4](q12-4-gulf-paradox.qmd) | Q12.4 explained why Gulf monarchies declined basing/airspace. Q4 explains why even with full Gulf basing access, the operational obstacles to Hormuz restoration would remain — the MCM gap and Iranian A2/AD are structural; basing access is necessary but not sufficient. |
+| [Q12.5](q12-5-post-war-reconfiguration.qmd) | Configuration F (Saudi-led Sunni-Muslim third pole) is partially driven by Saudi assessment that US patron-reliability under operational stress is contested — Q4 provides the operational substrate that Configuration F's "US can't deliver on protection" reading rests on. |
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+The load-bearing single source for this chapter is the Iran_war corpus's `output/hormuz/SYNTHESIS.md` — flagged in the project's CONTINUATION.md as "the most analytically dense single doc" in the corpus. Quantitative spine: `output/oil_gas_db/database.csv` (419 rows, 75% high-confidence; Hormuz-exposed actors).
+
+Key citations: @pandit_hormuz_blockade, @petersen_fpri_blockade, @grieco_stimson_coercive_risk, @azizi_carnegie_deterrence_under_fire, @hampson_zartman_chicken, @warren_cost_exchange, @hokayem2026endurance, @cimmino_pavel_hormuz_duration, @schelling1966arms, @pape1996bombing, @vukovic2026nash, @kelanic2020black.
+
+Historical base-rate sources: Operation Earnest Will 1987-88 (US Navy historical records); Operation Praying Mantis 1988 (DoD historical records); Iran-Iraq Tanker War 1980-88 (Stanford Library multilateral records); UN Security Council Resolution 598 (August 1988).
+
+**Highest-priority remaining corpus gaps for Q4 verification:**
+
+- USCENTCOM primary-source operational records (centcom.mil access limited; gap on detailed order-of-battle and CSG-9/CVW composition).
+- LCS-MCM module deployment timeline updates beyond the Hormuz SYNTHESIS data window.
+- Iranian mine-deployment tempo data (currently estimated from public reporting; ICG/Stimson have qualitative tracking).
+- War-risk insurance market data beyond Lloyd's Joint War Committee Listed Areas updates.
+
+```{=html}
+</div>
+```

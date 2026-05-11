@@ -319,6 +319,30 @@ glossary:
       Suzanne Werner's "The Precarious Nature of Peace" (1999) and related war-termination literature identified three jointly-necessary conditions for durable post-war peace: (1) underlying *issues are resolved* or made manageable; (2) the settlement *includes credible enforcement*; (3) the *terms are consistent with the balance of power*. Ceasefires that fail on any of the three reliably break. Q2 applies the diagnostics to the 2026 Iran war and finds all three failing simultaneously: Iran's 14-point framework and US terms have no overlap on regime-change, enrichment, or Hormuz-toll; no third-party enforcer is available; and any terms acceptable to one side are inconsistent with the other side's revealed power-position.
     primer: null
 
+  - id: pandit-negative-power
+    title: "Negative power vs facilitative hegemony (Pandit)"
+    body: |
+      Pandit's framing of the 2026 Hormuz dual blockade: Iran exercises *negative power* — it cannot project force globally but can deny commerce through a confined-water chokepoint with relatively small force projection. The US exercises *facilitative hegemony* — it commands the open commons but cannot, in confined waters under non-permissive A2/AD, *guarantee* that commerce will pass. The framework names a structural asymmetry: denial requires a much smaller force ratio than guarantee. Q4 reads the operational state of play through this lens — the architectural mismatch (Iran needs to inflict cost; US needs to prevent cost) is what makes US-led restoration of Hormuz transit infeasible by force projection alone.
+    primer: null
+
+  - id: petersen-blockade-typology
+    title: "Close vs distant blockade (Petersen, FPRI)"
+    body: |
+      Petersen (FPRI) argues the 2026 dual blockade has two architectural sub-types. A *close blockade* would have the US Navy operating inside the Strait of Hormuz to force convoy-style commercial transit. A *distant blockade* intercepts Iranian-flagged or Iranian-aligned tankers in the Gulf of Oman and beyond, plus targeted strikes on Iranian naval infrastructure. The US chose distant blockade precisely because close blockade is now too costly under Iran's A2/AD (mines, ASBMs, FAC swarms, coastal missile batteries). Q4 reads the architectural choice as *revealed preference*: by choosing distant blockade, the US has empirically conceded that close-blockade Hormuz restoration is operationally infeasible. The consequence is slower coercion and a longer endurance contest.
+    primer: null
+
+  - id: us-mcm-gap
+    title: "The US mine-countermeasures gap (post-2025)"
+    body: |
+      The US Navy's mine-countermeasures (MCM) capability was structurally downgraded in 2025: the Avenger-class minesweepers were retired in September 2025; the MH-53E Sea Dragon helicopters were phased out in August 2025. The replacement architecture is three LCS hulls with MCM mission modules plus Knifefish unmanned underwater vehicles deployed from selected destroyers — substantially less throughput than the retired fleet. The Hormuz SYNTHESIS estimates "4-8 weeks minimum to clear under non-permissive conditions," and concludes that "if Iran chooses to mine seriously, the US Navy cannot quickly restore traffic." Iran possesses 2,000-6,000 mines (Maham-3, Maham-7, Chinese-supplied EM-52). The MCM gap is the central structural bottleneck for any US-led counter-blockade.
+    primer: null
+
+  - id: tanker-war-base-rate
+    title: "Tanker War 1980-88 base rate (Earnest Will / Praying Mantis)"
+    body: |
+      Q4's load-bearing historical base rate. During the Iran-Iraq Tanker War (1980-88) there were ~543 attacks on commercial shipping in the Persian Gulf. The US-led multinational response (Operation Earnest Will, 1987-88) reflagged 11 Kuwaiti tankers and escorted them via US Navy convoy through 14 months — successful at the *narrow* operational goal of protecting reflagged tankers but did NOT restore freedom of navigation. USS *Samuel B. Roberts* hit an Iranian mine in April 1988. Operation Praying Mantis (April 1988) destroyed two Iranian oil platforms and one Iranian frigate — tactical victory; did not end mining. The Tanker War ended via the Iran-Iraq ceasefire (UN 598, August 1988), not via blockade success. The base-rate pattern: chokepoint-denial campaigns under non-permissive A2/AD end via *political settlement*, not via operational success of counter-blockades.
+    primer: null
+
   - id: toft-settlement-typology
     title: "Settlement-typology fragility prediction (Toft, 2010)"
     body: |
