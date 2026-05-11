@@ -511,20 +511,103 @@ a.skip-link::before { content: "↓ "; }
   #refs, div.references, .csl-bib-body { display: revert !important; }
 }
 
-/* ---------- Dark theme adjustments ---------- */
+/* ---------- Dark theme adjustments (consolidated, !important to defeat cosmo) ---------- */
+/* Every element that uses var(--bs-light) or var(--bs-white) as a background
+   needs an explicit dark override here. Bootstrap 5.3's --bs-light is NOT
+   theme-aware — it stays the same light value in dark mode — so we can't rely
+   on the variable. !important defeats any specificity contest with cosmo's
+   bundled CSS, which can otherwise re-apply light-grey backgrounds. */
 
+/* Surface backgrounds: the off-white panel elements */
 [data-bs-theme="dark"] .reader-controls,
 [data-bs-theme="dark"] .bottom-line,
-[data-bs-theme="dark"] .dashboard-card {
-  background: #161b22;
-  border-color: #30363d;
-}
-[data-bs-theme="dark"] .reader-controls .depth-toggle button {
-  background: #21262d;
+[data-bs-theme="dark"] .dashboard-card,
+[data-bs-theme="dark"] .mech-legend,
+[data-bs-theme="dark"] .disagreement-col {
+  background: #161b22 !important;
+  border-color: #30363d !important;
   color: #c9d1d9;
-  border-color: #30363d;
 }
-[data-bs-theme="dark"] .tier-1 { background: #033a16; color: #56d364; border-color: #2da44e; }
-[data-bs-theme="dark"] .tier-2 { background: #4d3800; color: #d4a72c; border-color: #d4a72c; }
-[data-bs-theme="dark"] .tier-3 { background: #5d1a05; color: #ff8a4c; border-color: #cf222e; }
-[data-bs-theme="dark"] .tier-4 { background: #21262d; color: #8b949e; border-color: #30363d; }
+
+/* Depth-toggle buttons inside reader-controls */
+[data-bs-theme="dark"] .reader-controls .depth-toggle button {
+  background: #21262d !important;
+  color: #c9d1d9 !important;
+  border-color: #30363d !important;
+}
+[data-bs-theme="dark"] .reader-controls .depth-toggle button[aria-pressed="true"] {
+  background: var(--bs-primary, #58a6ff) !important;
+  color: #ffffff !important;
+  border-color: var(--bs-primary, #58a6ff) !important;
+}
+
+/* Deep-mode indicator (was using rgba(blue, 0.08) which renders too pale in dark) */
+[data-bs-theme="dark"] .deep-mode-indicator {
+  background: rgba(88, 166, 255, 0.14) !important;
+  border-left-color: var(--bs-primary, #58a6ff) !important;
+  color: #c9d1d9 !important;
+}
+
+/* Bottom-line callout: tweak the uppercase "BOTTOM LINE" label color so it reads on dark */
+[data-bs-theme="dark"] .bottom-line strong:first-child {
+  color: #8b949e !important;
+}
+
+/* Custom popover for SVG nodes — explicit dark mode */
+[data-bs-theme="dark"] #gt-custom-popover {
+  background: #161b22 !important;
+  border-color: #30363d !important;
+  color: #c9d1d9 !important;
+}
+[data-bs-theme="dark"] #gt-custom-popover .gt-popover-header {
+  background: #21262d !important;
+  border-bottom-color: #30363d !important;
+  color: #c9d1d9 !important;
+}
+[data-bs-theme="dark"] #gt-custom-popover[data-placement="top"] .gt-popover-arrow::after {
+  background: #161b22 !important;
+  border-right-color: #30363d !important;
+  border-bottom-color: #30363d !important;
+}
+[data-bs-theme="dark"] #gt-custom-popover[data-placement="bottom"] .gt-popover-arrow::after {
+  background: #21262d !important;
+  border-left-color: #30363d !important;
+  border-top-color: #30363d !important;
+}
+
+/* Bootstrap-rendered popover (inline gloss buttons) — make sure the popover body
+   is dark too. Bootstrap's .popover-arrow / .popover-header / .popover-body all
+   need overrides because Bootstrap-popover doesn't auto-pick up dark mode. */
+[data-bs-theme="dark"] .popover.gloss-popover {
+  background: #161b22 !important;
+  border-color: #30363d !important;
+  color: #c9d1d9 !important;
+}
+[data-bs-theme="dark"] .gloss-popover .popover-header {
+  background: #21262d !important;
+  color: #c9d1d9 !important;
+  border-bottom-color: #30363d !important;
+}
+[data-bs-theme="dark"] .gloss-popover .popover-body {
+  background: #161b22 !important;
+  color: #c9d1d9 !important;
+}
+[data-bs-theme="dark"] .gloss-popover .popover-arrow::before,
+[data-bs-theme="dark"] .gloss-popover .popover-arrow::after {
+  border-top-color: #161b22 !important;
+  border-bottom-color: #161b22 !important;
+}
+
+/* Predictions divider inside disagreement columns */
+[data-bs-theme="dark"] .disagreement-col .predictions {
+  border-top-color: #30363d !important;
+}
+[data-bs-theme="dark"] .disagreement-col .predictions strong {
+  color: #8b949e !important;
+}
+
+/* Tier badges */
+[data-bs-theme="dark"] .tier-1 { background: #033a16 !important; color: #56d364 !important; border-color: #2da44e !important; }
+[data-bs-theme="dark"] .tier-2 { background: #4d3800 !important; color: #d4a72c !important; border-color: #d4a72c !important; }
+[data-bs-theme="dark"] .tier-3 { background: #5d1a05 !important; color: #ff8a4c !important; border-color: #cf222e !important; }
+[data-bs-theme="dark"] .tier-4 { background: #21262d !important; color: #8b949e !important; border-color: #30363d !important; }
