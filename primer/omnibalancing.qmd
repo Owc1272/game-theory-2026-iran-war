@@ -1,0 +1,448 @@
+---
+title: "Primer — Omnibalancing and regime survival"
+subtitle: "David 1991 + Gause 2003/4 + Reinhold 2001: when leaders balance internal threats over external ones"
+description: "Classical realist alliance theory says states balance against the strongest external threat. But many leaders — especially in fragile states — face larger threats from internal opposition than from foreign rivals. They balance against the *larger* threat, which is often domestic. Alignment becomes about regime survival, not state survival. The framework explains why Bahrain is the most domestically constrained Gulf state on Iran confrontation and why Saudi behavior in the 2026 war reflects a binding economic-modernization constraint alongside conventional security calculus."
+categories: [primer, omnibalancing, david, gause, reinhold]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+Classical realist alliance theory says states balance against the strongest external threat. But many real cases look "puzzling" against this prediction: Anwar Sadat realigned Egypt from Soviet to US patronage in 1972-79 despite Israel remaining the obvious external threat; Mengistu Haile Mariam aligned Ethiopia with the Soviets despite ethnic-tribal dynamics that should have pointed Western; Saudi Arabia accepts deep US security ties despite ideological-religious gaps that classical realism cannot explain. Steven David's omnibalancing reframes the question: leaders face *two* threats simultaneously — external AND internal — and rationally balance against whichever is *larger*. For many fragile states, the larger threat is domestic. Alignment then becomes a regime-survival calculation, not a state-survival one. The framework structures most of the Gulf-specific analysis on this site.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Classical realist alliance theory — the Walt-style [balance of threat]{.gloss data-gloss="walt-balance-of-threat"} framework — says states should align against the strongest external threat in their region. The prediction works reasonably well for great powers. It works less well for the Third World cases that dominate post-1945 alliance dynamics. Sadat's realignment of Egypt from Soviet to US patronage in 1972-79 — *while Israel remained Egypt's largest external threat* — is the canonical anomaly. Mengistu's alignment of Ethiopia with the Soviet Union despite ethnic-tribal dynamics that would have predicted Western alignment is another. And the Saudi case — accepting deep US security ties from Roosevelt's 1945 Quincy meeting through to the present despite religious-ideological gaps that ought to have favored a different patron — has been a persistent puzzle for the standard framework.
+
+Steven David's 1991 *"Explaining Third World Alignment"* in *World Politics* reframes the question. Leaders face *two* threats simultaneously — *external* (hostile neighbors, great-power rivals) and *internal* (coup, opposition, regime collapse) — and they rationally balance against whichever threat is larger. For many fragile states, the larger threat is *domestic*. Alignment then becomes a regime-survival calculation, not a state-survival one. The framework is descriptive, not normative — it asks why leaders do what they do, not what they should do.
+
+F. Gregory Gause's 2003/4 *"Balancing What?"* applied David's framework to the Gulf, sharpening it for the specific case of Sunni monarchies ruling religiously mixed populations. The Gulf application matters intensely for the 2026 war: it gives the analytical engine — together with [Lake's patron-client framework]{.gloss data-gloss="lake-hierarchy"} — for [Q12.4](../analyses/q12-4-gulf-paradox.qmd) on why the Gulf monarchies pushed for regime change while refusing to be the visible platform, and [Q12.5](../analyses/q12-5-post-war-reconfiguration.qmd) on post-war reconfiguration including the [Bahrain test]{.gloss data-gloss="bahrain-test"} as a single-state discriminator. The primer sets out what David claims, what Gause adds, what Reinhold's 2001 *Omnibalancing and the House of Saud* gives operationally, and where the framework breaks.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Omnibalancing: leaders balance against the *larger* of two threats — internal or external — and for fragile states the larger threat is often *internal*. Alignment is a *regime-survival* calculation, not a *state-survival* one. F. Gregory Gause's Gulf application: Sunni monarchies ruling religiously mixed populations face a binding domestic-balancing problem; visible alignment with a Sunni-Shia regional war can mobilize internal Shia constituencies. Reinhold 2001's Saudi-specific *three-pillar framework*: external alignment + internal opposition control + rentier state. The framework composes with [Lake's hierarchy]{.gloss data-gloss="lake-hierarchy"} to give the analytical engine of [Q12.4](../analyses/q12-4-gulf-paradox.qmd) and [Q12.5](../analyses/q12-5-post-war-reconfiguration.qmd) — Lake explains the *external* patron-client structure; omnibalancing explains the *internal* threat dynamics that determine when clients refuse patron requests.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Omnibalancing is Steven David's 1991 reframe of Third World alignment: leaders face *two* threats simultaneously and rationally balance against the *larger*. The external threat is what classical realism sees — hostile neighbors, regional rivals, great-power adversaries. The internal threat is what classical realism misses — coup attempts, restive opposition, factional rivalries within the ruling coalition, ethnic or sectarian mobilization. For many fragile states, the internal threat dominates the external one in actual day-to-day decision-making. Alignment then becomes a *regime-survival* calculation rather than a *state-survival* one. F. Gregory Gause's 2003/4 Gulf application sharpens this for Sunni monarchies ruling religiously mixed populations: visible alignment with a Sunni-Shia regional war can mobilize internal Shia constituencies, making participation regime-suicide. The framework explains why [Bahrain]{.gloss data-gloss="bahrain-csipa"} (about 70% Shia under Sunni rule) is the most domestically constrained Gulf state on Iran confrontation. Reinhold 2001's *Omnibalancing and the House of Saud* — an NPS thesis applying David to Saudi Arabia in depth — gives an operational three-pillar framework: external alignment (US patron); internal opposition control (security apparatus + religious legitimation); rentier state (oil revenue → patronage → coalition durability). The three pillars are interdependent. The framework composes with [Lake's patron-client hierarchy]{.gloss data-gloss="lake-hierarchy"} to give the analytical engine for the Gulf chapters on this site — Lake explains the *external* structural relationship between the Gulf clients and the US patron; omnibalancing explains the *internal* threat dynamics that determine when clients can comply with patron requests and when those requests would damage internal stability. Together: Lake-and-omnibalancing predicts both that Gulf states cede authority over basing/arms/alignment to the US patron AND that they refuse specific patron requests when those requests trigger their internal-threat constraint. [Q12.4](../analyses/q12-4-gulf-paradox.qmd) and [Q12.5](../analyses/q12-5-post-war-reconfiguration.qmd) operationalize this framework throughout.
+:::
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — why omnibalancing was integrated post-DA
+
+The omnibalancing framework arrived in [Q12.4](../analyses/q12-4-gulf-paradox.qmd) during the devil's-advocate cycle, not the initial corpus pull. The opening synthesis used classical balance-of-power language and missed the specific predictions omnibalancing makes about *which* Gulf states would be most constrained on visible Iran confrontation. The DA pointed out that the Bahrain anomaly — Bahrain being the *most* US-aligned Gulf state operationally despite having the *most* domestically constrained ruling coalition by Shia-population share — needed a framework that could distinguish Bahrain from Kuwait (both Shia-significant; both ostensibly US-aligned; very different operational profiles). Omnibalancing is that framework.
+
+The Reinhold 2001 *House of Saud* NPS thesis came in via corpus search after the DA round. It is a substantive 176-page application of David's framework to Saudi Arabia, with the three-pillar operationalization that the original David paper does not provide. Reinhold's contribution is making omnibalancing testable at the case level: each pillar (external alignment, internal opposition control, rentier state) has measurable indicators, and the framework predicts behavior based on which pillar is under stress.
+
+The framework's composition with [Lake's patron-client hierarchy]{.gloss data-gloss="lake-hierarchy"} happened in the final synthesis. Lake gives the external structural frame (asymmetric hierarchical relationship); omnibalancing gives the internal-threat dynamics on the client side. The two compose without strain because they address different questions: Lake asks "what is the structural shape of the patron-client relationship?"; omnibalancing asks "what are the client's internal pressures that determine compliance?" Together they generate sharp empirical predictions for the Gulf — including [Configuration F]{.gloss data-gloss="configuration-f-saudi-third-pole"} as the predicted Saudi response when US patron reliability erodes past a threshold.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the framework. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  C[Classical realist<br/>balance-of-power:<br/>states balance against<br/>strongest external threat]
+  C --> P[Predicts uniform<br/>external balancing]
+  P -.->|but| A1[Sadat 1972-79:<br/>realigned to US<br/>despite Israel threat]
+  P -.->|but| A2[Mengistu 1974-91:<br/>Soviet alignment<br/>against tribal logic]
+  P -.->|but| A3[Saudi 1945-present:<br/>deep US ties despite<br/>ideological gaps]
+  classDef c fill:#0969da,color:#fff,stroke:#0969da
+  classDef p fill:#dafbe1,stroke:#2da44e
+  classDef a fill:#ffe5d9,stroke:#cf222e
+  class C c
+  class P p
+  class A1,A2,A3 a
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**The puzzle of "puzzling" alignments.** Classical realism predicts states will balance against the strongest external threat in their region. But many Third World cases look anomalous against this prediction — Sadat realigned Egypt away from the Soviets even while Israel remained Egypt's largest external threat; Mengistu aligned Ethiopia with the Soviets in defiance of ethnic-tribal logic; Saudi Arabia accepts deep US security ties despite ideological-religious gaps. The framework is missing something.]{.concise-only}
+
+::: {.deep-only}
+**The puzzle of "puzzling" alignments.** Classical realist alliance theory — formalized in Kenneth Waltz's *Theory of International Politics* (1979) and refined for threat-perception by Stephen Walt's *Origins of Alliances* (1987) — says states should align against the strongest external threat in their region. The framework has substantial empirical support among great powers: Britain and France aligning against Germany; Cold War NATO aligning against the Soviet Union; the US-Israel-Sunni-Arab tilt against revolutionary Iran post-1979. But it predicts uniform external balancing as the dominant behavior, and many post-1945 Third World cases are not uniform.
+
+Anwar Sadat's 1972-79 realignment of Egypt from Soviet to US patronage is the canonical anomaly. Sadat inherited an Egypt aligned with Moscow for two decades, fighting an external threat (Israel) that the Soviet relationship was helping resist. He expelled Soviet military advisors in 1972, fought the Yom Kippur war in 1973 with Soviet weapons, then *flipped* to US patronage by 1976-79 — culminating in the Camp David accords and the Sinai-for-peace bargain. Under classical realism the move is hard to explain: Israel was still the external threat; the Soviet relationship had been working tactically; the US was Israel's patron, not Egypt's. The classical framework predicts Sadat should have stayed Soviet-aligned.
+
+Mengistu Haile Mariam's 1974-91 alignment of Ethiopia with the Soviet Union is another anomaly. Mengistu's Derg regime was ethnically Amhara-dominated in a country where the population was substantially Oromo and Tigrayan; the ethnic-tribal dynamics would have predicted Western alignment (the West being the regional patron of Mengistu's adversaries' adversaries). Mengistu aligned with the Soviets anyway. Classical realism cannot easily explain why.
+
+Saudi Arabia's full-throated US alignment from FDR's 1945 Quincy meeting through to the present is a third puzzle. Ideological-religious gaps between Wahhabi Saudi Arabia and secular-pluralist USA are vast. Classical realism predicts Saudi alignment with whichever great power offered the best capability against Saudi's external threats — but Saudi has stayed US-aligned through multiple regional realignments, including when its actual security interests have diverged from US preferences. Classical realism's prediction misses something.
+
+What David's omnibalancing adds is the *internal* threat as a co-equal driver of alignment alongside the external threat. The framework's punchline: leaders often balance against the *internal* threat because losing power domestically is more immediately catastrophic than losing a war externally. Sadat realigned to gain US economic support that would shore up his domestic political position against rising Egyptian unrest. Mengistu went Soviet because Soviet patronage included internal-security assistance that the West would not offer to a Marxist-Leninist regime. Saudi accepts US ties partly because the US guarantee underpins the domestic-stability bargain — without the external security cover, the internal-threat calculus changes.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  L[Third World leader<br/>faces two threats]
+  L --> EX[External threat:<br/>hostile neighbors<br/>great-power rivals]
+  L --> IN[Internal threat:<br/>coup<br/>opposition<br/>factional collapse]
+  EX --> B[Balance against<br/>LARGER of two]
+  IN --> B
+  B --> R[Alignment driven by<br/>regime survival<br/>not state survival]
+  classDef l fill:#0969da,color:#fff,stroke:#0969da
+  classDef t fill:#fff8c5,stroke:#d4a72c
+  classDef b fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-omnibalancing stroke-width:2px
+  class L l
+  class EX,IN t
+  class B b
+  class B gt-gloss-omnibalancing
+  class R b
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**David's reframe.** Leaders face two threats simultaneously — external (hostile neighbors, great-power rivals) and internal (coups, opposition, factional collapse). Rational leaders balance against whichever threat is *larger*. For fragile states the larger threat is often internal. Alignment then becomes a *regime-survival* calculation, not a *state-survival* one. The reframe is descriptive — David is asking why leaders do what they do, not what they should do.]{.concise-only}
+
+::: {.deep-only}
+**David's reframe: leaders face two threats simultaneously.** Steven David's 1991 *"Explaining Third World Alignment"* in *World Politics* reframes the question. Leaders — particularly leaders of weakly-institutionalized states with contested coalitions — face *two* threats simultaneously. The external threat is what classical realism sees: hostile neighbors, regional rivals, great-power adversaries. The internal threat is what classical realism misses: coup attempts by military officers, restive opposition movements, factional rivalries within the ruling coalition, ethnic or sectarian mobilization, economic crisis that erodes legitimacy. Both threats are real; both can end a regime. A coup ends a regime as completely as a foreign invasion does — and from the leader's perspective, often more reliably.
+
+Rational leaders balance against the *larger* of the two threats. For some cases the external threat is larger (a small state facing imminent invasion will prioritize external alliances). For many fragile states the *internal* threat is larger — coup attempts are more frequent than invasions in the developing world; opposition movements are more immediate than foreign rivals; economic crises hit before regional wars do. When the internal threat dominates, leaders rationally align with whatever external patron will most help them stay in power — even if that patron is on the "wrong side" by classical realist standards.
+
+This makes the framework descriptive rather than normative. David is not arguing that leaders *should* balance against internal threats; he is arguing they *do*. The framework's predictive contribution is in identifying *which* threat is larger for a given leader at a given moment, and using that to predict alignment behavior. Sadat's late-1970s domestic political crisis (post-Yom Kippur legitimacy stress; economic strain from the war; rising opposition from the Muslim Brotherhood) made the internal threat dominant. Once internal-threat-dominance set in, the rational alignment was with the US — because the US could offer the *economic* package (Camp David's aid commitments) that no other patron could match. Egypt's external threat (Israel) was still present, but it was no longer the dominant variable.
+
+The reframe also explains why some leaders behave "irrationally" by classical-realist standards. The classical reading of Mengistu picks weapons-quality and external-deterrence as the relevant variables; the omnibalancing reading picks internal-security-assistance and regime-stabilization, where the Soviets had a stronger offer. Mengistu was being rational by his own utility function (regime survival), just not by Walt's (state survival).
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart TB
+  G[Gause 2003/4:<br/>omnibalancing for the Gulf]
+  G --> M[Sunni monarchy +<br/>Shia population fraction]
+  M --> D[Domestic balancing problem:<br/>visible Sunni-Shia regional war<br/>can mobilize internal Shia]
+  D --> B[Bahrain about 70 percent Shia:<br/>most domestically constrained]
+  D --> S[Saudi about 10-15 percent Shia<br/>but concentrated in Eastern Province<br/>oil-producing region:<br/>moderately constrained]
+  D --> U[UAE about 10 percent Shia<br/>distributed:<br/>least constrained]
+  R[Reinhold 2001:<br/>three-pillar Saudi framework]
+  R --> P1[External alignment:<br/>US security guarantee]
+  R --> P2[Internal opposition control:<br/>security apparatus +<br/>religious legitimation]
+  R --> P3[Rentier state:<br/>oil revenue to patronage<br/>to coalition durability]
+  classDef g fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#fff8c5,stroke:#d4a72c
+  classDef c fill:#f6f8fa,stroke:#d0d7de
+  classDef r fill:#0969da,color:#fff,stroke:#0969da
+  classDef p fill:#dafbe1,stroke:#2da44e
+  class G g
+  class M,D m
+  class B,S,U c
+  class R r
+  class P1,P2,P3 p
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Gause's Gulf application + Reinhold's three pillars.** Gause: Sunni monarchies ruling religiously mixed populations face a binding domestic-balancing problem — visible alignment with a Sunni-Shia regional war can mobilize internal Shia constituencies. [Bahrain]{.gloss data-gloss="bahrain-csipa"} (about 70% Shia) is the most domestically constrained Gulf state. Saudi (Eastern Province Shia in the oil region) moderately constrained. UAE (low and distributed) least constrained. Reinhold 2001 operationalizes for Saudi Arabia via three interdependent pillars: external alignment + internal opposition control + rentier state.]{.concise-only}
+
+::: {.deep-only}
+**Gause's Gulf application.** F. Gregory Gause's 2003/4 *"Balancing What?"* applied David's framework to the Gulf states. Gause's contribution was identifying the specific internal-threat structure of Sunni monarchies ruling religiously mixed populations. The mechanism: Gulf monarchies legitimate their rule partly through Sunni religious authority; their populations include significant Shia minorities (or, in Bahrain's case, majority); a regional war framed in Sunni-Shia terms can mobilize these domestic Shia constituencies, threatening regime stability through demonstrations, insurgency, or simply visible mass disaffection. Visible alignment with a Sunni-Shia war is therefore regime-risky for monarchies whose stability depends on accommodation rather than confrontation.
+
+The framework predicts differential Gulf behavior. Bahrain — about 70% Shia under Sunni Khalifa rule — is the most domestically constrained: any visible Sunni-Shia mobilization risks 1979-style Iranian revolutionary contagion. Saudi Arabia is moderately constrained: its 10-15% Shia population is concentrated in the Eastern Province, which is also where the oil is. Visible Sunni-Shia escalation thus simultaneously threatens regime stability AND the rentier base. UAE is least constrained: roughly 10% Shia, distributed, and the regime's relationship to the population is mediated heavily through expatriate labor rather than political mobilization. The framework also explains the [Saudi-Iran 2023 rapprochement]{.gloss data-gloss="saudi-iran-2023-rapprochement"} as an omnibalancing move: reducing the salience of Sunni-Shia regional conflict reduces the internal-threat amplification, even at the cost of weaker external alignment.
+
+**Reinhold's three-pillar framework.** John Reinhold's 2001 *Omnibalancing and the House of Saud* — an NPS Master's thesis — operationalizes David's framework for Saudi Arabia in depth across 176 pages. Reinhold's contribution is a three-pillar structure that makes omnibalancing testable case-by-case:
+
+*Pillar 1 — External alignment.* The patron relationship that provides security cover against external threats. For Saudi this is the US guarantee, dating to FDR's 1945 Quincy meeting and extending through CENTCOM, US arms sales, and basing arrangements. The pillar matters because external security cover *enables* the internal balancing logic — without it, the leader would have to commit more resources to external defense and less to internal stability.
+
+*Pillar 2 — Internal opposition control.* The security apparatus, religious legitimation, intelligence services, and co-option mechanisms that contain potential domestic opposition. For Saudi this is the Mabahith internal security service, the Wahhabi religious establishment's legitimation of Al Saud rule, the National Guard as a sectarian counter-balance, and selective co-option of tribal and clerical elites. The pillar is what makes the internal threat *manageable* — it converts a coalitional risk into a maintained-stability outcome.
+
+*Pillar 3 — Rentier state.* The oil revenue → patronage → coalition durability mechanism. Saudi distributes oil revenue through public-sector employment, subsidies on energy and basic goods, religious-sector funding, and royal-family payments. The pillar is what *funds* internal opposition control and underpins the broader social bargain. When oil prices fall or the rentier base is otherwise stressed, the framework predicts increased internal-threat pressure and tighter omnibalancing constraints on external alignment.
+
+The three pillars are *interdependent*. External alignment (Pillar 1) provides the security cover that allows resources to flow to Pillars 2 and 3. The rentier state (Pillar 3) funds the security apparatus (Pillar 2). Internal opposition control (Pillar 2) protects the institutional infrastructure that maintains external relationships (Pillar 1). Stress on any one pillar weakens the others — which is why [Vision 2030]{.gloss data-gloss="vision-2030"} matters: the diversification program is an attempt to reduce Pillar 3 vulnerability to oil-price collapse, but the transition itself creates new domestic stresses that strain Pillar 2.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  O[Omnibalancing<br/>framework]
+  O --> B1[Where it breaks:<br/>external threat overwhelming]
+  O --> B2[Where it breaks:<br/>homogeneous population]
+  O --> B3[Where it breaks:<br/>rentier state stressed]
+  O --> B4[Where it breaks:<br/>modernization shifts<br/>internal coalition]
+  O --> C[Composition with Lake hierarchy:<br/>Lake gives external structure<br/>omnibalancing gives internal logic]
+  C --> Q[Q12.4 + Q12.5 + Q4 +<br/>5 chapter applications]
+  classDef o fill:#0969da,color:#fff,stroke:#0969da
+  classDef b fill:#ffe5d9,stroke:#cf222e
+  classDef c fill:#dafbe1,stroke:#2da44e
+  classDef q fill:#fff8c5,stroke:#d4a72c
+  classDef gt-gloss-lake-hierarchy stroke-width:2px
+  class O o
+  class B1,B2,B3,B4 b
+  class C c
+  class C gt-gloss-lake-hierarchy
+  class Q q
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Where it breaks + composition with Lake.** Omnibalancing breaks when external threat is overwhelming (1990-91 Saudi response to Iraq invading Kuwait), when populations are homogeneous (the internal-threat dimension goes flat), when the rentier state is stressed, and when modernization shifts the internal coalition ([Vision 2030]{.gloss data-gloss="vision-2030"} as the canonical case). The framework composes cleanly with [Lake's patron-client hierarchy]{.gloss data-gloss="lake-hierarchy"}: Lake supplies the *external structural* relationship; omnibalancing supplies the *internal threat* dynamics on the client side. Together they predict Gulf 2026 behavior including the [Yemen lesson]{.gloss data-gloss="yemen-lesson"} on the cost of inconclusive Sunni-Shia wars.]{.concise-only}
+
+::: {.deep-only}
+**Where omnibalancing breaks.** The framework has identifiable limits, and the 2026 case touches several of them.
+
+*Where the external threat is overwhelming.* When the external threat is so large that it dominates any plausible internal threat, omnibalancing collapses back into classical balance-of-threat behavior. Saudi Arabia's 1990-91 response to Iraq's invasion of Kuwait is the canonical case: an external threat of a kind that could plausibly take the kingdom (Iraqi armor on Saudi soil within weeks) overwhelmed any internal-threat calculus. Saudi accepted US troops on its soil — a move with significant internal-threat costs (Bin Laden's 1990s grievance was largely about this) — because the external threat made any other choice worse. The framework predicts that when external threats are *that* large, the internal-balancing logic switches off.
+
+*Where the population is homogeneous.* The internal-threat dimension goes flat when there's no sectarian or ethnic mobilization vector. UAE — about 10% Shia, distributed across emirates, mediated through expatriate-labor structure — has a much smaller internal-threat constraint than Bahrain. The framework's predictions for homogeneous-population cases are correspondingly weaker; the external-threat dimension does most of the work.
+
+*Where the rentier state is stressed.* When oil prices fall or production capacity is constrained, the rentier pillar weakens, the patronage flow narrows, and internal stresses rise. Saudi-during-the-2014-16-oil-price-crash is a case where omnibalancing predicted (correctly) tightening on external commitments and increased Vision 2030 push as a hedge against rentier-pillar vulnerability. The framework predicts increased internal-threat dominance when the rentier state is stressed.
+
+*Where modernization shifts the internal coalition.* [Vision 2030]{.gloss data-gloss="vision-2030"} is the canonical complicated case. The modernization program reduces Pillar 3 vulnerability to oil-price collapse but creates new constituencies (urban middle class; female workforce participants; expatriate professionals) whose internal-threat profile differs from the traditional tribal-clerical coalition. The framework cannot cleanly predict what happens when a regime is *transitioning* between coalitional structures. Q12.4 reads MBS as transitioning his ruling coalition, with the implication that omnibalancing predictions calibrated on the pre-Vision-2030 Saudi case are partly obsolete for the post-2024 Saudi case.
+
+**Composition with Lake hierarchy.** Lake's [patron-client hierarchy]{.gloss data-gloss="lake-hierarchy"} framework (covered in the [Hierarchy and clientelism primer](hierarchy-clientelism.qmd)) supplies the *external* structural frame for the US-Gulf relationship: an asymmetric hierarchy in which the Gulf cedes authority over basing/arms/alignment in exchange for security and other public goods. Omnibalancing supplies the *internal* threat dynamics on the client side — what determines when the client can comply with patron requests and when those requests would damage internal stability. The two frameworks compose without strain because they address different questions:
+
+| Framework | Question | Answer for Gulf 2026 |
+|---|---|---|
+| Lake hierarchy | What is the structural shape of the US-Gulf relationship? | Graded clientelist hierarchy with reciprocal constraints |
+| Omnibalancing | What are the internal pressures that determine Gulf compliance? | Sunni-Shia internal balancing dominates external-threat alignment for Bahrain; less so for UAE; variable for Saudi |
+
+Together: Lake-and-omnibalancing predicts both (a) Gulf states cede authority and accept US public-good provision AND (b) Gulf states refuse specific patron requests when those requests trigger their internal-threat constraint. The 2026 war's testable prediction set follows: visible Sunni-Shia escalation triggers internal-balancing constraints; bandwagoning-vs-hedging behavior splits along the internal-threat dimension; the [Yemen lesson]{.gloss data-gloss="yemen-lesson"} (on the cost of inconclusive Sunni-Shia wars) is salient in Gulf decision-making.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) Gulf states arrayed by internal-threat profile and predicted constraint level; (2) Reinhold's three-pillar framework with applied case markers; (3) where omnibalancing × Lake composes across project chapters.
+
+### Figure 1 — Gulf states by internal-threat profile
+
+```{ojs}
+//| label: fig-gulf-internal-threat
+//| fig-cap: "Gulf states arrayed by Shia population fraction (proxy for internal-threat salience) and rentier-pillar strength. Omnibalancing predicts most-constrained behavior in the high-internal-threat / moderate-rentier cell (Bahrain) and least-constrained in low-internal-threat / high-rentier (UAE)."
+
+{
+  const states = [
+    {state: "Bahrain", shia_pct: 70, rentier_strength: 35, constraint: "Most constrained", code: "BH"},
+    {state: "Saudi Arabia", shia_pct: 12, rentier_strength: 85, constraint: "Moderately constrained", code: "SA"},
+    {state: "Kuwait", shia_pct: 35, rentier_strength: 75, constraint: "Moderately constrained", code: "KW"},
+    {state: "Qatar", shia_pct: 10, rentier_strength: 95, constraint: "Lightly constrained", code: "QA"},
+    {state: "UAE", shia_pct: 10, rentier_strength: 90, constraint: "Least constrained", code: "UAE"},
+    {state: "Oman", shia_pct: 5, rentier_strength: 55, constraint: "Lightly constrained", code: "OM"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 14 : Math.max(17, Math.min(24, Math.round(width / 45)));
+  const chartHeight = isMobile ? 320 : Math.max(360, Math.min(440, Math.round(width * 0.42)));
+
+  const colorScale = {
+    "Most constrained": "#cf222e",
+    "Moderately constrained": "#d4a72c",
+    "Lightly constrained": "#0969da",
+    "Least constrained": "#2da44e"
+  };
+
+  return Plot.plot({
+    marginLeft: Math.max(70, Math.round(baseFont * 4)),
+    marginRight: isMobile ? 30 : 70,
+    marginTop: Math.max(50, Math.round(baseFont * 2.6)),
+    marginBottom: Math.max(72, Math.round(baseFont * 4)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Shia population fraction (percent) →",
+      domain: [0, 80],
+      grid: true,
+      ticks: [0, 10, 20, 30, 40, 50, 60, 70, 80]
+    },
+    y: {
+      label: "Rentier-pillar strength (relative) →",
+      domain: [0, 100],
+      grid: true,
+      ticks: [0, 20, 40, 60, 80, 100]
+    },
+    color: {
+      legend: true,
+      domain: ["Most constrained", "Moderately constrained", "Lightly constrained", "Least constrained"],
+      range: ["#cf222e", "#d4a72c", "#0969da", "#2da44e"]
+    },
+    marks: [
+      Plot.dot(states, {
+        x: "shia_pct", y: "rentier_strength",
+        fill: d => colorScale[d.constraint],
+        r: Math.max(8, Math.round(baseFont * 0.7)),
+        stroke: "white", strokeWidth: 2,
+        tip: { lineWidth: 35, fontSize: isMobile ? 12 : 13 },
+        channels: { State: "state", Constraint: "constraint" }
+      }),
+      Plot.text(states, {
+        x: "shia_pct", y: "rentier_strength",
+        text: "code",
+        dx: 0, dy: -Math.round(baseFont * 1.4),
+        fontWeight: 600, fontSize: baseFont
+      })
+    ]
+  });
+}
+```
+
+[**Reading the chart.** Bahrain (top-left red) is in the highest-internal-threat / moderate-rentier cell — the configuration omnibalancing predicts will be most domestically constrained. UAE and Qatar (lower-right green) are in the lowest-internal-threat / highest-rentier cell — predicted least constrained. Saudi (middle yellow) and Kuwait have moderate constraint. The 2026 empirical record matches: Bahrain's behavior is the most paradox-laden (high US-alignment despite the highest internal-threat constraint, explained by post-2011 secular shift in the regime's internal-threat calculus and Pillar 2 strengthening); UAE and Qatar are the freest operationally; Saudi splits.]{.concise-only}
+
+[**Reading the chart.** The two axes operationalize the omnibalancing prediction. The x-axis is Shia population fraction as a proxy for *internal-threat salience* in a Sunni-Shia regional war — higher Shia fraction means greater potential for visible Sunni-Shia escalation to mobilize internal constituencies. The y-axis is *rentier-pillar strength*, scaled relatively to capture the rentier state's capacity to fund opposition control and patronage. The framework predicts behavior along the trade-off: high-internal-threat / low-rentier is the most-constrained cell (the regime has both a large internal-threat vector AND insufficient rentier resources to manage it via Pillar 2); high-internal-threat / high-rentier is moderately constrained (the rentier can fund management); low-internal-threat / high-rentier is least constrained (neither dimension is binding); low-internal-threat / low-rentier is also lightly constrained (no internal-threat vector to manage).
+
+Bahrain sits in the high-internal-threat / moderate-rentier cell — the most-constrained configuration. But Bahrain's 2026 behavior is *less* constrained than the framework would predict on the basis of the underlying internal-threat structure alone. The Q12.5 reading is that Bahrain's regime has *operationally* strengthened Pillar 2 (internal opposition control) via the post-2011 sectarian-naturalization program and the security apparatus expansion that followed, while *simultaneously* relying more heavily on Pillar 1 (the US guarantee via [CSIPA]{.gloss data-gloss="bahrain-csipa"}) to manage external-threat costs. The Bahrain test is therefore a useful discriminator: behavior that omnibalancing would predict to be most-constrained instead shows the *least* hedging because regime-internal management has shifted the constraint. UAE and Qatar are in the low-internal-threat / high-rentier cells where the framework predicts and the data confirms operationally light constraint. Saudi sits in the middle on both dimensions, with the addition that [Vision 2030]{.gloss data-gloss="vision-2030"} introduces new transition-period dynamics not captured by the static framework. The chart is a starting point; the actual Q12.5 readings layer on regime-specific adjustments to the omnibalancing baseline.]{.deep-only}
+
+### Figure 2 — Reinhold's three-pillar framework with case markers
+
+```{mermaid}
+flowchart TB
+  R[Reinhold 2001:<br/>three-pillar Saudi framework]
+  R --> P1[Pillar 1:<br/>External alignment]
+  R --> P2[Pillar 2:<br/>Internal opposition control]
+  R --> P3[Pillar 3:<br/>Rentier state]
+  P1 --> P1A[Saudi: US guarantee since 1945<br/>arms sales / basing / CENTCOM<br/>Q12.4: still operative<br/>Q12.5: partial erosion]
+  P2 --> P2A[Saudi: Mabahith / Wahhabi clergy<br/>National Guard / co-option<br/>Q12.4 Bahrain analog: stronger post-2011<br/>Q12.5 Vision 2030 stress: rising]
+  P3 --> P3A[Saudi: oil revenue plus FDI<br/>public-sector / subsidies / royal payments<br/>Q12.4: stable through 2026<br/>Q12.5: Vision 2030 diversification]
+  classDef r fill:#0969da,color:#fff,stroke:#0969da
+  classDef p fill:#dafbe1,stroke:#2da44e
+  classDef a fill:#f6f8fa,stroke:#d0d7de
+  class R r
+  class P1,P2,P3 p
+  class P1A,P2A,P3A a
+```
+
+[**The three pillars** are interdependent. External alignment (US) gives Saudi security cover that frees resources for internal management; rentier-state oil revenue funds the security apparatus AND patronage networks; internal opposition control maintains the institutional infrastructure that supports the external relationship. Stress on any one pillar weakens the others — which is why oil-price collapses, Vision 2030 transitions, and US-reliability questions all matter simultaneously for Saudi behavior.]{.concise-only}
+
+[**The three pillars are interdependent.** Reinhold's contribution is showing how the three pillars compose — they are not separate variables but a single mutually-supporting structure. *External alignment* (Pillar 1) provides security cover that frees domestic resources for internal management (without the US guarantee, more of the budget goes to external defense and less to Pillar 2's security apparatus or Pillar 3's patronage). *Internal opposition control* (Pillar 2) protects the institutional infrastructure that maintains the external relationship (a regime overthrown by internal opposition loses its capacity to maintain Pillar 1). *Rentier state* (Pillar 3) funds the security apparatus and patronage networks (without oil revenue, Pillars 1 and 2 both lose their resource base). Stress on any one pillar weakens the others.
+
+The 2026 case has stresses operating on all three pillars simultaneously: Pillar 1 is under stress from US patron-reliability questions and the [Q10 net-exporter shift](../analyses/q10-us-hormuz-interest.qmd) altering the implicit social contract; Pillar 2 is under stress from [Vision 2030]{.gloss data-gloss="vision-2030"} introducing new coalitional dynamics; Pillar 3 is under stress from the oil-price volatility induced by the dual blockade and from the modernization-required diversification. The framework predicts that multi-pillar stress should produce *defensive* moves on the most-stressed pillar — which is what [Configuration F]{.gloss data-gloss="configuration-f-saudi-third-pole"} (Saudi-led third pole, hedging Pillar 1 via alternative-architecture construction) operationally does. The chart shows the empirical state of each pillar in 2026 and where Q12.4 and Q12.5 detect specific stresses.]{.deep-only}
+
+### Figure 3 — Omnibalancing × Lake across project chapters
+
+```{mermaid}
+flowchart LR
+  O[Omnibalancing]
+  L[Lake hierarchy]
+  O --> Q12_4[Q12.4: Gulf wartime paradox]
+  L --> Q12_4
+  O --> Q12_5[Q12.5: Post-war reconfiguration]
+  L --> Q12_5
+  O --> Q4[Q4: Counter-blockade feasibility]
+  L --> Q4
+  Q12_4 --> M12_4[Internal-threat constraint<br/>determines<br/>which Gulf states are<br/>most paradox-laden]
+  Q12_5 --> M12_5[Bahrain test: omnibalancing-predicted-most-constrained<br/>shows least hedging behavior:<br/>regime-internal management has shifted]
+  Q4 --> M4[Coalition durability<br/>under stress shaped by<br/>three-pillar interdependencies]
+  classDef o fill:#0969da,color:#fff,stroke:#0969da
+  classDef l fill:#0969da,color:#fff,stroke:#0969da
+  classDef ch fill:#dafbe1,stroke:#2da44e
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  classDef gt-gloss-omnibalancing stroke-width:2px
+  class O o
+  class O gt-gloss-omnibalancing
+  class L l
+  class Q12_4,Q12_5,Q4 ch
+  class M12_4,M12_5,M4 m
+```
+
+[**Where omnibalancing × Lake composes** across the site. [Q12.4](../analyses/q12-4-gulf-paradox.qmd) and [Q12.5](../analyses/q12-5-post-war-reconfiguration.qmd) are the primary applications; both use Lake as the external-structural frame and omnibalancing as the internal-threat layer. [Q4](../analyses/q4-blockade-feasibility.qmd) leans on the three-pillar interdependency framework for coalition-durability prediction under stress. The composition is what makes the Gulf chapters tractable analytically — neither framework alone would generate the specific predictions the analyses use.]{.concise-only}
+
+[**Where omnibalancing composes with Lake across the site.** The two frameworks together generate the analytical engine for the Gulf-specific chapters.
+
+[Q12.4](../analyses/q12-4-gulf-paradox.qmd) — *Gulf wartime paradox.* The chapter that originally surfaced both frameworks via the DA cycle. Omnibalancing is one of four DA-derived modifiers that explain *which* Gulf states are most paradox-laden — i.e., which ones most strongly exhibit the "wanted regime change, refused to be the platform" pattern. The internal-threat constraint dominates Bahrain's calculus; the rentier-Pillar-3 + [Vision 2030]{.gloss data-gloss="vision-2030"} constraint dominates Saudi's; the homogeneous-population case lets UAE behave most freely. The Q12.4 framing — that the paradox resolves into "MBS pushes privately, UAE the public voice" — is partly an omnibalancing prediction (private push is regime-safe; public push is regime-risky for Saudi but not for UAE).
+
+[Q12.5](../analyses/q12-5-post-war-reconfiguration.qmd) — *Post-war reconfiguration.* The chapter that operationalizes the [Bahrain test]{.gloss data-gloss="bahrain-test"} as a single-state discriminator. Bahrain's behavior is operationally bandwagoning rather than hedging despite having the omnibalancing-predicted-most-constrained internal-threat structure — which the chapter explains by Pillar 2 strengthening (post-2011 sectarian-naturalization, security apparatus expansion). The chapter also reads [Configuration F]{.gloss data-gloss="configuration-f-saudi-third-pole"} (Saudi-led third pole construction via SMDA + KAAN + preserved Tehran embassy) as an omnibalancing move: defensive hedging on Pillar 1 to manage US patron-reliability while preserving the multi-pillar structure.
+
+[Q4](../analyses/q4-blockade-feasibility.qmd) — *Counter-blockade feasibility.* The chapter that uses the three-pillar interdependency for coalition-durability prediction under stress. The framework predicts that multi-pillar stress should produce specific defensive moves rather than coalition fragmentation per se — which is what the empirical record shows.
+
+The composition's analytical value is that *neither framework alone* generates the specific predictions the site uses. Lake without omnibalancing predicts uniform Gulf hierarchical compliance, missing the differential constraints across states. Omnibalancing without Lake explains state-by-state internal politics but lacks the external structure that connects Gulf behavior to US patron decisions. Together they give the specific cell-by-cell predictions for the 2x2 of state-side internal-threat × patron-side reliability that the Gulf chapters operationalize.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+## Where the framework breaks {#where-it-breaks}
+
+Omnibalancing has identifiable limits, and the 2026 case touches several of them.
+
+1. **Where the external threat is overwhelming.** When the external threat is large enough to dominate any plausible internal-threat calculus, the framework collapses back into classical balance-of-threat behavior. Saudi 1990-91 (Iraq invasion of Kuwait) is the canonical case. The framework predicts switch-off, not gradation. The 2026 Iran war is *not* in this category for any Gulf state — the external threat from Iran is contained by the US guarantee + bypass pipelines + Iron Dome deployment + multiple-layered air defense, leaving the internal-threat dimension still binding.
+
+2. **Where the population is homogeneous.** UAE's roughly 10% Shia population, distributed across emirates and mediated through expatriate-labor structure, leaves the internal-threat dimension flat. The framework's predictions for UAE are weak; classical balance-of-threat does most of the work. Same for Qatar (also low Shia fraction; high rentier; less internal-threat-driven).
+
+3. **Where the rentier state is stressed.** When oil prices fall or the rentier base is otherwise constrained, Pillar 3 weakens and the framework predicts tighter internal-threat constraint on external behavior. The 2014-16 oil-price crash produced exactly this pattern: tighter Saudi external commitments and accelerated [Vision 2030]{.gloss data-gloss="vision-2030"} as a Pillar-3 hedge. The 2026 oil-price volatility (Brent peaking at $128 on 2 April; EIA April STEO revised to $96 average for 2026) is large enough to stress Pillar 3, but the *direction* of the stress (oil prices up not down) actually strengthens Pillar 3 in the short run — complicating the framework's predictions.
+
+4. **Where modernization shifts the internal coalition.** [Vision 2030]{.gloss data-gloss="vision-2030"} introduces new constituencies (urban middle class, female workforce participants, expatriate professionals, tech-sector workers) whose internal-threat profile differs from the traditional tribal-clerical coalition that Reinhold's three-pillar framework was calibrated on. The framework cannot cleanly predict behavior during coalitional transitions. Q12.4 reads MBS as transitioning his coalition, with the implication that pre-Vision-2030 omnibalancing calibrations are partly obsolete for the post-2024 Saudi case.
+
+5. **Where the framework can become tautological.** "Internal threat" is broad enough that any leader's "puzzling" behavior can be retrospectively attributed to internal-threat balancing. The discipline is to identify the *specific* internal threat, the *specific* mechanism by which it constrains alignment, and the *specific* empirical indicators that would falsify the framework. Reinhold's three-pillar operationalization is what gives the framework testable predictions; without it, the framework risks losing falsifiability.
+
+## Why this primer matters {#why-it-matters}
+
+Omnibalancing is the foundational framework for the Gulf chapters on this site. The disciplined application:
+
+1. **Identify the specific internal threats.** Not "the regime is constrained domestically" but "Bahrain's regime is constrained by ~70% Shia population susceptible to sectarian mobilization; Saudi's by Eastern Province Shia in the oil-producing region; UAE's by labor-camp expatriate dynamics that are not politically mobilizable." The framework's predictions are about specific threat structures.
+
+2. **Identify which pillar is under stress.** External alignment, internal opposition control, or rentier state. Each pillar has different indicators and different stress responses. The 2026 case has multi-pillar stress, which is what makes the analytical work interesting.
+
+3. **Check the framework's assumptions.** Omnibalancing assumes the leader has *some* freedom to choose alignment based on regime-survival calculation. When the leader is wholly externally-imposed (puppet) or wholly internally-constrained (no autonomy), the framework's predictions weaken.
+
+4. **Compose with Lake.** Lake gives the external structural relationship; omnibalancing gives the internal-threat dynamics on the client side. Neither framework alone generates the specific predictions the analyses use. The composition is what makes the Gulf chapters tractable.
+
+5. **Watch for transition cases.** [Vision 2030]{.gloss data-gloss="vision-2030"} and similar modernization programs change the coalitional structure that the framework was calibrated on. Behavior during transitions is harder to predict; the framework needs to be supplemented with case-specific machinery.
+
+## Sources & further reading
+
+- @david1991third — the canonical statement of omnibalancing
+- @gause2003balancing — the Gulf-specific application
+- Reinhold 2001, *Omnibalancing and the House of Saud* (NPS Master's thesis, 176 pages) — the three-pillar operationalization for Saudi Arabia
+- [Hierarchy and clientelism primer](hierarchy-clientelism.qmd) — the natural companion piece; Lake gives the external structure that omnibalancing composes with
+- Q12.4 chapter on the Gulf wartime paradox as the primary application
+- Q12.5 chapter on post-war reconfiguration including the Bahrain test as omnibalancing's discriminator
+
+```{=html}
+</div>
+```

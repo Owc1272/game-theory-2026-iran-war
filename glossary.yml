@@ -23,7 +23,7 @@ glossary:
     title: "Omnibalancing (David, 1991; Gause, 2003/4)"
     body: |
       Steven David's "Explaining Third World Alignment" (1991) argues leaders of fragile states face two threats — external and internal — and balance against whichever is larger. F. Gregory Gause's 2003/4 "Balancing What?" applies this to the Gulf: Sunni monarchies ruling restive Shia populations face a domestic balancing problem alongside any external one. Visible alignment with a Sunni-Shia regional war can mobilize domestic Shia constituencies, so participating can be regime-suicide for monarchies whose stability depends on accommodation. The framework explains why Bahrain (about 70% Shia under Sunni rule) is the most domestically constrained Gulf state on confrontation with Iran.
-    primer: null
+    primer: primer/omnibalancing.qmd
 
   - id: schelling-something-to-chance
     title: "Threat that leaves something to chance (Schelling)"

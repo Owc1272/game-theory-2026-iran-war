@@ -12,12 +12,12 @@ The primer is descriptive, not prescriptive — it sets out what each model assu
 - **[The bargaining model of war](bargaining-model.qmd)** — Fearon 1995, Powell 2006: when is war the rational outcome, and where does the model break? *Chapter live.*
 - **[Audience costs and signaling resolve](audience-costs.qmd)** — Fearon 1994, Weeks 2008: democratic vs. autocratic, and why the IRGC institutional consensus is the binding audience in 2026 Iran. *Chapter live.*
 - **[Hierarchy and clientelism](hierarchy-clientelism.qmd)** — Lake 2009, Posen patron-client: when "alliance of equals" is the wrong frame, and why the framework swap from Olson-Zeckhauser was the project's most consequential analytical move. *Chapter live.*
+- **[Omnibalancing and regime survival](omnibalancing.qmd)** — David 1991, Gause 2003/4, Reinhold 2001: when leaders balance internal threats over external ones, with Reinhold's three-pillar Saudi operationalization. The natural companion to Hierarchy and clientelism — Lake gives the external structure, omnibalancing gives the internal-threat dynamics. *Chapter live.*
 
 ## Forthcoming chapters
 
 Each will follow the same format (skip-link / dashboard / scrolly / depth toggle):
 
-- **Omnibalancing and regime survival** — David 1991, Gause 2003/4: when leaders balance internal threats over external ones.
 - **Hedging vs. balancing vs. bandwagoning** — Kuik 2008/2016, Lim & Cooper 2015: what do Gulf states' actions actually fit?
 - **Two-level games** — Putnam 1988: the international and domestic boards as one.
 - **Coalition theory and selectorate** — Riker, Bueno de Mesquita: who has to consent.
