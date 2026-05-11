@@ -161,13 +161,13 @@ glossary:
     title: "Lim & Cooper hedging discipline (2015)"
     body: |
       Daniel Lim and Zack Cooper's "Reassessing Hedging" (2015) imposed definitional discipline on the loose "hedging" language pervasive in great-power-competition writing. True hedging requires three signals: visible cost-incurring trade-offs (not cheap rhetoric), strategic ambiguity (not commitment to one pole), and credible second-best options. Many states described as "hedging" are actually bandwagoning with the structurally locked-in patron because they have no alternative. Q12.5 applies the test to the Gulf states and finds a bimodal split: Bahrain and Kuwait are bandwagoners (no alternative); Saudi/UAE/Qatar/Oman are true hedgers (real options), but each in distinct ways.
-    primer: null
+    primer: primer/hedging-balancing-bandwagoning.qmd
 
   - id: fulton-alignment
     title: "Interest-based alignment-deepening (Fulton, 2026)"
     body: |
       Jonathan Fulton (*State of Great Power Competition in the Gulf*, 2026) argues against the standard "Gulf-states-are-hedging" reading. His claim is that GCC states are *interest-based alignment-deepeners* with the US, not wait-and-see hedgers — they have *deepened* US security ties (CSIPA, expanded basing, joint air defense) precisely because the US has proved reliable in crisis. The framework predicts that subordinate states in a stable hierarchy do not hedge; they double down when the patron has demonstrated commitment. Q12.5 finds Fulton's reading correct for Bahrain (operational bandwagoning) but partial-only for Saudi, where third-pole construction is visible alongside US-deepening.
-    primer: null
+    primer: primer/hedging-balancing-bandwagoning.qmd
 
   - id: saudi-pakistan-smda
     title: "Saudi-Pakistan SMDA (September 2025)"

@@ -1,0 +1,465 @@
+---
+title: "Primer — Hedging vs balancing vs bandwagoning"
+subtitle: "Kuik 2016 + Lim & Cooper 2015 + Fulton 2026: what do Gulf states' actions actually fit?"
+description: "The 'hedging' label is so loosely used that it captures almost any small-state behavior toward great powers — bandwagoning, balancing, neutrality, and actual hedging all get called hedging. Kuik 2016 and Lim & Cooper 2015 impose definitional discipline. Fulton 2026 contests the framing entirely. The 2026 Iran war is a stress test: the Bahrain test, the Saudi-Pakistan SMDA, and Configuration F together discriminate between competing readings of what Gulf states are actually doing."
+categories: [primer, hedging, balancing, bandwagoning, kuik, lim-cooper, fulton]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+"Hedging" has become the most over-used word in great-power-competition writing. Almost any small-state behavior toward great powers gets called hedging — Gulf engagement with China, ASEAN states' South China Sea posture, India's pseudo-non-alignment. The label has lost discriminating power. Two recent papers re-impose discipline: Kuik 2016 defines hedging as a specific three-approach behavior; Lim & Cooper 2015 require three observable signals. A third paper, Fulton 2026, contests the whole "Gulf-is-hedging" framing as a misread of what Gulf states actually do. The 2026 Iran war is a stress test that lets us discriminate between these readings.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+"Hedging" has become a near-universal solvent in great-power-competition writing — applied to Gulf engagement with China, ASEAN South China Sea posture, India's pseudo-non-alignment, European reaction to US-China rivalry, and almost any case where a state maintains relationships with more than one great power. The looseness is a problem: a word that explains every small-state behavior toward great powers explains nothing. *Real* hedging is distinct from balancing (alignment against the most-threatening external power), bandwagoning (alignment with the most-threatening external power to capture private goods), or neutrality (refusal to align). The conceptual category exists; the loose usage just obscures it.
+
+Two recent papers re-impose definitional discipline. Cheng-Chwee Kuik's 2016 NIDS chapter *"Hedging as a Policy Without Pronouncement"* defines hedging as a specific three-approach behavior — active neutrality + inclusive diversification + adaptive offsets — pursued under high-uncertainty / high-stakes conditions by a sovereign actor concurrently. Daniel Lim and Zack Cooper's 2015 *"Reassessing Hedging"* requires three observable signals: visible cost-incurring trade-offs, strategic ambiguity, and credible second-best options. The Lim-Cooper test is the more demanding one — many states described as "hedging" fail the cost-incurring trade-offs requirement, and on closer inspection turn out to be bandwagoning with the structurally locked-in patron because they have no alternative.
+
+A third paper, Jonathan Fulton's 2026 Atlantic Council issue brief *"State of Great Power Competition in the Gulf"*, contests the entire "Gulf-is-hedging" framing. Fulton argues Gulf states are *interest-based alignment-deepeners* with the US, not wait-and-see hedgers — they have *deepened* US security ties precisely because the US has proved reliable in crisis. The framework predicts that subordinate states in a stable hierarchy do not hedge; they double down when the patron has demonstrated commitment.
+
+The 2026 Iran war is a stress test that lets us discriminate between these readings. [Q12.5](../analyses/q12-5-post-war-reconfiguration.qmd) applies the Lim-Cooper test to the Gulf states post-war and finds a *bimodal split*: [Bahrain]{.gloss data-gloss="bahrain-csipa"} and Kuwait are bandwagoners (no alternative); Saudi/UAE/Qatar/Oman are true hedgers (real options, but each in distinct ways). The [Bahrain test]{.gloss data-gloss="bahrain-test"} — Bahrain's operationally-bandwagoning behavior despite the omnibalancing-predicted-most-constrained internal-threat structure — is the single cleanest empirical discriminator on the site. [Configuration F]{.gloss data-gloss="configuration-f-saudi-third-pole"} (Saudi-led third pole construction) is *not* hedging under Lim-Cooper's discipline because it involves treaty-level commitments — the [Saudi-Pakistan SMDA]{.gloss data-gloss="saudi-pakistan-smda"} is alliance formation, which Lim-Cooper explicitly excludes from hedging.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Three categories of small-state behavior toward great powers are distinct, even though loose usage collapses them. *Balancing*: align against the most-threatening external power. *Bandwagoning*: align with the most-threatening external power for protection or private goods. *Hedging*: concurrent active neutrality + inclusive diversification + adaptive offsets, under high uncertainty, with visible cost-incurring trade-offs. [Kuik 2016]{.gloss data-gloss="lim-cooper-hedging"} defines the three-approach version; [Lim & Cooper 2015]{.gloss data-gloss="lim-cooper-hedging"} impose three-signal discipline. [Fulton 2026]{.gloss data-gloss="fulton-alignment"} contests the framing entirely — Gulf states are interest-based alignment-deepeners, not hedgers. The 2026 stress test produces a bimodal Gulf split: Bahrain and Kuwait bandwagon (no alternative); Saudi/UAE/Qatar/Oman hedge (real options); Configuration F is alliance formation, not hedging.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Three categories of small-state behavior toward great powers — *balancing*, *bandwagoning*, *hedging* — are conceptually distinct, even though loose usage often collapses them. *Balancing*: align against the most-threatening external power, often with an external balancer's help. *Bandwagoning*: align *with* the most-threatening external power, either to share in spoils (jackal bandwagoning) or to escape destruction (piling-on bandwagoning). *Hedging*: maintain optionality across great powers via a specific three-approach behavior — active neutrality + inclusive diversification + adaptive offsets — pursued concurrently under high-uncertainty/high-stakes conditions by a sovereign actor. Cheng-Chwee [Kuik's 2016]{.gloss data-gloss="lim-cooper-hedging"} NIDS chapter gives the three-approach version; [Lim & Cooper's 2015]{.gloss data-gloss="lim-cooper-hedging"} *Reassessing Hedging* imposes three-signal discipline (cost-incurring trade-offs, strategic ambiguity, credible second-best options). [Fulton's 2026]{.gloss data-gloss="fulton-alignment"} Atlantic Council issue brief contests the entire "Gulf-is-hedging" framing: Gulf states are interest-based alignment-deepeners with the US, not wait-and-see hedgers. The 2026 Iran war is a stress test that produces a *bimodal Gulf split*: [Bahrain]{.gloss data-gloss="bahrain-csipa"} and Kuwait are bandwagoners (no alternative); Saudi/UAE/Qatar/Oman are true hedgers (real options, but each in distinct ways). [Configuration F]{.gloss data-gloss="configuration-f-saudi-third-pole"} (Saudi-led third pole) is *not* hedging under Lim-Cooper — the [Saudi-Pakistan SMDA]{.gloss data-gloss="saudi-pakistan-smda"} is treaty-level alliance formation, explicitly excluded from the hedging category. The Bahrain test — operational bandwagoning despite the omnibalancing-predicted-most-constrained internal-threat structure — is the cleanest single discriminator. The framework composes with [Hierarchy and clientelism](hierarchy-clientelism.qmd) (which gives the external structure) and [Omnibalancing](omnibalancing.qmd) (which gives the internal-threat dynamics) to give the analytical engine for Q12.4 and Q12.5.
+:::
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — why this framework matters disproportionately
+
+The hedging-vs-bandwagoning distinction matters disproportionately for the 2026 case because most media and think-tank analysis of Gulf-China-US dynamics uses "hedging" loosely. If everyone is hedging, no one is doing anything analytically distinguishable. The Lim-Cooper discipline matters because it generates *specific empirical predictions* that the loose usage cannot. The bimodal-Gulf prediction (some states bandwagon because they have no alternative; others hedge because they do) is testable, and the 2026 war produces specific test data.
+
+The Fulton contestation matters as a serious alternative: if Fulton is right that Gulf states are interest-based alignment-deepeners, then much of what's called "Saudi hedging" is mislabeled — it's actually Saudi alignment-deepening *with the US*, and the third-pole construction is supplementary insurance rather than meaningful diversification. The Q12.5 reading is that Fulton is *correct for Bahrain* (operational bandwagoning, no hedging signals) and *partial for Saudi* (genuine third-pole construction alongside continued US engagement). The framework composes cleanly with [Hierarchy and clientelism](hierarchy-clientelism.qmd) (Lake's patron-client structure) and [Omnibalancing](omnibalancing.qmd) (David-Gause's internal-threat logic): hedging-vs-bandwagoning is the observable behavioral category that the underlying structural and internal-threat dynamics produce. The composition gives the analytical engine for Q12.4 and Q12.5.
+
+The 2026 case also disciplines the framework in the other direction. [Configuration F]{.gloss data-gloss="configuration-f-saudi-third-pole"} — Saudi-Pakistan SMDA + KAAN-Turkey + preserved Tehran embassy — looks like hedging on first inspection but fails the Lim-Cooper test specifically on the treaty-level commitment dimension. The SMDA is a *mutual defense treaty*, not a generic cooperation MoU. Lim-Cooper's discipline excludes treaty-level commitments from the hedging category — those are alliance formation. The Q12.5 finding is that Saudi is *both* hedging (Qatar-style diversification) and *also* doing something that is *not* hedging (treaty-level Pakistan-Turkey alliance formation, which is third-pole construction). Calling everything "hedging" obscures this distinction.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the framework. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  S[Small state facing<br/>great-power competition]
+  S --> B1[Balancing:<br/>align against<br/>most-threatening power]
+  S --> B2[Bandwagoning:<br/>align with<br/>most-threatening power]
+  S --> H[Hedging:<br/>concurrent active neutrality plus<br/>inclusive diversification plus<br/>adaptive offsets]
+  S --> N[Neutrality:<br/>refusal to align]
+  B1 --> EX1[Cold War Yugoslavia<br/>Cold War Switzerland]
+  B2 --> EX2[Cold War Finland<br/>Post-1945 Japan]
+  H --> EX3[ASEAN states<br/>Gulf-style claims<br/>under stress in 2026]
+  N --> EX4[Cold War Sweden<br/>Switzerland]
+  classDef s fill:#0969da,color:#fff,stroke:#0969da
+  classDef c fill:#dafbe1,stroke:#2da44e
+  classDef e fill:#f6f8fa,stroke:#d0d7de
+  class S s
+  class B1,B2,H,N c
+  class EX1,EX2,EX3,EX4 e
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**Four behavioral categories** for small states facing great-power competition. *Balancing* aligns against the most-threatening external power. *Bandwagoning* aligns with the most-threatening power, either for spoils or to escape destruction. *Hedging* maintains concurrent active-neutrality + inclusive-diversification + adaptive-offsets across great powers. *Neutrality* refuses to align. The categories are conceptually distinct, but loose usage in great-power-competition writing collapses them — most often by labelling everything "hedging."]{.concise-only}
+
+::: {.deep-only}
+**Four conceptual categories for small-state behavior.** Classical alliance theory distinguishes four ideal-type behaviors for small states facing great-power competition.
+
+*Balancing* — aligning against the most-threatening external power, often with the help of an external balancer. Walt's [balance-of-threat]{.gloss data-gloss="walt-balance-of-threat"} framework predicts that small states should align against the great power that combines high capability, geographic proximity, offensive intent, and aggressive doctrine. Yugoslavia under Tito balancing against Soviet pressure with Western support is one canonical case; Switzerland's "armed neutrality" through both world wars is another (technically neutral, but armed in a way that signalled costly resistance to either side's encroachment).
+
+*Bandwagoning* — aligning *with* the most-threatening external power, either to share in spoils (Randall Schweller's "jackal bandwagoning") or to escape destruction ("piling-on bandwagoning"). Finland's Cold War accommodation of Soviet preferences ("Finlandization") is the canonical piling-on case. Post-1945 Japan's alignment with the US after defeat is the canonical reorganization-bandwagoning case.
+
+*Hedging* — maintaining optionality across great powers via a specific three-approach behavior. Cheng-Chwee Kuik's 2016 NIDS chapter operationalizes this: *active neutrality* (refusing to commit to one pole while remaining engaged with multiple), *inclusive diversification* (developing meaningful relationships with multiple great powers across security, economic, and political dimensions), and *adaptive offsets* (calibrating positions to changing conditions). Hedging requires *all three approaches concurrently* under *high-uncertainty/high-stakes conditions*. ASEAN states maintaining concurrent US security ties + Chinese economic ties + bilateral security relationships with each other is the canonical case.
+
+*Neutrality* — refusing to align with any great power. Cold War Sweden's policy of formal neutrality (despite extensive informal Western ties); Switzerland's traditional armed neutrality. Distinguished from hedging by the *absence* of inclusive diversification — neutrality minimizes alignment in all directions, while hedging maximizes optionality in all directions.
+
+The four categories are conceptually distinct, but loose usage in great-power-competition writing has blurred them. Most often, "hedging" gets used to describe any behavior that isn't pure balancing or pure bandwagoning, which strips it of analytical content. Lim & Cooper's 2015 contribution was to re-impose discipline.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart TB
+  K[Kuik 2016:<br/>hedging is concurrent<br/>three-approach behavior]
+  K --> AN[Active neutrality:<br/>refuse commitment<br/>to one pole]
+  K --> ID[Inclusive diversification:<br/>meaningful relationships<br/>with multiple powers]
+  K --> AO[Adaptive offsets:<br/>calibrated positions<br/>under changing conditions]
+  L[Lim and Cooper 2015:<br/>three observable signals required]
+  L --> S1[Visible cost-incurring<br/>trade-offs<br/>not cheap rhetoric]
+  L --> S2[Strategic ambiguity<br/>not commitment<br/>to one pole]
+  L --> S3[Credible<br/>second-best options]
+  classDef k fill:#0969da,color:#fff,stroke:#0969da
+  classDef l fill:#0969da,color:#fff,stroke:#0969da
+  classDef d fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-lim-cooper-hedging stroke-width:2px
+  class K k
+  class L l
+  class L gt-gloss-lim-cooper-hedging
+  class AN,ID,AO,S1,S2,S3 d
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**The discipline.** [Kuik 2016]{.gloss data-gloss="lim-cooper-hedging"} defines hedging as *concurrent* three-approach behavior — active neutrality + inclusive diversification + adaptive offsets — under high uncertainty. [Lim & Cooper 2015]{.gloss data-gloss="lim-cooper-hedging"} requires three *observable* signals: cost-incurring trade-offs (not cheap rhetoric), strategic ambiguity (not commitment to one pole), credible second-best options. Many states described as "hedging" fail the cost-incurring trade-offs signal — they're bandwagoning with the structurally locked-in patron because they have no alternative.]{.concise-only}
+
+::: {.deep-only}
+**Kuik's three approaches and Lim-Cooper's three signals.** Cheng-Chwee Kuik's 2016 NIDS chapter *"Hedging as a Policy Without Pronouncement"* gives the most rigorous conceptual definition of hedging available. Hedging is *insurance-seeking alignment behavior under high-uncertainty/high-stakes conditions where a sovereign actor concurrently pursues* three approaches:
+
+*Active neutrality.* Refusing to commit to one great power while remaining engaged with multiple. Not the passive neutrality of refusing all engagement; rather, an *active* engagement that explicitly preserves optionality. ASEAN's "ASEAN Way" of engaging with both the US and China without formally choosing is the canonical case.
+
+*Inclusive diversification.* Developing *meaningful* relationships with multiple great powers across security, economic, and political dimensions. The diversification has to be substantive — not just rhetorical engagement but actual economic and security ties with multiple poles. Singapore's combination of US Visiting Forces Agreement + Chinese FTA + Indian Strategic Partnership is the canonical case.
+
+*Adaptive offsets.* Calibrating positions to changing conditions. When one great power becomes more threatening, increase the offset with the other; when conditions reverse, recalibrate. Vietnam's calibrated re-engagement with the US over Chinese South China Sea pressure is canonical.
+
+Kuik insists all three approaches must be present *concurrently*. Partial implementations are something else: active neutrality without inclusive diversification is just non-alignment; inclusive diversification without active neutrality is alliance management; adaptive offsets without the other two is opportunism.
+
+Daniel Lim and Zack Cooper's 2015 *"Reassessing Hedging"* gives the *empirical test* for whether a state's behavior is actually hedging. Three observable signals must be present:
+
+*Visible cost-incurring trade-offs* — not just cheap rhetoric or symbolic gestures, but actual costs paid to maintain the hedge. Hosting Chinese economic delegations costs nothing; paying for a Chinese-built rail line that displaces US procurement is a real cost-incurring trade-off. Many states described as "hedging" fail this signal: they engage rhetorically with multiple powers but make no actual costly trade-offs.
+
+*Strategic ambiguity* — refusing to commit definitively to one great power's preferences on a contested issue. A state that signals strategic ambiguity on Iran (neither anti-Iran nor pro-Iran) is hedging on Iran; a state that signals clear anti-Iran or pro-Iran positions on the same dimension is not.
+
+*Credible second-best options* — actual operational capacity to execute the alternative if the primary alignment breaks. Not just claiming to have options; having infrastructure, agreements, and capability to use those options. The Lim-Cooper test is the most demanding here: many states have rhetorical second-best options that they could not actually operationalize.
+
+The discipline's implication: many states that observers call "hedging" are actually *bandwagoning* with the structurally locked-in patron, because they fail one or more of the three signals. They engage rhetorically with multiple powers but make no costly trade-offs; they signal clear positions on contested issues; they have no credible second-best options. Such states are bandwagoning because they have no realistic alternative, not hedging in the sense the framework specifies.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart TB
+  G[Gulf states in 2026:<br/>Lim and Cooper test]
+  G --> BIM[Bimodal split prediction]
+  BIM --> BW[Bandwagoners<br/>no alternative:<br/>Bahrain<br/>Kuwait]
+  BIM --> HD[True hedgers<br/>real options:<br/>Saudi<br/>UAE<br/>Qatar<br/>Oman]
+  HD --> SA[Saudi: Pakistan SMDA<br/>plus Turkey KAAN<br/>plus China oil<br/>plus Iran channel]
+  HD --> UAE[UAE: India FTA<br/>plus China BRI ties<br/>plus continued US]
+  HD --> QA[Qatar: balanced<br/>across major powers<br/>plus Iran-pragmatic]
+  HD --> OM[Oman: active-neutrality<br/>mediator tradition]
+  F[Fulton 2026 contestation]
+  F --> FA[Gulf states are<br/>interest-based<br/>alignment-deepeners<br/>not hedgers]
+  FA --> Q[Q12.5 finds:<br/>Fulton correct for Bahrain<br/>partial for Saudi]
+  classDef g fill:#0969da,color:#fff,stroke:#0969da
+  classDef bim fill:#fff8c5,stroke:#d4a72c
+  classDef bw fill:#ffe5d9,stroke:#cf222e
+  classDef hd fill:#dafbe1,stroke:#2da44e
+  classDef f fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef gt-gloss-fulton-alignment stroke-width:2px
+  class G g
+  class BIM bim
+  class BW bw
+  class HD hd
+  class SA,UAE,QA,OM hd
+  class F f
+  class F gt-gloss-fulton-alignment
+  class FA,Q g
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**The bimodal Gulf split.** Q12.5 applies Lim-Cooper to the Gulf and finds: [Bahrain]{.gloss data-gloss="bahrain-csipa"} and Kuwait are bandwagoners (no alternative — fail the cost-incurring trade-offs and credible-second-best-options signals); Saudi/UAE/Qatar/Oman are true hedgers (real options, but each in distinct ways). [Fulton 2026]{.gloss data-gloss="fulton-alignment"} contests the entire framing: Gulf states are interest-based alignment-deepeners, not hedgers. Q12.5 finds Fulton correct for Bahrain, partial for Saudi.]{.concise-only}
+
+::: {.deep-only}
+**The bimodal Gulf split.** [Q12.5](../analyses/q12-5-post-war-reconfiguration.qmd) applies the Lim-Cooper discipline to the Gulf states post-war and finds a clean bimodal split rather than the uniform "Gulf-is-hedging" reading common in policy writing.
+
+*Bahrain and Kuwait are bandwagoners.* Both states fail the Lim-Cooper three-signal test. Cost-incurring trade-offs: Bahrain's CSIPA Article II invocation, RAF Typhoon hosting, 135-state UN Security Council resolution leadership, and 160+ IRGC-linked detentions are *zero-trade-off* alignment with the US — there is no costly engagement with alternatives. Strategic ambiguity: Bahrain is *not* ambiguous; it has signalled clear anti-Iran, pro-US positions. Credible second-best options: Bahrain has *no* realistic alternative — its 5th Fleet HQ hosting is structural, and the Sunni Khalifa regime's stability depends on US backing against Iran-aligned Shia opposition. The Bahrain test is decisive: behavior that "hedging" language predicts should be hedging is actually bandwagoning.
+
+*Saudi/UAE/Qatar/Oman are true hedgers.* All four states pass the Lim-Cooper test with case-specific implementations. Saudi: costly Pakistan SMDA (treaty-level commitment + $3bn debt relief), KAAN-Turkey procurement displacing US procurement, deepening China oil ties, preserved Tehran embassy. UAE: India FTA, China BRI ties, continued US engagement, Iran trade channel via Dubai-Bandar Abbas. Qatar: balanced across major powers (US Al Udeid + China LNG + Iran shared field + Russian arms procurement). Oman: active-neutrality mediator tradition (Iran-US back-channel host since 1980s; preserved through 2026). Each state has visible cost-incurring trade-offs, strategic ambiguity on at least one contested dimension, and credible second-best options.
+
+*Configuration F is alliance formation, not hedging.* Lim-Cooper's discipline explicitly excludes treaty-level commitments from the hedging category. The [Saudi-Pakistan SMDA]{.gloss data-gloss="saudi-pakistan-smda"} is a *mutual defense treaty* with implicit nuclear-umbrella reach — alliance formation, not hedging. The KAAN-Turkey procurement is alliance-formation infrastructure. The preserved Tehran embassy is a hedging signal (strategic ambiguity), but the SMDA + KAAN core of [Configuration F]{.gloss data-gloss="configuration-f-saudi-third-pole"} is alliance formation. The framework's discipline lets us see that Saudi is *both* hedging (Qatar-style diversification) *and* doing something that is not hedging (Pakistan-Turkey alliance formation as third-pole construction). Calling everything "Gulf hedging" obscures the distinction.
+
+**Fulton's contestation.** Jonathan Fulton's 2026 Atlantic Council issue brief *"State of Great Power Competition in the Gulf"* contests the entire "Gulf-is-hedging" framing. Fulton argues GCC states are *interest-based alignment-deepeners* with the US — they have *deepened* US security ties (CSIPA, expanded basing, joint air defense, the 2025-26 push to make Saudi a major non-NATO ally) precisely because the US has proved reliable in crisis. The framework predicts that subordinate states in a stable hierarchy do not hedge; they double down when the patron has demonstrated commitment. Q12.5 finds Fulton's reading *correct for Bahrain* (operational bandwagoning is alignment-deepening, not hedging) and *partial for Saudi* (third-pole construction is visible alongside US-deepening — Saudi is doing both, not just one). The framework's analytical value comes from the discipline of distinguishing what Saudi is doing on each dimension rather than collapsing it into a single label.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  T[Three-framework composition]
+  T --> H[Hierarchy and clientelism:<br/>external structure]
+  T --> O[Omnibalancing:<br/>internal-threat dynamics]
+  T --> HEDG[Hedging vs bandwagoning:<br/>observable behavioral category]
+  H --> SA[Saudi: graded clientelist<br/>hierarchy with US]
+  O --> SA_O[Saudi: rentier and<br/>Vision 2030 transition]
+  HEDG --> SA_H[Saudi: hedging plus alliance formation<br/>both simultaneously]
+  H --> BH[Bahrain: deep client<br/>relationship with US]
+  O --> BH_O[Bahrain: 70 percent Shia<br/>internal threat]
+  HEDG --> BH_H[Bahrain: bandwagoning<br/>no alternative]
+  classDef t fill:#0969da,color:#fff,stroke:#0969da
+  classDef f fill:#0969da,color:#fff,stroke:#0969da
+  classDef s fill:#dafbe1,stroke:#2da44e
+  classDef b fill:#ffe5d9,stroke:#cf222e
+  class T t
+  class H,O,HEDG f
+  class SA,SA_O,SA_H s
+  class BH,BH_O,BH_H b
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Three-framework composition.** [Hierarchy](hierarchy-clientelism.qmd) gives the external structural frame (US-Gulf patron-client). [Omnibalancing](omnibalancing.qmd) gives the internal-threat dynamics (Sunni-Shia balancing on the client side). Hedging-vs-bandwagoning gives the *observable behavioral category* the underlying structural and internal-threat dynamics produce. Saudi: hedging AND alliance formation simultaneously. Bahrain: bandwagoning, no alternative. The three frameworks together generate the specific 2x2x2 predictions the Gulf chapters use.]{.concise-only}
+
+::: {.deep-only}
+**Three-framework composition.** The hedging-vs-bandwagoning framework composes with [Hierarchy and clientelism](hierarchy-clientelism.qmd) and [Omnibalancing](omnibalancing.qmd) to give the full analytical engine for the Gulf chapters. The three frameworks address different questions:
+
+| Framework | Question | Answer for Saudi 2026 | Answer for Bahrain 2026 |
+|---|---|---|---|
+| Hierarchy and clientelism | What is the structural shape of the US relationship? | Graded clientelist hierarchy | Deep client relationship |
+| Omnibalancing | What are the internal pressures? | Rentier + Vision 2030 transition + moderate Shia internal threat | Heavy internal threat (~70% Shia) but Pillar 2 strengthening |
+| Hedging vs bandwagoning | What is the observable behavioral category? | Hedging plus alliance formation simultaneously | Operational bandwagoning, no alternative |
+
+Reading down the columns gives a *complete account* for each state that no single framework provides. Lake alone misses the internal-threat differential between Bahrain and Saudi. Omnibalancing alone misses the structural reason for the US guarantee. Hedging alone misses why the guarantee was offered or why the Saudi internal-threat structure differs from Bahrain's. The three frameworks together generate specific 2x2x2 predictions: structure × internal threat × behavioral category. The 2026 case is a stress test that lets us see the predictions running in real time.
+
+The Bahrain test is the cleanest discriminator across all three frameworks. Bahrain has: deep client structure (Lake — 5th Fleet HQ hosting), heavy internal threat (omnibalancing — 70% Shia under Sunni rule), but operational bandwagoning behavior (hedging vs bandwagoning — CSIPA Article II + zero hedging signals). The composition reveals that Bahrain's *behavior* is determined by Pillar 2 (internal opposition control) strengthening more than by the underlying Pillar-2-stress-from-Shia-majority that omnibalancing would predict alone. The framework cleanly predicts Saudi/UAE/Qatar/Oman as true hedgers in distinct ways, with Configuration F as alliance-formation supplementary to Saudi's hedging — a finding that no single framework would have generated alone.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) Gulf states arrayed by Lim-Cooper signal-pass status (bandwagoning vs hedging); (2) Configuration F as alliance formation vs hedging; (3) where the three-framework composition runs across project chapters.
+
+### Figure 1 — Lim-Cooper test applied to Gulf states
+
+```{ojs}
+//| label: fig-lim-cooper-test
+//| fig-cap: "Lim-Cooper three-signal test applied to Gulf states. Each cell shows whether the state passes (green check) or fails (red cross) the signal. Bandwagoners fail the cost-incurring trade-offs and credible-second-best-options signals; true hedgers pass all three."
+
+{
+  const states = [
+    {state: "Bahrain", costly_tradeoffs: 0, strategic_ambiguity: 0, second_best: 0, category: "Bandwagoner"},
+    {state: "Kuwait", costly_tradeoffs: 0.2, strategic_ambiguity: 0.2, second_best: 0.1, category: "Bandwagoner"},
+    {state: "Saudi Arabia", costly_tradeoffs: 0.9, strategic_ambiguity: 0.7, second_best: 0.85, category: "True hedger"},
+    {state: "UAE", costly_tradeoffs: 0.7, strategic_ambiguity: 0.6, second_best: 0.75, category: "True hedger"},
+    {state: "Qatar", costly_tradeoffs: 0.85, strategic_ambiguity: 0.95, second_best: 0.7, category: "True hedger"},
+    {state: "Oman", costly_tradeoffs: 0.65, strategic_ambiguity: 0.95, second_best: 0.6, category: "True hedger"}
+  ];
+
+  const data = states.flatMap(s => [
+    {state: s.state, signal: "S1 cost-incurring trade-offs", value: s.costly_tradeoffs, category: s.category},
+    {state: s.state, signal: "S2 strategic ambiguity", value: s.strategic_ambiguity, category: s.category},
+    {state: s.state, signal: "S3 credible second-best options", value: s.second_best, category: s.category}
+  ]);
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 13 : Math.max(16, Math.min(22, Math.round(width / 48)));
+  const chartHeight = isMobile ? 380 : Math.max(380, Math.min(460, Math.round(width * 0.42)));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 90 : Math.max(160, Math.round(width * 0.16)),
+    marginRight: isMobile ? 24 : 60,
+    marginTop: Math.max(60, Math.round(baseFont * 3)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Signal strength (0 fail → 1 pass) →",
+      domain: [0, 1],
+      grid: true
+    },
+    y: { label: null, domain: data.map(d => `${d.state} — ${d.signal}`) },
+    color: {
+      legend: true,
+      domain: ["Bandwagoner", "True hedger"],
+      range: ["#cf222e", "#2da44e"]
+    },
+    marks: [
+      Plot.barX(data, {
+        x: "value",
+        y: d => `${d.state} — ${d.signal}`,
+        fill: "category",
+        insetTop: 3, insetBottom: 3,
+        tip: { lineWidth: 35, fontSize: isMobile ? 12 : 13 }
+      }),
+      Plot.ruleX([0.5], { stroke: "#0969da", strokeWidth: 2, strokeDasharray: "4,4" })
+    ]
+  });
+}
+```
+
+[**Reading the chart.** Each state has three rows — one per Lim-Cooper signal. Bandwagoners (red) fail or near-fail multiple signals: Bahrain has zero cost-incurring trade-offs and zero credible second-best options; Kuwait has very weak signals across all three. True hedgers (green) pass at least the dashed-blue 0.5 threshold on all three signals, often substantially above. The chart is the empirical fingerprint of the bimodal Gulf split that Q12.5 documents.]{.concise-only}
+
+[**Reading the chart.** The Lim-Cooper test has three signals: cost-incurring trade-offs (S1), strategic ambiguity (S2), and credible second-best options (S3). The chart scores each Gulf state from 0 (signal fails) to 1 (signal passes strongly) on each signal. The dashed blue line at 0.5 is the pass-fail threshold.
+
+Bandwagoners (red): Bahrain and Kuwait. Bahrain scores zero on all three signals: zero cost-incurring trade-offs (CSIPA Article II + RAF Typhoon hosting are zero-cost-to-Bahrain alignment with the US); zero strategic ambiguity (Bahrain's anti-Iran posture is unambiguous); zero credible second-best options (no realistic alternative to US security backing for the Sunni Khalifa regime). Kuwait scores very low — some symbolic engagement with China, ambiguity on a few diplomatic issues, but no real cost-incurring trade-offs and no credible second-best operational alternative.
+
+True hedgers (green): Saudi, UAE, Qatar, Oman. Saudi scores highest overall: cost-incurring trade-offs are extensive (Pakistan SMDA $3bn debt + KAAN-Turkey procurement displacing US options + China oil ties); strategic ambiguity is moderate (clear anti-Iran but ambiguous on US-China competition and on regional architecture); credible second-best options are robust (Pakistan, China, Turkey, Russia all viable). UAE is similar profile with slightly less Pakistan-Turkey exposure. Qatar scores highest on strategic ambiguity (balanced across major powers, Iran-pragmatic) but slightly lower on credible second-best options (less infrastructure for alternative alignment). Oman scores highest on strategic ambiguity (active-neutrality mediator tradition is unambiguous neither-Iran-nor-US) and modestly on the other two signals.
+
+The bimodal pattern is clean: the bandwagoners' three signals cluster well below the 0.5 threshold; the true hedgers' three signals cluster above it. There is no "moderate hedging" middle. The cleanest single discriminator is S1 (cost-incurring trade-offs) — Bahrain and Kuwait pay essentially no costs to maintain optionality, because they have no optionality. The framework's discipline reveals this pattern that the loose "Gulf-is-hedging" usage obscures.]{.deep-only}
+
+### Figure 2 — Configuration F: alliance formation vs hedging
+
+```{mermaid}
+flowchart TB
+  F[Configuration F components]
+  F --> SMDA[Saudi-Pakistan SMDA<br/>September 2025]
+  F --> KAAN[Saudi-Turkey KAAN<br/>procurement]
+  F --> EMB[Preserved Tehran<br/>embassy plus channel]
+  F --> CHINA[Deepened China<br/>oil-ties]
+  SMDA -.->|treaty-level<br/>mutual defense| AF[Alliance formation:<br/>excluded from hedging<br/>by Lim-Cooper discipline]
+  KAAN -.->|alliance-formation<br/>infrastructure| AF
+  EMB -.->|strategic ambiguity<br/>signal| HD[Hedging signal:<br/>passes Lim-Cooper]
+  CHINA -.->|cost-incurring<br/>trade-off signal| HD
+  AF --> AF_C[Saudi is doing<br/>alliance formation<br/>third-pole construction]
+  HD --> HD_C[Saudi is doing<br/>hedging<br/>at the same time]
+  classDef f fill:#0969da,color:#fff,stroke:#0969da
+  classDef c fill:#f6f8fa,stroke:#d0d7de
+  classDef af fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef hd fill:#2da44e,color:#fff,stroke:#2da44e
+  classDef gt-gloss-configuration-f-saudi-third-pole stroke-width:2px
+  class F f
+  class F gt-gloss-configuration-f-saudi-third-pole
+  class SMDA,KAAN,EMB,CHINA c
+  class AF af
+  class HD hd
+  class AF_C af
+  class HD_C hd
+```
+
+[**Saudi is doing both at once.** Lim-Cooper discipline lets us see that [Configuration F](../analyses/q12-5-post-war-reconfiguration.qmd) is *not* a single thing. The Saudi-Pakistan SMDA and KAAN-Turkey procurement are *treaty-level alliance formation* — explicitly excluded from the hedging category. The preserved Tehran embassy and deepened China oil-ties are *hedging signals* (strategic ambiguity + cost-incurring trade-offs). Saudi is doing both at once. Calling everything "hedging" misses the distinction; the framework's discipline reveals it.]{.concise-only}
+
+[**Configuration F is two different things at once.** The Q12.5 finding is that [Configuration F](../analyses/q12-5-post-war-reconfiguration.qmd) — the Saudi-led Sunni-Muslim third pole construction — is *not* a single behavioral category. The Lim-Cooper discipline lets us see it as two simultaneous moves:
+
+*Alliance formation* — the [Saudi-Pakistan SMDA]{.gloss data-gloss="saudi-pakistan-smda"} is a *mutual defense treaty* with implicit nuclear-umbrella reach. The KAAN-Turkey procurement is alliance-formation infrastructure. Both are treaty-level commitments that Lim-Cooper *explicitly excludes from the hedging category* — those are alliance formation, conceptually distinct from hedging.
+
+*Hedging* — the preserved Tehran embassy is a strategic-ambiguity signal (Saudi maintains diplomatic channel to Iran even during the war). The deepened China oil-ties are a cost-incurring trade-off (displacing some US procurement and energy alignment). Both pass Lim-Cooper signals as genuine hedging behavior.
+
+The analytical implication: Saudi in 2026 is doing alliance formation (third-pole construction with Pakistan and Turkey) *and* hedging (Iran channel + China oil) simultaneously. Calling everything "Saudi hedging" misses the distinction; calling everything "Saudi alliance formation" misses the other distinction. The framework's discipline reveals that the Saudi pattern is two-fold: substantial third-pole alliance formation as a hedge against US patron unreliability, plus continued hedging-style engagement with multiple powers as insurance even within the new third-pole structure. The Q12.5 reading operationalizes this two-fold structure rather than collapsing it.]{.deep-only}
+
+### Figure 3 — Three-framework composition across project chapters
+
+```{mermaid}
+flowchart LR
+  H[Hierarchy and clientelism]
+  O[Omnibalancing]
+  HD[Hedging vs bandwagoning]
+  H --> Q12_4[Q12.4: Gulf wartime paradox]
+  O --> Q12_4
+  HD --> Q12_4
+  H --> Q12_5[Q12.5: Post-war reconfiguration]
+  O --> Q12_5
+  HD --> Q12_5
+  H --> Q4[Q4: Counter-blockade feasibility]
+  O --> Q4
+  HD --> Q4
+  Q12_4 --> M12_4[External structure plus<br/>internal-threat plus<br/>behavioral category equals<br/>per-state predictions]
+  Q12_5 --> M12_5[Bahrain test plus<br/>Configuration F plus<br/>bimodal hedging-bandwagoning equals<br/>Q12.5 trajectory typology]
+  Q4 --> M4[Coalition durability under stress<br/>shaped by structural plus<br/>internal-threat dynamics]
+  classDef f fill:#0969da,color:#fff,stroke:#0969da
+  classDef ch fill:#dafbe1,stroke:#2da44e
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  class H,O,HD f
+  class Q12_4,Q12_5,Q4 ch
+  class M12_4,M12_5,M4 m
+```
+
+[**The three frameworks together** generate the analytical engine for the Gulf chapters. [Q12.4](../analyses/q12-4-gulf-paradox.qmd) and [Q12.5](../analyses/q12-5-post-war-reconfiguration.qmd) are the primary applications; Hierarchy + Omnibalancing + Hedging-vs-Bandwagoning together produce per-state predictions that no single framework would give. [Q4](../analyses/q4-blockade-feasibility.qmd) leans on the structural and internal-threat dynamics for coalition-durability prediction. The composition is what makes the Gulf chapters tractable.]{.concise-only}
+
+[**The three frameworks together** generate the analytical engine for the Gulf chapters. [Q12.4](../analyses/q12-4-gulf-paradox.qmd) uses all three to explain the Gulf wartime paradox: Hierarchy gives the US-Gulf patron-client structure that creates the implicit bargain; Omnibalancing gives the internal-threat dynamics that determine which Gulf states are most paradox-laden; Hedging-vs-Bandwagoning categorizes the observable behavior that the underlying structure and internal-threat produce. [Q12.5](../analyses/q12-5-post-war-reconfiguration.qmd) uses the three frameworks to derive the post-war trajectory typology, including the [Bahrain test]{.gloss data-gloss="bahrain-test"} as a single-state discriminator and [Configuration F]{.gloss data-gloss="configuration-f-saudi-third-pole"} as the Saudi-led third-pole construction that the framework predicts under reliability stress.
+
+The analytical value is that no single framework would generate the specific 2x2x2 predictions (structure × internal-threat × behavioral category) that the Gulf chapters use. Lake alone misses the differential internal-threat structure across Gulf states. Omnibalancing alone misses the structural reason for US guarantees. Hedging-vs-Bandwagoning alone misses both. Together, the three frameworks compose into the per-state prediction set: Bahrain is deep-client + heavy-internal-threat + operational-bandwagoning (the Bahrain test); Saudi is graded-clientelist + moderate-internal-threat-with-Vision-2030-transition + hedging-plus-alliance-formation (Configuration F); UAE/Qatar/Oman fit different cells. The chapter analyses operationalize these cell-by-cell.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+## Where the framework breaks {#where-it-breaks}
+
+The hedging-vs-bandwagoning framework has identifiable limits, several of which the 2026 case touches.
+
+1. **The bandwagoning-of-fear vs. bandwagoning-for-profit distinction blurs.** Schweller's original "jackal bandwagoning" (joining a winning side to share spoils) is conceptually distinct from "piling-on bandwagoning" (joining a winning side to avoid destruction). In practice these can be hard to distinguish — Bahrain's bandwagoning could be read either way depending on whether you emphasize the regime-survival mechanism (piling-on against Iran) or the spoils mechanism (privileged US-bilateral access). The framework doesn't always resolve which.
+
+2. **Strategic ambiguity is hard to measure operationally.** Lim-Cooper requires "strategic ambiguity" as a signal, but ambiguity is a continuous variable, not binary. Qatar's posture is more ambiguous than Saudi's on Iran but less ambiguous on the US-China dimension; how to aggregate? The framework gives qualitative discrimination but not always quantitative resolution.
+
+3. **Treaty-level commitments are excluded by definition, but the line is fuzzy.** Lim-Cooper excludes treaty-level commitments from the hedging category — those are alliance formation. But what counts as treaty-level? Bilateral cooperation MoUs are not treaties; mutual defense agreements are. The Saudi-Pakistan SMDA is clearly treaty-level. The Saudi-Turkey KAAN deal is arguably alliance-formation infrastructure but not itself a treaty. The Bahrain CSIPA is a sub-treaty integration agreement. Where to draw the line affects the categorization, and the framework doesn't fully specify it.
+
+4. **Fulton's contestation is partly right.** Fulton 2026 argues Gulf states are interest-based alignment-deepeners, not hedgers. The Q12.5 reading is that Fulton is correct for Bahrain (no hedging signals) and partial for Saudi (alliance formation alongside hedging). But there's a more fundamental challenge: maybe what we're calling "hedging" in Saudi is actually *alignment deepening* with the US plus *new alignment* with Pakistan/Turkey/China — two separate alignment-deepenings, not hedging at all. The framework can absorb this critique by labeling Saudi behavior as "compound alignment" rather than hedging, but at that point the categorical apparatus is straining.
+
+5. **The framework is static; the 2026 case is dynamic.** Bahrain's behavior in 2025 might have looked more hedger-like; the 2026 war has shifted it decisively toward bandwagoning. Saudi's behavior pre-Vision-2030 looked different from post-Vision-2030. The framework gives a snapshot categorization but does not easily model trajectory changes. Trajectory analysis requires composition with [omnibalancing](omnibalancing.qmd)'s Pillar-stress dynamics and [hierarchy and clientelism](hierarchy-clientelism.qmd)'s patron-reliability variable.
+
+## Why this primer matters {#why-it-matters}
+
+The hedging-vs-bandwagoning distinction is the third element of the analytical engine for the Gulf chapters. The disciplined application:
+
+1. **Apply the Lim-Cooper three-signal test specifically.** Not "is this hedging?" in the abstract but "does this behavior pass S1 (cost-incurring trade-offs), S2 (strategic ambiguity), and S3 (credible second-best options)?" Each signal has specific empirical content. Failure on any one signal disqualifies the behavior from the hedging category.
+
+2. **Distinguish hedging from alliance formation.** Treaty-level commitments are excluded from the hedging category by definition. The Saudi-Pakistan SMDA, the KAAN-Turkey procurement infrastructure, the Abraham Accords, and similar treaty-level arrangements are alliance formation. Hedging is what happens *alongside* alliance formation, not what alliance formation is.
+
+3. **Compose with Hierarchy and Omnibalancing.** Hedging-vs-bandwagoning is the observable behavioral category that the underlying structural and internal-threat dynamics produce. The three-framework composition gives the analytical engine for the Gulf chapters; using any single framework alone gives weaker predictions.
+
+4. **Take Fulton's contestation seriously.** Fulton 2026 argues much of what's called "Gulf hedging" is actually alignment-deepening with the US. The framework's analytical discipline lets us check: for each state, does the empirical record show alignment-deepening (Fulton) or hedging (Kuik / Lim-Cooper) or both? The Q12.5 finding is "both, in different proportions across states."
+
+5. **Watch the trajectory.** A static categorization tells you where a state is now. A dynamic analysis tells you where it's going. Bahrain has moved decisively toward bandwagoning since the 2026 war; Saudi has added alliance formation to its hedging; Qatar has maintained hedging. The trajectory matters more for forecasting than the snapshot.
+
+## Sources & further reading
+
+- @kuik2016hedging — the canonical three-approach definition of hedging
+- Lim & Cooper 2015, *Reassessing Hedging* (Taylor & Francis, paywalled) — the three-signal discipline; secondary compilation in project corpus includes verbatim abstract + bimodal Gulf prediction
+- Fulton 2026, *State of Great Power Competition in the Gulf* (Atlantic Council issue brief) — the contestation: Gulf states as interest-based alignment-deepeners, not hedgers
+- @walt1987origins — Walt's balance-of-threat as the predecessor framework that hedging refines
+- [Hierarchy and clientelism primer](hierarchy-clientelism.qmd) — the external structural frame that hedging composes with
+- [Omnibalancing primer](omnibalancing.qmd) — the internal-threat dynamics that hedging composes with
+- Q12.4 chapter on the Gulf wartime paradox, where the bimodal split first becomes visible
+- Q12.5 chapter on post-war reconfiguration, where the Bahrain test and Configuration F operationalize the framework
+
+```{=html}
+</div>
+```
