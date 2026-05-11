@@ -1,39 +1,62 @@
 ---
 title: "Analyses — twelve questions about the 2026 war"
-subtitle: "Each chapter takes one question, one canonical formal model (or where appropriate, several), and an explicit audit trail of evidence."
+subtitle: "Twelve questions traced as a causal arc: origins, persistence, operations, termination, aftermath. Each chapter takes one question, applies a canonical formal model (or several where appropriate), and shows its audit trail of evidence."
 ---
 
-## The twelve questions
+The twelve questions are organized as a causal arc through the war. Each section answers a distinct phase or layer of the conflict. Sections can be read independently — no prescribed order beyond the arc itself.
 
-| # | Question | Status |
-|---|----------|--------|
-| **Q1** | **[Why did bargaining fail on 28 February 2026 — *during* active negotiations?](q1-why-bargaining-failed.qmd)** | **chapter live** |
-| **Q2** | **[Why has the war persisted past initial strikes?](q2-war-persistence.qmd)** | **chapter live** |
-| **Q3** | **[Why is the Pakistan-mediated ceasefire unstable?](q3-ceasefire-instability.qmd)** | **chapter live** |
-| **Q4** | **[Can the US-led counter-blockade restore Hormuz transit?](q4-blockade-feasibility.qmd)** | **chapter live** |
-| **Q5** | **[What does the bargaining range look like now — is it empty?](q5-bargaining-range.qmd)** | **chapter live** |
-| **Q6** | **[What ends the war?](q6-what-ends-the-war.qmd)** | **chapter live** |
-| **Q7** | **[Opportunities and risks for Russia in Ukraine?](q7-russia-ukraine.qmd)** | **chapter live** |
-| **Q8** | **[Opportunities and risks for China vis-à-vis Taiwan?](q8-china-taiwan.qmd)** | **chapter live** |
-| **Q9** | **[What does the war do to the Europe-US relationship?](q9-europe-us-relationship.qmd)** | **chapter live** |
-| **Q10** | **[Does the US have a structural interest in Hormuz *not* fully reopening?](q10-us-hormuz-interest.qmd)** | **chapter live** |
-| **Q11** | **[How should the US-Israel coalition be conceptualized?](q11-us-israel-coalition.qmd)** | **chapter live** |
-| Q12 | How have Gulf-state strategies evolved before and after the war? | partial — see below |
+## Origins — why the war started
 
-## Q12 — the Gulf states (sub-questions)
+Two chapters on how the war happened: the structural conditions that closed the bargaining window, and the coalition that pulled the trigger.
 
-The Gulf is a distinct analytical focus because the standard frame (the GCC as a single bloc) does not fit the observed behavior.
+| # | Question |
+|---|----------|
+| **Q1** | **[Why did bargaining fail on 28 February 2026 — *during* active negotiations?](q1-why-bargaining-failed.qmd)** |
+| **Q11** | **[How should the US-Israel coalition be conceptualized?](q11-us-israel-coalition.qmd)** |
 
-| # | Sub-question | Status |
-|---|---------------|--------|
-| Q12.1 | How should the Gulf neighbors be sub-grouped? | drafted |
-| Q12.2 | How did each sub-group's strategy evolve from JCPOA → 2023 rapprochement → February 2026? | drafted |
-| Q12.3 | How did Iran's Hormuz weapon shape pre-war Gulf strategy? | drafted |
-| **Q12.4** | **Why did MBS-private + UAE-public push for regime change while declining military support to reopen Hormuz?** | **chapter live — [read it](q12-4-gulf-paradox.qmd)** |
-| **Q12.5** | **How is the strategic configuration evolving post-war?** | **chapter live — [read it](q12-5-post-war-reconfiguration.qmd)** |
+## Persistence — why the war continues
 
-Q12.5's most distinctive finding — a Saudi-led Sunni-Muslim "third pole" that the standard five-configuration menu cannot accommodate — is the chapter that most pushes the framework beyond canonical IR literature.
+Three chapters on what makes the war self-sustaining after the opening strikes: regime-survival incentives, ceasefire fragility, and the structural emptiness of the bargaining range.
 
-## Note on Q4
+| # | Question |
+|---|----------|
+| **Q2** | **[Why has the war persisted past initial strikes?](q2-war-persistence.qmd)** |
+| **Q3** | **[Why is the Pakistan-mediated ceasefire unstable?](q3-ceasefire-instability.qmd)** |
+| **Q5** | **[What does the bargaining range look like now — is it empty?](q5-bargaining-range.qmd)** |
 
-The original Q4 ("what sustains the coalitions?") was answered through cross-coverage in Q11 (US-Israel coalition), Q12.4 / Q12.5 (Gulf), Q9 (Europe-US), Q2 (Iran-side regime-survival as proxy network's structural driver), and Q7 (Russia-NK supply-chain dimension). With the original question fully addressed in the cross-coverage, Q4 has been redefined as a feasibility analysis of the US-led counter-blockade — the only major operational question the existing chapters did not engage directly.
+## Operational substrate — the kinetic layer
+
+One chapter on the feasibility of the US-led counter-blockade — the operational reality underneath the political dynamics.
+
+| # | Question |
+|---|----------|
+| **Q4** | **[Can the US-led counter-blockade restore Hormuz transit?](q4-blockade-feasibility.qmd)** |
+
+## Termination — how the war ends
+
+One chapter mapping the termination pathways and their probability × durability tradeoff. The most likely pathway is also the most fragile.
+
+| # | Question |
+|---|----------|
+| **Q6** | **[What ends the war?](q6-what-ends-the-war.qmd)** |
+
+## Aftermath & spillovers — what the war does to the wider world
+
+Six chapters on the consequences beyond the bilateral conflict: the Gulf reconfiguring around a fractured US patron, the three other major-power theatres, and the structural US interest in *not* fully restoring Hormuz flow.
+
+| # | Question |
+|---|----------|
+| **Q12.4** | **[Why did MBS-private + UAE-public push for regime change while declining military support to reopen Hormuz?](q12-4-gulf-paradox.qmd)** |
+| **Q12.5** | **[How is the strategic configuration evolving post-war?](q12-5-post-war-reconfiguration.qmd)** |
+| **Q7** | **[Opportunities and risks for Russia in Ukraine?](q7-russia-ukraine.qmd)** |
+| **Q8** | **[Opportunities and risks for China vis-à-vis Taiwan?](q8-china-taiwan.qmd)** |
+| **Q9** | **[What does the war do to the Europe-US relationship?](q9-europe-us-relationship.qmd)** |
+| **Q10** | **[Does the US have a structural interest in Hormuz *not* fully reopening?](q10-us-hormuz-interest.qmd)** |
+
+## Project notes
+
+**On Q-numbers.** The Q-numbers are stable identifiers carried over from the analytical source files; they are not narrative ordering. Reading order follows the section headings above, not the question numbers.
+
+**On Q4.** The original Q4 ("what sustains the coalitions?") was answered through cross-coverage in Q11 (US-Israel), Q12.4 / Q12.5 (Gulf), Q9 (Europe-US), Q2 (Iran-side regime-survival as proxy network's structural driver), and Q7 (Russia-NK supply chain). With the original question fully addressed, Q4 was redefined as the operational-feasibility analysis of the US-led counter-blockade — the only major operational question the existing chapters did not engage directly.
+
+**On Q12 sub-questions.** The Gulf is a distinct analytical focus because the standard frame (the GCC as a single bloc) does not fit the observed behavior. Three additional Q12 sub-questions are drafted in the analytical source but do not have dedicated chapter pages: Q12.1 (how should the Gulf neighbors be sub-grouped?); Q12.2 (how did each sub-group's strategy evolve from JCPOA → 2023 rapprochement → February 2026?); Q12.3 (how did Iran's Hormuz weapon shape pre-war Gulf strategy?). Their content is largely absorbed into Q12.4, Q12.5, and Q10.

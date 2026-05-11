@@ -100,33 +100,42 @@ website:
       collapse-level: 2
       contents:
         - analyses/index.qmd
-        - text: "Q1 — Why bargaining failed"
-          href: analyses/q1-why-bargaining-failed.qmd
-        - text: "Q2 — Why the war has persisted"
-          href: analyses/q2-war-persistence.qmd
-        - text: "Q3 — Why the ceasefire is unstable"
-          href: analyses/q3-ceasefire-instability.qmd
-        - text: "Q4 — Can the US-led counter-blockade restore Hormuz transit?"
-          href: analyses/q4-blockade-feasibility.qmd
-        - text: "Q5 — Is the bargaining range empty?"
-          href: analyses/q5-bargaining-range.qmd
-        - text: "Q6 — What ends the war?"
-          href: analyses/q6-what-ends-the-war.qmd
-        - text: "Q7 — Russia in Ukraine"
-          href: analyses/q7-russia-ukraine.qmd
-        - text: "Q8 — China vis-à-vis Taiwan"
-          href: analyses/q8-china-taiwan.qmd
-        - text: "Q9 — Europe-US relationship"
-          href: analyses/q9-europe-us-relationship.qmd
-        - text: "Q10 — US Hormuz structural interest"
-          href: analyses/q10-us-hormuz-interest.qmd
-        - text: "Q11 — US-Israel coalition structure"
-          href: analyses/q11-us-israel-coalition.qmd
-        - section: "Q12 — Gulf states"
+        - section: "Origins"
           contents:
-            - analyses/q12-4-gulf-paradox.qmd
+            - text: "Q1 — Why bargaining failed"
+              href: analyses/q1-why-bargaining-failed.qmd
+            - text: "Q11 — US-Israel coalition structure"
+              href: analyses/q11-us-israel-coalition.qmd
+        - section: "Persistence"
+          contents:
+            - text: "Q2 — Why the war has persisted"
+              href: analyses/q2-war-persistence.qmd
+            - text: "Q3 — Why the ceasefire is unstable"
+              href: analyses/q3-ceasefire-instability.qmd
+            - text: "Q5 — Is the bargaining range empty?"
+              href: analyses/q5-bargaining-range.qmd
+        - section: "Operational substrate"
+          contents:
+            - text: "Q4 — Can the counter-blockade restore Hormuz?"
+              href: analyses/q4-blockade-feasibility.qmd
+        - section: "Termination"
+          contents:
+            - text: "Q6 — What ends the war?"
+              href: analyses/q6-what-ends-the-war.qmd
+        - section: "Aftermath & spillovers"
+          contents:
+            - text: "Q12.4 — Gulf wartime paradox"
+              href: analyses/q12-4-gulf-paradox.qmd
             - text: "Q12.5 — Post-war reconfiguration"
               href: analyses/q12-5-post-war-reconfiguration.qmd
+            - text: "Q7 — Russia in Ukraine"
+              href: analyses/q7-russia-ukraine.qmd
+            - text: "Q8 — China vis-à-vis Taiwan"
+              href: analyses/q8-china-taiwan.qmd
+            - text: "Q9 — Europe-US relationship"
+              href: analyses/q9-europe-us-relationship.qmd
+            - text: "Q10 — US Hormuz structural interest"
+              href: analyses/q10-us-hormuz-interest.qmd
 
 format:
   html:
