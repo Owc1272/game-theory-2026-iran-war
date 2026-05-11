@@ -363,6 +363,7 @@ viewof mapLinked = Inputs.toggle({
         fill: d => agg.get(d.properties.name),
         stroke: d => selectedCountries.includes(d.properties.name) ? "#222" : "#bbb",
         strokeWidth: d => selectedCountries.includes(d.properties.name) ? 1.2 : 0.4,
+        tip: { lineWidth: 35, fontSize: isMobile ? 12 : 13 },
         title: d => {
           const s = stats.get(d.properties.name);
           if (!s) return `${d.properties.name}\n(no data for ${meta.label} between ${mapLo} and ${mapHi})`;
@@ -540,6 +541,7 @@ viewof bubbleSizeBy = Inputs.radio(["event_count", "severity"], {
         stroke: "white",
         strokeWidth: 0.8,
         fillOpacity: 0.65,
+        tip: { lineWidth: 40, fontSize: isMobile ? 12 : 13 },
         title: d => {
           const dateStr = (d.date instanceof Date)
             ? d.date.toISOString().slice(0, 10)
