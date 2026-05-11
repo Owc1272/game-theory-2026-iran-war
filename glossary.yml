@@ -29,7 +29,7 @@ glossary:
     title: "Threat that leaves something to chance (Schelling)"
     body: |
       From Thomas Schelling's *The Strategy of Conflict* (1960) and *Arms and Influence* (1966): a threat that leaves the outcome partly to chance — by deploying force in ways neither side can fully control — coerces the adversary into concessions to avoid random escalation. The mechanism trades certainty for credibility: precisely *because* the threatener cannot guarantee restraint, the threat cannot be safely ignored. Q12.4 reads Iran's pattern of strikes on every GCC capital — regardless of contribution — through this lens: not retaliation deterrence (which would target only contributors) but offensive coercive escalation aimed at breaking GCC collective-action capacity.
-    primer: null
+    primer: primer/schelling-strategic-ambiguity.qmd
 
   - id: bayesian-posterior
     title: "Bayesian posterior probability"
@@ -257,7 +257,7 @@ glossary:
     title: "Two-level games (Putnam, 1988)"
     body: |
       Robert Putnam's "Diplomacy and Domestic Politics: The Logic of Two-Level Games" (1988) modeled international negotiations as occurring simultaneously on two boards. On Level I, lead negotiators bargain abroad; on Level II, the resulting agreement must be ratified by domestic constituencies. The negotiation's *win-set* is the intersection of Level-II-acceptable agreements on both sides. When Level-II win-sets do not overlap, no Level-I agreement can stick — even if both lead negotiators want a deal. The framework is the standard fix for the bargaining model's "binding agreements possible" assumption: it lets analysts model audience costs and veto-player dynamics as constraints on what Level-I bargains can survive ratification.
-    primer: null
+    primer: primer/two-level-games.qmd
 
   - id: hesder-pipeline
     title: "Hesder yeshiva officer pipeline"
@@ -408,3 +408,51 @@ glossary:
     body: |
       The mainstream 20th-century Twelver Shi'i tradition that holds clerical political activism should be a last-resort response to existential threats to Islam, not a normal mode of governance. The leadership runs through Najaf in Iraq: Aqa Hosain Borujerdi (d. 1961, Khomeini's own teacher), Mohsen al-Hakim, Abu al-Qasem al-Khoei (d. 1992), and currently Ali al-Sistani (b. 1930). The tradition explicitly rejects velayat-e faqih and limits clerical authority to a *veto* function over governmental actions inconsistent with Islam (the 1891 Tobacco Protest is paradigmatic). Sistani is the most senior living Shi'i marja' in 2026 and the institutional alternative to Khomeinist clerical rule — relevant to post-Khamenei succession scenarios in Q6 and to the structural depth of regime legitimacy in Q2.
     primer: null
+
+  - id: riker-minimum-winning-coalition
+    title: "Minimum-winning coalition (Riker, 1962)"
+    body: |
+      William Riker's *The Theory of Political Coalitions* (1962) introduced a counter-intuitive prediction: rational actors will form the *smallest* coalition that can still win, because the spoils of victory are divided among coalition members and adding members beyond what is necessary dilutes everyone's individual share. The unique stable point under rational-actor assumptions is the minimum-winning coalition. The hypothesis fits legislative voting strongly, government formation moderately, and international coalitions partially — the public-good character of international security weakens the spoils-division logic. The framework is the conceptual ancestor of selectorate theory and the foundation for understanding why political coalitions take the sizes they do.
+    primer: primer/coalition-theory-selectorate.qmd
+
+  - id: bdm-selectorate
+    title: "Selectorate theory (Bueno de Mesquita, Smith, Siverson, Morrow, 2003)"
+    body: |
+      Bueno de Mesquita and colleagues' *The Logic of Political Survival* (2003) extended Riker's coalition logic into a general typology of regimes. Every leader operates in a polity with a *selectorate* (S — those with formal say in leader selection: voters in democracies, party members in single-party states, royal-family members and senior clerics in monarchies) and a *winning coalition* (W — the subset whose support is sufficient to keep the leader in power). The W/S ratio determines the regime's incentive structure: large W produces public-goods regimes (mature democracies); small W produces private-goods regimes (autocracies, monarchies). The framework's central distinctive prediction is that small-W regimes can survive war losses that would bring down large-W regimes — applied to the IRGC's consolidation in Q2.
+    primer: primer/coalition-theory-selectorate.qmd
+
+  - id: winning-coalition-ratio
+    title: "Winning-coalition ratio (W/S)"
+    body: |
+      The W/S ratio is the structural feature that distinguishes regime types in selectorate theory: the ratio of the winning coalition (W — the subset whose support is sufficient to keep the leader in power) to the selectorate (S — those with formal say in leader selection). Mature democracies have W/S near 0.5 (a leader needs roughly half the selectorate). One-party states with mass parties have very low W/S (small W from a very large S). Monarchies and juntas have moderate W/S but small absolute W. The ratio determines whether the regime provides public goods (large W, broad-welfare provision is efficient) or private goods (small W, sinecures and payoffs to identifiable elites are efficient) — and what the regime can survive politically.
+    primer: primer/coalition-theory-selectorate.qmd
+
+  - id: fearon-1996-object-bargaining
+    title: "Bargaining over objects that influence future power (Fearon, 1996)"
+    body: |
+      James Fearon's 1996 working paper (foundational; never formally journal-published) models complete-information multi-period bargaining where today's division of an "object" — territory, technology, an alliance partner — sets tomorrow's threat point. Bargaining is efficient if the function p(x) from object-share to war-winning probability is continuous; discontinuities or steep p(x) (offense dominance) yield war or winner-take-all dynamics; shallow p(x) (defense dominance) yields a stable interior balance. Foundational to Powell 2006's "bargaining over future power" sub-case and to the entire endogenous-power-shifts literature.
+    primer: primer/endogenous-power-shifts.qmd
+
+  - id: krainin-timing-of-strikes
+    title: "Slow cumulative power shifts (Krainin, 2017)"
+    body: |
+      Colin Krainin's 2017 paper extends Powell 2006's commitment-problem apparatus from discrete shifts to slow cumulative ones. The central result: slow-but-persistent power shifts can cause war (not only large rapid shifts), and the war can occur with substantial delay after the shift begins. The framework bridges Power Transition Theory and the Powell-style bargaining-commitment literature. Empirically relevant when a relevant power shift is happening over years rather than months. The Iran nuclear program over multi-decade trajectory fits the slow-cumulative pattern; Stage 0's 28-month attrition pattern has the right temporal structure but treats the shift as exogenous to the striker.
+    primer: primer/endogenous-power-shifts.qmd
+
+  - id: bas-coe-stochastic-proliferation
+    title: "Stochastic nuclear progress with noisy intelligence (Bas & Coe, 2016)"
+    body: |
+      Muhammet Bas and Andrew Coe's 2016 model adds two features to Powell-style bargaining: stochastic nuclear-program progress (the timeline is not deterministic) and noisy intelligence (the adversary cannot directly observe how close the program is to weaponization). Equilibrium properties: surprise proliferation, intelligence-driven crises, and "mistaken" preventive wars all emerge endogenously. Counterintuitively, improving strike capability or improving monitoring may increase proliferation incentives by tightening the rising side's window. Empirically, intelligence-update events better predict strike timing than economic or structural variables.
+    primer: primer/endogenous-power-shifts.qmd
+
+  - id: debs-monteiro-known-unknowns
+    title: "Threshold strikes under monitoring failure (Debs & Monteiro, 2014)"
+    body: |
+      Alexandre Debs and Nuno Monteiro's 2014 paper models preventive war under two information regimes. Under perfect transparency, peace prevails (the preventive-war threat deters militarization). Under imperfect monitoring, militarization can be a fait accompli; adversaries strike on threshold posterior beliefs even without conclusive evidence. Most provocatively: more effective preventive war raises the equilibrium probability of mistaken strikes against non-militarizing targets, because the lower strike-cost lowers the adversary's threshold for striking.
+    primer: primer/endogenous-power-shifts.qmd
+
+  - id: chadefaux-blocked-negotiation
+    title: "Negotiation over power-determinants (Chadefaux, 2011)"
+    body: |
+      Thomas Chadefaux's 2011 paper proves a non-existence theorem under complete information. When parties can negotiate over the determinants of future power (arms-control limits, demilitarized zones, alliance restraints, weapons-program suspensions), no power shift causes war. War therefore implies that negotiation over power-determinants is itself blocked — by third parties, domestic politics, or fungibility frictions. The framework's value is diagnostic: it does not predict war, but tells you that if a war happened, the question to ask is "where did the determinant-negotiation break, and why?"
+    primer: primer/endogenous-power-shifts.qmd

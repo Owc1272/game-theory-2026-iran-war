@@ -1,0 +1,492 @@
+---
+title: "Primer — Coalition theory and selectorate"
+subtitle: "Riker 1962 + Bueno de Mesquita et al. 2003: who must consent, and why some autocrats survive war losses that should bring them down"
+description: "William Riker's minimum-winning coalition (1962) and Bueno de Mesquita et al.'s selectorate theory (2003) re-conceptualize politics as a problem of coalition formation under spoils-division. Every leader has a *selectorate* (those with formal say in selection) and a *winning coalition* (the subset whose support is sufficient). The W/S ratio determines whether the regime provides public or private goods — and whether it can survive war losses. The framework illuminates Q11 (US-Israel coalition durability), Q12.4 (Gulf monarchies' winning-coalition compositions), and Q2 (the IRGC as a small-W coalition with high private goods)."
+categories: [primer, coalition-theory, selectorate, riker, bueno-de-mesquita]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+When does a political coalition form, hold together, and divide spoils? And why do some autocrats survive war losses that should bring them down (and some democracies collapse over conflicts that should be bearable)? The 2026 Iran case is full of coalition puzzles. The IRGC has consolidated rather than fractured under sustained war and after the loss of the Supreme Leader. Saudi Arabia and the UAE pushed for regime change while refusing to be the visible platform. The US-Israel coalition appears tightly aligned on objectives but operationally divergent on means. Two foundational frameworks — William Riker's *minimum-winning coalition* (1962) and Bueno de Mesquita et al.'s *selectorate theory* (2003) — give the conceptual vocabulary for asking why coalitions form the way they do, who has to consent for the regime to act, and what the regime can survive.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+The 2026 Iran case is rich with coalition puzzles that the standard frameworks (balance-of-power, alliance theory, hierarchy) only partly address. Iran's [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"} consolidated rather than fractured after the February 28 strikes that killed Khamenei. Decapitation of a regime-defining figure is supposed to compel concession; here it produced institutional cohesion and sustained war prosecution. The Sunni Gulf monarchies — Saudi Arabia and the UAE most prominently — pushed *privately* for regime change while declining to provide *visible* military support. Two coalition puzzles inside one regional bloc. The US-Israel coalition appears tightly aligned on the goal of degrading Iran's nuclear program but operationally divergent on means, with [principal-agent severe slippage]{.gloss data-gloss="principal-agent-slippage"} between principal (US) and agent (Israel) detectable across multiple decision points. Inside Iran, regime survival under sustained war is paradoxical from a balance-of-power standpoint: the regime is losing materially but politically consolidating.
+
+Two foundational frameworks give the conceptual vocabulary for these puzzles. William Riker's *The Theory of Political Coalitions* (1962) introduced the *minimum-winning coalition* as the rational endpoint of any politics where spoils are divided among participants — coalitions form to win, then shrink to the minimum that can still win, since adding members dilutes everyone's share. Bueno de Mesquita, Smith, Siverson, and Morrow's *The Logic of Political Survival* (2003) — the selectorate theory — generalized this into a typology of regimes built around two key sets: the *selectorate* (those with formal say in leader selection) and the *winning coalition* (the subset whose support keeps the leader in power). The W/S ratio determines whether the regime's incentive structure favors public goods (large-W democracies) or private goods (small-W autocracies). The framework predicts both who has to consent for the regime to act *and* what the regime can survive — including, critically, war losses.
+
+The framework matters disproportionately for the 2026 case because it gives a clean prediction that other frameworks miss: small-W regimes with high private-goods provision can survive war losses that would bring down large-W regimes. The IRGC is the canonical small-W coalition with private goods (sinecures, control of [bonyad]{.gloss data-gloss="irgc-bonyad-complex"} economic empires, parastatal access). Khamenei's death does not affect the underlying private-goods flow to W members — so the W has no defection incentive, which is precisely what we observe. The framework also helps with the Gulf cases (Q12.4, Q12.5) where the relevant W is the royal family + tribal elites + clerical establishment, and behavior under war stress is predicted by the dynamics of W maintenance rather than by external balance-of-threat alone.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** [Riker 1962]{.gloss data-gloss="riker-minimum-winning-coalition"}: rational actors form the *smallest* coalition that can win, because spoils are divided among members — adding members dilutes everyone's share. [Bueno de Mesquita et al. 2003]{.gloss data-gloss="bdm-selectorate"}: every leader has a *selectorate* (S — those with formal say in leadership selection) and a *winning coalition* (W — the subset whose support is sufficient). The W/S ratio is the regime's defining feature. *Small-W regimes* (autocracies) provide private goods to W members (corruption, sinecures, payoffs) and can survive war losses because W members' payoffs do not depend on military success. *Large-W regimes* (democracies) provide public goods (infrastructure, services) and are more vulnerable to war losses because W members punish failure on broad-welfare grounds. The framework explains why the IRGC consolidated rather than fractured after Khamenei's death (Q2), why Gulf monarchies' winning-coalition compositions drive their war behavior (Q12.4), and where the US-Israel coalition's durability comes from (Q11). Where it breaks: existential coalitions where exit isn't an option, ideological coalitions where private-goods substitution is partial, and coalitions with unstable selectorate (factional rivals threatening replacement). 2026 Iran is at all three boundaries.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Two foundational frameworks for political coalition analysis. [William Riker's *The Theory of Political Coalitions* (1962)]{.gloss data-gloss="riker-minimum-winning-coalition"} introduced the *minimum-winning coalition* hypothesis: rational actors in a zero-sum or constant-sum political game will form the smallest coalition that can still win, because the spoils of victory are divided among coalition members — adding members beyond what is necessary dilutes everyone's individual share. The hypothesis applies cleanly to legislative voting and government formation (where it has substantial empirical support); it generalizes more loosely to international coalition formation (where the spoils logic is partial). [Bueno de Mesquita, Smith, Siverson, and Morrow's *The Logic of Political Survival* (2003)]{.gloss data-gloss="bdm-selectorate"} — the *selectorate theory* — extended Riker's coalition logic into a general typology of regimes. Every leader operates in a polity with two key sets: the *selectorate* (S — the set of people with formal institutional say in leadership selection — voters in democracies, party members in single-party states, royal-family members and senior clerics in monarchies) and the *winning coalition* (W — the subset of S whose support is *sufficient* to keep the leader in power — usually a strict subset). The [W/S ratio]{.gloss data-gloss="winning-coalition-ratio"} is the regime's defining structural feature. *Large-W / large-S regimes* (mature democracies) have high W/S ratios approaching 0.5 (a leader needs roughly half the selectorate to keep power); the W is too large for private-goods distribution to be efficient, so the regime provides *public goods* (infrastructure, services, broad-welfare outcomes). *Small-W / large-S regimes* (autocracies with broad nominal selectorates but small actual ruling coalitions, like one-party states with mass parties) have very low W/S ratios — the leader needs only a small W from a large S, so loyalty is enforced by the implicit threat of W-replacement plus heavy *private goods* distribution to current W members. *Small-W / small-S regimes* (monarchies, juntas) have moderate W/S ratios but small absolute W, again driven by private-goods distribution. The framework predicts that *small-W regimes can survive war losses that would bring down large-W regimes*: war loss damages the public-goods bundle (which large-W regimes' coalitions evaluate them on) more than it damages the private-goods bundle (which small-W regimes' coalitions evaluate them on). This is the central analytical move that makes the framework load-bearing for Q2 (Iran's IRGC consolidating despite Khamenei's death — small-W, private goods intact, no defection incentive), Q11 (US-Israel coalition durability under different W structures on each side), and Q12.4 (Gulf monarchies' decisions driven by their specific W-composition: royal family + tribal elites + clerical establishment + selected technocrats). The framework breaks at three boundaries: *existential coalitions* (where exit is not an option for W members because the regime's collapse means their personal destruction — IRGC under Vahidi); *ideological coalitions* where revolutionary commitment partly substitutes for private goods (the framework's implicit utility maximizer is materially-driven); and coalitions with *unstable selectorate* (factional rivals threatening to redefine S — which would change W's composition without leader replacement). 2026 Iran sits at all three boundaries simultaneously, which is part of what makes it analytically interesting.
+:::
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — why this primer comes after the alliance-cluster
+
+This primer was written after the three Gulf-cluster primers ([Hierarchy and clientelism](hierarchy-clientelism.qmd), [Omnibalancing](omnibalancing.qmd), [Hedging vs balancing vs bandwagoning](hedging-balancing-bandwagoning.qmd)) because the coalition-theoretic framework operates *one level inside* those frameworks. Hierarchy and omnibalancing tell you about the structural relationships *between* states — who is the patron, who is the client, what internal-threat constraints bind each side's behavior. Coalition theory and selectorate tell you about the political-internal structure *within* each state — who has to consent for the leader to act, what the leader has to deliver to keep their support, and what the regime can survive.
+
+The framework's site-application is narrower than the Gulf-cluster primers: Q11 uses it for US-Israel coalition durability across multiple decision points; Q12.4 uses it implicitly for Gulf monarchies' winning-coalition compositions (though the Q12.4 chapter dropped the explicit "Selectorate + commit-by-weakness" mechanism as not load-bearing — see X2 in the Q12.4 dashboard); Q12.5 uses it implicitly for the [Configuration F]{.gloss data-gloss="configuration-f-saudi-third-pole"} prediction (Saudi's W includes elites whose private-goods flow depends on the third-pole architecture being preserved); Q2 uses it for IRGC institutional consolidation. The framework is also the canonical conceptual underpinning for understanding why [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} works — the dictators who gamble are leaders whose W is structured such that war loss imposes catastrophic personal cost on each W member.
+
+Selectorate theory has been criticized — sometimes harshly — for over-mechanical predictions and for treating every regime through a single explanatory lens. The fair version of the critique is that the framework's predictions are *sharper* than its measurement is: W and S are notoriously hard to operationalize empirically, and the same regime can be coded different ways. The unfair version is that the framework "doesn't work" — in fact, it generates testable predictions that have substantial empirical support, particularly on the war-survival prediction. The primer presents the framework, applies it to the 2026 case, and explicitly flags where it breaks and where its predictions are weakened by the IRGC's existential-coalition character. The composition with [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} (which addresses the existential-coalition case directly) is what makes the framework workable for Iran 2026.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the framework. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  R[Riker 1962:<br/>The Theory of<br/>Political Coalitions]
+  R --> S[Spoils logic:<br/>victory payoff<br/>divided among<br/>coalition members]
+  S --> P1[Adding members<br/>dilutes<br/>each share]
+  S --> P2[Rational actors<br/>form smallest<br/>coalition that<br/>can win]
+  P2 --> MWC[Minimum-winning<br/>coalition:<br/>just enough<br/>to win, no more]
+  MWC --> EX1[Legislative voting:<br/>strong empirical<br/>fit]
+  MWC --> EX2[Government formation:<br/>moderate fit]
+  MWC --> EX3[International coalitions:<br/>partial fit]
+  classDef r fill:#0969da,color:#fff,stroke:#0969da
+  classDef s fill:#dafbe1,stroke:#2da44e
+  classDef p fill:#fff8c5,stroke:#d4a72c
+  classDef e fill:#f6f8fa,stroke:#d0d7de
+  classDef gt-gloss-riker-minimum-winning-coalition stroke-width:2px
+  class R r
+  class R gt-gloss-riker-minimum-winning-coalition
+  class S s
+  class P1,P2 p
+  class MWC s
+  class EX1,EX2,EX3 e
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**Riker's spoils logic.** Coalition formation has a counter-intuitive prediction. If victory pays a fixed amount and the payoff is divided among coalition members, then *adding members beyond what is needed to win dilutes everyone's share*. Rational actors should therefore form the *smallest* coalition that can still win — the [minimum-winning coalition]{.gloss data-gloss="riker-minimum-winning-coalition"}. The hypothesis fits legislative voting strongly, government formation moderately, and international coalitions partially. The fit weakens where spoils are not strictly zero-sum or where uncertainty rewards over-insurance.]{.concise-only}
+
+::: {.deep-only}
+**Riker's spoils logic.** William Riker's *The Theory of Political Coalitions* (1962) introduced one of the cleaner counter-intuitive predictions in political science. Start from a simple game: there is a contested prize (control of government, a piece of legislation, the spoils of victory in a conflict), the prize is captured by whoever can assemble a winning coalition (more than half the votes, more than half the senators, more than half the divisions on the battlefield), and the prize is *divided* among coalition members in some fashion (cabinet seats, pork-barrel allocations, reparations, post-war restructuring authority).
+
+In this setup, adding a member beyond what is needed to win has a paradoxical effect: it does not increase the coalition's chance of winning (the coalition already wins), but it *does* reduce every existing member's share of the prize. The coalition is now over-insured, and every current member has a marginal incentive to expel the redundant member. The unique stable point under rational-actor assumptions is the *minimum-winning coalition* — the smallest set of members whose combined weight is just sufficient to win.
+
+The empirical fit varies by domain. *Legislative voting* fits the prediction well: minimum-winning legislative coalitions are observed across democracies and across vote types, with deviations explainable by side-payments, repeated-game considerations, or ambiguity about which members are pivotal. *Government formation* in parliamentary systems fits moderately: minimum-winning cabinets are common but not universal, with surplus coalitions often built when the leader is risk-averse about defection or when ideological congruence creates extra stability. *International coalitions* fit partially: military coalitions sometimes match the prediction (the smallest set of states needed to defeat a common enemy), but the public-good character of international security weakens the spoils-division logic — the security benefit accrues to all coalition members regardless of contribution, so adding members does not dilute the prize in the same way as legislative pork-barrel.
+
+Where the framework's prediction fits less well, the failures are usually informative about *which* assumption is breaking. Surplus coalitions in government formation often correlate with leader risk-aversion (the cost of one defection is large enough that over-insurance is worth its cost in dilution). Surplus international coalitions often correlate with public-good character (the security benefit cannot be excluded, so dilution is moot). The framework's analytical value lies as much in identifying which conditions produce minimum-winning coalitions as in the prediction itself.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart TB
+  B[Bueno de Mesquita et al 2003:<br/>The Logic of Political Survival]
+  B --> S[Selectorate S:<br/>those with formal say<br/>in leadership selection]
+  B --> W[Winning coalition W:<br/>subset of S whose support<br/>is sufficient to keep leader]
+  S --> WS[W/S ratio:<br/>defining feature of regime]
+  W --> WS
+  WS --> LD[Large W / large S:<br/>mature democracy<br/>W/S approaches 0.5]
+  WS --> SD[Small W / large S:<br/>one-party state with mass party<br/>very low W/S]
+  WS --> M[Small W / small S:<br/>monarchy or junta<br/>moderate W/S small absolute]
+  classDef b fill:#0969da,color:#fff,stroke:#0969da
+  classDef sw fill:#dafbe1,stroke:#2da44e
+  classDef ws fill:#fff8c5,stroke:#d4a72c
+  classDef r fill:#f6f8fa,stroke:#d0d7de
+  classDef gt-gloss-bdm-selectorate stroke-width:2px
+  class B b
+  class B gt-gloss-bdm-selectorate
+  class S,W sw
+  class WS ws
+  class LD,SD,M r
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**Bueno de Mesquita et al's two key sets.** Every leader operates in a polity with two key sets. The [*selectorate* (S)]{.gloss data-gloss="bdm-selectorate"} is everyone with formal say in leadership selection — voters in democracies, party members in single-party states, royal-family members and senior clerics in monarchies. The [*winning coalition* (W)]{.gloss data-gloss="bdm-selectorate"} is the subset of S whose support is *sufficient* to keep the leader in power — usually a strict subset. The W/S ratio is the regime's defining feature. Mature democracies have W/S near 0.5; one-party states with mass parties have very low W/S; monarchies and juntas have moderate W/S but small absolute W.]{.concise-only}
+
+::: {.deep-only}
+**Bueno de Mesquita, Smith, Siverson, and Morrow's selectorate theory.** *The Logic of Political Survival* (2003) — universally referred to as "selectorate theory" or "the BdM framework" — extended Riker's coalition logic into a general typology of regimes. The framework's central conceptual move is to define every regime through two key sets and a derived ratio.
+
+*The selectorate (S).* The set of people who have *formal* institutional say in leadership selection. In a mature democracy, S is approximately the entire adult citizenry (everyone with the legal right to vote). In a single-party state with a mass party, S is the membership of the party (which can be very large — the Chinese Communist Party has roughly 100 million members). In a monarchy, S is the royal family plus the senior clerics, tribal elders, and military leaders whose institutional positions give them formal say in succession arrangements. In a junta, S is the senior officer corps. Selectorate size varies enormously across regimes, but the conceptual move is to recognize that *some* set of people has formal say in leader selection, even when the set is small.
+
+*The winning coalition (W).* The subset of S whose support is *sufficient* — not necessarily *necessary* — to keep the leader in power. In a democracy, W is the set of voters whose support gave the leader an electoral majority (roughly half the actual voters). In a single-party state, W is the smaller subset of party members whose support translates into political power — typically the Politburo plus its key allies. In a monarchy, W is the subset of royal-family members, clerical leaders, and tribal elders whose active support is needed for the king to govern. The leader's *survival problem* is keeping W's support; if W defects (collectively or in critical fractions), the leader is replaced.
+
+*The W/S ratio.* This is the regime's defining structural feature. Mature democracies have *high* W/S — a leader needs roughly half the selectorate to keep power. One-party states with mass parties have *very low* W/S — a leader needs only a small W from a very large S, which gives the leader enormous structural leverage (any individual W member can be cheaply replaced from S, so loyalty is enforced by the threat of replacement). Monarchies and juntas have *moderate* W/S but small absolute W and S — the W is a small set of identifiable elites, and the leader's survival depends on managing those specific people.
+
+The framework's analytical value comes from how the W/S ratio shapes everything else about the regime: what goods the regime provides, what loyalty mechanisms work, what the leader can survive politically, and what kinds of policy failures will produce W defection. The next stage develops these implications.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  WS[W/S ratio<br/>determines regime<br/>incentive structure]
+  WS --> LW[Large W:<br/>private goods distribution<br/>is inefficient<br/>per-capita share too small]
+  WS --> SW[Small W:<br/>private goods distribution<br/>highly efficient<br/>per-capita share large]
+  LW --> PUB[Provides public goods:<br/>infrastructure<br/>services<br/>broad welfare]
+  SW --> PRI[Provides private goods:<br/>sinecures<br/>payoffs<br/>parastatal access]
+  PUB --> WL[Vulnerable to war loss:<br/>damages public goods<br/>W coalition punishes]
+  PRI --> WS_OK[Resilient to war loss:<br/>private goods unaffected<br/>W coalition has no incentive to defect]
+  classDef ws fill:#0969da,color:#fff,stroke:#0969da
+  classDef lw fill:#dafbe1,stroke:#2da44e
+  classDef sw fill:#fff8c5,stroke:#d4a72c
+  classDef pub fill:#f6f8fa,stroke:#d0d7de
+  classDef pri fill:#ffe5d9,stroke:#cf222e
+  classDef gt-gloss-winning-coalition-ratio stroke-width:2px
+  class WS ws
+  class WS gt-gloss-winning-coalition-ratio
+  class LW lw
+  class SW sw
+  class PUB pub
+  class PRI pri
+  class WL pub
+  class WS_OK pri
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Public goods vs private goods.** Large-W regimes provide *public goods* (infrastructure, services, broad-welfare outcomes) because per-capita private-goods distribution is inefficient when W is large. Small-W regimes provide *private goods* (sinecures, payoffs, parastatal access) because per-capita private-goods distribution is highly efficient when W is small. The crucial prediction: *small-W regimes can survive war losses that would bring down large-W regimes*. War loss damages public goods (which large-W coalitions evaluate the leader on) more than private goods (which small-W coalitions evaluate on). This is the central analytical move that makes the framework load-bearing for the 2026 Iran case.]{.concise-only}
+
+::: {.deep-only}
+**Public goods vs private goods, and the war-survival prediction.** The W/S ratio determines what the regime's incentive structure looks like, which in turn determines what the regime *provides* and what it can *survive*. The mechanism runs through the per-capita efficiency of private-goods distribution.
+
+*Why large W produces public goods.* If W is large (mature democracy with W approaching half the citizenry), the leader's resource allocation problem is brutal: a fixed budget divided among millions of W members produces tiny per-capita private-goods payoffs. The same budget spent on *public goods* — infrastructure, services, broad-welfare programs — produces benefits accruing to all W members AND to the rest of S, generating policy support across the entire selectorate. Public goods are also more efficient per dollar at producing voter satisfaction in large-W regimes because individual private-goods payoffs would be too small to matter. The leader rationally provides public goods.
+
+*Why small W produces private goods.* If W is small (autocracy, monarchy, junta with W in the dozens to low thousands), the leader's resource allocation problem is reversed: the same fixed budget divided among a small W produces large per-capita private-goods payoffs. The leader can buy each W member's loyalty at a price that fits within the budget, and private goods are *exclusive* — only W members get them, which is precisely what makes them effective at maintaining W loyalty. Public goods are wasted spending in small-W regimes because they accrue to S members outside W, who do not affect the leader's survival. The leader rationally provides private goods to W and minimizes public-goods spending.
+
+*The war-survival prediction.* This is the framework's most important and most distinctive prediction. *Small-W regimes can survive war losses that would bring down large-W regimes.* The mechanism: war loss damages the public-goods bundle (lost territory, lost prestige, lost trade, damaged infrastructure) more than it damages the private-goods bundle (the parastatal complexes, sinecures, and payoff networks that flow to W members are largely independent of military success on a battlefield). In a large-W regime, the leader is evaluated by W on the public-goods bundle — war loss is therefore a defection trigger. In a small-W regime, the leader is evaluated by W on the continued flow of private goods — war loss does not affect the private-goods flow as long as the regime itself stays in power, so W has no defection incentive even when the war is going badly.
+
+The prediction has substantial empirical support across the BdM dataset (mature democracies' war-loss rates produce leader replacement at high rates; small-W regime war losses produce leader replacement at much lower rates). The 2026 Iran case is a textbook application: the IRGC is a small-W coalition with extensive private-goods provision (control of bonyad complexes representing roughly 50% of GDP outside the formal state, parastatal access, sinecures); Khamenei's death does not affect the private-goods flow to W members; W has no defection incentive; the regime consolidates rather than fractures. The framework explains the [Soleimani-Khamenei differential]{.gloss data-gloss="soleimani-khamenei-differential"} from the Iranian-side selectorate angle — the W is structurally invariant to which specific leader is in office, as long as the private-goods flow continues and the institutional structure that controls it is preserved.
+
+The same mechanism explains why Saudi Arabia's MBS could absorb Khashoggi's murder politically without W defection (the W is a small set of royal family + tribal elites + clerical establishment + selected technocrats, none of whom were materially affected by the murder itself), but the same MBS faces *binding* W constraint when [Vision 2030]{.gloss data-gloss="vision-2030"} threatens the rentier basis of W private-goods provision. The framework predicts what Saudi can and cannot do on the basis of W-composition rather than just external balance-of-threat.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart TB
+  B[Where the framework breaks]
+  B --> E[Existential coalitions:<br/>exit not an option<br/>for W members]
+  B --> I[Ideological coalitions:<br/>private goods only<br/>partly substitutable<br/>by ideology]
+  B --> U[Unstable selectorate:<br/>factional rivals<br/>threaten redefinition of S]
+  E --> EX1[IRGC under Vahidi:<br/>regime collapse equals<br/>personal destruction<br/>for W members]
+  I --> EX2[Revolutionary regimes:<br/>Iran 1979-89<br/>private-goods alone<br/>does not predict behavior]
+  U --> EX3[Iran 2026:<br/>Pezeshkian sidelining<br/>and Vahidi consolidation<br/>are S-redefinition<br/>not just W replacement]
+  classDef b fill:#0969da,color:#fff,stroke:#0969da
+  classDef br fill:#ffe5d9,stroke:#cf222e
+  classDef ex fill:#f6f8fa,stroke:#d0d7de
+  class B b
+  class E,I,U br
+  class EX1,EX2,EX3 ex
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Where it breaks.** The framework has three identifiable limits, and 2026 Iran sits at all three boundaries. *Existential coalitions* — where regime collapse means personal destruction for W members, exit is not an option, and the standard utility-maximizer assumption strains (the IRGC under Vahidi). *Ideological coalitions* — where revolutionary commitment partly substitutes for private goods (the framework's implicit utility maximizer is materially-driven; revolutionary 1979-89 Iran fits poorly). *Unstable selectorate* — where factional rivals threaten to *redefine* S without leader replacement (Pezeshkian's sidelining and Vahidi's consolidation are S-redefinition, not just W replacement). Composition with [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} handles the existential-coalition case directly.]{.concise-only}
+
+::: {.deep-only}
+**Where the framework breaks.** The selectorate theory has three identifiable limits that the 2026 Iran case touches simultaneously. The framework remains analytically useful at all three boundaries, but with composition adjustments.
+
+*Existential coalitions.* The framework's central utility-maximizer assumption is that W members rationally evaluate the leader on the basis of the *current* and *prospective* flow of private goods (or public goods, in large-W regimes), with the implicit option to defect when the flow decreases. The defection assumption requires that defection is *possible* — that W members can survive personally if the regime falls. When this is not true — when regime collapse means personal destruction for W members (criminal prosecution, exile, killing by successor regime) — the standard utility maximization breaks down, and W members rationally support the regime even when the private-goods flow is decreasing. The IRGC under Vahidi in 2026 is the canonical existential-coalition case: regime collapse would mean criminal accountability, asset seizure, and likely personal violence against W members. Defection is not feasible, so W support is structurally locked in even when the war is going badly. This composes naturally with [Goemans's gamble-for-resurrection framework]{.gloss data-gloss="goemans-gamble-resurrection"} — Goemans models leader behavior under existential stakes, while selectorate theory models the W structure that produces those stakes. Together they generate Q2's mechanism α (Iran-side regime-survival under Goemans + Weeks).
+
+*Ideological coalitions.* The framework's implicit utility maximizer is *materially* driven — W members evaluate the leader on the basis of private goods (or public goods in large-W cases), where "goods" means material benefits. When ideology partly substitutes for material payoffs — when W members are willing to accept reduced material flows because they value the regime's *ideological* commitments — the framework's quantitative predictions weaken. Revolutionary regimes (Iran 1979-89, Cuba post-1959, Soviet 1917-30s) are the canonical cases: W members tolerated significant material losses that the standard model would predict to produce defection, because ideological commitment to the regime's project provided non-material utility. The 2026 IRGC case is partly ideological — the revolutionary commitment to "no foreign coercion" and the velayat-e faqih institutional ideology provide some non-material support for W loyalty — but it is also substantially material (the bonyad-IRGC private-goods flow is too valuable for ideology alone to explain). The framework's predictions have to be adjusted for the ideological component but are not invalidated.
+
+*Unstable selectorate.* The framework's predictions assume the *selectorate itself* is stable — that the set of people with formal institutional say in leadership selection is given, and the analysis is about how W is drawn from S. When factional rivals can *redefine* S (by changing who counts as having formal institutional say), the framework's predictions become unreliable because the underlying set is moving. Pezeshkian's sidelining and Vahidi's consolidation in 2026 are not just *W replacement* (one set of W members replaced by another within a stable S); they are *S redefinition* — the set of institutional positions with formal say in regime decision-making is being redrawn around the IRGC institutional consensus. Pezeshkian's formal position has not changed (he is still President), but his *institutional weight* in selectorate terms has been reduced effectively to zero. The framework needs supplementary machinery to handle S-redefinition, which is where the [four-layer reformist-defeat funnel]{.gloss data-gloss="four-layer-reformist-defeat"} and [Bani Sadr template]{.gloss data-gloss="bani-sadr-marginalization"} from the historical-roots material come in — they provide the institutional sequence by which S is redefined to exclude reformist factions in the Islamic Republic.
+
+The 2026 Iran case sits at all three boundaries simultaneously, which is part of what makes it analytically interesting (and why no single framework handles it well — the analytical work requires composition across selectorate, Goemans, Weeks, and historical-pattern material). The framework remains useful at the boundaries, but only with composition adjustments and acknowledged uncertainty about the quantitative predictions.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) the selectorate (S), winning coalition (W), and W/S ratio across regime types in the 2026 case; (2) W/S ratio across project actors with mapped predictions for war-cost tolerance; (3) where the framework runs through the analyses on this site.
+
+### Figure 1 — Selectorate, winning coalition, and W/S ratio across regime types
+
+```{mermaid}
+flowchart TB
+  R[Regime types in the 2026 case]
+  R --> SA[Saudi Arabia<br/>S: royal family plus senior clerics<br/>plus tribal elders<br/>W: small subset of these<br/>plus selected technocrats<br/>W/S moderate, W absolute small]
+  R --> IR[Iran post-Feb-28<br/>S: nominally large electorate<br/>W: IRGC institutional consensus<br/>W/S very low, W absolute small]
+  R --> US[United States<br/>S: voting citizenry<br/>W: roughly half the voters<br/>W/S near 0.5, W absolute large]
+  R --> IL[Israel<br/>S: voting citizenry<br/>W: coalition partners in Knesset majority<br/>W/S near 0.5 but compositional<br/>W absolute large]
+  R --> BH[Bahrain<br/>S: Sunni Khalifa family<br/>plus selected loyalists<br/>W: small subset<br/>plus internal-security apparatus<br/>W/S moderate, W absolute very small]
+  classDef r fill:#0969da,color:#fff,stroke:#0969da
+  classDef state fill:#dafbe1,stroke:#2da44e
+  class R r
+  class SA,IR,US,IL,BH state
+```
+
+[**Reading the figure.** The 2026 case includes regimes spanning the W/S spectrum. *Saudi Arabia*: small absolute W (royal family + senior clerics + tribal elders + selected technocrats), moderate W/S — the framework predicts substantial private-goods provision (which is what we observe — the rentier system as Pillar 3 of the Reinhold three-pillar framework). *Iran post-Feb-28*: nominally large S (the electorate), but very small W (IRGC institutional consensus under Vahidi), giving very low W/S — the framework predicts heavy private-goods provision (which is what we observe — bonyad-IRGC complex). *US*: large W approaching half the citizenry, W/S near 0.5 — public-goods regime, vulnerable to war loss. *Israel*: large W via coalition partners in Knesset majority, W/S near 0.5 but with compositional rigidity (the religious-Zionist + Likud-right + Mizrahi-Shas axis is a small W within W that has effective veto on key decisions). *Bahrain*: small absolute W (Sunni Khalifa family + selected loyalists + internal-security apparatus), moderate W/S — heavy private-goods provision plus operational dependence on US for external security.]{.concise-only}
+
+[**Reading the figure.** The 2026 case includes regimes spanning the full W/S spectrum, which is part of what makes the framework analytically useful for the project. Each regime is best understood through its specific S, W, and W/S ratio — and the policy behavior observed in 2026 follows from that structure.
+
+*Saudi Arabia.* S includes the royal family (roughly 15,000 senior princes), senior clerics from the Wahhabi establishment, and major tribal elders. W is a small subset: the king and crown prince's inner circle (a few dozen princes), the most senior clerics whose religious legitimation is essential for regime stability, the heads of major tribal confederations whose loyalty underwrites internal security, plus selected technocrats whose policy expertise is essential for managing Vision 2030 and the rentier complex. W absolute is small (low hundreds at most), W/S is moderate. The framework predicts heavy private-goods provision to W (which is what we observe — the rentier system as Pillar 3 of the Reinhold three-pillar omnibalancing framework, with public-sector employment, subsidies, royal-family payments, and clerical-establishment funding flowing to W members). The framework also predicts that MBS can absorb specific public-goods failures (the Khashoggi murder did not damage W private-goods flow) but is constrained when policy threatens W's material base (Vision 2030's diversification requires careful management because it changes the W coalition over time, introducing new constituencies whose loyalty has to be bought).
+
+*Iran post-February-28-2026.* S is nominally large (the electorate, in the formal Islamic Republic constitutional framework). But the *operative* W is the IRGC institutional consensus under Vahidi — a small set of senior IRGC commanders, bonyad heads, parastatal directors, and key clerics aligned with the velayat-e faqih institutional structure. W absolute is small (low hundreds), W/S is very low. The framework predicts heavy private-goods provision (which is what we observe — bonyad-IRGC complex controlling roughly 50% of GDP outside the formal state, parastatal access, sinecures). And the framework predicts that war losses will not produce W defection because W members' private-goods flow is preserved as long as the regime survives — which is exactly what Q2 documents.
+
+*United States.* S is the voting citizenry, W is the subset of voters whose support gave Trump the electoral majority (roughly half the actual voters). W/S is near 0.5, W absolute is large. The framework predicts public-goods regime with vulnerability to war loss because the public-goods bundle is what W evaluates the leader on. This is the foundational prediction that makes Q2's mechanism β (US-side audience-cost lock-in) admin-contingent: Trump's public commitments through the war operate as audience costs because the W coalition will punish reversal, but if the war becomes economically painful enough, the same W coalition will punish continuation. Public-goods regimes have W coalitions that respond to broad-welfare outcomes — which means oil prices, gasoline prices, casualty figures, and economic disruption all enter the W's evaluation of the leader.
+
+*Israel.* S is the voting citizenry, W is the set of coalition partners in the Knesset majority. W/S is near 0.5 in formal terms, but with a critical complication: the *operative* W has compositional rigidity that the formal numbers obscure. The religious-Zionist + Likud-right + Mizrahi-Shas axis constitutes a small W within W that has effective veto on key decisions, particularly on territorial concessions and security policy. The Hesder pipeline (religious-Zionist seminary-IDF officer-corps integration) institutionalizes this compositional rigidity at the operational level. The framework's predictions for Israel are accordingly mixed: large-W public-goods regime in the formal sense, small-W private-goods dynamic at the inner-W level on security-policy decisions. The mixed structure is what produces the [Stackelberg-leader behavior]{.gloss data-gloss="stackelberg-leader-follower"} that Q11 documents.
+
+*Bahrain.* S is the Sunni Khalifa royal family plus selected loyalists. W is a small subset: the king and crown prince's inner circle plus the heads of the internal security apparatus (whose role in maintaining stability against the Shia majority is essential). W absolute is very small (dozens), W/S is moderate within the very small S. The framework predicts heavy private-goods provision to W plus operational dependence on US for external security (because internal-security is W's primary concern, external defense is delegated to the patron under Lake hierarchy logic). This is exactly what the [Bahrain test]{.gloss data-gloss="bahrain-test"} confirms operationally — Bahrain's W structure makes operational bandwagoning with the US the dominant strategy.]{.deep-only}
+
+### Figure 2 — W/S ratio across project actors and predicted war-cost tolerance
+
+```{ojs}
+//| label: fig-ws-ratio-actors
+//| fig-cap: "W/S ratio across six project actors with mapped predictions for war-cost tolerance. Small-W regimes (low W/S) tolerate higher war costs because private-goods flow is preserved. Large-W regimes (high W/S) face binding constraints from broad-welfare evaluations of the W coalition."
+
+{
+  const actors = [
+    {actor: "Iran (IRGC consensus)", code: "R1", ws_ratio: 0.05, war_cost_tolerance: 0.92, regime_type: "Small W private goods"},
+    {actor: "Bahrain (Khalifa W)", code: "R2", ws_ratio: 0.20, war_cost_tolerance: 0.45, regime_type: "Small W private goods"},
+    {actor: "Saudi Arabia (royal W)", code: "R3", ws_ratio: 0.18, war_cost_tolerance: 0.55, regime_type: "Small W private goods"},
+    {actor: "Israel (coalition W)", code: "R4", ws_ratio: 0.45, war_cost_tolerance: 0.65, regime_type: "Mixed W"},
+    {actor: "United States (voter W)", code: "R5", ws_ratio: 0.50, war_cost_tolerance: 0.35, regime_type: "Large W public goods"},
+    {actor: "UAE (royal W)", code: "R6", ws_ratio: 0.22, war_cost_tolerance: 0.50, regime_type: "Small W private goods"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 14 : Math.max(17, Math.min(24, Math.round(width / 45)));
+  const chartHeight = isMobile ? 360 : Math.max(380, Math.min(460, Math.round(width * 0.42)));
+
+  const colorScale = {
+    "Small W private goods": "#cf222e",
+    "Mixed W": "#d4a72c",
+    "Large W public goods": "#0969da"
+  };
+
+  return Plot.plot({
+    marginLeft: Math.max(70, Math.round(baseFont * 4)),
+    marginRight: isMobile ? 30 : 70,
+    marginTop: Math.max(50, Math.round(baseFont * 2.6)),
+    marginBottom: Math.max(72, Math.round(baseFont * 4)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "W/S ratio (low equals small W) →",
+      domain: [0, 0.6],
+      grid: true,
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6]
+    },
+    y: {
+      label: "Predicted war-cost tolerance (low equals brittle) →",
+      domain: [0, 1],
+      grid: true,
+      ticks: [0, 0.2, 0.4, 0.6, 0.8, 1.0]
+    },
+    color: {
+      legend: true,
+      domain: ["Small W private goods", "Mixed W", "Large W public goods"],
+      range: ["#cf222e", "#d4a72c", "#0969da"]
+    },
+    marks: [
+      Plot.dot(actors, {
+        x: "ws_ratio", y: "war_cost_tolerance",
+        fill: d => colorScale[d.regime_type],
+        r: Math.max(8, Math.round(baseFont * 0.7)),
+        stroke: "white", strokeWidth: 2,
+        tip: { lineWidth: 35, fontSize: isMobile ? 12 : 13 },
+        channels: { Actor: "actor", "Regime type": "regime_type" }
+      }),
+      Plot.text(actors, {
+        x: "ws_ratio", y: "war_cost_tolerance",
+        text: "code",
+        dx: 0, dy: -Math.round(baseFont * 1.4),
+        fontWeight: 600, fontSize: baseFont
+      })
+    ]
+  });
+}
+```
+
+::: {.mech-legend}
+**Actor codes** (chart labels expanded):
+
+| Code | Actor |
+|:---:|---|
+| **R1** | Iran (IRGC institutional consensus under Vahidi) |
+| **R2** | Bahrain (Khalifa royal W plus internal-security apparatus) |
+| **R3** | Saudi Arabia (royal W plus senior clerics plus selected technocrats) |
+| **R4** | Israel (coalition W with religious-Zionist plus Likud-right plus Mizrahi-Shas inner-W) |
+| **R5** | United States (voter W with Q10's producer-coalition lobby weight) |
+| **R6** | UAE (royal W plus Mohammed bin Zayed inner circle) |
+:::
+
+[**Reading the chart.** The framework predicts a *negative* relationship between W/S ratio and war-cost tolerance: low W/S (small W) regimes tolerate higher war costs because W members' private-goods flow is preserved; high W/S (large W) regimes face binding constraints because the W coalition evaluates the leader on public-goods outcomes that war damages. R1 (Iran-IRGC) is the extreme small-W case with very high war-cost tolerance — the framework's prediction is what Q2 documents empirically. R5 (US) is the extreme large-W case with low war-cost tolerance — the framework's prediction underlies Q2's mechanism β admin-contingency. The Gulf monarchies (R2, R3, R6) cluster in the small-W moderate-tolerance region; Israel (R4) is the mixed-W case with elevated tolerance for security-policy escalation due to the inner-W structure.]{.concise-only}
+
+[**Reading the chart.** The selectorate framework's central prediction is a *negative* relationship between W/S ratio and war-cost tolerance: low W/S (small W) regimes tolerate higher war costs because W members' private-goods flow is preserved through war; high W/S (large W) regimes face binding constraints because the W coalition evaluates the leader on public-goods outcomes (infrastructure, broad welfare, economic stability) that war damages. The chart plots six project actors against this prediction.
+
+R1 (Iran-IRGC institutional consensus) is the extreme small-W case. W/S is very low — a tiny IRGC consensus operating within a nominally large electorate, with the selectorate effectively redefined post-Khamenei to consist of the IRGC institutional apparatus rather than the formal electorate. War-cost tolerance is very high — the IRGC's bonyad-controlled private-goods flow is preserved through war as long as the regime survives, and the Goemans gamble-for-resurrection adds existential lock-in on top of the standard private-goods logic. Q2 documents this empirically: the regime has consolidated rather than fractured under sustained war.
+
+R5 (US) is the extreme large-W case. W/S is near 0.5 — Trump's W is roughly half of the US voting citizenry. War-cost tolerance is low because the W coalition evaluates the administration on public-goods outcomes including economic stability, gasoline prices, and casualties. The framework predicts that mounting war costs will produce W defection unless the war can be terminated quickly enough or with sufficient public-goods compensation. Q2's mechanism β is the textbook application: US audience-cost lock-in is admin-contingent because the same W structure that punishes Trump for backing down will punish him for sustained war if costs rise.
+
+R2 (Bahrain), R3 (Saudi Arabia), R6 (UAE) cluster in the small-W moderate-tolerance region. All three are Sunni Gulf monarchies with small W structures (royal families + senior clerics + tribal elders + selected technocrats + internal-security apparatus). Private-goods provision is heavy. War-cost tolerance is moderate — higher than the US (the W is small enough that private-goods flow is the dominant evaluation criterion) but lower than Iran's (the existential-coalition lock-in is weaker because regime collapse does not necessarily mean personal destruction for W members). The differential among the three Gulf states (Bahrain lowest tolerance because of the internal-threat constraint; Saudi moderate; UAE highest because of the homogeneous-population case) maps onto the omnibalancing predictions discussed in the [Omnibalancing primer](omnibalancing.qmd).
+
+R4 (Israel) is the mixed-W case. Formal W/S is near 0.5 (coalition government in Knesset). But the operative W on security-policy decisions has compositional rigidity (religious-Zionist + Likud-right + Mizrahi-Shas inner-W). War-cost tolerance is elevated for security-policy escalation because the inner-W is structurally locked into a hawkish posture (Hesder pipeline, religious-Zionist demographic shift in IDF officer corps). The mixed structure is what produces Q11's Stackelberg-leader behavior: Israel can sustain operations the US would back away from because the inner-W coalition does not impose comparable audience costs for sustained operations.
+
+The framework's analytical value is the prediction that *small-W regimes can survive war losses that would bring down large-W regimes*, which the 2026 case validates clearly: Iran is sustaining the war despite material losses that would have terminated a large-W regime's prosecution; the US is the Q2 admin-contingency variable because Trump's W will eventually impose costs that small-W Iran's W does not impose on Vahidi.]{.deep-only}
+
+::: {.callout-note collapse="true"}
+## Show the underlying numbers
+
+| Code | Actor | W/S ratio (estimated) | War-cost tolerance (predicted, 0-1) | Regime type |
+|---|---|:---:|:---:|---|
+| **R1** | Iran (IRGC institutional consensus) | 0.05 | 0.92 | Small W private goods |
+| **R2** | Bahrain (Khalifa royal W) | 0.20 | 0.45 | Small W private goods |
+| **R3** | Saudi Arabia (royal W) | 0.18 | 0.55 | Small W private goods |
+| **R4** | Israel (coalition W with inner-W rigidity) | 0.45 | 0.65 | Mixed W |
+| **R5** | United States (voter W) | 0.50 | 0.35 | Large W public goods |
+| **R6** | UAE (royal W) | 0.22 | 0.50 | Small W private goods |
+
+W/S ratio estimates are coded by the analyst from regime-structure analysis; war-cost tolerance is the framework's predicted ordering, normalized to a 0-1 scale for plotting. The framework's prediction is the *ordering* (small-W high tolerance; large-W low tolerance), not the precise quantitative values.
+:::
+
+### Figure 3 — Where coalition theory and selectorate run through the analyses on this site
+
+```{mermaid}
+flowchart TB
+  C[Coalition theory and selectorate]
+  C --> Q11[Q11: US-Israel coalition]
+  C --> Q12_4[Q12.4: Gulf wartime paradox]
+  C --> Q12_5[Q12.5: Post-war reconfiguration]
+  C --> Q2[Q2: War persistence]
+  Q11 --> Q11D[Different W structures<br/>on each side<br/>plus principal-agent slippage<br/>predicts coalition durability]
+  Q12_4 --> Q12_4D[Each Gulf state W composition<br/>determines war-stress response<br/>X2 selectorate-plus-Schelling<br/>was dropped as not load-bearing]
+  Q12_5 --> Q12_5D[Configuration F:<br/>Saudi W includes elites<br/>whose private-goods flow<br/>depends on third pole architecture]
+  Q2 --> Q2D[IRGC small-W private-goods<br/>regime explains why<br/>Khamenei death<br/>did not produce W defection]
+  classDef c fill:#0969da,color:#fff,stroke:#0969da
+  classDef ch fill:#dafbe1,stroke:#2da44e
+  classDef d fill:#f6f8fa,stroke:#d0d7de
+  classDef gt-gloss-bdm-selectorate stroke-width:2px
+  class C c
+  class C gt-gloss-bdm-selectorate
+  class Q11,Q12_4,Q12_5,Q2 ch
+  class Q11D,Q12_4D,Q12_5D,Q2D d
+```
+
+[**Where the framework runs.** Four chapters use coalition theory and selectorate. [Q11](../analyses/q11-us-israel-coalition.qmd) on US-Israel coalition durability — different W structures on each side plus principal-agent slippage. [Q12.4](../analyses/q12-4-gulf-paradox.qmd) on Gulf wartime paradox — each Gulf state's W composition determines war-stress response (the X2 selectorate-plus-Schelling-commit-by-weakness mechanism was dropped from Q12.4 as not load-bearing — the framework remains useful descriptively but did not survive the DA pass as the explanatory mechanism). [Q12.5](../analyses/q12-5-post-war-reconfiguration.qmd) on Configuration F — Saudi's W includes elites whose private-goods flow depends on the third-pole architecture being preserved. [Q2](../analyses/q2-war-persistence.qmd) on war persistence — the IRGC small-W private-goods regime explains why Khamenei's death did not produce W defection.]{.concise-only}
+
+[**Where the framework runs through the analyses on this site.** Coalition theory and selectorate appear in four chapters with somewhat different applications. The framework's reach is narrower than [hierarchy and clientelism]{.gloss data-gloss="lake-hierarchy"} (which appears in five chapters) but it provides specific predictions about *internal* coalition dynamics that the external-relationship frameworks do not.
+
+[Q11](../analyses/q11-us-israel-coalition.qmd) — *US-Israel coalition.* The chapter applies coalition logic to the coordination problem between two regimes with different W structures: the US is a large-W public-goods regime (W approaching half the citizenry, low tolerance for sustained war costs); Israel is a mixed-W regime with inner-W compositional rigidity (formal W/S near 0.5 but operative W on security policy is the religious-Zionist + Likud-right + Mizrahi-Shas axis). The framework predicts that the coalition will be durable on objectives (both W structures align on degrading Iran's nuclear program) but operationally divergent on means (the US's broader W coalition imposes constraints that Israel's inner-W does not). This composes with [principal-agent severe slippage]{.gloss data-gloss="principal-agent-slippage"} and [Stackelberg leader-follower]{.gloss data-gloss="stackelberg-leader-follower"} to give Q11's three-framework analytical structure.
+
+[Q12.4](../analyses/q12-4-gulf-paradox.qmd) — *Gulf wartime paradox.* The chapter explicitly considered a "Selectorate + Schelling commit-by-weakness" mechanism (X2 in the Q12.4 dashboard) and dropped it as not load-bearing — the dropped X2 mechanism scored P(operative) = 0.30 and P(load-bearing) = 0.10 with T4 confidence tier, well below the load-bearing threshold. This is informative about the framework's limits: the explicit selectorate mechanism was tested against the Gulf wartime paradox and did not survive the DA pass as a primary explanation. The framework remains *descriptively* useful (each Gulf state's W composition does shape its war-stress response, as documented in the Reinhold three-pillar omnibalancing application) but is not the load-bearing analytical mechanism for the Q12.4 paradox itself. The [Ibish post-war retaliation risk]{.gloss data-gloss="ibish-post-war-retaliation-risk"} mechanism scored higher (M0 at P(load-bearing) = 0.65) and provides the load-bearing explanation. Coalition theory and selectorate operate as *background* in Q12.4 — the W structures of each Gulf state shape the *baseline* of policy options, but the *paradox-specific* behavior is explained by Ibish.
+
+[Q12.5](../analyses/q12-5-post-war-reconfiguration.qmd) — *Post-war reconfiguration.* The chapter uses coalition logic implicitly in the [Configuration F]{.gloss data-gloss="configuration-f-saudi-third-pole"} analysis. Saudi's W includes royal-family members, senior clerics, tribal elders, and selected technocrats whose private-goods flow depends on the rentier complex *and* on the security architecture that protects it. The third-pole construction (Saudi-Pakistan SMDA, KAAN-Turkey, preserved Tehran embassy) is a coalition move that preserves W's private-goods flow against US-patron unreliability — the W coalition would defect from MBS if the rentier base were threatened by US abandonment, so MBS rationally constructs alternative architecture as W-loyalty insurance. The framework explains *why* Configuration F is W-rational for MBS even when it costs Saudi some of the Israel-normalization opportunity that the US has been pushing. Q12.5 does not develop the W-internal coalition logic explicitly but it underlies the analysis.
+
+[Q2](../analyses/q2-war-persistence.qmd) — *War persistence.* The chapter uses the framework as implicit foundation for mechanism α (Iran-side regime-survival under Goemans + Weeks). The IRGC is a small-W private-goods regime with very low W/S ratio. Khamenei's death does not affect the W's private-goods flow — the bonyad-IRGC complex continues to operate as long as the regime structure is preserved. The framework predicts no W defection, which is exactly what Q2 documents. The [Soleimani-Khamenei differential]{.gloss data-gloss="soleimani-khamenei-differential"} (Q2's load-bearing base-rate) becomes selectorate-interpretable: the differential is between strikes that affect W private-goods flow (none of the Khamenei or Soleimani strikes did) versus strikes that affect the institutional structure controlling that flow (Khamenei's death is more institutionally consequential than Soleimani's, but neither breaks the bonyad-IRGC structure). The framework predicts war persistence as the rational equilibrium given the W structure, which composes with Goemans gamble-for-resurrection and Weeks autocratic audience costs to give Q2's mechanism α at P(operative) = 0.90 and P(load-bearing) = 0.65.
+
+The pattern across the four chapters: coalition theory and selectorate provide *structural foundation* (regime W structure → behavioral predictions) that case-specific machinery is layered on top of (Goemans for existential lock-in; Ibish for forward-looking risk; principal-agent slippage for cross-regime delegation). The framework's analytical reach is what it composes *with*, not what it does alone.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+## Where the framework breaks {#where-it-breaks}
+
+Coalition theory and selectorate have identifiable limits, several of which the 2026 Iran case touches.
+
+1. **Selectorate theory has been criticized for over-mechanical predictions.** The framework predicts behavior on the basis of W/S ratio alone, with the implicit utility maximizer assumed to evaluate the leader on private-goods (small W) or public-goods (large W) bases. In practice, regime behavior is driven by additional factors that the framework abstracts away: ideology, factional rivalry, leader personality, contingent events. The framework's quantitative predictions are weaker than the framework's marketing implies, even when the qualitative ordering is correct. The fair version of the critique is that W and S are notoriously hard to operationalize empirically, and the same regime can be coded different ways by different analysts. The unfair version is that the framework "doesn't work" — in fact, the qualitative predictions (small-W regimes survive war losses better than large-W regimes; small-W regimes provide private goods; large-W regimes provide public goods) have substantial empirical support across the BdM dataset.
+
+2. **Small-W regimes don't always behave as private-goods machines.** Revolutionary regimes with substantial ideological commitment can substitute non-material utility for the private-goods flow that the framework predicts. The 1979-89 Iranian revolutionary regime is the canonical case: W members tolerated significant material losses that the standard model would predict to produce defection, because revolutionary commitment to the velayat-e faqih project provided non-material support. The 2026 IRGC case is partly ideological (the velayat-e faqih institutional ideology provides some non-material support) but is substantially material (the bonyad-IRGC private-goods flow is too valuable for ideology alone to explain). The framework needs adjustment for the ideological component.
+
+3. **The W/S typology may obscure factional dynamics within W.** The framework treats W as a single set of members whose loyalty is bought through private goods (or public goods in large-W cases). In practice, W is often composed of factions with their own internal dynamics — factional rivals can defect collectively, or one faction can replace another within W without leader replacement. The IRGC is not a unitary winning coalition: it includes the Quds Force, the IRGC Aerospace Force, the IRGC Ground Forces, the IRGC Navy, the bonyad heads, parastatal directors, and key clerical allies. Each subgroup has its own internal dynamics. The framework's predictions hold at the aggregate W level but mask the factional dynamics that may matter for specific decision points.
+
+4. **Existential coalitions break the framework's defection assumption.** The framework's predictions assume W members can rationally evaluate the leader's private-goods flow with the implicit option to defect when the flow decreases. When defection is not possible because regime collapse means personal destruction (criminal prosecution, exile, killing), the standard utility maximization breaks down. The IRGC under Vahidi is the canonical existential-coalition case. Composition with [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} handles this case directly, but the standard selectorate framework alone does not.
+
+5. **Unstable selectorate breaks the framework's stable-S assumption.** The framework's predictions assume the selectorate is stable — that the set of people with formal institutional say in leadership selection is given. When factional rivals can redefine S (by changing who counts as having formal institutional say), the framework's predictions become unreliable. Pezeshkian's sidelining and Vahidi's consolidation in 2026 are S-redefinition, not just W replacement. The framework needs supplementary machinery (the [four-layer reformist-defeat funnel]{.gloss data-gloss="four-layer-reformist-defeat"}, the [Bani Sadr template]{.gloss data-gloss="bani-sadr-marginalization"}) to handle S-redefinition.
+
+6. **The framework's predictions are static; the 2026 case is dynamic.** The framework gives a snapshot prediction based on current W/S structure. Trajectory analysis — which W coalitions are forming and which are dissolving over time — requires composition with other frameworks (omnibalancing for Pillar-stress dynamics; hierarchy and clientelism for patron-reliability dynamics; historical-pattern material for institutional sequence). The framework's analytical value comes from the composition, not from the framework alone.
+
+## Why this primer matters {#why-it-matters}
+
+Coalition theory and selectorate provide structural foundation for understanding *internal* coalition dynamics — who has to consent for the leader to act, what the leader has to deliver to keep their support, and what the regime can survive. The disciplined application:
+
+1. **Identify the specific selectorate (S).** Not "the regime is autocratic" but "the selectorate consists of the royal family plus senior clerics plus tribal elders" or "the selectorate is the IRGC institutional apparatus post-Khamenei." The framework's predictions depend on specific S composition.
+
+2. **Identify the specific winning coalition (W).** Not "the regime depends on elite support" but "the winning coalition is the small subset of the royal family inner circle plus the heads of the internal security apparatus." W composition determines what the leader has to deliver.
+
+3. **Compute the W/S ratio.** Small W/S predicts heavy private-goods provision; large W/S predicts public-goods provision. The W/S ratio is what determines the regime's incentive structure.
+
+4. **Predict war-cost tolerance.** Small-W regimes can survive war losses that would bring down large-W regimes. The framework's central distinctive prediction.
+
+5. **Watch for the framework's boundaries.** Existential coalitions (regime collapse means personal destruction for W members) break the defection assumption — compose with Goemans gamble-for-resurrection. Ideological coalitions (revolutionary commitment substitutes for private goods) weaken the quantitative predictions. Unstable selectorate (S itself is being redefined) breaks the static-S assumption — compose with historical-pattern material on institutional sequence.
+
+6. **Compose with other frameworks.** Coalition theory and selectorate are *background* for most of the chapters that use them — the framework provides the structural foundation, with case-specific machinery (Goemans, Ibish, principal-agent slippage, Stackelberg) layered on top. The composition is what makes the chapters tractable.
+
+## Sources & further reading
+
+- Riker 1962, *The Theory of Political Coalitions* — the canonical statement of the minimum-winning coalition hypothesis
+- Bueno de Mesquita, Smith, Siverson, and Morrow 2003, *The Logic of Political Survival* — the canonical statement of selectorate theory
+- @bdm1992war — Bueno de Mesquita and Lalman's earlier *War and Reason* with the International Interaction Game; conceptually upstream of the selectorate framework
+- @goemans2000war — Goemans's gamble-for-resurrection framework that composes with selectorate for existential-coalition cases
+- @weeks2008autocratic — Weeks's autocratic audience-cost extension that composes with selectorate for institutional-elite-coordinated W
+- [Hierarchy and clientelism primer](hierarchy-clientelism.qmd) — the external-relationship framework that composes with selectorate's internal-coalition framework
+- [Omnibalancing primer](omnibalancing.qmd) — the regime-survival framework that composes with selectorate on the internal-threat dimension
+- Q11 chapter on US-Israel coalition durability across W structures
+- Q12.4 chapter on Gulf wartime paradox (Selectorate + Schelling commit-by-weakness was tested as X2 mechanism and dropped as not load-bearing)
+- Q12.5 chapter on Configuration F as W-loyalty insurance against US patron unreliability
+- Q2 chapter on Iranian war persistence under IRGC small-W private-goods regime structure
+
+```{=html}
+</div>
+```

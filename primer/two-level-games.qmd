@@ -1,0 +1,474 @@
+---
+title: "Primer — Two-level games"
+subtitle: "Putnam 1988: international bargaining and domestic ratification as one game, with the win-set as the binding constraint"
+description: "Most failed deals fail not at Level I (international bargaining) but at Level II (domestic ratification). Putnam's 1988 framework treats the two boards as one game and shows that the *win-set* — the intersection of Level-II-acceptable agreements — is the binding constraint. Where win-sets do not overlap, no Level-I bargain can stick."
+categories: [primer, two-level-games, putnam, domestic-politics]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+Two leaders meet abroad, shake hands, sign a deal. Neither delivers. Why? The naive answer says one of them is lying. The Putnam answer says neither has to be lying — each negotiator has a domestic ratifying constituency at home that may reject what was agreed abroad. International bargaining and domestic ratification are not separate problems; they are one game played on two boards. The deal lives or dies in the intersection of what both domestic boards will accept — the *win-set*. When win-sets do not overlap, no Level-I agreement can stick, even when both lead negotiators want the deal.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Two leaders meet abroad. They negotiate, shake hands, sign an agreement. Neither delivers. The naive reading says one or both was lying — cheap talk in the cheapest sense. Robert Putnam's "Diplomacy and Domestic Politics: The Logic of Two-Level Games" (1988, *International Organization* 42:3) reframes the puzzle. Most failed deals fail not because the lead negotiators were dishonest at the table, but because the *ratifying constituencies at home* refuse to accept what was agreed abroad. International bargaining (Level I) and domestic ratification (Level II) are not two separate negotiations; they are *one game played simultaneously on two boards*. The lead negotiator must produce a Level-I deal that survives the *Level-II ratification process* on her own side and on the other side.
+
+The framework's central concept is the *win-set*: the set of Level-I agreements that the Level-II constituency would ratify. When the two sides' win-sets overlap, a Level-I bargain inside the intersection can stick — both negotiators can deliver. When they do not overlap, no Level-I agreement is feasible no matter how skilled the diplomats. The framework is the standard *enrichment* of the [bargaining model]{.gloss data-gloss="bargaining-range"} when its "binding agreements possible" assumption fails: it gives the geometry of how Level-II constraints reshape what Level-I bargaining sets are reachable.
+
+The 2026 Iran war is a textbook illustration. The operational Level-I deal that emerged through late February — a "stockpile halt + verification" structure — never had Level-II overlap. Trump's Level II (MAGA base + producer-coalition + accumulated [audience-cost lock-in]{.gloss data-gloss="audience-costs-fearon"}) ruled out anything short of zero enrichment plus regime concessions. The IRGC's Level II (institutional consensus on enrichment-on-soil as sovereignty claim, enforced through [Weeks-style autocratic audience costs]{.gloss data-gloss="weeks-autocratic"}) ruled out anything that touched enrichment-on-soil. The Level-II win-sets did not overlap. No Level-I diplomat — however skilled — could have produced a deal both sides could ratify. The chapters in this site reach for Putnam in six different places; this primer sets out the framework, its predictions, and its limits.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Two-level games treats international negotiation as one game played simultaneously on two boards: Level I is the international table, Level II is the domestic ratification process. The negotiation's *win-set* is the intersection of Level-II-acceptable agreements on both sides. Three predictions: (1) when win-sets do not overlap, no Level-I bargain can stick — even when both lead negotiators want the deal; (2) a *smaller* win-set gives the constrained negotiator more bargaining power (the "tied-hands" advantage) but a higher probability of no-deal; (3) leaders can *manipulate their own Level II* via public commitments, framing, and elite signaling — endogenous win-set construction is part of the strategy, not noise. The framework pairs natively with [audience costs]{.gloss data-gloss="audience-costs-fearon"} (Fearon 1994 / Weeks 2008), which determine how tight each side's Level-II constraint actually is. Six chapters on this site reach for it: Q3 (ceasefire), Q4 (counter-blockade), Q9 (Europe-US), Q10 (US Hormuz), Q11 (US-Israel), Q12.4 (Gulf paradox).
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** Two-level games (Putnam 1988) treats international negotiation as a single game played simultaneously on two boards: *Level I* is the international bargaining table where lead negotiators trade concessions; *Level II* is the domestic ratification process where the resulting agreement must clear whatever institutional constituency holds veto power (legislature, ruling party, military council, electorate). The *win-set* on each side is the set of Level-I agreements that the Level-II constituency would ratify; the *negotiation's win-set* is the intersection of the two. Three central predictions. **(1) Empty intersection means no deal**: when the two sides' Level-II win-sets do not overlap, no Level-I bargain can stick — and the failure is not a diplomatic failure but a domestic-politics failure. **(2) Smaller win-set, more bargaining power**: paradoxically, a negotiator with a *smaller* Level-II win-set gains leverage at Level I — the adversary must concede further to reach an outcome the constrained negotiator can deliver (Schelling's tied-hands logic; this is why audience-cost-locked-in leaders extract better terms when a deal is reachable, but produce no-deal more often when the win-sets do not overlap). **(3) Win-sets are endogenous**: leaders can manipulate their own Level II through public commitments, elite signaling, framing, and institutional engineering — Putnam emphasizes this is part of the strategy, not measurement noise. The framework pairs natively with the audience-cost framework: [Fearon 1994 democratic audience costs]{.gloss data-gloss="audience-costs-fearon"} and [Weeks 2008 autocratic audience costs]{.gloss data-gloss="weeks-autocratic"} both determine the *tightness* of the Level-II constraint that defines the win-set boundaries. Six chapters on this site use the framework: [Q3](../analyses/q3-ceasefire-instability.qmd) reads the Pakistan-brokered ceasefire as failing because Trump ∩ IRGC ∩ Netanyahu Level-II win-sets had no three-way intersection; [Q4](../analyses/q4-blockade-feasibility.qmd) reads coalition durability under blockade strain through Level-II constraints on contributing states; [Q9](../analyses/q9-europe-us-relationship.qmd) reads Spain's refusal of Rota and Germany's cautious troop posture through Level-II veto-player dynamics; [Q10](../analyses/q10-us-hormuz-interest.qmd) reads Trump's Level-II as the producer-coalition lobby ([Grossman-Helpman]{.gloss data-gloss="grossman-helpman-lobby"} as the Putnam-Level-II microfoundation for US wartime energy policy); [Q11](../analyses/q11-us-israel-coalition.qmd) reads the Trump-Likud coordination through Trump's Level II split between his Likud-aligned faction and the Vance/Caine pragmatist faction; [Q12.4](../analyses/q12-4-gulf-paradox.qmd) reads Gulf monarchs' wartime contradiction through their Level II ([Vision 2030]{.gloss data-gloss="vision-2030"} investment-stability requirement, Sunni-population balancing, regime-survival calculus).
+:::
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — why Putnam, why a primer, and what it composes with
+
+Putnam's framework occupies a specific niche in this site's analytical toolkit: it is the *geometric scaffold* for almost every analysis where domestic ratification matters. The framework is rarely *the* load-bearing mechanism (audience costs, regime-survival logic, or lobby-weight microfoundations usually carry more posterior weight in any given chapter); but it is the *frame* inside which those mechanisms operate. Q1, Q3, Q5, and Q11 all treat the war's intractability as a Level-II win-set non-overlap; the audience-cost framework explains *why* the win-sets are tight; Putnam explains *what happens when they fail to overlap*.
+
+This primer is written deliberately *after* the audience-costs primer because the two compose. Audience costs are one of two dominant determinants of Level-II win-set tightness (the other is institutional veto-player structure — legislatures, ruling councils, security-organ vetoes). Reading audience-costs without Putnam misses where the costs *bite*; reading Putnam without audience-costs misses what *makes* a Level-II constraint tight in the first place.
+
+Three secondary compositions matter for the chapters on this site. **Putnam + Grossman-Helpman**: in democracies, Level II is often best modeled as a [Grossman-Helpman lobby-weight government]{.gloss data-gloss="grossman-helpman-lobby"} where the win-set is determined by the contribution schedules of organized interests against α-weighted aggregate welfare. Q10 uses this composition explicitly. **Putnam + Stedman spoilers**: Level-II ratifiers can be *total spoilers* (oppose any deal on existential grounds), in which case the win-set is empty regardless of Level-I terms. Q3 uses this composition for the IRGC-Vahidi case. **Putnam + Weeks autocratic audience costs**: in coordinated autocracies, the institutional elite functions as a Level-II veto player whose ratification calculus generates the same dynamics as a democratic ratifying body. Q1 and Q5 use this composition for the IRGC-as-Level-II-ratifier reading.
+
+The primer's analytical contribution is therefore *enabling* — it gives the geometry that makes the other primers compose into coherent multi-mechanism analyses. The framework's own predictions are spare; its value is in the structure it imposes.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the framework. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  N[Lead negotiator A]
+  N --> L1[Level I:<br/>international<br/>bargaining table]
+  L1 --> N2[Lead negotiator B]
+  N -.-> R1[Level II A:<br/>domestic ratifiers<br/>at home]
+  N2 -.-> R2[Level II B:<br/>domestic ratifiers<br/>at home]
+  R1 --> W1[Win-set A:<br/>deals A's ratifiers<br/>will accept]
+  R2 --> W2[Win-set B:<br/>deals B's ratifiers<br/>will accept]
+  W1 --> X[Negotiation win-set:<br/>intersection of W1 and W2]
+  W2 --> X
+  X --> O[Empty intersection<br/>= no deal possible]
+  classDef n fill:#0969da,color:#fff,stroke:#0969da
+  classDef l fill:#f6f8fa,stroke:#d0d7de
+  classDef r fill:#fff8c5,stroke:#d4a72c
+  classDef w fill:#dafbe1,stroke:#2da44e
+  classDef o fill:#ffe5d9,stroke:#cf222e
+  classDef gt-gloss-two-level-games stroke-width:2px
+  class N,N2 n
+  class L1 l
+  class L1 gt-gloss-two-level-games
+  class R1,R2 r
+  class W1,W2,X w
+  class O o
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**The two boards in one frame.** Each lead negotiator (A, B) plays at Level I — the international table — but each must also deliver ratification at Level II — the domestic constituency at home. Each Level II has its own *win-set*: the set of Level-I deals it would accept. The *negotiation's win-set* is the intersection of the two. When the intersection is empty, no Level-I deal can stick — even when both lead negotiators want one. The framework converts "the deal failed" into a structural question: did the Level-II win-sets ever overlap?]{.concise-only}
+
+::: {.deep-only}
+**The two boards in one frame.** Putnam's foundational move is to treat international negotiation as a single game played simultaneously on two boards. *Level I* is the international bargaining table where lead negotiators trade concessions: territory, market access, weapons restrictions, sanctions relief. *Level II* is the domestic ratification process where any agreement must clear whatever institutional constituency holds veto power — a legislature in a democracy, a Politburo or ruling council in a coordinated autocracy, the institutional elite in a personalist regime that can credibly threaten the leader's tenure.
+
+Each Level-II constituency has a *win-set*: the set of Level-I agreements its members would ratify. The win-set is determined by the constituency's preferences, its institutional veto rules, and any audience costs already paid through prior public commitments. Side A's lead negotiator faces a win-set W_A; side B's faces a win-set W_B. The *negotiation's win-set* is the intersection W_A ∩ W_B — the set of Level-I agreements that *both* domestic ratifiers would accept.
+
+The framework's first prediction follows directly from the geometry: *when W_A ∩ W_B is empty, no Level-I bargain can stick*. The lead negotiators may sign anything they like, but the agreement will fail at ratification on at least one side. The "failure" is not diplomatic; it is structural. This converts the question "why did the deal fail?" into a different question: "did the Level-II win-sets ever overlap, and if not, why not?" The reframing matters because it locates the binding constraint where it actually lies — in domestic politics — and away from where it does not — at the international table.
+
+The 2026 negotiating window through late February is the textbook case. The operational Level-I bargain that took shape — Iran offered "stockpile halt + full IAEA access" on 27 February — was technically tractable at Level I. But Trump's Level-II win-set (audience-cost-locked-in to "we will not allow Iran to have a bomb"; producer-coalition lobby-weight from [Grossman-Helpman]{.gloss data-gloss="grossman-helpman-lobby"}; MAGA base sentiment) ruled out anything short of zero enrichment plus regime concessions. The IRGC's Level-II win-set (institutional consensus on enrichment-on-soil since 2003; [Weeks-autocratic audience costs]{.gloss data-gloss="weeks-autocratic"} on Pezeshkian; regime-survival calculus) ruled out anything that touched enrichment-on-soil. The intersection was empty before the lead negotiators sat down. The 28 February strikes were structurally over-determined.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  S[Smaller Level-II<br/>win-set on side A]
+  S --> P1[A can credibly say:<br/>"I cannot deliver<br/>anything beyond X"]
+  P1 --> L[Adversary B must<br/>concede further to<br/>reach a deal in W_A]
+  L --> A[A gains bargaining<br/>power at Level I:<br/>tied-hands advantage]
+  S --> R[BUT smaller W_A<br/>raises probability<br/>W_A intersect W_B = empty]
+  R --> N[Higher probability<br/>of no-deal at all]
+  classDef s fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  classDef adv fill:#dafbe1,stroke:#2da44e
+  classDef cost fill:#ffe5d9,stroke:#cf222e
+  class S s
+  class P1,L,R m
+  class A adv
+  class N cost
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**Win-set size determines bargaining power — and the no-deal risk.** A *smaller* Level-II win-set on your side is a *bargaining advantage* at Level I: you can credibly say "I cannot deliver anything beyond X," forcing the adversary to concede further to reach a deal you can ratify (Schelling's tied-hands). But the same smaller win-set raises the probability that the two sides' win-sets do not overlap at all — so it raises the probability of no deal. Constrained negotiators extract better terms when a deal exists, but produce no-deal more often.]{.concise-only}
+
+::: {.deep-only}
+**Win-set size determines bargaining power — and the no-deal risk.** Putnam's second prediction is geometric and counterintuitive. A *smaller* Level-II win-set on your own side gives you *more* bargaining leverage at Level I. The mechanism is Schelling's tied-hands logic: when you can credibly demonstrate that your domestic ratifiers will not accept anything beyond X, the adversary must concede further to reach a deal you can deliver. The constraint is your asset; weakness as strength.
+
+The democratic version is familiar — a US president can say to a foreign counterpart "Congress will not ratify a treaty that does less than X" and the foreign side adjusts. The autocratic version operates through coordinated institutional elites — Iran's IRGC institutional consensus on enrichment-on-soil functioned exactly this way through late 2025 / early 2026, narrowing what Pezeshkian could credibly offer at Level I and forcing US negotiators (in principle) to either offer terms inside the IRGC's tight win-set or accept no deal. The same mechanism can be exploited deliberately: leaders can *manipulate their own Level II* to tighten their win-set strategically — Putnam emphasizes this is *part of the bargaining strategy*, not measurement noise. Stage 3 picks up this endogenous-win-set move.
+
+But the same smaller win-set raises the probability that the *negotiation's* win-set is empty — that W_A ∩ W_B has no overlap. The leverage gain comes paired with a no-deal-risk increase. The two effects are jointly determined by the geometry: as W_A shrinks, the adversary's required concessions grow, and the probability that W_B can absorb those concessions falls. At some threshold, the adversary cannot deliver any deal that fits inside W_A — and the negotiation's win-set goes empty.
+
+The 2026 case sits past that threshold for both sides. Trump's audience-cost lock-in tightened W_US to a small set centered on "zero enrichment + regime concessions"; the IRGC's autocratic-elite consensus tightened W_Iran to a small set centered on "enrichment-on-soil preserved + Hormuz authority retained." The intersection was empty. *Both sides' tied-hands gave them maximal Level-I leverage simultaneously*, and the geometry produced the only outcome it could: no deal, then strikes.
+
+Q5's reading of the post-war bargaining range as empty (per [Hokayem's battle of endurance]{.gloss data-gloss="hokayem-battle-of-endurance"}) extends this stage-2 logic forward: each side's reservation point is set by the *other* side's tightest Level-II constraint, and the asymmetric configuration of those constraints locks the post-war bargaining range closed.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  L[Leader at Level I]
+  L --> M[Manipulates own Level II]
+  M --> M1[Public commitments:<br/>raise audience cost<br/>of climb-down]
+  M --> M2[Elite signaling:<br/>shape institutional<br/>consensus]
+  M --> M3[Framing:<br/>recast issue as<br/>identity / sovereignty]
+  M --> M4[Institutional engineering:<br/>add or remove<br/>veto players]
+  M1 --> W[Effect:<br/>tightens own win-set<br/>strategically]
+  M2 --> W
+  M3 --> W
+  M4 --> W
+  W --> S[Strategic outcome:<br/>more leverage at Level I<br/>OR forces no-deal]
+  classDef l fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  classDef w fill:#dafbe1,stroke:#2da44e
+  classDef s fill:#fff8c5,stroke:#d4a72c
+  class L l
+  class M,M1,M2,M3,M4 m
+  class W w
+  class S s
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Endogenous win-sets.** Leaders do not just inherit Level II — they *shape* it. Public commitments raise the audience cost of climb-down (tightening their own win-set in advance). Elite signaling shapes institutional consensus. Framing recasts an issue as sovereignty or identity, making it Level-II-indivisible. Institutional engineering adds or removes veto players. Putnam emphasizes endogenous-win-set construction is *part of the bargaining strategy* — leaders manipulate their Level II to gain leverage or to foreclose deals they want to avoid.]{.concise-only}
+
+::: {.deep-only}
+**Endogenous win-sets — leaders manipulate their own Level II.** Putnam's third foundational prediction is that *leaders are not passive recipients of their Level-II constraints*. They actively shape Level II to influence Level-I bargaining outcomes. Four mechanisms recur in the literature.
+
+*Public commitments to raise audience costs of climb-down*. Each public statement of position raises the political cost of any future reversal — accumulating [audience costs]{.gloss data-gloss="audience-costs-fearon"} that tighten the leader's own win-set. The effect is *strategic*: by tightening her own win-set, the leader gains tied-hands leverage at Level I. Trump's January-February 2026 escalating "we will not allow" statements were almost certainly partly strategic in this sense, even if they also became a trap once the cumulative audience cost passed the backdown threshold.
+
+*Elite signaling to shape institutional consensus*. In coordinated autocracies, the institutional elite's preferences are partly endogenous to leader signaling. The IRGC institutional consensus on enrichment-on-soil was constructed through two decades of state-coordinated framing, scholarly elaboration, religious-political endorsement, and elite-coordinated public statements. By 2026, the consensus operated as an autonomous Level-II constraint on Pezeshkian — but it was originally *built* through endogenous-win-set construction by earlier IRGC-aligned leadership.
+
+*Framing — recasting an issue as sovereignty or identity*. A Level-II constituency's win-set on a *technical* issue (a percentage, a quantity, a procedural rule) is typically wide; the same constituency's win-set on an *identity* or *sovereignty* claim is typically narrow or empty. Leaders can deliberately recast issues to shift them across this boundary. Iran's framing of enrichment-on-soil as a *sovereignty claim* — not as a technical-policy variable — moved the issue from Level-II-divisible to Level-II-effectively-indivisible, narrowing the win-set deliberately. The framing is partly successful elite manipulation and partly genuine constituency response; both contribute to the resulting win-set tightness. The framework allows for either causal pathway.
+
+*Institutional engineering — adding or removing veto players*. The set of actors who count as Level-II ratifiers is itself partly chosen. Constitutional amendments (Iran's 1989 [velayat-e motlaqeh]{.gloss data-gloss="velayat-e-motlaqeh"} amendment that elevated the Supreme Leader's authority above constitutional constraint), institutional reforms (creating or empowering security councils), and informal practice (the IRGC's progressive insertion into the Iranian negotiating apparatus) all shape who must ratify a Level-I deal. The *Bani Sadr template* of [seven-step marginalization of moderates]{.gloss data-gloss="bani-sadr-marginalization"} is the canonical Iranian institutional engineering pattern: each cycle systematically *adds* hawkish veto players to the effective Level-II ratifying body and *removes* moderates from it.
+
+The endogeneity matters analytically because it means *the win-set is not exogenous data* — it is partly the residue of prior strategic choices, including choices the leader is currently making to influence the current negotiation. Reading a failed deal as "the win-sets did not overlap" is necessary but not sufficient; the deeper question is *who shaped the win-sets to be tight, when, and why*.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  W[Where the framework<br/>breaks or strains]
+  W --> B1[Authoritarian Level II<br/>is hard to specify:<br/>who ratifies what?]
+  W --> B2[Emergency-power<br/>overrides bypass<br/>the ratification process]
+  W --> B3[Opaque institutional<br/>veto players:<br/>intelligence, courts,<br/>security organs]
+  W --> B4[Executive-driven<br/>nuclear-weapons-state<br/>foreign policy<br/>compresses Level II]
+  B1 --> T[2026 Iran is the test:<br/>IRGC as Level II ratifier<br/>identifiable but not<br/>a clean ratifying body]
+  B2 --> T
+  B3 --> T
+  B4 --> T
+  classDef w fill:#0969da,color:#fff,stroke:#0969da
+  classDef b fill:#fff8c5,stroke:#d4a72c
+  classDef t fill:#ffe5d9,stroke:#cf222e
+  class W w
+  class B1,B2,B3,B4 b
+  class T t
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Where the framework breaks.** Authoritarian Level II is hard to specify (who actually ratifies?). Emergency-power overrides can bypass the formal ratification process. Opaque institutional veto players (intelligence, courts, security organs) are real but often invisible. Executive-driven nuclear-weapons-state foreign policy compresses the formal Level II. The 2026 Iran case is the test: the IRGC is *identifiable* as the binding Level-II constituency, but it is not a clean ratifying body — factional rivalries inside the IRGC mean the "ratification" is informal, contested, and partly endogenous to ongoing power struggles.]{.concise-only}
+
+::: {.deep-only}
+**Where the framework strains.** Putnam's framework was developed for democracies (the original 1988 cases were US-Japan trade and US-Soviet arms control with the Bonn G7 summit as the focal example). It generalizes well to coordinated autocracies via the [Weeks autocratic-audience-cost]{.gloss data-gloss="weeks-autocratic"} extension, but it strains in four predictable ways.
+
+*Authoritarian Level II is hard to specify*. In a democracy, the ratifying body is institutionally defined: a legislature, a parliamentary majority, a constitutional referendum. In an autocracy, the *de facto* Level-II ratifier may be a Politburo, a ruling party central committee, a military council, or — in personalist cases — a small clique of regime insiders. Identifying *which* institutional body actually holds the veto is itself a contested empirical question. In modern Iran, the formal-state Level II (Majles, Council of Guardians, Pezeshkian's cabinet) and the substantive Level II (Supreme Leader, IRGC institutional consensus, security-organ leadership) are different. The framework's predictions hold once the substantive Level II is specified, but the specification itself is contestable.
+
+*Emergency-power overrides bypass formal ratification*. Many states have constitutional or extra-constitutional provisions that allow the executive to bypass formal ratification under emergency conditions. War powers, executive agreements, presidential directives, and security-council emergency authorities all create channels for Level-I deals to bind without standard Level-II ratification. The framework's predictions about win-set non-overlap are partly *defeasible* by such overrides. In the 2026 case, neither US nor Iran exercised significant emergency overrides — both leaders were genuinely constrained — but the possibility complicates the framework's general application.
+
+*Opaque institutional veto players*. The most insidious complication is veto players who are real but institutionally invisible. Intelligence services with autonomous capacity to undermine deals (chain-of-custody concerns; selective leaking; covert action), courts with constitutional review authority, security organs with operational latitude — all can effectively veto Level-I agreements without appearing in the formal ratification record. The Q3 reading of the Pakistan-brokered ceasefire's collapse partly turns on opaque veto players: the IRGC's autonomous Quds Force operations and the Israeli security-cabinet's hawkish faction both functioned as *de facto* vetoes that no Level-I deal could anticipate. Putnam-style analysis can identify the existence of such veto players retrospectively but typically cannot enumerate them prospectively.
+
+*Executive-driven nuclear-weapons-state foreign policy compresses Level II*. Putnam wrote in 1988 about a world where major foreign-policy decisions were genuinely embedded in domestic ratification processes (the US-Soviet START process, the Bonn G7 summit, US-Japan trade negotiations). The post-2010 era of executive-driven foreign policy in nuclear-weapons states (US, Russia, China, India, Pakistan, Israel, France, UK, North Korea) has *compressed* the formal Level-II constraint substantially — leaders now act unilaterally in domains that would once have required Congressional / Politburo / parliamentary ratification. The framework remains analytically useful (audience costs and elite signaling still operate), but the *formal* Level-II veto-player structure is thinner than the 1988 model assumed. The 2026 case again illustrates: Trump's strike decision did not pass through any formal Congressional ratification; the Iran response did not pass through any formal Majles ratification; both were executive-driven, even as both were tightly constrained by audience-cost-style Level-II dynamics.
+
+The 2026 Iran case is the test of how well the framework adapts. The IRGC is *identifiable* as the binding Level-II constituency on the Iranian side — but it is not a clean ratifying body. Factional rivalries inside the IRGC (Quds Force vs. domestic operations vs. economic-bonyad complex) mean the "ratification" of any potential deal would be informal, contested, and partly endogenous to ongoing internal power struggles. The framework's geometry still applies (the win-sets did not overlap; no deal could stick), but the operational specification of *whose* win-set was binding remains analytically contestable. Putnam himself, writing in 1988, acknowledged the framework would need substantial elaboration for autocratic cases; the 2026 Iran war shows both how much the framework *can* still do in such cases and where its specification difficulties bite.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) the two-board structure with the negotiation win-set as intersection; (2) Level-II constraint tightness across the six 2026 negotiating actors; (3) where the framework runs through the analyses on this site.
+
+### Figure 1 — The two boards and the negotiation win-set
+
+```{mermaid}
+flowchart TB
+  T[Two-level games: one game,<br/>two boards, win-set as binding constraint]
+  T --> L1[Level I: international<br/>bargaining table]
+  T --> L2A[Level II A: domestic<br/>ratifiers on side A]
+  T --> L2B[Level II B: domestic<br/>ratifiers on side B]
+  L2A --> WA[Win-set A: Level-I deals<br/>side A's ratifiers will accept]
+  L2B --> WB[Win-set B: Level-I deals<br/>side B's ratifiers will accept]
+  WA --> X[Negotiation win-set<br/>= W_A intersect W_B]
+  WB --> X
+  X --> O1[Non-empty intersection:<br/>Level-I deal can stick]
+  X --> O2[Empty intersection:<br/>no Level-I deal possible<br/>regardless of negotiator skill]
+  classDef t fill:#0969da,color:#fff,stroke:#0969da
+  classDef l fill:#f6f8fa,stroke:#d0d7de
+  classDef r fill:#fff8c5,stroke:#d4a72c
+  classDef w fill:#dafbe1,stroke:#2da44e
+  classDef good fill:#dafbe1,stroke:#2da44e
+  classDef bad fill:#ffe5d9,stroke:#cf222e
+  class T t
+  class L1 l
+  class L2A,L2B r
+  class WA,WB,X w
+  class O1 good
+  class O2 bad
+```
+
+[**Reading the figure.** The lead negotiators play at Level I; their domestic ratifiers play at Level II. Each Level II has its own win-set. The negotiation's win-set is the intersection. Non-empty intersection: a Level-I deal can stick. Empty intersection: no deal possible, and the failure is *structural* rather than diplomatic. The framework converts "the deal failed" into a question about Level-II win-set geometry rather than negotiator competence.]{.concise-only}
+
+[**Reading the figure.** The diagram captures Putnam's foundational structural move. International negotiations are treated as one game played simultaneously on two boards — Level I (international bargaining) and two parallel Level IIs (domestic ratification on each side). Each Level-II constituency has its own *win-set*: the set of Level-I agreements its members would ratify. The win-set is determined by constituency preferences, institutional veto rules, accumulated audience costs from prior public commitments, and the framing within which the issue is presented. Side A's lead negotiator faces W_A; side B's faces W_B. The *negotiation's win-set* is the intersection W_A ∩ W_B — the set of Level-I agreements that both domestic ratifiers would accept. *Non-empty intersection*: a Level-I bargain inside the intersection can be ratified by both sides; the deal sticks. *Empty intersection*: no Level-I bargain can satisfy both Level-II constituencies; the deal fails at ratification on at least one side regardless of negotiator skill at the table. The framework's central analytical move is to convert "why did the deal fail?" from a question about diplomatic competence into a question about Level-II win-set geometry — locating the binding constraint in domestic politics rather than at the international table. The 2026 case fits this geometry cleanly: the operational Level-I deal that emerged through late February (stockpile halt + verification) had no Level-II win-set overlap, so the failure was structural and the strikes were over-determined regardless of which lead negotiators took the chairs.]{.deep-only}
+
+### Figure 2 — Level-II constraint tightness across the six 2026 negotiating actors
+
+```{ojs}
+//| label: fig-2lg-actors
+//| fig-cap: "Level-II win-set tightness on a 0-1 constraint axis for the six principal 2026 negotiating actors. Higher = tighter Level-II win-set = less room for the lead negotiator to deliver a Level-I deal. The IRGC institutional bloc (P2) and the Trump-Likud-aligned faction (T1) sit at the tight end; the Vance/Caine pragmatist faction (T2) and the Pezeshkian formal-state position (P1) are looser but not binding because the tighter actor on each side defines the operative win-set. The graph shows why the Level-II intersection was empty: the operative US position (T1) and the operative Iran position (P2) are both in the tightest cell."
+
+{
+  const actorData = [
+    {id: "T1", full: "T1 — Trump-Likud-aligned faction (US): audience-cost lock-in + producer-coalition lobby + MAGA base", tight: 0.85, side: "US", tier: "T2"},
+    {id: "T2", full: "T2 — Vance/Caine pragmatist faction (US): broader win-set, would have ratified a wider range of deals", tight: 0.45, side: "US", tier: "T3"},
+    {id: "P1", full: "P1 — Pezeshkian formal-state position (Iran): would deliver verification + stockpile concessions if internal ratification permitted", tight: 0.40, side: "Iran", tier: "T2"},
+    {id: "P2", full: "P2 — IRGC institutional bloc (Iran): enrichment-on-soil as sovereignty claim; Weeks-autocratic Level-II veto; the operative Iranian position", tight: 0.90, side: "Iran", tier: "T2"},
+    {id: "L1", full: "L1 — Likud / Netanyahu coalition (Israel): regime-change red line, opposed to any deal preserving the Iranian regime", tight: 0.95, side: "Israel", tier: "T2"},
+    {id: "L2", full: "L2 — Israeli pragmatist faction (Israel): IDF General Staff tradition; would have accepted constrained-Iran outcomes; systematically dismantled 2024-25", tight: 0.30, side: "Israel", tier: "T3"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 320 : Math.max(380, Math.min(500, Math.round(width * 0.45)));
+  const data = actorData.map(d => ({ ...d, display: isMobile ? d.id : d.full }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 56 : Math.max(380, Math.round(width * 0.36)),
+    marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Level-II win-set tightness (0 = wide / permissive, 1 = empty / binding)",
+      domain: [0, 1],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: data.map(d => d.display) },
+    color: {
+      legend: true,
+      domain: ["US", "Iran", "Israel"],
+      range: ["#0969da", "#cf222e", "#8250df"]
+    },
+    marks: [
+      Plot.barX(data, {
+        y: "display",
+        x: "tight",
+        fill: "side",
+        tip: { lineWidth: 35, fontSize: isMobile ? 12 : 13 },
+        channels: { Actor: d => d.full, Tier: "tier" }
+      }),
+      Plot.text(data, {
+        y: "display",
+        x: "tight",
+        text: d => d.tight.toFixed(2),
+        textAnchor: "start",
+        dx: 6,
+        fontSize: valueFont,
+        fontWeight: 600
+      }),
+      Plot.ruleX([0])
+    ]
+  });
+}
+```
+
+```{=html}
+<div class="mech-legend always">
+<table>
+<thead><tr><th>Code</th><th>Actor (side)</th><th>Level-II constraint description</th></tr></thead>
+<tbody>
+<tr><td><strong>T1</strong></td><td>Trump-Likud-aligned (US)</td><td>Audience-cost lock-in + producer-coalition lobby + MAGA base; the *operative* US Level-II constraint</td></tr>
+<tr><td><strong>T2</strong></td><td>Vance / Caine pragmatist (US)</td><td>Broader win-set; would have ratified a wider range of deals; not the *operative* faction in February</td></tr>
+<tr><td><strong>P1</strong></td><td>Pezeshkian formal-state (Iran)</td><td>Would deliver verification + stockpile concessions if internal ratification permitted; not the *operative* Iranian Level-II</td></tr>
+<tr><td><strong>P2</strong></td><td>IRGC institutional bloc (Iran)</td><td>Enrichment-on-soil as sovereignty claim; Weeks-autocratic Level-II veto; the *operative* Iranian constraint</td></tr>
+<tr><td><strong>L1</strong></td><td>Likud / Netanyahu (Israel)</td><td>Regime-change red line; opposed to any deal preserving the Iranian regime</td></tr>
+<tr><td><strong>L2</strong></td><td>Israeli pragmatist (Israel)</td><td>IDF General Staff tradition; would have accepted constrained-Iran outcomes; systematically dismantled 2024-25</td></tr>
+</tbody>
+</table>
+</div>
+```
+
+[**Reading the chart.** Each side has a *pragmatist* faction with a wide Level-II win-set (T2 / P1 / L2) and a *binding* faction with a tight one (T1 / P2 / L1). The Level-I negotiation is constrained by the *operative* faction on each side — the one that holds the de facto veto. In February 2026 the operative US faction was T1 (Trump-Likud-aligned), the operative Iranian faction was P2 (IRGC institutional bloc), and the operative Israeli faction was L1 (Likud/Netanyahu). All three are in the tightest cell. The intersection of T1 ∩ P2 ∩ L1 win-sets was empty before negotiations began.]{.concise-only}
+
+[**Reading the chart.** The chart maps Level-II win-set *tightness* (0 = wide / permissive; 1 = empty / binding) across the six principal factions in the 2026 negotiation. The structural pattern: each side has both a *pragmatist* faction with a wide Level-II win-set (T2 Vance/Caine on the US side; P1 Pezeshkian on the Iran side; L2 Israeli pragmatist on the Israeli side) and a *binding* faction with a tight one (T1 Trump-Likud-aligned on the US side; P2 IRGC institutional bloc on the Iran side; L1 Likud/Netanyahu on the Israeli side). The Level-I negotiation is constrained by the *operative* faction on each side — the one that holds the de facto veto on what the lead negotiator can deliver. In February 2026, the operative factions were T1, P2, and L1 — all in the tightest cell. The intersection of T1 ∩ P2 ∩ L1 win-sets was empty before negotiations began. Notice what the chart shows about counterfactuals: a US Level II dominated by T2 (Vance/Caine) and an Iran Level II in which P1 (Pezeshkian formal-state) actually held ratification authority might have produced overlap with L2 (Israeli pragmatist) — but L2 had been systematically dismantled through 2024-25 ([Octopus Doctrine institutionalization]{.gloss data-gloss="octopus-doctrine"}; [hesder pipeline]{.gloss data-gloss="hesder-pipeline"} demographic shift in IDF officer corps), and the binding factions had won the within-coalition Level-II contest on each side. The two-level framework's analytical contribution is to make the within-coalition contest *visible* — it forces the analyst to identify which faction holds the operative Level-II veto, which is often a different question than which is formally in office.]{.deep-only}
+
+### Figure 3 — Where the framework runs through the analyses on this site
+
+```{mermaid}
+flowchart TB
+  P[Putnam two-level games]
+  P --> Q3[Q3: Ceasefire instability]
+  P --> Q4[Q4: Counter-blockade feasibility]
+  P --> Q9[Q9: Europe-US relationship]
+  P --> Q10[Q10: US Hormuz interest]
+  P --> Q11[Q11: US-Israel coalition]
+  P --> Q12_4[Q12.4: Gulf wartime paradox]
+  Q3 --> Q3D[Trump cap IRGC cap Netanyahu Level-II win-sets = empty;<br/>Pakistan-brokered ceasefire fails on intersection geometry]
+  Q4 --> Q4D[Coalition durability under blockade strain<br/>through Level-II constraints on contributing states]
+  Q9 --> Q9D[Spain refusal of Rota; Germany cautious troop posture;<br/>through Level-II veto-player dynamics in EU member states]
+  Q10 --> Q10D[Trump Level II = producer-coalition lobby;<br/>Grossman-Helpman as Putnam-Level-II microfoundation]
+  Q11 --> Q11D[Trump Level II split between Likud-aligned and<br/>Vance/Caine pragmatist factions]
+  Q12_4 --> Q12_4D[Gulf monarchs' Level II:<br/>Vision 2030 + Sunni-population balancing + regime-survival]
+  classDef p fill:#0969da,color:#fff,stroke:#0969da
+  classDef ch fill:#dafbe1,stroke:#2da44e
+  classDef d fill:#f6f8fa,stroke:#d0d7de
+  classDef gt-gloss-two-level-games stroke-width:2px
+  class P p
+  class P gt-gloss-two-level-games
+  class Q3,Q4,Q9,Q10,Q11,Q12_4 ch
+  class Q3D,Q4D,Q9D,Q10D,Q11D,Q12_4D d
+```
+
+[**Where Putnam appears.** Six chapters use the framework. [Q3](../analyses/q3-ceasefire-instability.qmd) reads the Pakistan ceasefire's failure through Trump ∩ IRGC ∩ Netanyahu Level-II win-set non-overlap. [Q4](../analyses/q4-blockade-feasibility.qmd) reads coalition durability under blockade strain through Level-II constraints. [Q9](../analyses/q9-europe-us-relationship.qmd) reads Spain's refusal of Rota and Germany's troop posture through Level-II veto-player dynamics. [Q10](../analyses/q10-us-hormuz-interest.qmd) reads Trump's Level II as the producer-coalition lobby ([Grossman-Helpman]{.gloss data-gloss="grossman-helpman-lobby"} as the Putnam-Level-II microfoundation). [Q11](../analyses/q11-us-israel-coalition.qmd) reads Trump's within-faction Level-II split. [Q12.4](../analyses/q12-4-gulf-paradox.qmd) reads Gulf monarchs' Level II through Vision 2030 + Sunni-population balancing + regime-survival.]{.concise-only}
+
+[**Where Putnam appears across the site.** The framework runs through six chapters with somewhat different applications.
+
+[Q3](../analyses/q3-ceasefire-instability.qmd) — *Ceasefire instability.* The Pakistan-brokered 8 April ceasefire's failure is read partly through Putnam's geometry: the intersection of Trump's Level II (producer-coalition + audience-cost lock-in from Q10/Q2 β), the IRGC's Level II (regime-survival from Q2 α; [Stedman total-spoiler]{.gloss data-gloss="stedman-spoilers"}), and Netanyahu's Level II (regime-change red line from Q11) was empty. The mechanism γ' in Q3 explicitly combines [Stedman spoilers]{.gloss data-gloss="stedman-spoilers"} + [Kydd biased-mediator]{.gloss data-gloss="kydd-biased-mediator"} misconfiguration + Putnam empty win-set; the three compose to produce the ceasefire's 30-day collapse trajectory.
+
+[Q4](../analyses/q4-blockade-feasibility.qmd) — *Counter-blockade feasibility.* Coalition durability under sustained blockade strain is partly determined by Level-II constraints on each contributing state — whether their domestic constituencies will continue to ratify continued participation. The Q4 mechanism for coalition durability under the [Tanker War 1980-88 base rate]{.gloss data-gloss="tanker-war-base-rate"} pattern uses Level-II constraints to predict where coalition members will defect first under sustained operational stress.
+
+[Q9](../analyses/q9-europe-us-relationship.qmd) — *Europe-US relationship.* European behavior on the Iran war operates substantially through Level-II veto-player dynamics in member states. Spain's refusal of Rota / Morón for offensive Iran operations, Germany's cautious troop deployments, the E3 joint-statement abstention from endorsing US strikes — all reflect tight Level-II constraints from member-state domestic constituencies that make even nominally-aligned European participation conditional. The Q9 framework composition uses Pape soft-balancing as the diplomatic-dimension framework, but Putnam-style Level-II analysis operates *underneath* it — soft-balancing requires that domestic ratification of soft-balancing measures be available, which Level-II analysis specifies.
+
+[Q10](../analyses/q10-us-hormuz-interest.qmd) — *US Hormuz interest.* The most explicit Level-II microfoundation on the site. Q10 uses [Grossman-Helpman 1994]{.gloss data-gloss="grossman-helpman-lobby"} as the formal Putnam-Level-II model: the US government's revealed objective function v⁰ = ΣA_i(p) + α·W(p) is the Level-II win-set generator, with α-weight variation across administrations producing the cross-administration variation in revealed wartime energy policy. The 2022 Biden α was high (consumer-coalition-dominated Level II); the 2026 Trump α is low (producer-coalition-dominated Level II); the same structural US net-exporter status produced opposite revealed wartime policies precisely because the Level-II win-sets differed across administrations.
+
+[Q11](../analyses/q11-us-israel-coalition.qmd) — *US-Israel coalition.* Reads the Trump-Likud coordination through Trump's *within-faction* Level-II split. The Trump-Likud-aligned faction (operative through February 2026) had a tight Level-II win-set on Iran policy that produced US support for Israeli regime-change-adjacent operations; the Vance/Caine pragmatist faction has a wider Level-II win-set that would have produced different US choices. The within-coalition Level-II contest is what determines which faction's win-set is operative — and Putnam-style analysis makes this contest visible analytically.
+
+[Q12.4](../analyses/q12-4-gulf-paradox.qmd) — *Gulf wartime paradox.* The Gulf monarchies' simultaneous push for the war while declining military support is partly a Level-II problem: each monarch faces a tight Level-II constraint composed of [Vision 2030]{.gloss data-gloss="vision-2030"} investment-stability requirements (foreign capital, expat labor, regional security perception), Sunni-Shia population balancing ([omnibalancing]{.gloss data-gloss="omnibalancing"} with restive Shia minorities), and regime-survival calculus ([Ibish post-war retaliation risk]{.gloss data-gloss="ibish-post-war-retaliation-risk"}). The Putnam framing is one way to organize what the [Lake-Posen patron-client framework]{.gloss data-gloss="lake-hierarchy"} reads as differential client agency — they compose: Lake gives the structural relationship, Putnam gives the within-client ratification dynamics that determine where client agency operationally bites.
+
+The pattern across these chapters: Putnam provides the *geometric scaffold* (Level I + Level II + win-set intersection) and case-specific machinery is layered on top — Stedman + Kydd for Q3; Grossman-Helpman for Q10; Lake hierarchy + Vision 2030 + omnibalancing for Q12.4. The framework's analytical reach comes from how cleanly it composes with these case-specific elaborations. It is rarely *the* load-bearing mechanism in any single chapter; it is the *frame* inside which the other mechanisms operate.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem — what could the framework get wrong about 2026? {#pre-mortem}
+
+Five identifiable pre-mortem concerns about Putnam's application to the 2026 Iran war.
+
+1. **The IRGC factional structure is not a clean ratifying body.** The framework treats Level-II ratification as a *process* — a constituency that votes, a council that endorses, an elite that signals. The IRGC is identifiable as the binding Level-II constituency on the Iranian side, but it is not a clean ratifying body. The Quds Force, the IRGC-Aerospace Force, the [bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"}, and the IRGC-internal-operations branches all have somewhat different preferences, and the "ratification" of any potential deal would be informal, contested, and partly endogenous to ongoing factional rivalries. Reading the win-set as a single object reifies a process that is actually polycentric. The framework's geometry still applies, but the *operationalization* of W_Iran is more analyst-imposed than analyst-discovered.
+
+2. **The framework predates executive-driven nuclear-weapons-state foreign policy.** Putnam wrote in 1988, when major foreign-policy decisions in democracies were genuinely embedded in formal ratification processes (START, INF Treaty). Post-2010 executive-driven foreign policy in nuclear-weapons states has *compressed* the formal Level-II constraint substantially — leaders now act unilaterally in domains that would once have required Congressional / parliamentary ratification. Audience costs and elite signaling still operate, but the *formal* Level-II veto-player structure is thinner than the 1988 model assumed. The 2026 case fits this concern: neither Trump nor Pezeshkian was constrained by *formal* Level-II ratification on the strike or response decisions; both were constrained by audience-cost dynamics that operate outside the formal ratification process.
+
+3. **Endogenous win-sets create circularity risk.** Stage 3 of the walkthrough emphasized that leaders manipulate their own Level II strategically — public commitments, framing, institutional engineering. This is empirically correct but creates an analytical circularity: if win-sets are partly chosen by the very leaders whose bargaining we are analyzing, then "the win-sets did not overlap" becomes a partial *consequence* of strategic choices rather than an *independent constraint* on those choices. The framework can become tautological if the manipulation is unbounded. The discipline is to identify which Level-II constraints are *exogenous* to the immediate negotiation (institutional rules, deep-rooted constituency preferences, prior path-dependent commitments) and which are *endogenous* (current-period framing, ongoing public-commitment escalation). Q3 and Q11 applications need to specify this carefully to avoid the circularity.
+
+4. **Authoritarian Level-II opacity.** The framework assumes the analyst can specify the relevant Level-II constituency. In autocracies, this is often only possible in retrospect. The IRGC institutional bloc as Iran's binding Level II in 2026 is reasonably well-documented, but contemporaneous specification of the binding faction in pre-2003 Iran (formal-state Khatami government? Supreme Leader's office? early IRGC?) would have been substantially harder. The framework's prospective application to autocratic cases is therefore limited by Level-II identification difficulty.
+
+5. **Cross-coalition complications.** Putnam's framework was developed for two-actor international negotiations. The 2026 Iran case involves at least three parties whose Level-II win-sets all matter (US, Iran, Israel) and arguably more (Gulf states whose Level-II constraints affect Hormuz coalition durability; European states whose Level-II constraints affect basing access). The framework generalizes to n-actor cases via successive intersection (the negotiation's win-set is the n-way intersection of all Level-IIs), but the *prospective* probability of n-way overlap falls geometrically with n. Q3's reading of the three-way Trump ∩ IRGC ∩ Netanyahu Level-II win-sets as empty is partly trivially true once n=3 with tight constraints — the framework predicts no-deal as the modal outcome in such configurations, which is correct but limits the framework's discriminating power among the no-deal cases.
+
+## Why this primer matters {#why-it-matters}
+
+Two-level games is reached for in six places on this site, and is one of the most-misused tools in international-negotiation analysis when applied carelessly. The disciplined application:
+
+1. **Identify the operative Level-II constituency on each side.** Not "the US" but "the operative Trump-Likud-aligned faction inside the US executive that holds de facto veto on Iran policy." Not "Iran" but "the IRGC institutional bloc that holds substantive ratification authority over enrichment-on-soil." The framework's predictions are about specific Level-II constituencies, not about state-level aggregates.
+
+2. **Specify each side's win-set boundaries.** Not "Iran will not accept enough" but "the IRGC institutional Level II will not ratify any deal that reduces sovereign enrichment authority below Z." The win-set boundary is the analytical object; the framework's predictions are about what fits inside vs outside it.
+
+3. **Check whether the negotiation's win-set is empty.** The analytical conclusion follows directly: if W_A ∩ W_B is empty, no Level-I deal can stick. This is the framework's central prediction; it should be tested explicitly rather than assumed.
+
+4. **Identify endogenous vs exogenous Level-II elements.** Some Level-II constraints are deeply rooted (institutional veto-player rules, long-standing constituency preferences); some are constructed by current-period strategic choices (escalating public commitments, framing). The framework's application requires distinguishing these; otherwise the analysis becomes tautological.
+
+5. **Watch for the four breaking conditions.** Authoritarian Level-II is hard to specify; emergency-power overrides bypass formal ratification; opaque institutional veto players are real but invisible; executive-driven nuclear-weapons-state foreign policy compresses formal Level II. The framework's predictions weaken when any of these conditions bite — and the 2026 case has all four operating to some degree.
+
+## Sources & further reading
+
+- @putnam1988diplomacy — the founding paper; *International Organization* 42:3
+- @fearon1994domestic — audience-costs framework that pairs natively with Putnam (Level-II tightness specification)
+- @weeks2008autocratic — autocratic-audience-costs extension for the IRGC-as-Level-II reading
+- @grossman1994protection — the formal lobby-weight microfoundation Q10 uses for democratic Level II
+- @snyder1991myths — domestic political pathology that interacts with two-level dynamics
+- @evans1993double — the major edited volume that elaborated the framework empirically
+- @milner1997interests — the canonical book-length extension to international cooperation more broadly
+- @schultz2001democracy — the democratic-advantage literature that generalizes the framework
+- @stedman1997spoilers — spoilers as Level-II ratifiers who oppose any deal on existential grounds (composition for Q3)
+
+```{=html}
+</div>
+```

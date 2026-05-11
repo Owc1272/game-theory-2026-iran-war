@@ -1,0 +1,450 @@
+---
+title: "Primer — Endogenous power shifts"
+subtitle: "Fearon 1996, Krainin 2017, Bas-Coe 2016, Debs-Monteiro 2014, Chadefaux 2011: when bargaining itself moves the future power line"
+description: "Classical bargaining treats power as exogenous — given to the model from outside. The dynamic-bargaining literature relaxes that assumption: future power can depend on what's negotiated over today (Fearon 1996), on slow cumulative shifts the canon's discrete-shift models miss (Krainin 2017), on stochastic intelligence-driven nuclear progress (Bas-Coe 2016), on monitoring failure (Debs-Monteiro 2014), and on whether the determinants of power are themselves negotiable (Chadefaux 2011). The 2026 Iran war sits in a configuration the canon does not directly address — and Q1.4 flags that as an original-contribution opportunity."
+categories: [primer, endogenous-power-shifts, dynamic-bargaining, fearon-1996, krainin]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+Classical bargaining theory treats power as exogenous — given to the model from outside, like a parameter. But many real conflicts have a feature the classical model strips out: the bargaining itself, or one side's actions during it, *changes future power*. If today's negotiations decide who controls a contested object that determines tomorrow's military balance — territory, technology, a nuclear program, an alliance partner — then the side about to gain cannot credibly commit not to exploit the gain later. The dynamic-bargaining literature (Fearon 1996, Krainin 2017, Bas-Coe 2016, Debs-Monteiro 2014, Chadefaux 2011) extends [Powell's commitment problem]{.gloss data-gloss="powell-commitment"} to handle this. The 2026 Iran war is partly inside this literature and partly outside it: the configuration where the *striker's own prior actions* against the target's allies cause the shift the striker then exploits is in the middle of the empirical case but is not the canonical formal frame. Q1.4 flags the gap.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Classical bargaining theory ([Fearon 1995]{.gloss data-gloss="bargaining-range"}, [Powell 2006]{.gloss data-gloss="powell-commitment"}) treats power as exogenous. The two sides come to the bargaining table with their reservation utilities already determined by capability, geography, alliance structure, technology, war costs — all parameters fixed outside the model. The model then solves for whether the bargaining range is empty (war) or non-empty (peace), and which Fearon mechanism is operative. The most-used dynamic extension — Powell 2006's commitment problem — does allow for an *anticipated* future power shift, but the shift is treated as exogenous: the rising side's growth is given by demographics, technology, or some other process the model takes as input. The declining side fights *because* the rising side cannot credibly commit not to exploit the shift later.
+
+The dynamic-bargaining literature relaxes the exogeneity assumption in different ways. *Fearon 1996* models bargaining over an "object" whose division today sets tomorrow's threat point — territory that confers strategic depth, a piece of technology that confers a capability advantage, an alliance partner whose loss degrades coalition strength. *Krainin 2017* shows that *slow cumulative* shifts (not just the discrete ones Powell models) can also cause war, and that the war can occur with *substantial delay* after the shift begins. *Bas-Coe 2016* models stochastic nuclear-program progress with noisy intelligence, generating both surprise proliferation and "mistaken" preventive wars endogenously. *Debs-Monteiro 2014* shows that monitoring failures can produce strikes on threshold posterior beliefs even without conclusive evidence — and that *improving* preventive-war effectiveness can paradoxically *raise* the equilibrium probability of mistaken strikes. *Chadefaux 2011* delivers a non-existence theorem: when parties can negotiate over the determinants of future power (arms-control limits, demilitarized zones, weapons-program suspensions), no power shift causes war. War therefore *implies* that negotiation over power-determinants is itself blocked.
+
+The 2026 Iran war sits in a configuration the canon almost reaches but does not directly cover. [Israel's Stage 0]{.gloss data-gloss="octopus-doctrine"} from October 2023 to June 2025 systematically degraded Iran's regional proxy network (Hezbollah, Hamas, Houthis, Iraqi/Syrian militias), then Iran's air defenses, then nuclear infrastructure. By February 2026 the strike option's marginal cost had collapsed precisely *because* of the 28 months of preceding action. This is not Powell's exogenous shift, not Fearon 1996's target-investment shift, not Bas-Coe's stochastic proliferation. It is the *striker's own actions* against the target's *coalition partners* (rather than the target's own capability investments) producing the shift the striker then exploits. The primer sets out the canonical literature, traces it through Q1, Q5, and Q8, and identifies the gap [Q1.4]{.column-margin .deep-only} flags as an original-contribution opportunity. (The Q1.4 analytical chapter that would formally model this configuration was deferred per user decision; the primer presents the canon and names the gap.)
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** The classical bargaining model treats power as exogenous; the dynamic-bargaining literature relaxes that assumption in five different ways. **Fearon 1996** — bargaining over objects (territory, technology) whose division shapes tomorrow's power. **Krainin 2017** — slow cumulative shifts, not just discrete ones, can cause war (and the war can come with delay). **Bas-Coe 2016** — stochastic nuclear progress + noisy intelligence generate surprise proliferation and "mistaken" preventive wars endogenously. **Debs-Monteiro 2014** — monitoring failure produces strikes on threshold beliefs; counterintuitively, improving preventive-war effectiveness can *raise* the rate of mistaken strikes. **Chadefaux 2011** — when negotiation over power-determinants is feasible, no shift causes war; war therefore implies that negotiation is blocked. The 2026 case is in a configuration the canon does not directly cover: the *striker* (Israel) caused the shift the striker then exploited, by depleting the target's *coalition partners* over 28 months of Stage 0. Q1.4 flags this as an original-contribution opportunity. The primer presents the framework; it does not execute Q1.4.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** The classical [bargaining model]{.gloss data-gloss="bargaining-range"} treats power as exogenous — given to the model as a parameter. The dynamic-bargaining literature relaxes that assumption in five distinct ways. **Fearon 1996** models bargaining over an *object* (territory, technology, an alliance partner) whose division today sets tomorrow's threat point: bargaining is efficient if the function from object-share to war-winning probability is continuous; discontinuities or steep slopes (offense dominance) yield war or winner-take-all dynamics. **Krainin 2017** generalizes [Powell 2006]{.gloss data-gloss="powell-commitment"} to slow cumulative shifts and shows the war can occur with *substantial delay* after the shift begins. **Bas-Coe 2016** models stochastic nuclear-program progress with noisy intelligence, generating surprise proliferation, intelligence-driven crises, and "mistaken" preventive wars endogenously; counterintuitively, improving strike capability or monitoring may *increase* proliferation incentives by tightening the rising side's window. **Debs-Monteiro 2014** show that under perfect transparency peace prevails (preventive-war threat deters militarization), but under imperfect monitoring militarization can be a fait accompli; adversaries optimally strike on threshold posterior beliefs even without conclusive evidence; *more effective preventive war raises the equilibrium probability of mistaken strikes against non-militarizing targets*. **Chadefaux 2011** delivers a non-existence theorem: when parties can negotiate over the determinants of future power (arms-control limits, demilitarized zones, alliance restraints, weapons-program suspensions), no power shift causes war. War therefore implies that negotiation over power-determinants is itself blocked — by third parties, domestic politics, or fungibility frictions. The 2026 Iran case is in a configuration the canon does not directly cover: the [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} executed as Stage 0 (October 2023 to June 2025) is the *striker* (Israel) depleting the *target's* (Iran's) *coalition partners* (Hezbollah, Hamas, Houthis, Iraqi/Syrian militias, then air defenses, then nuclear infrastructure), then exercising the strike option in February 2026. The closest formal frames partially cover this — Fearon 1996's "objects" structure could in principle treat third-party allies as objects; Krainin 2017's slow-cumulative shifts have the right temporal structure; Bas-Coe and Debs-Monteiro's counterintuitive comparative statics shape the right reaction-function — but nothing in the canon assembles them in the configuration where the striker chooses both the pace and moment of the shift through actions against the target's coalition. [Q1]{.gloss data-gloss="bargaining-range"} flags this as an original-contribution opportunity. **Important: the analytical chapter that would formally execute Q1.4 was deferred per user decision (option C — flag the opportunity, footnote in Q1 only). This primer presents the canonical literature and identifies the gap; it does not perform the Q1.4 analytical work or give a posterior on the gap-filling model.**
+:::
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — what this primer does and does not do
+
+This primer summarizes the canonical dynamic-bargaining literature (the Tier 1 + Tier 2 entries in the project's `dynamic_bargaining` corpus directory: Fearon 1996, Krainin 2017, Bas-Coe 2016, Debs-Monteiro 2014, Chadefaux 2011, plus Powell 1999/2004/2006 as background) and traces how each variant runs through the project's analytical chapters (Q1, Q5, Q8). The literature comprises 19 papers across three tiers; the primer summarizes the Tier 1 + load-bearing Tier 2 set rather than performing paper-by-paper review.
+
+Two things the primer does *not* do.
+
+*It does not execute Q1.4.* Q1's "Mechanism α" puzzle — whether the [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} Stage 0 campaign (October 2023 to June 2025) constitutes an endogenous power shift that the existing canonical literature does not formally model — was flagged as an original-contribution opportunity in Q1's Figure 4 and was deferred per user decision 2026-05-10 (option C — leave as flagged opportunity, footnote in Q1 only, no formal model construction). The primer presents the canonical literature and names the gap; it does not give a posterior probability for the gap-filling model, perform a base-rate analysis of striker-attacks-target's-allies cases, or sketch the formal apparatus the gap-filling model would need.
+
+*It does not adjudicate between the canonical variants on the 2026 case.* The chapter analyses (Q1, Q5, Q8) take that work on. The primer's job is to make the framework accessible enough that a reader arriving at Q1's Figure 4 — or Q5's bilateral-commitment finding, or Q8's peaking-power-patience reading — knows what the canonical apparatus looks like and what it covers vs does not cover.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+A guided tour through the dynamic-bargaining literature and the gap. Skip to the [dashboard](#dashboard) below if you'd rather see the figures and the bottom line directly.
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  C[Classical bargaining model:<br/>power is exogenous]
+  C --> R1[Side A reservation<br/>set by exogenous capability]
+  C --> R2[Side B reservation<br/>set by exogenous capability]
+  C --> POW[Powell 2006:<br/>anticipated future shift<br/>is also exogenous]
+  POW --> COMM[Commitment problem:<br/>declining side strikes now<br/>before shift completes]
+  classDef c fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-powell-commitment stroke-width:2px
+  class C c
+  class R1,R2 m
+  class POW,COMM m
+  class POW gt-gloss-powell-commitment
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**The classical model treats power as exogenous.** Each side's reservation utility is set by capability, geography, alliance structure, technology, war costs — all given to the model from outside. [Powell 2006]{.gloss data-gloss="powell-commitment"} extends to handle anticipated future shifts, but the shift itself is exogenous: demographics, technology, alliance changes happen on their own. The declining side fights *now* because the rising side cannot credibly commit not to exploit the shift later. Iran's nuclear program is the textbook case: the program advances on its own trajectory, the US-Israel coalition cannot bind Iran's future commitments, so the coalition strikes preemptively before weaponization completes.]{.concise-only}
+
+::: {.deep-only}
+**The classical model treats power as exogenous.** In the [Fearon 1995]{.gloss data-gloss="bargaining-range"} / [Powell 2006]{.gloss data-gloss="powell-commitment"} apparatus, each side's reservation utility is set by capability, geography, alliance structure, technology, and war costs — parameters given to the model from outside. The bargaining model then solves for whether the bargaining range is empty or non-empty and which Fearon mechanism is doing the work. *Power* in this setup is something the model receives, not something it generates.
+
+Powell 2006's most-cited extension — the commitment-problem mechanism — does allow for an *anticipated* future shift, but the shift itself remains exogenous to the bargaining. Side A is going to be more powerful tomorrow because of demographics, technology development, alliance shifts, or the natural progression of some capability the model treats as parameter. The declining side B's calculation is "today's deal followed by a sequence of worse-and-worse deals vs. war today." If the worsening sequence is bad enough, B may rationally strike *now*, before A's shift completes — even if today's deal is technically better than today's war. Powell-style war is preventive: B fights not to extract concessions but to *prevent* the shift itself.
+
+Iran's potential nuclear acquisition is the textbook case the canonical apparatus handles cleanly. Iran is investing in centrifuges, accumulating HEU, advancing missile-delivery capability — the capability is growing on its own trajectory. The US-Israel coalition cannot credibly bind Iran's future commitments (no enforcement institution exists, the IRGC vetoes formal-state concessions, and any deal can be re-opened). Powell's commitment problem predicts the coalition will strike preemptively. [Q1's reading]{.gloss data-gloss="bargaining-range"} of the 27-28 February 2026 negotiating breakdown uses this frame as one of its primary mechanisms — though Q1's central finding is more nuanced (the [IRGC veto]{.gloss data-gloss="irgc-bonyad-complex"} is what makes verification non-credible, not the technical Powell-style commitment problem alone).
+
+But notice what the Powell apparatus does *not* model. It does not model the possibility that one side's *current* actions during bargaining cause the future shift the other side will then exploit. It does not model the case where the rising side is rising *because* of what the declining side is doing today. It does not formally treat the shift as *endogenous* to the strategic interaction. That is what the literature this primer covers takes on.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart TB
+  E[Endogenous power shifts:<br/>the literature]
+  E --> F[Fearon 1996:<br/>bargaining over objects<br/>that influence future power]
+  E --> BC[Bas-Coe 2016:<br/>stochastic nuclear progress<br/>plus noisy intelligence]
+  E --> DM[Debs-Monteiro 2014:<br/>monitoring failure<br/>generates threshold strikes]
+  F --> F1[Discontinuous p of x<br/>causes war or<br/>winner-take-all]
+  F --> F2[Continuous p of x<br/>plus defense dominance<br/>yields stable interior]
+  BC --> BC1[Surprise proliferation<br/>and mistaken<br/>preventive wars endogenous]
+  DM --> DM1[Improving preventive war<br/>raises rate of<br/>mistaken strikes]
+  classDef e fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef k fill:#f6f8fa,stroke:#d0d7de
+  class E e
+  class F,BC,DM m
+  class F1,F2,BC1,DM1 k
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**Fearon 1996, Bas-Coe 2016, Debs-Monteiro 2014.** Three foundational papers relax power-exogeneity in different ways. **Fearon 1996** models bargaining over an object (territory, technology) whose division today sets tomorrow's threat point — efficient if the share-to-power function is continuous, war-prone if it's discontinuous (offense dominance). **Bas-Coe 2016** models stochastic nuclear progress with noisy intelligence: surprise proliferation, intelligence-driven crises, and "mistaken" preventive wars all emerge endogenously. **Debs-Monteiro 2014** show monitoring failure generates strikes on threshold beliefs even without conclusive evidence — and counterintuitively, *improving* preventive-war effectiveness *raises* the rate of mistaken strikes against non-militarizing targets.]{.concise-only}
+
+::: {.deep-only}
+**Fearon 1996, Bas-Coe 2016, Debs-Monteiro 2014.** Three foundational papers relax power-exogeneity in different ways.
+
+*Fearon 1996 — "Bargaining Over Objects That Influence Future Bargaining Power."* This is the foundational text for the entire endogenous-shift literature. The paper models complete-information multi-period bargaining where today's division of an "object" sets tomorrow's threat point. The object can be territory (strategic depth), a piece of technology (capability advantage), or a discrete capability item that confers leverage. Bargaining is efficient if the function from object-share to war-winning probability — call it p of x — is *continuous*: small changes in object-share produce small changes in tomorrow's power, and the parties can write incremental settlements that both prefer. Bargaining yields war or winner-take-all dynamics if p of x is *discontinuous* or *steep* (offense dominance — small object-shifts produce big power-shifts), and yields a stable interior balance if p of x is *shallow* (defense dominance — even big object-shifts produce small power-shifts). The framework is foundational to Powell 2006's "bargaining over future power" sub-case but is more general: it applies whenever today's negotiation-object directly determines tomorrow's leverage. The Iran case has multiple Fearon-1996-style objects in play — HEU stockpile, enrichment capacity, missile inventory, regional proxy networks — though the canonical reading treats them individually rather than assembling them into a single Fearon-1996 model.
+
+*Bas-Coe 2016 — "A Dynamic Theory of Nuclear Proliferation and Preventive War."* Bas and Coe extend the Fearon-1996 / Powell-2006 apparatus to incorporate two crucial features of real proliferation: stochastic nuclear-program progress (the timeline is not deterministic) and noisy intelligence (the adversary cannot directly observe how close the program is to weaponization). Equilibrium properties: surprise proliferation can occur (the rising side completes the program faster than expected); intelligence-update events become the trigger for crises (rather than program-completion events); "mistaken" preventive wars happen endogenously in equilibrium (the striker strikes based on a posterior that turns out to have been wrong). Most strikingly, the model produces a counterintuitive comparative static: *improving strike capability or improving monitoring may increase proliferation incentives*, because the rising side now faces a tighter window and accelerates. Empirically, the model predicts intelligence-update events better predict strike timing than economic or structural variables — a prediction the Iran case's February 2026 IAEA reporting cycle and the timing of the 27-28 February strikes is consistent with. The Bas-Coe apparatus is the closest single thing the canonical literature has to a "preventive strike on a nuclear program" model.
+
+*Debs-Monteiro 2014 — "Known Unknowns: Power Shifts, Uncertainty, and War."* Debs and Monteiro model preventive war under two information regimes. Under *perfect transparency*, peace prevails: the preventive-war threat deters militarization, the rising side knows it would be struck if it tried to acquire capability, and rationally does not try. Under *imperfect monitoring*, militarization can be a fait accompli: the rising side acquires capability before the adversary can confirm and respond. Adversaries facing imperfect monitoring optimally strike on *threshold posterior beliefs* — they hit when their estimated probability of militarization crosses a threshold, even without conclusive evidence. The most provocative result: *more effective preventive war raises the equilibrium probability of mistaken strikes against non-militarizing targets*. The intuition: when preventive war is cheap, the adversary's threshold for striking falls; the lower threshold means more cases where the adversary strikes and the target turned out not to have been militarizing. The framework matters for the Iran case because the [Stage 0 deterrent-layer degradation campaign]{.gloss data-gloss="octopus-doctrine"} *lowered* the cost of preventive strike, and the Debs-Monteiro logic predicts that this should have *raised* the rate of mistaken strikes — a prediction the case neither validates nor falsifies (Iran was in fact advancing the program, so the strike was not "mistaken" in the Debs-Monteiro sense, but the comparative static remains).
+
+These three frames cover *parts* of the 2026 case. Fearon 1996 gives the right vocabulary for treating Iran's nuclear program, missile inventory, and regional proxies as objects whose control shapes future power. Bas-Coe gives the closest formal frame for a preventive strike on a nuclear program. Debs-Monteiro gives the right comparative static linking strike-cost and strike-mistakes. None of them, however, model the configuration where the striker's *current actions during bargaining* — actions against the target's coalition partners — *cause* the shift the striker then exploits. That gap is the Stage 4 finding.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  T[Timing of strikes:<br/>Krainin 2017<br/>plus Chadefaux 2011]
+  T --> KR[Krainin 2017:<br/>slow cumulative shifts<br/>can cause war<br/>with substantial delay]
+  T --> CH[Chadefaux 2011:<br/>negotiate over<br/>power-determinants<br/>and no shift causes war]
+  KR --> KR1[Generalizes Powell<br/>from discrete<br/>to continuous shifts]
+  CH --> CH1[War implies<br/>negotiation over<br/>determinants is blocked]
+  CH --> CH2[Diagnostic question:<br/>why was negotiation blocked?]
+  classDef t fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#dafbe1,stroke:#2da44e
+  classDef k fill:#f6f8fa,stroke:#d0d7de
+  class T t
+  class KR,CH m
+  class KR1,CH1,CH2 k
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Krainin 2017 + Chadefaux 2011.** Two papers on the *timing* of strikes. **Krainin 2017** generalizes Powell 2006 from discrete shifts to slow cumulative ones — and shows the war can occur with *substantial delay* after the shift begins. The declining side need not strike at the first sign of shift; the model gives delayed-action as an equilibrium under certain parameter ranges. **Chadefaux 2011** delivers a non-existence theorem: when parties can negotiate over the *determinants* of future power (arms-control limits, demilitarized zones, alliance restraints, weapons-program suspensions), no power shift causes war. War therefore *implies* that negotiation over power-determinants is itself blocked — and Chadefaux turns this into a diagnostic question: why was the negotiation blocked?]{.concise-only}
+
+::: {.deep-only}
+**Krainin 2017 + Chadefaux 2011.** Two papers on the *timing* of strikes that complement the Fearon-1996 / Bas-Coe / Debs-Monteiro frames.
+
+*Krainin 2017 — "Preventive War as a Result of Long-Term Shifts in Power."* Krainin extends [Powell 2006]{.gloss data-gloss="powell-commitment"} to handle continuous, multi-period gradual shifts rather than the discrete shifts Powell modeled. The central result: slow-but-persistent power shifts can cause war (not only large rapid shifts), and the war can occur with *substantial delay* after the shift begins. The declining side need not strike at the first sign of shift; the model gives delayed-action as an equilibrium under certain parameter ranges (when the per-period shift is small enough that today's incremental loss is bearable, but the cumulative future loss eventually justifies action). The framework bridges the Power Transition Theory tradition (Organski-Kugler, with its long-run hegemonic-decline framing) and the Powell-style bargaining-commitment literature (with its short-horizon strategic-interaction framing). Empirically, Krainin's framework matters when the relevant power shift is happening over years rather than months — and the Iran nuclear program, considered as a multi-decade trajectory, fits the slow-cumulative pattern Krainin models. Stage 0 of the 2026 war (October 2023 to June 2025) is also a slow-cumulative *negative* shift (Iran's coalition partners are being depleted gradually rather than in a single discrete event). The Krainin frame gives the right temporal structure for thinking about the 28-month attrition pattern, even though Krainin treats the shift as exogenous.
+
+*Chadefaux 2011 — "Bargaining over Power: When Do Shifts in Power Lead to War?"* Chadefaux proves a non-existence theorem under complete information. When parties can negotiate over the *determinants* of future power — arms-control limits, demilitarized zones, alliance restraints, weapons-program suspensions, third-party security guarantees — *no* power shift causes war. The intuition: if the shift can be averted by an enforceable agreement that limits the determinants directly, both sides have a settlement available that they prefer to fighting (the rising side accepts the limit in exchange for not being struck; the declining side accepts the limit in exchange for not having to strike). War therefore *implies* that the negotiation over determinants is itself blocked — by third parties (the rising side's allies block agreement), by domestic politics (the rising side's elites refuse the limit), or by *fungibility frictions* (the limit cannot be operationalized because it is unverifiable, or because the agreement is for one capability while another capability substitutes for it).
+
+Chadefaux's framework is enormously useful as a *diagnostic*. It does not predict whether a war will happen; it tells you that *if* a war happens, the question to ask is "why was the negotiation over power-determinants blocked?" That question is exactly what [Q1's IRGC-veto reading]{.gloss data-gloss="irgc-bonyad-complex"} is doing — Iran *did* offer a Powell-style verification fix in late February 2026 (full IAEA access plus stockpile halt), and the offer was rejected. The Chadefaux diagnostic asks: what blocked the negotiation? The Q1 answer: the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"} cannot deliver the implementing party (the formal Iranian state cannot bind the IRGC), so the offered limit is non-credible to the US-Israel side; *and* US-Israel war aims include regime change which no enforcement of any nuclear limit can satisfy. Both sides' negotiation over the determinants is blocked at different layers. The Chadefaux frame turns "why did the war happen?" into the more analytically tractable "where did the determinant-negotiation break, and why?"
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart TB
+  CASE[2026 case:<br/>Stage 0 over 28 months<br/>then strike option exercised]
+  CASE --> SHAPE[Shape the canon<br/>does not directly cover]
+  SHAPE --> S1[Striker is the shifter:<br/>actions cause the shift<br/>they then exploit]
+  SHAPE --> S2[Shift comes through<br/>target's coalition partners<br/>not target investment]
+  SHAPE --> S3[Striker chooses<br/>both the pace<br/>and the moment]
+  S1 --> GAP[Q1.4 gap:<br/>configuration in middle<br/>of empirical case<br/>not in formal canon]
+  S2 --> GAP
+  S3 --> GAP
+  GAP --> NOTE[Q1.4 deferred:<br/>primer presents the gap<br/>does not execute the model]
+  classDef c fill:#0969da,color:#fff,stroke:#0969da
+  classDef s fill:#dafbe1,stroke:#2da44e
+  classDef g fill:#fff8c5,stroke:#d4a72c
+  classDef n fill:#ffe5d9,stroke:#cf222e
+  class CASE c
+  class SHAPE,S1,S2,S3 s
+  class GAP g
+  class NOTE n
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**The Q1.4 gap.** Putting the canon together, the 2026 case has a shape the literature does not directly cover: the *striker* (Israel) caused the shift the striker then exploited, by depleting the *target's coalition partners* (Hezbollah, Hamas, Houthis, Iraqi militias, then air defenses, then nuclear infrastructure) over 28 months of Stage 0. Fearon 1996 does not model coalition-partner depletion; Krainin 2017 treats the shift as exogenous; Bas-Coe 2016 and Debs-Monteiro 2014 are about target-investment-driven shifts. Q1.4 flags this as an original-contribution opportunity. *The analytical chapter that would formally model the gap was deferred per user decision (option C). The primer presents the gap, not its resolution.*]{.concise-only}
+
+::: {.deep-only}
+**The Q1.4 gap.** Stage 4 of the walkthrough names the configuration the canon does not directly cover. Assemble the previous three stages and look at the 2026 case in their light:
+
+*The classical Powell-style apparatus* expects the shift to be exogenous and treats the declining side as the striker. The Iran case has the shift being driven by the *striker's* (Israel's) own actions, and the actions are against the target's *coalition partners* rather than the target itself.
+
+*Fearon 1996* gives the right vocabulary — the depleted partners (Hezbollah, Hamas, Houthis, Iraqi/Syrian militias, then Iranian air defenses, then nuclear infrastructure) are exactly the kind of "objects" whose division shapes tomorrow's power. But Fearon 1996 treats the object as something jointly bargained over by the two sides, not as something one side unilaterally degrades by force over 28 months.
+
+*Krainin 2017* gives the right temporal structure — the slow cumulative shift that produces delayed-action equilibrium fits the October-2023-to-February-2026 pattern. But Krainin treats the shift as exogenous to the strategic interaction; the striker does not choose the pace or the moment.
+
+*Bas-Coe 2016 and Debs-Monteiro 2014* give the right counterintuitive comparative static — improving preventive-war effectiveness changes equilibrium behavior in non-obvious ways. But both papers model preventive strikes against the target's *own* program, not against the target's *coalition partners* serving as power-determinants.
+
+*Chadefaux 2011* gives the right diagnostic — war implies blocked negotiation over power-determinants. The Iran case partly fits: Iran's nuclear-program-determinant negotiation was blocked (IRGC veto on enrichment concessions), but the *coalition-partner-determinants* (Hezbollah, Hamas, etc.) were not even on the negotiating table — they were unilaterally degraded by force. Chadefaux's frame does not natively handle the case where the shift is driven by force against partners rather than by negotiated capability acquisition.
+
+The configuration in the middle of the 2026 case — where the striker chooses both the pace and the moment of the shift, where the shift comes through the target's coalition partners rather than the target's own investment, where the striker is also the shifter — is *not* directly modeled in the canon. The primitives needed for a model that would cover it are present in the existing literature: Fearon 1996's objects-structure, Krainin 2017's slow-cumulative formalism, Bas-Coe and Debs-Monteiro's reaction-function shape, Chadefaux's negotiation-blockage diagnostic. The model construction would extend Fearon 1996 to include third-party allies as objects, formalize Krainin 2017's slow-cumulative shift as endogenous to the striker, and incorporate the Bas-Coe / Debs-Monteiro counterintuitive comparative static. Whether this is a publishable contribution depends on a base-rate analysis (does the striker-attacks-target's-allies pattern recur historically?), explicit engagement with the existing preventive-war literature (Schelling, Sagan, Posen, Bergman, Bar-Joseph, Byman), and a falsification criterion.
+
+**Important: the Q1.4 analytical chapter that would perform the model construction was deferred per user decision 2026-05-10 (option C — flagged opportunity, footnote in Q1 only). The primer presents the canonical literature and identifies the configuration the canon does not directly address. It does not execute the model construction, give a posterior probability for the gap-filling model, or perform the base-rate analysis. The Q1 chapter's Figure 4 frames the gap; this primer makes the framework accessible. The analytical work to fill the gap remains queued.**
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) the four model variants — classical exogenous, Fearon 1996 object-bargaining, Krainin/Bas-Coe timing, the Q1.4 gap; (2) where the framework appears across the project's chapters with what each variant predicts; (3) the Iran 2023-2026 endogenous-shift timeline.
+
+### Figure 1 — The four model variants
+
+```{mermaid}
+flowchart TB
+  subgraph CANON ["Canonical dynamic-bargaining literature"]
+    V1[Variant 1 — Classical exogenous<br/>Fearon 1995 plus Powell 2006<br/>shift is exogenous parameter]
+    V2[Variant 2 — Object bargaining<br/>Fearon 1996<br/>division of object today<br/>sets tomorrow threat point]
+    V3[Variant 3 — Timing<br/>Krainin 2017 plus Bas-Coe 2016<br/>slow cumulative shifts<br/>plus stochastic monitoring]
+  end
+  subgraph GAP ["Configuration in 2026 case"]
+    V4[Variant 4 — Q1.4 gap<br/>striker causes the shift<br/>through target coalition partners<br/>striker chooses pace and moment]
+  end
+  V1 -.->|extended by| V2
+  V2 -.->|extended by| V3
+  V3 -.->|partial cover only| V4
+  V4 -.->|deferred per user decision| NOTE[Q1.4 analytical chapter<br/>deferred 2026-05-10<br/>option C — flagged not executed]
+  classDef canon fill:#dafbe1,stroke:#2da44e
+  classDef gap fill:#fff8c5,stroke:#d4a72c
+  classDef note fill:#ffe5d9,stroke:#cf222e
+  classDef gt-gloss-octopus-doctrine stroke-width:2px
+  class V1,V2,V3 canon
+  class V4 gap
+  class V4 gt-gloss-octopus-doctrine
+  class NOTE note
+```
+
+[**Reading the figure.** Variants 1-3 are the canonical apparatus, each extending the previous one. Variant 4 is the configuration the 2026 case is in but the canon does not directly cover. The arrow from Variant 3 to Variant 4 is "partial cover only" — the primitives needed for Variant 4 are present in Variants 2 and 3, but no published paper assembles them in the configuration where the striker is the shifter and the shift comes through the target's coalition partners. Q1.4 flags this; the analytical chapter that would build Variant 4 was deferred per user decision.]{.concise-only}
+
+[**Reading the figure.** The figure stacks four model variants. *Variant 1 — Classical exogenous* treats power as a parameter set outside the model; Powell 2006's commitment problem extends this minimally by allowing for an anticipated future shift, but the shift itself is exogenous. *Variant 2 — Object bargaining* (Fearon 1996) lets the bargaining itself shape future power: today's division of an object — territory, technology, alliance partner — sets tomorrow's threat point through a function from object-share to war-winning probability. *Variant 3 — Timing* (Krainin 2017 plus Bas-Coe 2016) handles slow cumulative shifts (Krainin) and stochastic program-progress with noisy intelligence (Bas-Coe), generating delayed-action equilibria and intelligence-driven crises endogenously. *Variant 4 — the Q1.4 gap* is the configuration the 2026 case is in: the striker chooses both the pace and moment of the shift through actions against the target's coalition partners. Variants 2 and 3 contain the primitives needed for Variant 4 — Fearon 1996's objects-structure, Krainin 2017's slow-cumulative formalism, Bas-Coe and Debs-Monteiro's counterintuitive reaction-function shape — but no published paper assembles them in the gap configuration. The analytical chapter that would build Variant 4 was deferred per user decision 2026-05-10 (option C — flagged opportunity, footnote in Q1 only). The primer presents the canon and the gap; it does not execute the construction.]{.deep-only}
+
+### Figure 2 — Applications across project chapters
+
+```{ojs}
+//| label: fig-applications
+//| fig-cap: "What each model variant predicts about the 2026 case across four project chapters. Variants 1-3 are the canonical apparatus; Variant 4 is the Q1.4 gap. Codes: E1 = classical exogenous; E2 = Fearon 1996 object bargaining; E3 = Krainin/Bas-Coe timing; E4 = Q1.4 gap configuration."
+
+{
+  const data = [
+    {Chapter: "Q1 — bargaining failed", Variant: "E1", post: 0.65, full: "E1 — Powell-style commitment problem operative (conditional on IRGC veto) — primary canonical reading", tier: "T2"},
+    {Chapter: "Q1 — bargaining failed", Variant: "E2", post: 0.40, full: "E2 — Fearon 1996 objects: enrichment percentage as continuous; right-to-enrich as discontinuous (politically indivisible)", tier: "T3"},
+    {Chapter: "Q1 — bargaining failed", Variant: "E3", post: 0.55, full: "E3 — Bas-Coe stochastic nuclear progress plus IAEA monitoring as intelligence-trigger; February strike timing fits", tier: "T3"},
+    {Chapter: "Q1 — bargaining failed", Variant: "E4", post: 0.70, full: "E4 — Q1.4 gap: Stage 0 (Oct 2023 — Jun 2025) is the striker causing the shift through target coalition partners; configuration not directly in canon", tier: "T3"},
+    {Chapter: "Q1.4 — original-contribution opp", Variant: "E1", post: 0.10, full: "E1 — does not cover the configuration", tier: "T4"},
+    {Chapter: "Q1.4 — original-contribution opp", Variant: "E2", post: 0.45, full: "E2 — partial: third-party allies could in principle be Fearon 1996 objects but not in any published model", tier: "T3"},
+    {Chapter: "Q1.4 — original-contribution opp", Variant: "E3", post: 0.50, full: "E3 — partial: Krainin slow-cumulative formalism has the right temporal structure; treats shift as exogenous", tier: "T3"},
+    {Chapter: "Q1.4 — original-contribution opp", Variant: "E4", post: 0.85, full: "E4 — the configuration the case is in; analytical chapter deferred per user decision 2026-05-10 option C", tier: "T3"},
+    {Chapter: "Q5 — bargaining range", Variant: "E1", post: 0.60, full: "E1 — Powell commitment now bilaterally severe (Iran cannot commit to non-rebuild; US-Israel cannot commit to non-restrike)", tier: "T2"},
+    {Chapter: "Q5 — bargaining range", Variant: "E2", post: 0.30, full: "E2 — categorical gaps treated as Fearon-1996-style discontinuous p of x (HEU stockpile, right-to-enrich)", tier: "T3"},
+    {Chapter: "Q5 — bargaining range", Variant: "E3", post: 0.20, full: "E3 — operative as background; Hokayem battle-of-endurance does the load-bearing work, not Bas-Coe", tier: "T3"},
+    {Chapter: "Q5 — bargaining range", Variant: "E4", post: 0.50, full: "E4 — bilateral commitment failure is itself a Q1.4-style endogenous-shift residue from the three completed strike rounds", tier: "T3"},
+    {Chapter: "Q8 — China/Taiwan", Variant: "E1", post: 0.30, full: "E1 — peaking-power calculus has the structural shape but is not the operative reading", tier: "T3"},
+    {Chapter: "Q8 — China/Taiwan", Variant: "E2", post: 0.20, full: "E2 — Taiwan as a Fearon-1996 object is a possible reading but not the chapter's primary frame", tier: "T3"},
+    {Chapter: "Q8 — China/Taiwan", Variant: "E3", post: 0.55, full: "E3 — Brands-Beckley peaking-power patience is the Krainin-style delayed-action equilibrium plus Bas-Coe stochastic capability development", tier: "T3"},
+    {Chapter: "Q8 — China/Taiwan", Variant: "E4", post: 0.10, full: "E4 — Q1.4 gap configuration does not apply to Q8; Taiwan case is target-investment-driven", tier: "T4"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 14 : Math.max(17, Math.min(22, Math.round(width / 50)));
+  const chartHeight = isMobile ? 480 : Math.max(420, Math.min(540, Math.round(width * 0.45)));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 50 : Math.max(220, Math.round(width * 0.22)),
+    marginRight: isMobile ? 30 : 80,
+    marginTop: Math.max(60, Math.round(baseFont * 3)),
+    marginBottom: Math.max(70, Math.round(baseFont * 4)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Posterior probability variant applies →",
+      domain: [0, 1],
+      grid: true,
+      tickFormat: ".0%"
+    },
+    y: { label: null, domain: data.map(d => d.Chapter + " | " + d.Variant) },
+    color: {
+      domain: ["E1", "E2", "E3", "E4"],
+      range: ["#0969da", "#2da44e", "#d4a72c", "#cf222e"],
+      legend: true
+    },
+    marks: [
+      Plot.barX(data, {
+        x: "post",
+        y: d => d.Chapter + " | " + d.Variant,
+        fill: "Variant",
+        tip: { lineWidth: 35, fontSize: isMobile ? 12 : 13 },
+        channels: { Mechanism: "full", Tier: "tier" }
+      }),
+      Plot.text(data, {
+        x: "post",
+        y: d => d.Chapter + " | " + d.Variant,
+        text: d => (d.post * 100).toFixed(0) + "%",
+        dx: 6,
+        textAnchor: "start",
+        fontSize: baseFont,
+        fill: "#24292f"
+      })
+    ]
+  });
+}
+```
+
+::: {.mech-legend .always}
+**Variant codes.** **E1** = Classical exogenous (Powell 2006 commitment problem with exogenous shift). **E2** = Fearon 1996 object bargaining (division of object today sets tomorrow threat point). **E3** = Krainin 2017 slow-cumulative timing plus Bas-Coe 2016 stochastic nuclear progress plus Debs-Monteiro 2014 monitoring. **E4** = Q1.4 gap configuration — striker causes shift through target coalition partners; not directly in canon.
+:::
+
+[**Reading the chart.** Q1's primary canonical reading is E1 (Powell commitment, conditional on IRGC veto) — the chapter's standard finding. But E4 (the Q1.4 gap configuration) sits at the highest posterior for Q1: the case is in the middle of a configuration the canon does not directly model. Q1.4 is where E4 dominates. Q5's bilateral-commitment finding is partly a Q1.4 residue (the three completed strike rounds are themselves striker-caused shifts). Q8's peaking-power patience is Variant 3 cleanly applied, with E4 not relevant (Taiwan case is target-investment-driven).]{.concise-only}
+
+[**Reading the chart.** Each chapter has four bars (E1 through E4), one for each model variant. The posteriors give the chapter's reading of how operative each variant is in that case.
+
+*Q1 — bargaining failed.* E1 (Powell commitment) is the primary canonical reading and the chapter's standard headline mechanism — operative at 0.65 conditional on the IRGC veto. E2 (Fearon 1996 objects) is operative at 0.40 — the chapter reads the right-to-enrich claim as politically indivisible (Fearon-1996-style discontinuous p of x), while the enrichment percentage itself is treated as continuous (the verification-fix possibility). E3 (Bas-Coe stochastic nuclear progress plus monitoring) is operative at 0.55 — the February IAEA reporting cycle as intelligence-trigger, the strike timing fitting the Bas-Coe model. E4 (the Q1.4 gap configuration) sits at the highest posterior — 0.70 — because the Stage 0 campaign is in the middle of the configuration the canon does not directly cover.
+
+*Q1.4 — original-contribution opportunity.* E4 dominates at 0.85 (the chapter is *defined* by the gap). E2 and E3 are partial-cover canonical primitives the gap-filling model would build on. E1 does not cover the configuration. The Q1.4 analytical chapter was deferred per user decision 2026-05-10; the posterior estimates here are how the *primer reads* the literature, not how the deferred Q1.4 chapter would synthesize them.
+
+*Q5 — bargaining range.* E1 dominates at 0.60 — the bilateral commitment problem (Iran cannot commit to non-rebuild, US-Israel cannot commit to non-restrike) is Powell-style at scale. E2 (Fearon 1996 objects) at 0.30 captures the categorical-gap framing (HEU stockpile, right-to-enrich, Lebanon/proxies, reparations as discontinuous Fearon-1996-style objects). E3 at 0.20 — Bas-Coe stochastic nuclear progress is operative as background but not load-bearing in Q5. E4 at 0.50 — the bilateral commitment failure is itself a *residue* of the three completed strike rounds, which are striker-caused shifts and therefore Q1.4-style endogenous shifts.
+
+*Q8 — China/Taiwan.* E3 dominates at 0.55 — [Brands-Beckley peaking-power patience]{.gloss data-gloss="brands-beckley-peaking-power"} is exactly the Krainin-style delayed-action equilibrium overlaid on Bas-Coe-style stochastic capability development. E1 at 0.30 — the structural shape is right but it is not the chapter's headline reading. E2 at 0.20 — Taiwan as a Fearon-1996 object is a possible frame but not Q8's primary one. E4 at 0.10 — the Q1.4 gap configuration does not apply because the Taiwan case is *target-investment-driven* (China's growth comes from China's own investment, not from US action against China's coalition partners). The peaking-power calculus is structurally different in shape from the Stage 0 endogenous-shift case.]{.deep-only}
+
+### Figure 3 — Iran's 2023-2026 endogenous-shift timeline
+
+The Stage 0 deterrent-layer degradation campaign — Israel's systematic depletion of Iran's regional coalition partners — is the empirical content the Q1.4 gap configuration would formally model. The timeline is the same one shown in Q1's Figure 2; this primer replicates the structure to make the endogenous-shift framing visible at primer level rather than chapter level.
+
+```{mermaid}
+timeline
+  title Stage 0 — endogenous-shift execution October 2023 to February 2026
+  October 2023 : Hamas attack and Israeli ground operation in Gaza : start of the systematic degradation
+  September 2024 : Hezbollah pager attacks : Nasrallah killed September 27 : command and control collapse
+  October 2024 : Operation Days of Repentance : Iranian S-300 air defenses destroyed
+  June 2025 : Twelve-Day War : strikes on Iranian nuclear infrastructure
+  December 2025 : Mar-a-Lago lobbying : US patron alignment in Stackelberg structure
+  February 2026 : strike option exercised : 27-28 February US-Israel strikes : Khamenei killed
+```
+
+[**Reading the timeline.** The 28-month Stage 0 campaign is the *striker* (Israel) depleting the *target's* (Iran's) *coalition partners* — Hezbollah, Hamas, Houthis, Iraqi/Syrian militias — then air defenses, then nuclear infrastructure, then the leadership. This is the configuration the canonical literature does not directly cover. Fearon 1996 has the closest vocabulary (the partners as "objects"); Krainin 2017 has the closest temporal structure (slow cumulative shift); but no canonical model assembles them with the striker as shifter. Q1.4's deferred analytical chapter would formally model this configuration; the primer presents the empirical content and the gap.]{.concise-only}
+
+[**Reading the timeline.** The 28-month sequence is what the Q1.4 gap configuration would formally model. It is *not* a Powell-style commitment problem with an exogenous shift — Iran's nuclear program continued to advance on its own trajectory through Stage 0, but the *strike option* on Iran was being made progressively cheaper by Israel's actions against Iran's coalition partners. It is *not* a Fearon-1996 object-bargaining sequence — the partners were not jointly bargained over; they were unilaterally degraded by force. It is *not* a Bas-Coe stochastic nuclear-progress story — the program advance was monitored cleanly by IAEA throughout Stage 0; the trigger for the February strike was not an intelligence update but a coalition-degradation milestone (the June 2025 Twelve-Day War having normalized direct strikes on Iranian territory). It is *not* a Debs-Monteiro mistaken-strike case — Iran was in fact advancing the program. It is closest in temporal structure to *Krainin 2017's* slow-cumulative-shift framework, but Krainin treats the shift as exogenous to the strategic interaction; in the 2026 case, the striker chose both the pace and the moment.
+
+The configuration in the middle of the timeline — striker depleting target's coalition partners over 28 months, then exercising strike option once the option's cost has collapsed — is the configuration the canon does not directly cover. The primitives needed for a model that would cover it are all present in the existing canon: Fearon 1996's objects-structure (extend to include third-party allies), Krainin 2017's slow-cumulative formalism (formalize as endogenous to the striker), Bas-Coe and Debs-Monteiro's counterintuitive comparative static (link the lowered strike-cost to equilibrium behavior), Chadefaux 2011's negotiation-blockage diagnostic (apply to determinant-types beyond the target's own program). The model construction would assemble these primitives in a configuration the canon has not yet assembled them in. *The Q1.4 analytical chapter that would perform the construction was deferred per user decision 2026-05-10 (option C — flagged opportunity, footnote in Q1 only). The primer presents the framework and the gap; the model construction remains queued.*]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+What could the framework get wrong about 2026?
+
+1. **The Q1.4 gap may not actually be a gap.** The literature search that informed Q1.4's framing pulled the canonical 19-paper dynamic-bargaining corpus, but the broader literature on preventive war and coalition-degradation is much larger (Schelling, Sagan, Posen, Bergman, Bar-Joseph, Byman; the strategic-studies literature on disrupting adversary coalitions; the deterrence literature on extended deterrence and ally-targeting). It is possible — and not yet ruled out — that some paper in the broader literature does formally model the configuration the canonical dynamic-bargaining literature does not. The Q1.4 deferral is partly a deferral of the literature search that would settle this question. The primer should be read as "the canonical dynamic-bargaining literature does not directly cover the configuration"; whether the broader literature does remains open.
+
+2. **The endogenous-shift literature is mostly concerned with bargaining over a single divisible object.** Multi-issue bargaining + cross-theater spillover (the kind that runs through Q7's Russia-Ukraine analysis and Q8's China-Taiwan analysis) is not natively in the canon. The 2026 Iran case has multiple objects in play simultaneously — HEU stockpile, enrichment capacity, missile inventory, regional proxies, regime-survival considerations, US-Israel coalition dynamics — and the canonical models treat each individually. Whether the multi-object structure changes the qualitative predictions of the single-object models is an open theoretical question.
+
+3. **The framework is weak on cases where the shift is publicly known.** A central theme of the canonical bargaining model is that asymmetric information about resolve, capability, or program-progress is what blocks settlement. The dynamic-bargaining literature mostly inherits this asymmetric-information theme (Bas-Coe, Debs-Monteiro especially). But the 2026 case has the unusual property that the power shift was *measurable and observable to both sides* — the [Q1 corpus]{.gloss data-gloss="bargaining-range"} found the asymmetric-information mechanism substantially downgraded (P from 0.25 to 0.10) precisely because the shift was public. The canonical literature is partly mismatched to cases of common-knowledge shifts; the Powell 1996 / Powell 2004 complete-information branch is closer but remains under-developed relative to the Bas-Coe / Debs-Monteiro asymmetric-information branch.
+
+4. **The framework's behavioral assumptions are strong.** Like the broader bargaining model, the dynamic-bargaining literature assumes unitary rational actors with consistent preferences and the ability to write enforceable agreements when the bargaining range is non-empty. All three assumptions fail in the 2026 case for reasons the [hierarchy-clientelism primer]{.gloss data-gloss="lake-hierarchy"} and [audience-costs primer]{.gloss data-gloss="audience-costs-fearon"} unpack. The dynamic-bargaining apparatus would need to be paired with these enrichments before it can be cleanly applied.
+
+5. **The Q5 application is contestable.** This primer reads Q5's bilateral commitment failure as partly a Q1.4-style residue (the three completed strike rounds are themselves striker-caused shifts and therefore endogenous in the Q1.4 sense). An alternative reading is that Q5's commitment failure is a clean Powell 2006 case at scale — both sides anticipating future shifts that neither can credibly bind, with no Q1.4-specific residue needed. Whether the Q1.4 framing adds analytical traction to Q5 or merely re-labels what Powell already covers is itself an open question.
+
+## Why this primer matters {#why-it-matters}
+
+Endogenous power shifts is the conceptual core of [Q1's Mechanism α puzzle]{.gloss data-gloss="bargaining-range"} — Q1's most distinctive original-contribution finding. The primer makes the canonical literature accessible and frames the gap that Q1.4 would fill (when and if executed). The framework is also relevant to Q5 (bargaining-range collapse from anticipated power shifts; bilateral commitment failure as residue of completed shifts) and Q8 (China's peaking-power calculus is an endogenous-shift case in different form — target-investment-driven rather than striker-action-driven).
+
+The disciplined way to use the framework on the 2026 Iran war:
+
+1. **Identify the relevant power-determinant components.** Not "Iran is gaining nuclear capability" but a specific list of objects that shape future power: enrichment capacity, HEU stockpile, missile inventory, S-300 air defenses, Hezbollah's command-and-control, Houthi anti-shipping capability, Iraqi/Syrian militia presence, IRGC institutional consensus. Each is a Fearon-1996-style object with its own p of x function.
+
+2. **Identify which side is the *shifter*.** Powell 2006 implicitly assumes the rising side is the shifter (the side gaining capability is the side acting). The Q1.4 gap is the case where the *declining* side (or the soon-to-strike side) is the shifter — and the shift is in the form of *degrading the target's coalition partners*. The diagnostic: ask whether each component's progression is being driven by the target's own investment, by the striker's actions against the target, by exogenous processes, or by some combination.
+
+3. **Identify where the negotiation over determinants is blocked, and why.** Chadefaux 2011's diagnostic. If a negotiation is feasible, no shift causes war. If a war happened, ask which determinant-negotiation was blocked, by whom, and at what layer (third parties, domestic politics, fungibility frictions, IRGC-veto, Stackelberg-leader's commitment to action, audience costs).
+
+4. **Track the Q1.4 deferral.** The primer presents the canonical literature and names the gap. The Q1.4 analytical chapter was deferred per user decision 2026-05-10; the model construction that would formally cover the gap remains queued. When Q1.4 is unblocked, the primer should be revised to incorporate the construction; until then, the primer's job is to make the framework accessible without prematurely committing to a specific gap-filling apparatus.
+
+The dynamic-bargaining literature is at its best as a *diagnostic vocabulary* for thinking about endogenous power shifts — what kind of shift is this, where does it come from, who is the shifter, what determinant-negotiation is blocked? — and at its weakest as a prediction engine for specific configurations the canon does not directly cover. The 2026 case sits in one such configuration. The primer makes the configuration visible without pretending to have already resolved it.
+
+## Sources & further reading
+
+The canonical Tier 1 + Tier 2 set covered by the primer:
+
+- Fearon, James D. 1995. "Rationalist Explanations for War." *International Organization* 49(3): 379-414. — the foundational text for the bargaining model and the three-mechanism framework
+- Fearon, James D. 1996. "Bargaining Over Objects That Influence Future Bargaining Power." Working paper, Stanford University. — foundational for the endogenous-shift literature; never formally journal-published but widely cited
+- Powell, Robert. 1999. *In the Shadow of Power*. Princeton University Press, 320 pp. — book-length game-theoretic treatment of dynamic bargaining; chapters 3-4 and appendices 3-4 are the load-bearing technical chapters
+- Powell, Robert. 2006. "War as a Commitment Problem." *International Organization* 60(1): 169-203. — the cleanest single statement of the commitment-problem mechanism
+- Powell, Robert. 1996. "Stability and the Distribution of Power." *World Politics* 48(2): 239-267. — static-bargaining-with-force baseline
+- Powell, Robert. 2004. "The Inefficient Use of Power: Costly Conflict with Complete Information." *American Political Science Review* 98(2): 231-241. — general inefficiency condition unifying revolutions, civil wars, sovereign-debt accumulation, and international war
+- Krainin, Colin. 2017. "Preventive War as a Result of Long-Term Shifts in Power." *Political Science Research and Methods* 5(1): 103-121. — slow cumulative shifts; bridges Power Transition Theory and the bargaining-commitment literature
+- Bas, Muhammet A., and Andrew J. Coe. 2016. "A Dynamic Theory of Nuclear Proliferation and Preventive War." *International Organization* 70(4): 655-685. — stochastic nuclear progress with noisy intelligence; closest formal frame for preventive-strike-on-nuclear-program
+- Debs, Alexandre, and Nuno P. Monteiro. 2014. "Known Unknowns: Power Shifts, Uncertainty, and War." *International Organization* 68(1): 1-31. — monitoring failure generates threshold strikes; counterintuitive comparative static on improving preventive war
+- Chadefaux, Thomas. 2011. "Bargaining over Power: When Do Shifts in Power Lead to War?" *International Theory* 3(2): 228-253. — non-existence theorem; war implies blocked negotiation over power-determinants
+- Slantchev, Branislav L. 2003. "The Principle of Convergence in Wartime Negotiations." *American Political Science Review* 97(4): 621-632. — wars end when learning converges; bargaining offers carry more informational content than battlefield outcomes
+- Reiter, Dan. 2003. "Exploring the Bargaining Model of War." *Perspectives on Politics* 1(1): 27-43. — review article synthesizing the bargaining model as a unified framework
+- Wagner, R. Harrison. 2000. "Bargaining and War." *American Journal of Political Science* 44(3): 469-484. — war as part of the bargaining process; alternating offers with simultaneous fighting
+- Lake, David A. 2010/11. "Two Cheers for Bargaining Theory: Assessing Rationalist Explanations of the Iraq War." *International Security* 35(3): 7-52. — directly applicable diagnostic template for case studies
+- Schelling, Thomas C. 1960. *The Strategy of Conflict*. Harvard University Press. — conceptual root of the entire commitment-problem branch
+- Schelling, Thomas C. 1966. *Arms and Influence*. Yale University Press. — compellence vs deterrence; manipulation of risk
+
+Closely related companions for the deferred Q1.4 model construction:
+
+- Fearon, James D. 2004. "Why Do Some Civil Wars Last So Much Longer than Others?" *Journal of Peace Research* 41(3): 275-301. — civil-war duration governed by commitment problems; cross-domain generality
+- Acemoglu, Daron, and James A. Robinson. 2006. *Economic Origins of Dictatorship and Democracy*. Cambridge University Press. — cleanest exposition of dynamic-commitment-problem mechanics
+- Bueno de Mesquita, Bruce, and David Lalman. 1992. *War and Reason: Domestic and International Imperatives*. Yale University Press. — methodological synthesis of formal game theory with quantitative empirical testing
+
+```{=html}
+</div>
+```

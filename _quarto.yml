@@ -56,6 +56,18 @@ website:
           href: primer/audience-costs.qmd
         - text: "Hierarchy and clientelism"
           href: primer/hierarchy-clientelism.qmd
+        - text: "Omnibalancing and regime survival"
+          href: primer/omnibalancing.qmd
+        - text: "Hedging vs balancing vs bandwagoning"
+          href: primer/hedging-balancing-bandwagoning.qmd
+        - text: "Two-level games"
+          href: primer/two-level-games.qmd
+        - text: "Strategic ambiguity and threats that leave something to chance"
+          href: primer/schelling-strategic-ambiguity.qmd
+        - text: "Coalition theory and selectorate"
+          href: primer/coalition-theory-selectorate.qmd
+        - text: "Endogenous power shifts"
+          href: primer/endogenous-power-shifts.qmd
     - id: timelines
       title: "Timelines"
       style: floating
