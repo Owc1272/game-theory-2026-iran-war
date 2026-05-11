@@ -46,8 +46,8 @@ Pre-1979 Iran and the 2026 war: trust deficit since 1813, bazaar-clergy alliance
 :::
 
 ::: {.dashboard-card}
-### [Timelines](timelines/index.qmd)
-Per-actor histories. Iran, Israel, the US, the Gulf states, Russia, China — each on its own track. Future modules can extend backward (e.g., the Nixon-Kissinger foundations of US Middle East policy) without disturbing the rest.
+### [Data](timelines/index.qmd)
+An interactive comparison of Iran with its Gulf neighbors and global anchors (US, Russia, China) across 13 metrics — energy (oil and gas exports / production), demographics and wealth (population, GDP, per-capita PPP, oil rents, trade share, unemployment), and military (spending, share of GDP) — over 1979-2026. Pick the metric, the time range, and the countries; the line chart and a linked choropleth map update reactively.
 :::
 
 ::: {.dashboard-card}

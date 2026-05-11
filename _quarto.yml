@@ -33,7 +33,7 @@ website:
             href: historical-roots/reformist-failure-base-rate.qmd
           - text: "The trust-deficit lineage (1813-2026)"
             href: historical-roots/trust-deficit.qmd
-      - text: "Timelines"
+      - text: "Data"
         href: timelines/index.qmd
       - text: "Analyses"
         href: analyses/index.qmd
@@ -46,7 +46,7 @@ website:
   page-footer:
     border: true
     left: |
-      Game Theory of the 2026 Iran War — primer, timelines, analyses.
+      Game Theory of the 2026 Iran War — primer, historical roots, data, analyses.
     right: |
       Built with [Quarto](https://quarto.org/) + [Closeread](https://closeread.dev/).
   sidebar:
@@ -89,7 +89,7 @@ website:
         - text: "The trust-deficit lineage (1813-2026)"
           href: historical-roots/trust-deficit.qmd
     - id: timelines
-      title: "Timelines"
+      title: "Data"
       style: floating
       collapse-level: 2
       contents:

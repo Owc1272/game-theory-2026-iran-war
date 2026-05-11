@@ -1,22 +1,380 @@
 ---
-title: "Timelines — per-actor histories"
-subtitle: "Each actor on its own track. Read across to see what was happening simultaneously."
+title: "Iran in regional and global context — interactive viz"
+subtitle: "Energy, demographics, wealth, and military spending across 18 countries, 1979-2026, with a linked choropleth map. Pick the metric, time range, and countries — both figures update reactively."
+description: "How does Iran's energy, demographic, economic, and military trajectory compare to its Gulf neighbors and to the US, Russia, and China? Two reactive figures driven by ~8,500 country-year-metric rows from the Energy Institute Statistical Review, World Bank, EIA, OPEC, IEA, and SIPRI. Map auto-zooms to the selected countries; choropleth color reflects the chart's selected metric over the chart's time range; or unlink the two and drive the map independently."
+categories: [timelines, interactive, energy, demographics, military, comparative]
+date: 2026-05-11
+format:
+  html:
+    toc: false
+    page-layout: full
 ---
 
-The 2026 war did not begin on 28 February 2026. The conditions that made it possible accumulated over years and in some cases decades. These timelines isolate each major actor's strategic posture, then let you read across to see what was happening simultaneously.
+```{=html}
+<div class="reader-controls">
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
 
-## Forthcoming timelines
+## How to read this page
 
-- **Iran** — JCPOA → Soleimani → Vienna talks → IRGC consolidation → Khamenei.
-- **Israel** — Bennett's Octopus Doctrine → Oct 2023 → 2024 deterrent-layer campaign → Roaring Lion.
-- **United States** — JCPOA exit → maximum pressure → Mar-a-Lago Dec 2025 → Epic Fury.
-- **Saudi Arabia** — Vision 2030 → 2023 China-brokered détente → wartime hedging.
-- **UAE** — Gargash doctrine → Iron Dome → OPEC+ exit.
-- **Qatar** — mediator under fire.
-- **Russia** — Ukraine front compartmentalized.
-- **China** — Belt-and-Road in the Gulf, strategic-pause Taiwan posture.
-- **Europe** — Macron's advanced-deterrence framework, EU 42.7 elevation.
+::: {.concise-only}
+Pick a **Y-axis metric** (default: oil exports), a **time range** (default: 1979-2026), and **which countries** to compare (default: Iran, Saudi Arabia, Iraq, United States, Russia). Both the line chart (Figure 1) and the choropleth map (Figure 2) update reactively. The map's color scale reflects each country's metric value, aggregated over the selected time range. The map is linked to the chart by default — uncheck **Sync map with chart** to drive the map independently.
+:::
 
-## Module slot: deeper US Middle East policy history
+::: {.deep-only}
+This page collects ~8,500 country-year-metric rows across 18 countries (15 Middle East + United States + Russia + China) and 13 metrics (4 energy, 7 demographics/wealth/economy, 2 military), 1979-2026. The four energy metrics come from the Energy Institute Statistical Review (formerly BP), EIA International Energy Statistics, OPEC, and IEA Oil Market Report; the seven demographic/wealth/economy metrics from World Bank WDI; the two military metrics from SIPRI. Each row carries a source-tier mark (T1 = multi-source verified; T2 = single named source; T3 = derived inference; T4 = rough estimate). The page exposes the tier in the chart tooltip; the dynamic Sources footer at the bottom resolves source IDs to full citations on hover.
 
-The site is structured to admit deeper-context modules without disturbing the analyses. A natural example: a chapter on how the **Nixon-Kissinger framework for US Middle East policy** — the twin pillars, the 1973 oil shock response, the strategic relationship with Saudi Arabia — set patterns that rippled through Reagan, Bush, and Trump administrations and still shape US calculation in 2026. That chapter would attach here as a parallel timeline, link forward into the 2026 analyses where its logic is load-bearing, and be navigable independently.
+The dataset has known gaps the page handles gracefully: 2025-2026 figures are sparse for non-energy metrics (only SIPRI extends to 2025); 2026 has zero rows for population and GDP (so picking those metrics will show data ending 2024-2025). Russia 1979-1991 uses USSR aggregates. Iran 2019-2026 GDP figures use the official rial rate and likely overstate real-dollar GDP (T3 marked). Syria post-2011 and Yemen post-2014 carry wide uncertainty (also T3). The chart will show line gaps where data is missing rather than zero-fill.
+
+A planned Phase-2 layer will add a separate map (Figure 3) showing 2026-war-and-precursor strike events with US/Israel attribution. Not in this version.
+:::
+
+::: {.bottom-line}
+**Bottom line.** A general-purpose interactive comparison of 18 countries on 13 metrics over 47 years. Default view shows oil exports for Iran, Saudi Arabia, Iraq, United States, and Russia, 1979-2026 — the relative-fortunes story for Iran's most consequential regional and global energy peers. Switch the Y-axis to **GDP per capita** to see the divergence in living standards; switch to **military spending** to see where the burden actually falls; switch to **population** for the demographic baseline. Add or remove countries from the legend to retell the story for a different comparison set. The map under the chart visualises whichever metric is selected as a choropleth (color = the country's mean or sum over the selected years).
+:::
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — data sources, tier discipline, and what the page does *not* show
+
+**Data assembly.** The energy data merges six series (Energy Institute Statistical Review 1965-2023, EIA International Energy Statistics 1980-2024, EIA Short-Term Energy Outlook 2025-2026 forecasts, OPEC Annual Statistical Bulletin 2024 cross-validation for OPEC members, IEA Oil Market Report April 2026 for war-period 2026 deltas, plus this project's internal `oil_gas_db` for 2024-2026 detail). The demographic/wealth/economy data comes from World Bank WDI via the public API. Military spending is SIPRI MILEX (April 2026 release, covering 1949-2025). All ~8,500 rows resolve to one of nine source IDs documented in the footer.
+
+**Tier discipline.** Every row carries a source-tier mark visible in the chart tooltip: T1 (multi-source agreement within ~5%), T2 (single authoritative source), T3 (derived inference), T4 (rough estimate or war-period flux). Roughly 58% of energy rows are T1; the demographics rows are mostly T2 because the IMF WEO API used for cross-validation is bot-blocked, so a single-source (World Bank) reading is the working baseline. Iran post-2019 GDP figures are T3 because sanctions-era rial-USD conversion is unreliable; the IRR-USD parallel rate suggests Iran's real-dollar GDP is meaningfully lower than the World Bank figures show.
+
+**What the page does not show.** Missing-data cells are left blank rather than zero-filled — Lebanon and Jordan have no oil/gas exports of consequence (their lines disappear if you select an energy metric), and 2025-2026 has zero coverage for population and GDP (so picking those metrics caps the time series at 2024). This is by design: zero-filling would mis-encode "no exports" as identical to "no data." The choropleth's missing countries are rendered in light gray.
+
+**Aggregation over time on the map.** The map color encodes either the *sum* (for flow metrics like oil exports) or the *mean* (for stock metrics like population, GDP per capita, percentages) over the selected time range. Toggle "Sync map with chart" off to give the map its own time range — useful for comparing a chart-period story against a map-period baseline.
+
+**Phase 2 — bombing intensity overlay (forthcoming).** A separate map (Figure 3) will add 2026-war-and-precursor strike events to the page, with US/Israel attribution toggleable independently of Figure 2. Drawn from ACLED + ISW + project corpus + IDF/DOD press releases. Not in this version.
+:::
+
+```{=html}
+</div>
+```
+
+```{ojs}
+//| echo: false
+data = FileAttachment("../data/country-metrics.csv").csv({typed: true})
+```
+
+```{ojs}
+//| echo: false
+geo = FileAttachment("../data/world-countries-simplified.geojson").json()
+```
+
+```{ojs}
+//| echo: false
+allCountries = [
+  "Bahrain", "China", "Egypt", "Iran", "Iraq", "Israel", "Jordan",
+  "Kuwait", "Lebanon", "Oman", "Qatar", "Russia", "Saudi Arabia",
+  "Syria", "Turkey", "United Arab Emirates", "United States", "Yemen"
+]
+```
+
+```{ojs}
+//| echo: false
+defaultCountries = [
+  "Iran", "Saudi Arabia", "Iraq", "United States", "Russia"
+]
+```
+
+```{ojs}
+//| echo: false
+metricMeta = ({
+  oil_exports:               { label: "Oil exports (Mb/year)",            group: "Energy",                   kind: "flow",  unit: "million barrels per year" },
+  oil_production:            { label: "Oil production (Mb/year)",         group: "Energy",                   kind: "flow",  unit: "million barrels per year" },
+  gas_exports:               { label: "Gas exports (bcm/year)",           group: "Energy",                   kind: "flow",  unit: "billion cubic metres per year" },
+  gas_production:            { label: "Gas production (bcm/year)",        group: "Energy",                   kind: "flow",  unit: "billion cubic metres per year" },
+  population:                { label: "Population",                       group: "Demographics & wealth",    kind: "stock", unit: "persons" },
+  gdp_nominal_usd:           { label: "GDP nominal (USD)",                group: "Demographics & wealth",    kind: "stock", unit: "current USD" },
+  gdp_per_capita_usd:        { label: "GDP per capita (USD)",             group: "Demographics & wealth",    kind: "stock", unit: "current USD" },
+  gdp_per_capita_ppp:        { label: "GDP per capita PPP (intl USD)",    group: "Demographics & wealth",    kind: "stock", unit: "current international USD" },
+  oil_rents_pct_gdp:         { label: "Oil rents (% of GDP)",             group: "Demographics & wealth",    kind: "stock", unit: "percent" },
+  trade_pct_gdp:             { label: "Trade (% of GDP)",                 group: "Demographics & wealth",    kind: "stock", unit: "percent" },
+  unemployment_rate:         { label: "Unemployment rate (%)",            group: "Demographics & wealth",    kind: "stock", unit: "percent" },
+  military_spending_usd:     { label: "Military spending (USD)",          group: "Military",                 kind: "stock", unit: "current USD" },
+  military_spending_pct_gdp: { label: "Military spending (% of GDP)",     group: "Military",                 kind: "stock", unit: "percent" }
+})
+```
+
+```{ojs}
+//| echo: false
+allMetrics = Object.keys(metricMeta)
+```
+
+## Controls
+
+```{ojs}
+viewof selectedMetric = Inputs.select(allMetrics, {
+  label: "Y-axis metric",
+  value: "oil_exports",
+  format: v => metricMeta[v].label
+})
+```
+
+```{ojs}
+viewof startYear = Inputs.range([1979, 2026], {
+  label: "Start year",
+  step: 1,
+  value: 1979
+})
+```
+
+```{ojs}
+viewof endYear = Inputs.range([1979, 2026], {
+  label: "End year",
+  step: 1,
+  value: 2026
+})
+```
+
+```{ojs}
+viewof selectedCountries = Inputs.checkbox(allCountries, {
+  label: "Countries (default: Iran + Saudi Arabia + Iraq + United States + Russia)",
+  value: defaultCountries
+})
+```
+
+```{ojs}
+viewof mapLinked = Inputs.toggle({
+  label: "Sync map time range with chart",
+  value: true
+})
+```
+
+## Figure 1 — Time series
+
+```{ojs}
+//| label: fig-timeseries
+//| fig-cap: "One line per selected country. Y-axis is the selected metric. Tooltip shows year, country, value, and source-tier."
+
+{
+  const meta = metricMeta[selectedMetric];
+  const lo = Math.min(startYear, endYear);
+  const hi = Math.max(startYear, endYear);
+
+  const filtered = data.filter(d =>
+    d.metric === selectedMetric &&
+    selectedCountries.includes(d.country) &&
+    d.year >= lo && d.year <= hi
+  );
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 13 : Math.max(15, Math.min(20, Math.round(width / 60)));
+
+  const formatY = (v) => {
+    if (v == null) return "—";
+    if (selectedMetric === "population") {
+      if (v >= 1e9) return (v/1e9).toFixed(2) + " B";
+      if (v >= 1e6) return (v/1e6).toFixed(1) + " M";
+      return v.toLocaleString();
+    }
+    if (selectedMetric === "gdp_nominal_usd" || selectedMetric === "military_spending_usd") {
+      if (v >= 1e12) return "$" + (v/1e12).toFixed(2) + "T";
+      if (v >= 1e9) return "$" + (v/1e9).toFixed(1) + "B";
+      if (v >= 1e6) return "$" + (v/1e6).toFixed(0) + "M";
+      return "$" + v.toLocaleString();
+    }
+    if (selectedMetric === "gdp_per_capita_usd" || selectedMetric === "gdp_per_capita_ppp") {
+      return "$" + Math.round(v).toLocaleString();
+    }
+    if (meta.unit === "percent") return v.toFixed(1) + "%";
+    return v.toLocaleString();
+  };
+
+  if (filtered.length === 0) {
+    return html`<div style="padding:2em;text-align:center;color:#666;font-size:${baseFont}px;">
+      No data for this combination of metric, time range, and countries.
+      Try a different metric (e.g., switch from oil_exports to population to see Lebanon and Jordan)
+      or extend the time range.
+    </div>`;
+  }
+
+  return Plot.plot({
+    width,
+    height: isMobile ? 320 : 460,
+    marginLeft: isMobile ? 60 : 90,
+    marginBottom: 50,
+    marginRight: 20,
+    marginTop: 30,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    grid: true,
+    x: { label: "Year", tickFormat: d => String(d) },
+    y: {
+      label: meta.label + " ↑",
+      tickFormat: formatY,
+      nice: true,
+      grid: true
+    },
+    color: {
+      legend: true,
+      domain: selectedCountries
+    },
+    marks: [
+      Plot.line(filtered, {
+        x: "year",
+        y: "value",
+        stroke: "country",
+        strokeWidth: 2,
+        sort: { color: null }
+      }),
+      Plot.dot(filtered, {
+        x: "year",
+        y: "value",
+        fill: "country",
+        r: 2.5,
+        stroke: "white",
+        strokeWidth: 0.5
+      }),
+      Plot.tip(filtered, Plot.pointer({
+        x: "year",
+        y: "value",
+        title: d =>
+          `${d.country} — ${d.year}\n${meta.label}: ${formatY(d.value)}\nSource: ${d.source_id} (${d.source_tier})`
+      }))
+    ]
+  });
+}
+```
+
+## Figure 2 — Map
+
+```{ojs}
+//| label: fig-map
+//| fig-cap: "Choropleth: each country shaded by its value of the selected metric, aggregated over the map's time range. Selected countries are outlined; unselected are muted. Toggle 'Sync map with chart' off to drive the map's time range independently."
+
+{
+  const meta = metricMeta[selectedMetric];
+
+  // Map's time range = chart's range when linked; otherwise full range
+  const mapLo = mapLinked ? Math.min(startYear, endYear) : 1979;
+  const mapHi = mapLinked ? Math.max(startYear, endYear) : 2026;
+
+  const mapFiltered = data.filter(d =>
+    d.metric === selectedMetric &&
+    d.year >= mapLo && d.year <= mapHi
+  );
+
+  // Aggregate per country: sum for flow, mean for stock
+  const isStock = meta.kind === "stock";
+  const agg = new Map();
+  const counts = new Map();
+  for (const row of mapFiltered) {
+    if (row.value == null) continue;
+    agg.set(row.country, (agg.get(row.country) || 0) + row.value);
+    counts.set(row.country, (counts.get(row.country) || 0) + 1);
+  }
+  if (isStock) {
+    for (const [k, v] of agg.entries()) {
+      agg.set(k, v / counts.get(k));
+    }
+  }
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 12 : Math.max(13, Math.min(16, Math.round(width / 75)));
+
+  // Compute fit-domain from selected countries (auto-zoom)
+  const selectedFeatures = geo.features.filter(f =>
+    selectedCountries.includes(f.properties.name)
+  );
+  const fitDomain = selectedFeatures.length > 0
+    ? { type: "FeatureCollection", features: selectedFeatures }
+    : { type: "FeatureCollection", features: geo.features };
+
+  const formatY = (v) => {
+    if (v == null) return "—";
+    if (selectedMetric === "population") {
+      if (v >= 1e9) return (v/1e9).toFixed(2) + " B";
+      if (v >= 1e6) return (v/1e6).toFixed(1) + " M";
+      return v.toLocaleString();
+    }
+    if (selectedMetric === "gdp_nominal_usd" || selectedMetric === "military_spending_usd") {
+      if (v >= 1e12) return "$" + (v/1e12).toFixed(2) + "T";
+      if (v >= 1e9) return "$" + (v/1e9).toFixed(1) + "B";
+      if (v >= 1e6) return "$" + (v/1e6).toFixed(0) + "M";
+      return "$" + v.toLocaleString();
+    }
+    if (selectedMetric === "gdp_per_capita_usd" || selectedMetric === "gdp_per_capita_ppp") {
+      return "$" + Math.round(v).toLocaleString();
+    }
+    if (meta.unit === "percent") return v.toFixed(1) + "%";
+    return v.toLocaleString();
+  };
+
+  const aggLabel = isStock
+    ? `${meta.label} (mean over ${mapLo}-${mapHi})`
+    : `${meta.label} (sum over ${mapLo}-${mapHi})`;
+
+  return Plot.plot({
+    width,
+    height: isMobile ? 360 : 540,
+    projection: {
+      type: "mercator",
+      domain: fitDomain
+    },
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    color: {
+      type: meta.unit === "percent" ? "linear" : "sqrt",
+      scheme: "blues",
+      legend: true,
+      label: aggLabel,
+      unknown: "#eaeaea"
+    },
+    marks: [
+      Plot.geo(geo, {
+        fill: d => agg.get(d.properties.name),
+        stroke: d => selectedCountries.includes(d.properties.name) ? "#222" : "#bbb",
+        strokeWidth: d => selectedCountries.includes(d.properties.name) ? 1.2 : 0.4,
+        title: d => {
+          const v = agg.get(d.properties.name);
+          if (v == null) return d.properties.name + " — no data for this metric";
+          return `${d.properties.name}\n${aggLabel}: ${formatY(v)}`;
+        }
+      }),
+      // Country labels for selected countries only
+      Plot.text(geo.features.filter(f => selectedCountries.includes(f.properties.name)), {
+        x: d => d3.geoCentroid(d)[0],
+        y: d => d3.geoCentroid(d)[1],
+        text: d => d.properties.name,
+        fontSize: Math.max(9, baseFont - 2),
+        fontWeight: 600,
+        fill: "#111",
+        stroke: "white",
+        strokeWidth: 2
+      })
+    ]
+  });
+}
+```
+
+```{=html}
+<div class="data-sources" style="margin-top:2em;padding-top:1em;border-top:1px solid #ddd;font-size:0.82em;color:#555;line-height:1.6;">
+  <strong>Data sources</strong> &nbsp;<span style="color:#888;">(hover for full citation)</span>
+  <br/>
+  <span title="Energy Institute (formerly BP), Statistical Review of World Energy 2024 (73rd ed., June 2024). Public PDF + Excel at energyinst.org/statistical-review. Annual oil and gas production, consumption, and trade by country, 1965-2023. The canonical multi-decade cross-country reference." style="text-decoration: underline dotted; cursor: help;">EI-2024</span> ·
+  <span title="US Energy Information Administration, International Energy Statistics database (eia.gov/international), accessed May 2026. Country-level petroleum and natural gas production, consumption, exports, imports, generally 1980 onward. Used for 2024 actuals where the EI vintage stops at 2023." style="text-decoration: underline dotted; cursor: help;">EIA-IES-2025</span> ·
+  <span title="US Energy Information Administration, Short-Term Energy Outlook, April 2026 release (eia.gov/outlooks/steo). Forward-looking forecast for 2025-2026 covering production, consumption, and prices for major countries." style="text-decoration: underline dotted; cursor: help;">EIA-STEO-2026</span> ·
+  <span title="Organization of the Petroleum Exporting Countries, Annual Statistical Bulletin 2024 (June 2024, opec.org/data-graphs). OPEC member-country detail on production, exports, refinery throughput, and proven reserves." style="text-decoration: underline dotted; cursor: help;">OPEC-ASB-2024</span> ·
+  <span title="International Energy Agency, Oil Market Report, monthly editions, March and April 2026 (iea.org/reports/oil-market-report). The canonical monthly tracking of OPEC+ output, OECD inventories, and the supply-demand balance. Used for 2026 war-period country-level production deltas." style="text-decoration: underline dotted; cursor: help;">IEA-OMR-2026</span> ·
+  <span title="World Bank, World Development Indicators (databank.worldbank.org/source/world-development-indicators), 2024 vintage, accessed via api.worldbank.org/v2 in May 2026. Used for population, GDP nominal, GDP per capita (current and PPP), oil rents, trade share, unemployment." style="text-decoration: underline dotted; cursor: help;">WB-WDI-2024</span> ·
+  <span title="Stockholm International Peace Research Institute, Military Expenditure Database 1949-2025 v1.2 (April 2026), DOI 10.55163/CQGC9685, sipri.org/databases/milex. Used for military spending in current USD and as a share of GDP." style="text-decoration: underline dotted; cursor: help;">SIPRI-MILEX-2024</span> ·
+  <span title="IMF, World Economic Outlook October 2024 (imf.org/en/Publications/WEO). Listed as the cross-validation source for GDP and as the canonical 2025-2026 projection anchor; cited as the methodological reference even where the value is sourced from World Bank or SIPRI." style="text-decoration: underline dotted; cursor: help;">IMF-WEO-2024-Oct</span> ·
+  <span title="Internal project database (Iran_war/output/oil_gas_db/database.csv) aggregating IEA, Kpler, Reuters, Bloomberg sources for 2024-2026 oil and gas production and export detail at country and field level." style="text-decoration: underline dotted; cursor: help;">PROJ-DB</span>
+  <br/>
+  <span style="color:#888;">Source-tier marks (T1 / T2 / T3 / T4) are visible in chart tooltips. T1 = multi-source verified within ~5%; T2 = single named authoritative source; T3 = derived inference (used for sanctions-distorted Iran 2019+ GDP, Russia/USSR aggregates pre-1992, Syria/Yemen civil-war years); T4 = rough estimate or war-period flux. Missing year-country cells are blank rather than zero-filled — Lebanon and Jordan disappear from energy metrics; 2025-2026 data thins for non-energy metrics.</span>
+</div>
+```
