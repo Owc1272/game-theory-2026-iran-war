@@ -1,0 +1,223 @@
+---
+title: "Historical roots — pre-1979 Iran and the 2026 war"
+subtitle: "The 47-year-old Islamic Republic is not the analytical baseline. The relevant baseline runs to 1813 — and arguably to 1501. Eight structural patterns laid down between then and 1979 shape what Iran does in 2026."
+description: "The trust deficit is 200 years old, not 47. The bazaar-clergy alliance was forged in the 1891 Tobacco Protest. Khomeini's 1970 Najaf lectures specified the IRGC-Basij architecture nine years before it existed. Pre-1979 historical lineage deepens — without overturning — every analytical chapter on this site."
+categories: [historical-roots, pre-1979, context]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#what-this-changes" class="skip-link">Skip to what this changes about the analyses</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The 175-year frame
+
+```{=html}
+<div class="concise-only">
+```
+
+The 47-year-old Islamic Republic is not the right analytical baseline for what Iran does in 2026. The relevant baseline runs back to **1813** (Treaty of Golestan, Iran's first major territorial loss to Russia) and arguably to **1501** (Safavid imposition of Twelver Shi'ism). What looks like unprecedented escalation is a regime acting through institutional and ideological patterns laid down across two centuries: the bazaar-clergy alliance was forged in 1891-92; the trust deficit was laid in 1813-1907 and reinforced in 1953; Khomeini's 1970 Najaf lectures specified the IRGC-Basij architecture nine years *before* the 1979 revolution; the oil-and-state pattern was set by the 1901 D'Arcy Concession.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+The 47-year-old Islamic Republic (1979-2026) is not the right analytical baseline for understanding Iran's behavior in the 2026 war. The relevant baseline runs back to **1813** (Treaty of Golestan, the first major Iranian territorial loss to Russia) and arguably to **1501** (Safavid imposition of Twelver Shi'ism as state religion). What looks in 2026 like an Iranian regime engaged in unprecedented escalation is in fact a regime acting through institutional and ideological patterns laid down across two centuries.
+
+- The **bazaar-clergy alliance** that made the 1979 revolution and the 2026 IRGC-bonyad-clerical complex possible was forged in the 1891-92 Tobacco Protest.
+- The **trust deficit** that makes US-Iran negotiation structurally suspect was laid in 1813-1907 (Russo-British Great Game), reinforced in 1953 (CIA-MI6 coup), and operationalized in 1979 (hostage crisis).
+- The **velayat-e faqih** institutional design that produced today's IRGC dominance was articulated by Khomeini in nineteen Najaf lectures in **January-February 1970** — nine years before the revolution and 56 years before today.
+- The **oil-and-state** pattern that locks Iran into resource-rentier politics was set by the 1901 D'Arcy Concession and the 1908 founding of APOC.
+
+The Safavid-Islamic-Republic continuity is shallower than commonly assumed: the durable continuity is *Iran-as-Shi'i-state since 1501*, not *clerics-governing-the-state* (which is a 20th-century innovation). And the 1953 trust-deficit lineage is contested in the academic literature on causal weight, but its institutional weight in Iranian state ideology is real and load-bearing.
+
+```{=html}
+</div>
+```
+
+::: {.bottom-line}
+**Bottom line.** Eight structural patterns laid down pre-1979 shape what Iran does in 2026. They do not change the qualitative conclusions in the analytical chapters on this site — but they deepen several quantitatively, especially **Q1's trust deficit** (200 years, not 47), **Q6's reformist-failure base rate** (120 years and four sequential defeats), **Q10's oil-and-state genealogy** (1901 D'Arcy → 1954 IOP consortium → 2026), and **Q11's coalition prototype** (the 1953 Anglo-American intelligence team is the structural template for the 2026 US-Israel coalition).
+:::
+
+[The 27-piece corpus this page draws on is held in `C:\Claude\Projects\Iran_war\output\pre_1979\` and was built from Amanat's *Iran: A Modern History* (Yale 2017) plus supplementary canonical sources (Kinzer 2003, Mottahedeh 1985, Arjomand 1988, Parsa 1989, Kurzman 2004, Abrahamian 1982/2008, Khomeini's 1970 *Hokumat-e Islami*, the Wilber CIA history, Gasiorowski's TPBEDAMN documentation).]{.column-margin .deep-only}
+
+## Eight structural patterns
+
+### 1. The trust deficit lineage (1813 → 2026)
+
+::: {.concise-only}
+*Iran as object of great-power politics.* Treaty of Golestan (1813) cost Iran ~10% of territory and population. Turkmenchay (1828) imposed a 5-million-toman indemnity plus Russian capitulatory rights — template extended to Britain in 1841. 1907 Anglo-Russian Convention partitioned Iran into spheres of influence without Iranian consent. WWI: Iran fielded no soldiers, was not heard at Paris Peace Conference, and lost ~1 million dead (of ~9 million) to famine and Spanish flu. **The 1953 Anglo-American coup** (CIA + MI6 + Roosevelt-Wilber-Schwarzkopf + Zaehner-Derbyshire-Rashidian) was officially acknowledged in 2013 and formally taken credit for in 2023 — a fifty-year denial period that itself shaped distrust. **1979 hostage crisis** broke diplomatic relations for 47 years and counting.
+:::
+
+::: {.deep-only}
+*Iran as object of great-power politics, 1813-1907.* Treaty of Golestan (1813): Iran loses 17 Caucasian khanates (~10% of territory and population). Treaty of Turkmenchay (1828): 5-million-toman indemnity (~2× annual state revenue) plus Russian capitulatory rights — a template extended to Britain (1841) and other powers. 1908 Cossack coup: Russian Colonel Liakhov bombards the Majles with four artillery pieces; Amanat calls it "the first to bear the ominous signs of a modern military coup." 1907 Anglo-Russian Convention partitions Iran into spheres of influence without Iranian consent. 1911 Russian ultimatum demands Iran dismiss American adviser Morgan Shuster and pay indemnity for the cost of Russia's invasion of Iran; Majles voted to defy, the Bakhtiyari cabinet ignored the vote. WWI: Iran did not field a single soldier and was not allowed to bring grievances to the Paris Peace Conference; conservative estimate of 1+ million deaths from famine and Spanish flu out of population ~9 million.
+
+*1953: The Anglo-American coup.* $50K paid to Zahedi pre-coup; ~$70K spent on the 19 August mob; CIA paid Zahedi $1M personally + $5M to his government post-coup. Operational team: Roosevelt-Wilber-Schwarzkopf (US) + Zaehner-Derbyshire-Rashidian brothers (UK). The Wilber CIA history admits *false-flag operations* — CIA agents posing as Tudeh communists threatened Muslim leaders and bombed at least one cleric's home to alienate clergy from Mosaddegh. The CIA officially acknowledged the coup in August 2013 and formally took credit in 2023 — a fifty-year denial period that itself shaped Iranian distrust.
+
+*1979: The hostage crisis as foundational rupture.* 4 November 1979: 66 US embassy personnel seized; 52 held for 444 days. "Great Satan" rhetoric coined within weeks. Operation Eagle Claw failed 24 April 1980 (8 US servicemen dead). Algiers Accords resolved 19 January 1981 — hostages released hours after Reagan's inauguration. *US-Iran diplomatic relations have been broken for 47 years and never restored.*
+
+**The structural template.** The Truman → Eisenhower transition (substantive mediation in 1951 → coup decision in March 1953 within 6 weeks of Eisenhower's inauguration) is the structural template Tehran applies to every US administration transition. JCPOA (Obama 2015 → Trump withdrawal 2018) maps onto this template directly. *Tehran's institutional memory frames: frameworks reached with one US administration are abrogated by the next.* This sets the bargaining range for every subsequent negotiation, including 2026.
+:::
+
+### 2. The bazaar-clergy alliance (1891 → 2026)
+
+::: {.concise-only}
+*Origin: Tobacco Protest 1891-92.* Naser al-Din Shah granted a tobacco monopoly to British concessionaire Major Talbot; ~25% of Iranians smoked. The likely-fabricated Shirazi fatwa cancelled the concession; women in the Shah's own harem obeyed the fatwa over his command. The mechanics established: *clerical income depends on bazaar prosperity; bazaar mobilization depends on clerical sanction.* This is the genetic origin point of every subsequent Iranian mass movement — 1905-11 Constitutional Revolution, 1953, 1963 Khordad 15, 1978-79. By 2026 the IRGC + bonyads + clerical complex controls ~50%+ of Iranian GDP outside the formal state. *The template — bazaar-clergy alliance scaled into a parastatal complex — is older, deeper, and more replicable than IRGC org-charts suggest.*
+:::
+
+::: {.deep-only}
+*Origin: Tobacco Protest 1891-92.* Naser al-Din Shah granted a tobacco monopoly to British concessionaire Major Talbot. ~25% of the Iranian population were regular tobacco smokers. The merchant guild head likely fabricated the Shirazi fatwa from Mirza Hasan Shirazi (the senior Shi'i marja). Women in the shah's own harem obeyed the fatwa over the shah's command. Concession cancelled — the first modern Iranian mass movement. *Established the mechanics: clerical income depends on bazaar prosperity; bazaar mobilization depends on clerical sanction.* This is the genetic origin point of every subsequent Iranian mass mobilization, including 1905-11, 1953, 1963, 1978-79.
+
+*1979: The bazaar-clergy alliance fully operationalized.* 1960s Hay'atha-ye Mow'talefeh (bazaar-mosque coalition) built the network infrastructure. 1978 protest cycle ran on bazaar strikes + mosque mobilization + cassette tapes (a network template Khomeini pioneered with his 3 June 1963 Fayziyeh sermon). 1979 *komitehs* formalized the alliance as state structure. May 1979 IRGC formalization built the security counterpart. March 1979 Mostaz'afan Foundation absorbed all confiscated Pahlavi assets (became Iran's second-largest economic entity by 1989: 1,024 entities, $20B value).
+
+*2026: The same template, vastly more capitalized.* The IRGC + bonyads + clerical complex now controls ~50%+ of Iranian GDP outside the formal state. Khatam al-Anbiya: 800+ subsidiaries, $25B in oil/gas contracts (2009-11 alone). Setad: $95-200B in holdings. Mostaz'afan: 350 subsidiaries. *The institutional template — bazaar-clergy alliance scaled into a parastatal complex — is older, deeper, and more replicable than IRGC org-charts suggest. Defeating the IRGC kinetically does not eliminate the template.*
+:::
+
+### 3. The oil-and-state pattern (1901 → 2026)
+
+::: {.concise-only}
+1901 **D'Arcy Concession**: 60-year monopoly granted tax-free for £40,000 + 16% of "net profit" (calculated by the concessionaire). Khuzestan struck 1908; APOC founded same year. Churchill's 1914 Admiralty purchase made the British *government* the concession holder. 1933 AIOC revision extended the concession to 1993. 1954 **IOP consortium** (BP 40%, Shell 14%, five US majors 8% each, CFP 6%) gave Iran the 50/50 deal AIOC had refused Mosaddegh. *The 2026 oil situation is the third act of a story whose first two acts were the 1901 D'Arcy Concession and the 1953 coup.* Today's renminbi-toll regime is the doctrinal break that lets Iran exit the dollar plumbing the IOP consortium imposed.
+:::
+
+::: {.deep-only}
+*1901-1908: The original concession.* D'Arcy Concession (1901): 60-year monopoly granted tax-free for £40,000 + 16% of "net profit" (calculated by the concessionaire). Khuzestan struck 1908; APOC founded same year. Churchill's 1914 Admiralty purchase made the *British government* the concession holder.
+
+*1924-1933: The Imbrie killing and AIOC revision.* 1924 Imbrie killing of the Sinclair concession by a mob in Tehran — eliminated US oil entry at the time. 1933 AIOC revision extended the concession to 1993 (60 more years).
+
+*1951-1953: Mosaddegh's nationalization → 1953 coup.* Oil revenue: $45M (1950) → $905M (1969) — twentyfold nominal increase. Oil share of state revenue: 37% (1949-56) → 67% (1965). The 1954 IOP consortium gave Iran the 50/50 deal AIOC had refused Mosaddegh. *IOP composition: BP 40%, Royal Dutch Shell 14%, five US majors 8% each (Standard Oil of California / New Jersey / New York, Texaco, Gulf), CFP 6%.* This structure made Iran a definitively oil-rentier state.
+
+*1979 → 2026.* 1979 nationalization completed what Mosaddegh started; APOC/AIOC/IOP heritage liquidated. 51% of FY2024-25 oil revenue went to armed forces — direct militarization. Today's renminbi-toll regime is the doctrinal break that lets Iran exit the dollar plumbing the IOP consortium imposed in 1954. *The 2026 oil situation is the third act of a story whose first two acts were the 1901 D'Arcy Concession and the 1953 coup.*
+:::
+
+### 4. Khomeini's institutional design (1970 → 2026)
+
+::: {.concise-only}
+1963: Khomeini's Fayziyeh sermon (Qom, 3 June) and the Khordad 15 uprising (125-400 killed). 26 October 1964 capitulations speech: Khomeini linked US military judicial immunity to the hated Qajar capitulations — *"America is worse than Britain and Britain is worse than America..."* — the founding articulation of US-as-immediate-enemy frame. **The 1970 Najaf lectures** (*Hokumat-e Islami*, 21 January-8 February 1970): nineteen lectures that explicitly anticipated *sepah-e Islam* (→ IRGC, May 1979), *basij* (→ Basij paramilitary), *taghuti* (Pahlavi label, basis for revolutionary delegitimization), and *mufsid fi'l-ard* (still-used revolutionary court charge). **All four became operational law within nine years.** The 2026 IRGC-led outcome was institutionally conditioned by 56 years.
+:::
+
+::: {.deep-only}
+*The 1963 emergence.* 3 June 1963: Khomeini's Fayziyeh madrasa sermon (Qom) — first major use of recorded religious cassette for political mobilization in Iran. Khordad 15 (5 June 1963) uprising: 125-400 killed. 26 October 1964 capitulations speech: Khomeini linked US military judicial immunity to the hated Qajar capitulations — *"America is worse than Britain and Britain is worse than America..."* — *the founding articulation of US-as-immediate-enemy frame*. A week later: exiled to Iraq.
+
+*The 1970 Najaf lectures: Hokumat-e Islami / Islamic Government.* **Nineteen lectures delivered 21 January-8 February 1970**, published in Beirut later that year, smuggled into Iran throughout the 1970s. The text *explicitly anticipated*: *sepah-e Islam* (→ IRGC, founded 5 May 1979); *basij* (→ Basij paramilitary); *taghuti* (Pahlavi label, basis for revolutionary delegitimization); *mufsid fi'l-ard* (revolutionary court charge — still used today). **All four became operational law within nine years.** The 1989 constitutional revision made the Supreme Leader's guardianship "absolute" (*welayat-e motlaqeh*) — placing him above any constitutional constraint.
+
+*The 1979 implementation and 2026 endpoint.* 1979 IRGC formed explicitly as "a counterweight to the regular Iranian armed forces" (Amanat — directly applicable to today's Artesh-IRGC dynamic). 2008 Mosaic Defense reorganization (31 provincial corps) extended this counterweight design. 2026: Vahidi (founding Quds Force commander 1988-98) leads IRGC and effectively negotiates — the Quds Force institutional logic has captured the parent organization.
+
+*This is the canonical example of long-conditioned doctrine awaiting structural opening:* 13 years of network-building (1963-1976) + 9 years between doctrinal articulation and constitutional ratification (1970-1979) + 47 years of institutional maturation (1979-2026).
+:::
+
+### 5. The reformist failure base rate (1905 → 2026)
+
+::: {.concise-only}
+A recurring pattern across **120 years**: broad pluralistic urban coalition wins procedural opening → entrenched institutions + foreign-backed reaction + clerical defection crush the opening. *Four sequential failures:* **Constitutional Revolution (1905-1911)**: pluralism subordinated to autocracy within 6 years. **Mosaddegh (1951-53)**: pluralism subordinated within 27 months. **Khatami (1997-2005)**: press boom and intellectual flourishing crushed by Guardian Council vetoes and judicial repression. **Pezeshkian (2024-2026)**: 49% turnout (lowest in Islamic Republic history); 28 February 2026 strikes terminated this bet; now sidelined by Vahidi-led IRGC. **Western diplomatic strategies imagining a reformist-led pivot in Tehran are misconceived** — the reformist faction lacks structural power to constrain the IRGC-bonyad-clerical complex. This is not just a 2026 fact; it is a 120-year structural fact.
+:::
+
+::: {.deep-only}
+A recurring pattern across **120 years**: broad pluralistic urban coalition wins procedural opening → entrenched institutions + foreign-backed reaction + clerical defection crush the opening.
+
+**Constitutional Revolution (1905-1911).** Coalition of merchants, low-ranking clergy, dissident intellectuals. Wins constitutional charter 1906; Majles convened. 1908 Russian-backed Mohammad Ali Shah coup with Cossack artillery. 1911 Russian ultimatum forces Majles capitulation. Pluralism subordinated to autocracy within 6 years.
+
+**Mosaddegh (1951-1953).** Coalition of National Front + Tudeh + bazaar + reformist clergy (Kashani initially). Wins oil nationalization. 1953 CIA-MI6 coup, with Kashani's defection (clerical pattern recurring). Pluralism subordinated within 27 months.
+
+**Khatami (1997-2005).** "Dialogue of Civilizations"; 2nd of Khordad movement. Press boom; intellectual flourishing. Conservative pushback via Guardian Council vetoes, judiciary repression. Mass disqualifications neutralize the movement.
+
+**Pezeshkian (2024-2026).** 49% turnout (lowest in Islamic Republic history) — Khamenei's last attempt at controlled opening. 28 February 2026 strikes that killed Khamenei terminated this bet. Pezeshkian now sidelined by Vahidi-led IRGC; constitutional fig leaf of an effectively military government.
+
+**Implication for [Q6](analyses/q6-what-ends-the-war.qmd) (what ends the war).** Western diplomatic strategies imagining a reformist-led pivot in Tehran are misconceived because the reformist faction lacks structural power to constrain the IRGC-bonyad-clerical complex. *This is not just a 2026 fact — it is a 120-year structural fact.* The Iranian state has produced four sequential reform movements; all four were defeated by the same institutional mechanism (entrenched bureaucracy + religious establishment + foreign reaction + autocratic veto). Q6's Pathway A candidate ("Iranian internal coup/transition") should weight this base rate against optimism.
+:::
+
+### 6. Pahlavi-IRGC state-building parallels (1925 → 2026)
+
+::: {.concise-only}
+Despite ideological opposition, the Pahlavi state (1925-1979) and the Islamic Republic (1979-2026) are structurally similar in important ways: both are authoritarian-modernizing regimes centered on a single charismatic figure, sustained by a parallel security apparatus (Cossack-derived army → SAVAK → IRGC), funded by oil rentier income, engaged in massive infrastructure and social-engineering projects, and hostile to traditional political pluralism. **The IRGC didn't invent state-centralization; it inherited it from 50 years of Pahlavi state-building.** This is another argument for the *phased/structural* reading of 2026 (Q1.3) — the institutional architecture was prepared decades before Khomeini's return.
+:::
+
+::: {.deep-only}
+The Pahlavi state (1925-1979) and the Islamic Republic (1979-2026) appear ideologically opposite but are structurally similar in important ways. Both are: authoritarian-modernizing regimes; centered on a single charismatic figure (Reza Shah → Mohammad Reza → Khomeini → Khamenei); sustained by a parallel security apparatus (Reza Shah's Cossack-derived army → SAVAK → IRGC); funded by oil rentier income; engaged in massive infrastructure and social-engineering projects; hostile to traditional political pluralism.
+
+*Reza Shah's specifics (1925-1941).* Public schools grew 50× and education budget 200× between 1921-41. Literacy from 5% to 15%. Trans-Iranian Railroad cost ~$500M (most expensive Iranian project ever). Tehran population to 500,000 by 1941. Oil royalties = 25% of state revenue by 1940. 1936 unveiling decree (forced de-veiling of women).
+
+*Mohammad Reza's specifics (1953-1979).* 1963 White Revolution: land reform, women's suffrage, literacy corps. Annual budget: $1B (1965) → $8B (1971) → $48B (1977) — 48-fold. 1973-74 oil shock: $1.95/bbl → ~$11/bbl. 1975 Rastakhiz Party (one-party system). Iran was a net food importer by early 1970s. 1977 Carter human-rights pressure → selective liberalization → revolution.
+
+*The IRGC inversion (1979-2026).* Same authoritarian-modernizing template, *inverted into clerical-modernizing form*. Replaces Pahlavi monarchical legitimacy with *velayat-e faqih* religious legitimacy. Replaces SAVAK with IRGC + Basij + Ministry of Intelligence. Replaces Pahlavi-era foreign-direct-investment with bonyad-IRGC parastatal complex. *The structural template is the same; the ideological framing is opposite. This explains why the Islamic Republic could absorb and operationalize Pahlavi institutional infrastructure (military, civil service, oil sector) so quickly.*
+:::
+
+### 7. Pre-1979 regional positioning (1953 → 2026)
+
+::: {.concise-only}
+*Pre-1979 (1953-1979): Iran as US-aligned regional gendarme.* Periphery Doctrine: tacit Iran-Israel-Turkey alignment vs Arab nationalist threats. 1971 Pahlavi annexation of Abu Musa, Greater Tunb, Lesser Tunb (still UAE territorial dispute today). 1973-1975 Dhofar intervention on behalf of Oman against PFLO insurgency. 1975 Algiers Accord: Iran-Iraq border resolved on terms humiliating to Iraq (Saddam tore this up to start the 1980 war). US-supplied AWACS, F-14s, F-4s; Iran was the largest US arms customer in the world by mid-1970s. *Iran was the Persian Gulf's hegemonic guarantor on US/Israeli terms.* **The 47-year inversion of this reality is the conceptual baseline** against which today's GCC behavior — accept some Iran-containment costs but not all — must be read.
+:::
+
+::: {.deep-only}
+*Pre-1979 (1953-1979): Iran as US-aligned regional gendarme.* Periphery Doctrine: tacit Iran-Israel-Turkey alignment vs Arab nationalist threats. 1971: Pahlavi annexation of Abu Musa, Greater Tunb, Lesser Tunb (still UAE territorial dispute today). 1973-1975: Dhofar intervention on behalf of Oman against PFLO insurgency. 1975 Algiers Accord: Iran-Iraq border resolved on terms humiliating to Iraq (Saddam tore this up to start the 1980 war). US-supplied AWACS, F-14s, F-4s; Iran was the largest US arms customer in the world by mid-1970s. Israel: oil supply through Eilat-Ashkelon pipeline; intelligence cooperation. *Iran was the Persian Gulf's hegemonic guarantor on US/Israeli terms.*
+
+*1979 inversion → 2026 endpoint.* 1979 revolution: Iran exits the US security architecture. Hostage crisis ends Iran-US relations. Israel switches from Pahlavi-ally to existential adversary of revolutionary Iran. 1980-88 Iran-Iraq war: GCC backs Saddam; Iran isolated regionally. 2003 Iraq war removes Saddam (Iran's adversary) — opens pathway for Iran's regional reach via Iraqi Shia networks. 2011 Syria civil war: Iran backs Assad; Saudi backs Sunni opposition. 2015 JCPOA: temporary Iran-US thaw, GCC anxious. 2019 Abqaiq attack (5.7 mb/d disrupted) + Trump non-retaliation: Saudi internalizes US guarantee has limits. 2023 China-brokered Saudi-Iran rapprochement: GCC hedges. 2026 war: Saudi/UAE publicly support strikes but decline operational role; rapprochement in suspended animation.
+
+**The 47-year arc.** Iran went from US gendarme → US adversary → regional power → bracketed power. The GCC went from threatened-by-Iran-and-protected-by-US → threatened-by-Iran-but-uncertain-about-US-protection → hedging-between-Iran-and-US-and-China. *The pre-1979 Iran-as-Gulf-gendarme reality is the conceptual baseline against which today's GCC behavior — accept some Iran-containment costs but not all — must be read.*
+:::
+
+### 8. The 1953 coalition as 2026 prototype
+
+::: {.concise-only}
+The 1953 operational team **Roosevelt-Wilber-Schwarzkopf (US) + Zaehner-Derbyshire-Rashidian (UK)** is the *structural prototype* for the 2026 US-Israel coalition. *Two intelligence-led powers operating as one covert team* — the model is 73 years old. The 2026 inversion is that Israel now substitutes for the UK role, and the senior-junior dynamic is reversed (Israel is the strategic leader; US is the operational follower-with-veto). The 1953 coup was officially acknowledged by the CIA in 2013 and formally taken credit for in 2023 — meaning the *prototype* itself is now part of the public-domain US-side institutional memory in a way it was not when JCPOA was signed.
+:::
+
+::: {.deep-only}
+The 1953 operational team — Roosevelt-Wilber-Schwarzkopf (US) + Zaehner-Derbyshire-Rashidian (UK) — is the *structural prototype* for the 2026 US-Israel coalition. *Two intelligence-led powers operating as one covert team* — the model is 73 years old.
+
+The 2026 inversion is along the senior-junior axis. In 1953 the UK was the senior strategic partner with the operational concept (Operation Boot, MI6 originating); the US (Operation Ajax, CIA executing) was the junior follower with greater operational resources. In 2026, **Israel is the senior strategic partner with the operational concept** (Octopus Doctrine; Bennett 2018; Mar-a-Lago December 2025 meeting); **the US is the junior follower with greater operational resources**. The structural-similarity reading is what makes [Q11]{.gloss data-gloss="stackelberg-leader-follower"}'s Stackelberg leader-follower frame and the principal-agent severe-slippage frame both empirically plausible — they are 73-year-old patterns.
+
+The 1953 coup was officially acknowledged by the CIA in 2013 and formally taken credit for in 2023 — meaning the *prototype* itself is now part of the public-domain US-side institutional memory in a way it was not when JCPOA was signed. For Q11's coalition-structure question, this prototype is one of the project's strongest pre-1979 evidence lines.
+:::
+
+## What this changes about the analyses {#what-this-changes}
+
+The pre-1979 corpus does not change any qualitative conclusion in the analytical chapters on this site — but it deepens several quantitatively. Specifically:
+
+| Chapter | What pre-1979 deepens |
+|---|---|
+| [Q1 — Why bargaining failed](analyses/q1-why-bargaining-failed.qmd) | Trust deficit is **200 years**, not 47. Tehran applies the Truman → Eisenhower (1951-53) template to every US admin transition; JCPOA (2015-18) maps onto this template directly. |
+| [Q2 — War persistence](analyses/q2-war-persistence.qmd) | The IRGC was *designed* to make decapitation insufficient. The 135-year-old bazaar-clergy alliance gives capillary depth. Khomeini's 1964 capitulations speech makes external-enemy framing core to regime legitimacy. |
+| [Q3 — Ceasefire instability](analyses/q3-ceasefire-instability.qmd) | The 1954 IOP consortium agreement was technically generous but coercive origin made it structurally unstable for 25 years until 1979 nationalization. *Settlements through coercion are structurally fragile.* |
+| [Q5 — Bargaining range](analyses/q5-bargaining-range.qmd) | Iran's reservation point reflects 200 years of accumulated distrust. The 1951-1979 oil-sovereignty arc + 1980-88 war demonstrate that the regime can survive deep contraction. |
+| [Q6 — What ends the war](analyses/q6-what-ends-the-war.qmd) | The reformist-led-pivot scenario has a **120-year base rate of failure**. Four sequential defeats (Constitutional Revolution → Mosaddegh → Khatami → Pezeshkian). Q6's Pathway A probability should weight this against optimism. |
+| [Q9 — Europe-US relationship](analyses/q9-europe-us-relationship.qmd) | 1953 Anglo-American template had UK as the *senior* strategic partner — full role inversion 73 years later. WWI showed European powers treated Iran as marginal despite ~1 million Iranian deaths. |
+| [Q10 — US Hormuz interest](analyses/q10-us-hormuz-interest.qmd) | **1954 IOP consortium** (BP 40%, Shell 14%, five US majors 8% each) is the *genealogical origin* of US producer interest in Persian Gulf flows. The 2026 producer-interest question has a 70-year prehistory. |
+| [Q11 — US-Israel coalition](analyses/q11-us-israel-coalition.qmd) | **1953 Anglo-American team** (Roosevelt-Wilber-Schwarzkopf + Zaehner-Derbyshire-Rashidian) is the *structural prototype* for the 2026 coalition. Khomeini's October 1964 capitulations speech established the US-as-immediate-enemy framing now 62 years deep. |
+| [Q12.4 — Gulf wartime paradox](analyses/q12-4-gulf-paradox.qmd) | The **47-year inversion** of Iran-as-Gulf-gendarme is the conceptual baseline. 1971 Tunb annexation, 1973-75 Dhofar intervention, 1975 Algiers Accord. |
+| [Q12.5 — Post-war reconfiguration](analyses/q12-5-post-war-reconfiguration.qmd) | GCC behavior is managing 47 years of inverted Iranian regional posture, not just 2026. The Saudi-Iran 2023 rapprochement is a hedge on the inversion's stability. |
+
+::: {.deep-only}
+**Q-chapters not deepened by pre-1979 corpus:** Q1.1 (why 2026 specifically), Q1.4 (endogenous power-shift formal model), Q4 (operational counter-blockade feasibility — a present-tense question), Q7 (Russia in Ukraine), Q8 (China-Taiwan). These chapters address questions whose explanatory variables are predominantly post-1979 institutional or current-operational.
+:::
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+This page is derived from `output/pre_1979/SYNTHESIS.md` in the Iran_war corpus — 27 source pieces extracted from Abbas Amanat's *Iran: A Modern History* (Yale, 2017), supplemented by Stephen Kinzer's *All the Shah's Men* (2003), Roy Mottahedeh's *Mantle of the Prophet* (1985), Said Amir Arjomand's *The Turban for the Crown* (1988), Misagh Parsa's *Social Origins of the Iranian Revolution* (1989), Charles Kurzman's *The Unthinkable Revolution* (2004), Ervand Abrahamian's *Iran Between Two Revolutions* (1982) and *History of Modern Iran* (2008), Khomeini's 1970 Najaf lectures (*Hokumat-e Islami*), the Wilber CIA history, and Gasiorowski's TPBEDAMN documentation.
+
+**Per-section pieces in the corpus:**
+- *Mosaddegh + 1953 coup + White Revolution + Kinzer "All the Shah's Men"*: 8 pieces
+- *Khomeini exile + 1977-79 Revolution + canonical secondary sources*: 9 pieces
+- *Qajar + Constitutional Revolution + Reza Shah Pahlavi*: 7 pieces
+- *Safavid 1501-1797 (deep historical foundation)*: 3 pieces
+
+For the inverse mapping (each of the 12 analytical questions → relevant pre-1979 evidence with file paths), see `output/pre_1979/Q_MAPPING.md`.
+
+```{=html}
+</div>
+```

@@ -540,6 +540,14 @@ If this synthesis is wrong, the most likely failure modes are:
 <div class="deep-only">
 ```
 
+## Pre-1979 historical lineage
+
+The trust deficit that made the 27-28 February 2026 negotiating breakdown irreversible is older than the Trump-2 administration by nearly two centuries. The relevant baseline runs to 1813 (Treaty of Golestan, 17 Caucasian khanates lost), 1828 (Turkmenchay capitulatory regime; indemnity at ~2× annual state revenue), 1907 (Anglo-Russian Convention partition without Iranian consent), and the 1953 Anglo-American coup (Roosevelt-Wilber-Schwarzkopf + Zaehner-Derbyshire-Rashidian; CIA-acknowledged 2013, formally taken credit for 2023). Tehran's institutional memory applies the **Truman → Eisenhower (1951-53) template** — substantive mediation under one administration, coup decision within 6 weeks of the next — to every US administration transition. JCPOA (Obama 2015 → Trump withdrawal 2018) maps onto this template directly. By the time the 2026 Witkoff-Al-Busaidi window opened, Iran had already pre-committed reservation points against a **200-year frame, not a 47-year one**.
+
+Q1's Mechanism 1 (IRGC veto on enrichment concessions) is reinforced by this lineage. The IRGC institutional position was specified in Khomeini's January-February 1970 Najaf lectures (*Hokumat-e Islami*), which explicitly anticipated *sepah-e Islam* (→ IRGC, founded May 1979), *basij*, *taghuti* (Pahlavi delegitimization label), and *mufsid fi'l-ard* (still-used revolutionary-court charge) — *all four operational law within nine years*. For [Q1.3]{.column-margin .deep-only} (phased vs opportunistic), the 1970 doctrinal text is the strongest available evidence for the *phased/structural* reading: the 2026 IRGC-led outcome was institutionally conditioned over 56 years.
+
+**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+
 ## Sources & further reading
 
 The full reasoning, source-by-source corpus pull, devil's-advocate critique, briefing-review delta, briefing Round 8-9 enrichment, and tier audit live in the underlying analysis file: `Q1_why_bargaining_failed.md`.

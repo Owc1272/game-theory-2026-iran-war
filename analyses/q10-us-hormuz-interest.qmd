@@ -405,6 +405,14 @@ The most likely ways the analysis will be wrong:
 <div class="deep-only">
 ```
 
+## Pre-1979 historical lineage
+
+The Q10 question — whether the US has a *structural* interest in Hormuz NOT returning to pre-war flow levels — has a 70-year prehistory that strengthens the β-envelope finding. The genealogical origin of US producer interest in Persian Gulf flows is the **1954 IOP consortium**: BP 40%, Royal Dutch Shell 14%, **five US majors at 8% each** (Standard Oil of California, Standard Oil of New Jersey, Standard Oil of New York, Texaco, Gulf), CFP 6%. This structure was negotiated *immediately after* the 1953 CIA-MI6 coup that removed Mosaddegh; it gave Iran the 50/50 deal AIOC had previously refused, and gave US majors operational entry to the Iranian oil sector for the first time at scale. The earlier 1924 Imbrie killing (a mob in Tehran killed Robert Imbrie, eliminating the Sinclair Oil concession) had foreclosed US oil entry for thirty years; the 1953 coup reopened it.
+
+The deeper substrate runs to the 1901 D'Arcy Concession (60 years tax-free for £40,000 + 16% of "net profit" calculated by the concessionaire), the 1908 founding of APOC, Churchill's 1914 Admiralty purchase making the *British government* the concession holder, and the 1933 AIOC revision that extended the concession to 1993. The 1954 IOP consortium structure made Iran a definitively oil-rentier state. **The 2026 oil situation is the third act of a story whose first two acts were the 1901 D'Arcy Concession and the 1953 coup.** Trump's revealed preference for sustained Hormuz disruption operates on producer-coalition lobby weight (α), but the *structural envelope* (β) that makes this preference operationally feasible has a 70-year prehistory: command of the commons is older than the post-shale net-exporter status; the Saudi-exporter exception Krasner identified in 1976 was operationalized in the IOP framework in 1954.
+
+**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+
 ## Sources & further reading
 
 Companion analysis file: [`Q10_us_oil_producer_hormuz_interest.md`](https://github.com/) — final reconciled deliverable. Tier-2 abbreviated protocol; no separate steel-man / DA delegated cycle.

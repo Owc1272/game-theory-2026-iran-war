@@ -494,6 +494,16 @@ If this synthesis is wrong, the most likely failure modes are:
 <div class="deep-only">
 ```
 
+## Pre-1979 historical lineage
+
+The **1953 Anglo-American team** — Roosevelt-Wilber-Schwarzkopf (US, Operation Ajax / CIA) + Zaehner-Derbyshire-Rashidian brothers (UK, Operation Boot / MI6) — is the *structural prototype* for the 2026 US-Israel coalition. The model: *two intelligence-led powers operating as one covert team* with overlapping but not identical operational concepts and target sets. The 1953 operation included false-flag operations (CIA agents posing as Tudeh communists threatened Muslim leaders and bombed at least one cleric's home to alienate clergy from Mosaddegh — the Wilber CIA history admits this) and was officially acknowledged by the CIA in August 2013, with formal credit-taken in 2023.
+
+The 2026 inversion is along the senior-junior axis. In 1953 the UK was the *senior strategic partner* with the originating operational concept (MI6 had been working the Mosaddegh removal since 1951; the CIA initially declined and was brought in under Eisenhower); the US was the *junior follower* with greater operational resources. In 2026 the roles are reversed: **Israel is the senior strategic partner with the operational concept** ([Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"}; Bennett 2018; Mar-a-Lago December 2025); the US is the junior follower with greater operational resources. The 73-year-old structural homology is what makes both Q11's Stackelberg leader-follower framing and the [principal-agent severe-slippage]{.gloss data-gloss="principal-agent-slippage"} framing empirically plausible — they are not novel 2026 patterns but instances of a long-established Anglosphere-and-junior-partner-state covert-operation template.
+
+A second pre-1979 anchor: **Khomeini's 26 October 1964 capitulations speech** linked US military judicial immunity to the hated Qajar capitulations — *"America is worse than Britain and Britain is worse than America..."* — *the founding articulation of the US-as-immediate-enemy frame* — now 62 years deep in Iranian institutional discourse. This constrains what the 2026 US-Israel coalition can credibly offer Iran on any face-saving formula.
+
+**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+
 ## Sources & further reading
 
 The full reasoning, source-by-source corpus pull (`Q11_agent_A_corpus_pull.md`), per-decision-point empirical brief (`Q11_agent_B_case_pull.md`), devil's-advocate critique (`Q11_DA_critique.md`), briefing-review Round 9 enrichment, and source-confidence tier audit live in the underlying analysis file: `Q11_us_israel_coalition.md`.

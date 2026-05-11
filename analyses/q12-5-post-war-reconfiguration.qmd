@@ -433,6 +433,14 @@ If this synthesis is wrong, the most likely failure modes are:
 <div class="deep-only">
 ```
 
+## Pre-1979 historical lineage
+
+The 47-year arc from 1979 to 2026 is the load-bearing pre-1979 context for Q12.5's Configuration F finding. Iran went from US-aligned regional gendarme (1953-1979) → US adversary (1979) → regional power via Iraq's collapse (2003-2024) → bracketed regional power (2026 dual blockade). The GCC went from *threatened-by-Iran-and-protected-by-US* → *threatened-by-Iran-but-uncertain-about-US-protection* → *hedging-between-Iran-and-US-and-China*. **Configuration F is the third terminal state of this 47-year arc** — Saudi Arabia constructing a Sunni-Muslim third pole (Pakistan SMDA + Turkey KAAN + preserved Iran channel) is a re-assertion of long-pattern Gulf behavior that pre-dates the Carter Doctrine's pure US-protection bargain.
+
+The Saudi-Iran 2023 China-brokered rapprochement is best understood as **a hedge on the 47-year inversion's stability**: Saudi elites read 2019 (the Abqaiq attack disrupting 5.7 mb/d of production with no US retaliation) as the operational signal that the unconditional US security guarantee was contracting. The hedge was an option-call on Iranian regional moderation; the 2026 war exercised the option in the opposite direction, but the underlying hedge remains operative because the 47-year-old inversion *itself* is not stable — Iran could reassert regional primacy under any of several Q6 termination pathways (especially Pathway A regime change with an Iran-internal-coup leadership less ideologically Iranian-republican than the IRGC). Configuration F is Saudi insurance against *that* tail outcome — not just against Iranian survival, but against any reassertion of the Iran-as-Gulf-gendarme baseline that defined the 1953-1979 period.
+
+**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+
 ## Sources & further reading
 
 Companion analysis files (full audit trail): [`Q12.5_post_war_reconfiguration.md`](https://github.com/) — synthesis; [`Q12.5_agent_A_corpus_pull.md`](https://github.com/) — framework primitives; [`Q12.5_agent_B_case_pull.md`](https://github.com/) — empirical per-state brief; [`Q12.5_DA_critique.md`](https://github.com/) — devil's-advocate attack transcript.

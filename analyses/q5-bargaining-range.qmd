@@ -531,6 +531,14 @@ If this synthesis is wrong, the most likely failure modes are:
 <div class="deep-only">
 ```
 
+## Pre-1979 historical lineage
+
+Iran's reservation point in the 2026 bargaining range reflects 200 years of accumulated distrust, not 47 years of revolutionary institutional memory. The trust deficit lineage (1813 → 1828 → 1907 → 1953 → 1979) means Tehran reads every Western negotiation through the Truman → Eisenhower template — substantive mediation under one US administration, abrogation under the next. JCPOA (Obama 2015 → Trump withdrawal 2018) is the most recent operational example. This is structurally encoded in Iran's reservation point on enrichment, monitoring access, and verification regime — the floor Iran will accept is higher than a 47-year-old regime would set because the regime calibrates to a 200-year frame.
+
+The 1951-1979 oil-sovereignty arc demonstrates a load-bearing fact for Q5's empty-range finding: **the regime can survive deep contraction.** Oil revenue: $45M (1950) → $905M (1969) — twentyfold nominal increase under the AIOC/IOP regime, demonstrating that *foreign-controlled extraction* can produce regime-tolerable revenue. The 1980-88 Iran-Iraq war demonstrates the converse — *the regime survives major economic and military contraction* (population ~9 million dead-equivalent counting casualties + casualty-multipliers; Iran-Iraq cumulative GDP contraction the worst before Trump 1's -12%). The IMF's projected Iran -6.1% for 2026 is within the survivable band the regime has demonstrated tolerance for. *Iran's reservation point is set by what the regime has already survived* — and the answer is: a great deal. This widens Iran's tolerable floor and shrinks the available bargaining range, exactly as Q5 finds empirically.
+
+**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+
 ## Sources & further reading
 
 The full reasoning, source-by-source corpus pull, devil's-advocate transcript (`Q5_DA_critique.md`), briefing-review delta, and Round 8-9 enrichment live in the underlying analysis file: `Q5_bargaining_range.md`. Three companion files document the corpus pull (`Q5_agent_A_corpus_pull.md`), case-specific empirical extraction (`Q5_agent_B_case_pull.md`), and the devil's advocate critique transcript.

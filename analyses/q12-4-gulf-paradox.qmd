@@ -461,6 +461,14 @@ If this synthesis is wrong, the most likely failure modes are:
 <div class="deep-only">
 ```
 
+## Pre-1979 historical lineage
+
+The Q12.4 paradox — MBS-private + UAE-public pushing regime change while declining basing — must be read against a **47-year inversion of pre-1979 Iran-as-Gulf-gendarme reality**. Through the Pahlavi period (especially 1953-1979), Iran was the Persian Gulf's hegemonic guarantor on US/Israeli terms: tacit Iran-Israel-Turkey "Periphery Doctrine" alignment against Arab nationalist threats; **1971 Pahlavi annexation of Abu Musa, Greater Tunb, Lesser Tunb** (still UAE territorial dispute today); **1973-1975 Dhofar intervention** on behalf of Oman against PFLO insurgency; **1975 Algiers Accord** resolving Iran-Iraq border on terms humiliating to Iraq (Saddam tore this up to start the 1980 Iran-Iraq war); US-supplied AWACS, F-14s, F-4s; Iran was the largest US arms customer in the world by mid-1970s.
+
+That regional posture inverted in 1979 — but the institutional memory persisted in Gulf elites for 47 years. The current GCC behavior — accept some Iran-containment costs but not all — is the inheritance of a state that was once their hegemonic enforcer and is now their adversary. The 2026 paradox (push for regime change privately; decline basing publicly) is partly the calculation Q12.4's load-bearing mechanism (Ibish post-war retaliation risk) names; it is also partly the long memory of having been on the receiving end of Iran's regional projection in the 1970s — when annexation, intervention, and humiliating border settlements were live operational facts, not historical curiosities. The Saudi-Iran 2023 China-brokered rapprochement is the most recent expression of a Gulf hedge against future Iranian regional reassertion under that 47-year-old institutional memory.
+
+**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+
 ## Sources & further reading
 
 The full reasoning, source-by-source corpus pull, devil's-advocate critique, briefing-review delta, and tier audit live in the underlying analysis file: [`Q12.4_gulf_wartime_contradiction.md`](https://github.com/) (link will populate after first push).

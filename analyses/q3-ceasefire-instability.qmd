@@ -433,6 +433,14 @@ The most likely ways the analysis will be wrong:
 <div class="deep-only">
 ```
 
+## Pre-1979 historical lineage
+
+The closest historical analog to the Pakistan-brokered 8 April 2026 ceasefire's structural instability is the **1954 IOP consortium agreement**. That agreement was technically generous — the 50/50 deal AIOC had refused Mosaddegh — but the coercive origin (the 1953 Anglo-American coup that removed Mosaddegh) made it structurally unstable for the 25 years from 1954 to 1979 nationalization. The IOP composition (BP 40%, Royal Dutch Shell 14%, five US majors 8% each, CFP 6%) defined Iran's oil-rentier structure but was always vulnerable to renunciation once the underlying power-balance shifted. The base rate Q3 reads from this case: **settlements through coercion are structurally fragile even when their terms are objectively favorable.**
+
+The 1954 IOP case fires both Werner-Yuen H1 (battle-inconsistency before agreement — Mosaddegh's National Front retained significant base) and H2 (interrupted-war pattern — third-party pressure from the CIA-MI6 team produced the agreement). Walter 1997's third-party enforcement requirement was *partially* met (US/UK security guarantee against Soviet penetration; SAVAK as domestic enforcement), which is why the 1954 deal lasted 25 years rather than collapsing immediately. The 2026 Pakistan-brokered ceasefire lacks even that partial Walter condition (no third-party enforcer; UNSC vetoes preclude any) — predicting *much faster collapse* than the 25-year IOP precedent. The 8 April → 8 May violation cascade is consistent with the prediction.
+
+**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+
 ## Sources & further reading
 
 Companion analysis file: [`Q3_pakistan_ceasefire_instability.md`](https://github.com/) — final deliverable. Tier-2 abbreviated protocol; no separate steel-man / DA delegated cycle.

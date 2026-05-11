@@ -23,6 +23,8 @@ website:
     left:
       - text: "Primer"
         href: primer/index.qmd
+      - text: "Historical roots"
+        href: historical-roots.qmd
       - text: "Timelines"
         href: timelines/index.qmd
       - text: "Analyses"
@@ -52,6 +54,8 @@ website:
           href: primer/bargaining-model.qmd
         - text: "Audience costs and signaling resolve"
           href: primer/audience-costs.qmd
+        - text: "Hierarchy and clientelism"
+          href: primer/hierarchy-clientelism.qmd
     - id: timelines
       title: "Timelines"
       style: floating

@@ -441,6 +441,14 @@ The most likely ways the analysis will be wrong:
 <div class="deep-only">
 ```
 
+## Pre-1979 historical lineage
+
+The IRGC was *designed* to make decapitation insufficient. Amanat's reading of the May 1979 IRGC formalization — "a counterweight to the regular Iranian armed forces" — captures the institutional intent that the 2008 Mosaic Defense reorganization (31 provincial corps) later operationalized at scale. By the time Khamenei was killed on 28 February 2026, the IRGC had 47 years of maturation behind a 9-year-prior doctrinal blueprint (Khomeini's January-February 1970 Najaf lectures specifying *sepah-e Islam*, *basij*, *taghuti*, *mufsid fi'l-ard*) on top of a 135-year-old institutional substrate (the bazaar-clergy alliance, first operationalized in the 1891-92 Tobacco Protest when the likely-fabricated Shirazi fatwa cancelled a British tobacco concession and established the mechanic: *clerical income depends on bazaar prosperity; bazaar mobilization depends on clerical sanction*).
+
+This lineage matters for Q2's α mechanism (Iran-side regime-survival under Goemans + Weeks). The "survival = victory" framing internalized by the IRGC institutional elite is not a 2026 improvisation; it is the cognitive surface of a 62-year-old framework — Khomeini's 26 October 1964 capitulations speech (linking US military judicial immunity to the hated Qajar capitulations: *"America is worse than Britain and Britain is worse than America..."*) is the founding articulation of the *US-as-immediate-enemy* frame that makes external-enemy mobilization core to regime legitimacy. **Defeating the IRGC kinetically does not eliminate the template.** The Q2 retrospective persistence finding has a 135-year institutional substrate; the prospective admin-contingency through β does not change the α structural depth.
+
+**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+
 ## Sources & further reading
 
 Companion analysis file: [`Q2_war_persistence_past_initial_strikes.md`](https://github.com/) — final deliverable. Tier-2 abbreviated protocol; no separate steel-man / DA delegated cycle.
