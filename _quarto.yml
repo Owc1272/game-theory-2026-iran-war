@@ -34,7 +34,7 @@ website:
           - text: "The trust-deficit lineage (1813-2026)"
             href: historical-roots/trust-deficit.qmd
       - text: "Data"
-        href: timelines/index.qmd
+        href: data/index.qmd
       - text: "Analyses"
         href: analyses/index.qmd
       - text: "Glossary"
@@ -88,12 +88,12 @@ website:
           href: historical-roots/reformist-failure-base-rate.qmd
         - text: "The trust-deficit lineage (1813-2026)"
           href: historical-roots/trust-deficit.qmd
-    - id: timelines
+    - id: data
       title: "Data"
       style: floating
       collapse-level: 2
       contents:
-        - timelines/index.qmd
+        - data/index.qmd
     - id: analyses
       title: "Analyses"
       style: floating

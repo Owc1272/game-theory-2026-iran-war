@@ -2,7 +2,7 @@
 title: "Iran in regional and global context — interactive viz"
 subtitle: "Energy, demographics, wealth, and military spending across 18 countries, 1979-2026, with a linked choropleth map. Pick the metric, time range, and countries — both figures update reactively."
 description: "How does Iran's energy, demographic, economic, and military trajectory compare to its Gulf neighbors and to the US, Russia, and China? Two reactive figures driven by ~8,500 country-year-metric rows from the Energy Institute Statistical Review, World Bank, EIA, OPEC, IEA, and SIPRI. Map auto-zooms to the selected countries; choropleth color reflects the chart's selected metric over the chart's time range; or unlink the two and drive the map independently."
-categories: [timelines, interactive, energy, demographics, military, comparative]
+categories: [data, interactive, energy, demographics, military, comparative]
 date: 2026-05-11
 format:
   html:
@@ -62,12 +62,12 @@ A standalone map (Figure 3, below) shows 2026-war-and-precursor strike events wi
 
 ```{ojs}
 //| echo: false
-data = FileAttachment("../data/country-metrics.csv").csv({typed: true})
+data = FileAttachment("country-metrics.csv").csv({typed: true})
 ```
 
 ```{ojs}
 //| echo: false
-geo = FileAttachment("../data/world-countries-simplified.geojson").json()
+geo = FileAttachment("world-countries-simplified.geojson").json()
 ```
 
 ```{ojs}
@@ -405,7 +405,7 @@ A standalone map of 257 distinct strike-or-cluster events from Oct 2023 through 
 
 ```{ojs}
 //| echo: false
-strikes = FileAttachment("../data/strike-events.csv").csv({typed: true})
+strikes = FileAttachment("strike-events.csv").csv({typed: true})
 ```
 
 ```{ojs}
@@ -507,6 +507,17 @@ viewof bubbleSizeBy = Inputs.radio(["event_count", "severity"], {
     ? (d) => Math.sqrt(parseCount(d.event_count)) * 1.6 + 3
     : (d) => (severityNum[d.severity] || 1) * 4 + 3;
 
+  // Tooltip composer (used by Plot.tip + Plot.pointer below)
+  const strikeTooltip = (d) => {
+    const dateStr = (d.date instanceof Date)
+      ? d.date.toISOString().slice(0, 10)
+      : d.date;
+    return `${dateStr} — ${d.country}, ${d.region}\n` +
+           `Target: ${d.target_description}\n` +
+           `Type: ${d.target_type} · Attribution: ${d.attributed_source} · Severity: ${d.severity}\n` +
+           `Events in cluster: ${d.event_count} · Source: ${d.source_id} (${d.tier})`;
+  };
+
   return Plot.plot({
     width,
     height: isMobile ? 360 : 540,
@@ -532,7 +543,7 @@ viewof bubbleSizeBy = Inputs.radio(["event_count", "severity"], {
         stroke: "#cccccc",
         strokeWidth: 0.5
       }),
-      // Strike bubbles (jittered slightly to reduce overlap at exact city centroids)
+      // Strike bubbles
       Plot.dot(filteredStrikes, {
         x: "lon",
         y: "lat",
@@ -540,18 +551,16 @@ viewof bubbleSizeBy = Inputs.radio(["event_count", "severity"], {
         fill: "attributed_source",
         stroke: "white",
         strokeWidth: 0.8,
-        fillOpacity: 0.65,
-        tip: { lineWidth: 40, fontSize: isMobile ? 12 : 13 },
-        title: d => {
-          const dateStr = (d.date instanceof Date)
-            ? d.date.toISOString().slice(0, 10)
-            : d.date;
-          return `${dateStr} — ${d.country}, ${d.region}\n` +
-                 `Target: ${d.target_description}\n` +
-                 `Type: ${d.target_type} · Attribution: ${d.attributed_source} · Severity: ${d.severity}\n` +
-                 `Events in cluster: ${d.event_count} · Source: ${d.source_id} (${d.tier})`;
-        }
+        fillOpacity: 0.65
       }),
+      // Hover tooltip — separate Plot.tip + Plot.pointer mark, matching Fig 1's pattern
+      Plot.tip(filteredStrikes, Plot.pointer({
+        x: "lon",
+        y: "lat",
+        title: strikeTooltip,
+        lineWidth: 40,
+        fontSize: isMobile ? 12 : 13
+      })),
       // Country labels for the most strike-heavy countries
       Plot.text(
         geo.features.filter(f =>
