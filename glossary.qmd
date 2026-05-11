@@ -459,3 +459,27 @@ Suzanne Werner's "The Precarious Nature of Peace" (1999) and related war-termina
 [Q2](analyses/q2-war-persistence.qmd)'s load-bearing base-rate test: same US administration (Trump), same Iranian state, two strike outcomes 6 years apart. *January 2020 — Qasem Soleimani killed* (IRGC Quds Force commander; operationally critical but institutionally replaceable; Qaani installed without regime crisis): Iran's response was symbolic strikes on US Iraqi bases; the conflict de-escalated. *February 2026 — Ali Khamenei killed* (Supreme Leader; regime-defining figure; succession unresolved): IRGC consolidation under Vahidi; sustained war; refusal to settle. The differential validates Goemans's gamble-for-resurrection prediction — persistence is proportional to the regime-defining-ness of the struck leader, holding admin and target state constant.
 
 *Primer chapter:* forthcoming.
+
+---
+
+## Mediation-induced time-inconsistency (Beardsley, 2008)
+
+Kyle Beardsley's "Agreement without Peace?" (2008) showed empirically — across the 1918-2001 international-crisis-behavior dataset — that mediation produces a counterintuitive failure pattern. Mediated crises are *less* likely to recur immediately (first 4 years) but *more* likely to recur further in the future. The mechanism: mediators create artificial incentives via information provision, leveraging costs, and monitoring/enforcement promises that temporarily expand the apparent bargaining range. When mediator influence wanes, the artificial expansion contracts, leaving the agreement outside the (now smaller) bargaining range. [Q3](analyses/q3-ceasefire-instability.qmd) reads the Pakistan-brokered 8 April 2026 ceasefire's 9-days-later first violations and 30-day collapse trajectory as Beardsley's pattern in execution.
+
+*Primer chapter:* forthcoming.
+
+---
+
+## Ceasefire failure diagnostics (Werner & Yuen, 2005)
+
+Suzanne Werner and Amy Yuen's "Making and Keeping Peace" (2005) empirically tested two hypotheses on the 1946-1997 interstate-war dataset (48 cases). H1: ceasefires after wars with *consistent battle outcomes* are at decreased risk of failure. H2: ceasefires after *interrupted wars* (third-party pressure terminating fighting before military convergence) are at increased risk of failure. The Iran-US 2026 ceasefire fires both hypotheses simultaneously: battle outcomes are inconsistent (Iran absorbed strikes but retained chokepoint denial) and the war was interrupted before military convergence by Pakistani pressure. See [Q3](analyses/q3-ceasefire-instability.qmd).
+
+*Primer chapter:* forthcoming.
+
+---
+
+## Spoilers (Stedman, 1997)
+
+Stephen John Stedman's "Spoiler Problems in Peace Processes" (1997) defined *spoilers* as actors with incentives to subvert peace agreements and classified them into three types. *Limited spoilers* pursue specific limited goals and can be inducted to compliance. *Greedy spoilers* pursue maximalist but expandable goals and require coercion. *Total spoilers* oppose any peace agreement on existential grounds; they can only be coerced or eliminated. The framework also names three *custodian strategies* mediators can apply: coercion, inducement, socialization. [Q3](analyses/q3-ceasefire-instability.qmd) classifies the IRGC under Vahidi as a total spoiler, Netanyahu as a limited spoiler, and finds Pakistan as custodian lacking coercion, inducement, and socialization capacity.
+
+*Primer chapter:* forthcoming.

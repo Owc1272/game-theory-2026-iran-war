@@ -1,0 +1,450 @@
+---
+title: "Q3 — Why is the Pakistan-brokered ceasefire unstable?"
+subtitle: "Beardsley's mediation literature predicted the 9-days-later first violations. Werner-Yuen's H1 + H2 diagnostics both fire. Pakistan as custodian lacks coercion, inducement, and socialization. The ceasefire was structurally doomed at signing."
+description: "Three mechanisms — mediation time-inconsistency, structural infeasibility, spoiler dynamics — explain the 8 April → 8 May violation cascade. The Vukovic 'stable equilibrium' framing is correct for war persistence; wrong for ceasefire compliance."
+categories: [analysis, q3, ceasefire-instability, mediation, beardsley, werner-yuen, stedman]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+On 8 April 2026, Pakistan brokered a US-Iran ceasefire. Nine days later, the first violations: Iran attempted Hormuz transits; the US did not reciprocally lift any sanctions. On 20 April, the US Navy seized the tanker *Touska*. On 4 May, Operation Project Freedom sank six IRGCN fast attack craft. On 7-8 May, US strikes on Bandar Abbas and Qeshm; UAE shootdowns; US strikes on empty oil tankers. One month from signing, the ceasefire is in operational collapse. Why?
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+On 8 April 2026, after six weeks of war following the 28 February strikes, Pakistan brokered a US-Iran ceasefire agreement. Nine days later — on 17-18 April — the first violations registered: Iran attempted a Hormuz transit against the agreement's no-transit understanding; the US did not reciprocally lift any sanctions as the agreement contemplated. On 20 April the US Navy seized the tanker *Touska* in a denial-coded operation that signaled the ceasefire's enforcement provisions were not binding US action. On 4 May Operation Project Freedom (the US-led Hormuz reopening) sank six IRGCN fast attack craft in escort operations. On 7 May US strikes hit IRGCN command nodes at Bandar Abbas and Qeshm. On 8 May UAE Patriot batteries shot down inbound missiles; US strikes destroyed two empty oil tankers off the Iranian coast in what analysts read as denial signaling. One month from signing, the ceasefire is in operational collapse, the dual blockade continues, and the war is back to active hostilities. Why? The standard "ceasefires fail because the underlying disputes are unresolved" answer is too thin — it doesn't explain the specific 9-days-later trajectory, doesn't engage why Pakistan failed where some mediators succeed, and cannot distinguish between the ceasefire being unstable and the war being stable. The puzzle Q3 sets: *what specifically — mechanism by mechanism — broke the Pakistan-brokered ceasefire so quickly?*
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *Principled multi-framework ceasefire-instability (P ≈ 0.75)* — the highest-confidence Q-finding in the project's Tier-2 cluster. Three mechanisms. **α'** — [Beardsley mediation time-inconsistency]{.gloss data-gloss="beardsley-mediation-time-inconsistency"} + [Werner-Yuen H1+H2 firing]{.gloss data-gloss="werner-yuen-ceasefire-failure"}. **β'** — Structural infeasibility per [Walter 1997]{.gloss data-gloss="walter-third-party-enforcement"} no-enforcer + [Werner 1999 all-three-diagnostics-fail]{.gloss data-gloss="werner-peace-durability"}. **γ'** — Spoiler dynamics per [Stedman 1997]{.gloss data-gloss="stedman-spoilers"} + [Kydd biased-mediator]{.gloss data-gloss="kydd-biased-mediator"} misconfiguration + Putnam win-set non-overlap. Structurally-locked-in for war's duration.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *Principled multi-framework ceasefire-instability (P ≈ 0.75)* — the highest-confidence Q-finding in the project's Tier-2 cluster, supported by strong T1 empirical foundation (the 8 April → 8 May violation cascade is fully observable) and strong T2 framework foundation (Beardsley + Werner-Yuen + Walter empirics directly apply). Three load-bearing mechanisms, mutually reinforcing. **α' — [Beardsley mediation-induced time-inconsistency]{.gloss data-gloss="beardsley-mediation-time-inconsistency"} under interrupted-war + battle-inconsistency** (P operative 0.95; P load-bearing 0.65). Pakistan-brokered 8 April agreement is exactly the case Beardsley + [Werner-Yuen]{.gloss data-gloss="werner-yuen-ceasefire-failure"} predict will fail. Mediator pressure artificially expanded the apparent bargaining range; once Pakistan's leverage decayed, the range contracted back below the agreement, producing inevitable violations. Werner-Yuen H1 (battle-inconsistency: Iran absorbed strikes while retaining chokepoint denial) and H2 (interrupted-war: ceasefire occurred before military convergence) both fire simultaneously. **β' — Structural infeasibility — no available third-party enforcement + Werner three diagnostics all fail** (P operative 0.95; P load-bearing 0.60). [Walter 1997]{.gloss data-gloss="walter-third-party-enforcement"} requires third-party security guarantee for credible commitment; Pakistan + Oman + China lack both impartiality and military enforcement capacity; China + Russia vetoed UNSC enforcement; US would veto Russia/China-led enforcement. [Werner 1999]{.gloss data-gloss="werner-peace-durability"} three diagnostics all fail: issues unresolved (Iran's 14-point framework vs US terms have no overlap), enforcement absent (Walter condition unmet), balance-of-power inconsistent. **γ' — Spoiler dynamics + Putnam win-set non-overlap + [Kydd biased-mediator]{.gloss data-gloss="kydd-biased-mediator"} misconfiguration** (P operative 0.80; P load-bearing 0.50). IRGC under Vahidi is a [total spoiler]{.gloss data-gloss="stedman-spoilers"} (Q2 α-stake); Netanyahu is a limited spoiler (Q11 red line); Pakistan as custodian lacks coercion, inducement, and socialization capacity per [Stedman 1997]{.gloss data-gloss="stedman-spoilers"}; Pakistan's NATO-ally + Sunni-majority + Saudi-aligned status produces *suboptimal* Kydd-bias configuration — Iran discounts Pakistani endorsements. Putnam Level-II win-set intersection across Trump + IRGC + Netanyahu is empty. Q3 is the **fifth principled-multi-framework case** in the project (after Q7, Q9, Q10, Q2). Five load-bearing T3 inferences cap the posterior at ≤ 0.75 (less aggressive cap due to strong T1/T2 foundation). The Vukovic "Nash equilibrium nobody wants but stable" framing is partially correct: stable at *war persistence*; unstable at *ceasefire compliance*.
+:::
+
+```{=html}
+</div>
+```
+
+[Most distinctive analytical contribution: the **operational time-inconsistency trajectory** — the 8 April → 17-18 April → 20 April → 4 May → 8 May violation cascade is a textbook Beardsley + Werner-Yuen failure pattern, with specific date-stamps mapping to mechanism predictions. Second contribution: Pakistan's [Kydd-bias]{.gloss data-gloss="kydd-biased-mediator"} configuration is suboptimal *in the wrong direction* — toward US/Sunni rather than toward Iran, so Iran discounts Pakistani endorsements of US concessions. Oman would have been better-configured.]{.column-margin .deep-only}
+
+```{=html}
+<div class="deep-mode-indicator">
+<strong>Deep mode is on.</strong> Paragraphs expand with the violation-cascade trajectory, the three mechanisms in detail, the Vukovic disambiguation, base-rate analysis on historical interrupted-war ceasefires, source-confidence audit, and pre-mortem. Switch back to <em>Concise</em> at the top of the page to collapse.
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — Tier-2 abbreviated protocol + the project's most aggressive mechanism reduction
+
+This chapter applies the Tier-2 abbreviated protocol with three new corpus acquisitions (Beardsley 2008 primary, Werner-Yuen 2005 primary, Greig 2005 compilation). The candidate mechanism set reduced from *seventeen* to three via META rule 4 discipline — the most aggressive reduction in any Q-execution so far, justified because the corpus is unusually rich for Q3 and many mechanisms converge on the same outcome through related theoretical pathways. The reduced three (α' + β' + γ') have natively distinct literature domains: mediation-specific (Beardsley + Werner-Yuen), structural-commitment-trap (Walter + Werner 1999 + Powell-Reiter + Pape + Schelling), and spoiler/mediator/two-level-actor (Stedman + Kydd + Putnam). Q3 is the fifth principled-multi-framework case in the project; the pattern is well-validated. The headline posterior at 0.75 is the highest in the Tier-2 cluster (vs Q10 at 0.55; Q2 at 0.65) due to strong empirical T1 foundation (the violation cascade is directly observable) and strong T2 framework foundation (Beardsley + Werner-Yuen empirics directly apply).
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  A[8 April 2026<br/>Pakistan brokers<br/>US-Iran ceasefire]
+  A --> V1[17-18 April<br/>9 days later<br/>Iran transit attempt<br/>US no reciprocal lift]
+  V1 --> V2[20 April<br/>US Navy seizes<br/>Touska]
+  V2 --> V3[4 May<br/>Project Freedom<br/>6 IRGCN FAC sunk]
+  V3 --> V4[7 May<br/>US strikes<br/>Bandar Abbas<br/>+ Qeshm]
+  V4 --> V5[8 May<br/>UAE shootdowns<br/>+ US strikes<br/>empty tankers]
+  classDef a fill:#0969da,color:#fff,stroke:#0969da
+  classDef v fill:#ffe5d9,stroke:#cf222e
+  class A a
+  class V1,V2,V3,V4,V5 v
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**The violation cascade.** Nine days after the 8 April signing, the first violations — Iran's Hormuz transit attempt and the US's failure to reciprocally lift sanctions — registered. Twelve days later, the *Touska* seizure. By 4 May, active escort combat. By 7-8 May, expanded strikes. One month from signing, the ceasefire is in operational collapse. This is the **textbook Beardsley + Werner-Yuen failure pattern** — the operational time-inconsistency trajectory in real time.]{.concise-only}
+
+::: {.deep-only}
+**The 8 April → 8 May violation cascade.** Pakistan brokered the 8 April 2026 ceasefire after six weeks of active war following the 28 February strikes. The agreement contemplated a phased no-transit / sanctions-lift exchange with monitoring promises. *17-18 April — first violations*: Iran attempted a Hormuz transit against the agreement's no-transit understanding (a contested test of US restraint); the US did not reciprocally lift any sanctions as the agreement's first phase contemplated. This is the [Beardsley time-inconsistency]{.gloss data-gloss="beardsley-mediation-time-inconsistency"} mechanism in execution: the agreement's terms required reciprocal performance neither side was structurally willing to deliver without external compulsion. *20 April — *Touska* seizure*: the US Navy seized the tanker *Touska* in a denial-coded operation that signaled enforcement-side hardening. *4 May — Operation Project Freedom launches*: the US-led Hormuz reopening sank six IRGCN fast attack craft in escort operations; this is a fundamental violation of the ceasefire's no-active-hostilities provision. *7 May — strikes on Bandar Abbas and Qeshm*: US strikes hit IRGCN command nodes inside Iranian territory; ceasefire is now in active collapse. *8 May — multi-axis escalation*: UAE Patriot batteries shot down inbound missiles; US strikes destroyed two empty oil tankers off the Iranian coast in denial signaling. *The trajectory matches Beardsley + Werner-Yuen predictions point-by-point*: mediator-induced agreement (Pakistan pressure), short-term success (formal signing), rapid time-inconsistency manifestation (9-day onset of violations), accelerating cascade through 30 days as battle-inconsistency + interrupted-war pattern asserted themselves.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  A1[α' Mediation-induced<br/>time-inconsistency]
+  A1 --> B[Beardsley 2008:<br/>mediator pressure<br/>artificially expands<br/>bargaining range]
+  A1 --> WY1[Werner-Yuen H1:<br/>battle-inconsistency<br/>Iran retained<br/>chokepoint denial]
+  A1 --> WY2[Werner-Yuen H2:<br/>interrupted-war<br/>ceasefire before<br/>military convergence]
+  B --> O[Mediator leverage decays<br/>range contracts<br/>agreement falls outside]
+  WY1 --> O
+  WY2 --> O
+  classDef a fill:#0969da,color:#fff,stroke:#0969da
+  classDef f fill:#f6f8fa,stroke:#d0d7de
+  classDef o fill:#ffe5d9,stroke:#cf222e
+  classDef gt-gloss-beardsley-mediation-time-inconsistency stroke-width:2px
+  classDef gt-gloss-werner-yuen-ceasefire-failure stroke-width:2px
+  class A1 a
+  class B,WY1,WY2 f
+  class B gt-gloss-beardsley-mediation-time-inconsistency
+  class WY1 gt-gloss-werner-yuen-ceasefire-failure
+  class WY2 gt-gloss-werner-yuen-ceasefire-failure
+  class O o
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**α' — [Beardsley mediation-time-inconsistency]{.gloss data-gloss="beardsley-mediation-time-inconsistency"} + [Werner-Yuen H1+H2]{.gloss data-gloss="werner-yuen-ceasefire-failure"}**. Mediator pressure artificially expanded the apparent bargaining range; once Pakistan's leverage decayed, the range contracted and the agreement fell outside it. H1 (battle-inconsistency) and H2 (interrupted-war) both fire. Historical cases firing both — Korean 1953, Indo-Pakistani 1948/65/71, Israel-Egypt 1948-67-73, Minsk I/II — all failed at very high rate.]{.concise-only}
+
+::: {.deep-only}
+**Mechanism α' — [Beardsley mediation-induced time-inconsistency]{.gloss data-gloss="beardsley-mediation-time-inconsistency"} under interrupted-war + battle-inconsistency** (P operative 0.95; P load-bearing 0.65). The framework combination: Beardsley 2008 established empirically across the 1918-2001 international-crisis-behavior dataset that mediated crises fail at higher long-term rate than unmediated ones — the mediator's artificial incentives (information provision, leveraging costs, monitoring/enforcement promises) temporarily expand the apparent bargaining range; once mediator influence wanes, the artificial expansion contracts. Werner-Yuen 2005 tested two hypotheses on 48 interstate wars 1946-1997: H1 — ceasefires after wars with *consistent battle outcomes* (both sides updated to revealed military reality) are at decreased risk of failure; H2 — ceasefires after *interrupted wars* (third-party pressure before military convergence) are at *increased* risk because terms don't reflect underlying balance of power. The Pakistan-brokered 2026 ceasefire fires both H1 and H2 simultaneously. *H1 (battle-inconsistency)*: Iran absorbed direct strikes on nuclear infrastructure, command nodes, and the Supreme Leader's location but retained chokepoint denial capacity, alternative architecture (renminbi-toll), and IRGC institutional consolidation. The US imposed massive costs but did not achieve denial of Iran's strategic options. Both sides retained reason to believe renewed war could yield better terms. *H2 (interrupted-war pattern)*: Pakistan's third-party pressure produced agreement before military convergence — neither side had yet reached the position where renewed fighting was clearly unprofitable. Historical cases firing both H1 and H2: Korean 1953 armistice (high-intensity stalemate; UN/US pressure; held as frozen conflict with persistent DMZ violations); Indo-Pakistani 1948 / 1965 / 1971 (UN-pressured; repeated failure); Israel-Egypt 1948-67-73 (UN/US-pressured; repeated failure until Camp David); Russia-Ukraine 2014-22 Minsk I/II (multilateral pressure; both failed within months). The 2026 Iran-US case is in this base-rate pattern. The 9-days-later first violations and 30-day cascade are *consistent with very-high-failure-rate base rate*. Counter-example: Iran-Iraq 1988 UN Resolution 598 held because both sides were financially/militarily exhausted — reservation points converged through exhaustion. This exception does not apply to 2026: neither side is exhausted; both retain substantial military capacity.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  B1[β' Structural<br/>infeasibility]
+  B1 --> W1[Walter 1997:<br/>no third-party<br/>enforcer available]
+  B1 --> WE1[Werner 1999<br/>diagnostic 1:<br/>issues unresolved]
+  B1 --> WE2[Werner 1999<br/>diagnostic 2:<br/>enforcement absent]
+  B1 --> WE3[Werner 1999<br/>diagnostic 3:<br/>balance-of-power<br/>inconsistent]
+  classDef b fill:#0969da,color:#fff,stroke:#0969da
+  classDef f fill:#f6f8fa,stroke:#d0d7de
+  classDef gt-gloss-walter-third-party-enforcement stroke-width:2px
+  classDef gt-gloss-werner-peace-durability stroke-width:2px
+  class B1 b
+  class W1,WE1,WE2,WE3 f
+  class W1 gt-gloss-walter-third-party-enforcement
+  class WE1 gt-gloss-werner-peace-durability
+  class WE2 gt-gloss-werner-peace-durability
+  class WE3 gt-gloss-werner-peace-durability
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**β' — Structural infeasibility.** [Walter 1997]{.gloss data-gloss="walter-third-party-enforcement"} no third-party enforcer (Pakistan + Oman + China lack capacity + impartiality; UNSC vetoed). [Werner 1999]{.gloss data-gloss="werner-peace-durability"} all three diagnostics fail: issues unresolved (Iran's 14-point vs US terms — no overlap); enforcement absent (Walter unmet); balance-of-power inconsistent (Iran's revealed strategic options exceed settlement-acceptable terms). Structurally-locked-in.]{.concise-only}
+
+::: {.deep-only}
+**Mechanism β' — Structural infeasibility: no third-party enforcement + all three Werner diagnostics fail** (P operative 0.95; P load-bearing 0.60). The framework combination: [Walter 1997]{.gloss data-gloss="walter-third-party-enforcement"} argued civil-war and analogous interstate-war settlements require third-party security guarantee for credible commitment; without external enforcement, combatants cannot credibly disarm or comply because each fears the other will renege. [Werner 1999]{.gloss data-gloss="werner-peace-durability"} identified three jointly-necessary conditions for post-war peace durability: issue resolution, enforcement, balance-of-power consistency. The Q3 application: all three Werner diagnostics fail simultaneously. *Issue resolution*: Iran's 14-point framework (regime preservation, enrichment access, Hormuz-toll regime, sanctions relief, missile programs preserved, IAEA access limited) has no overlap with US terms (regime change or constrained Iranian regime, zero enrichment, free Hormuz transit, sanctions architecture preserved, missile programs dismantled, full IAEA access). The bargaining ranges are operationally empty per Q5. *Enforcement*: Pakistan lacks military capacity to compel either side; Oman is too small; China + Russia vetoed UNSC enforcement; US would veto Russia/China-led enforcement; no major-power coalition with both capacity and impartiality is available. *Balance-of-power consistency*: Iran's revealed strategic options (chokepoint denial, alternative architecture, renminbi-toll, IRGC consolidation) demonstrate continued bargaining power exceeding settlement-acceptable terms; any settlement would require Iran to accept terms premised on a post-strike weakened position that doesn't match revealed strength. Per META rule 3, β' is *structurally-locked-in for the war's foreseeable duration under current geopolitics*; no third-party-enforcer mechanism is on the horizon; Werner diagnostics will continue to fail.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  G1[γ' Spoilers + Kydd<br/>+ Putnam win-set]
+  G1 --> S1[IRGC under Vahidi<br/>TOTAL SPOILER<br/>regime-survival stake]
+  G1 --> S2[Netanyahu<br/>LIMITED SPOILER<br/>regime-change red line]
+  G1 --> K[Pakistan suboptimal<br/>Kydd-bias config<br/>NATO/Sunni/Saudi<br/>Iran discounts]
+  G1 --> P[Putnam Level-II<br/>win-sets:<br/>Trump cap IRGC cap<br/>Netanyahu = empty]
+  classDef g fill:#0969da,color:#fff,stroke:#0969da
+  classDef s fill:#f6f8fa,stroke:#d0d7de
+  classDef gt-gloss-stedman-spoilers stroke-width:2px
+  classDef gt-gloss-kydd-biased-mediator stroke-width:2px
+  class G1 g
+  class S1,S2,K,P s
+  class S1 gt-gloss-stedman-spoilers
+  class S2 gt-gloss-stedman-spoilers
+  class K gt-gloss-kydd-biased-mediator
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**γ' — Spoilers + suboptimal mediator + empty Putnam win-set.** [IRGC = total spoiler]{.gloss data-gloss="stedman-spoilers"} (regime-survival stake from Q2 α); Netanyahu = limited spoiler (regime-change red line from Q11). [Pakistan's Kydd-bias]{.gloss data-gloss="kydd-biased-mediator"} is suboptimal *in the wrong direction* — NATO-ally + Sunni-majority + Saudi-aligned makes Iran discount Pakistani endorsements of US concessions. **Oman would have been better-configured.** Trump ∩ IRGC ∩ Netanyahu Level-II win-set = ∅.]{.concise-only}
+
+::: {.deep-only}
+**Mechanism γ' — Spoiler dynamics + Putnam win-set non-overlap + [Kydd]{.gloss data-gloss="kydd-biased-mediator"} biased-mediator misconfiguration** (P operative 0.80; P load-bearing 0.50). The framework combination: [Stedman 1997]{.gloss data-gloss="stedman-spoilers"} classifies spoilers into limited (specific limited goals; can be inducted), greedy (maximalist but expandable goals; require coercion), and total (oppose any peace agreement; require coercion or elimination) — and identifies three custodian strategies (coercion, inducement, socialization). Kydd 2003 argues biased mediators are more effective than neutral ones when their endorsements carry information that aligns with the disfavored side's beliefs. Putnam 1988 frames settlements as requiring Level-II win-set overlap. The Q3 application: *IRGC under Vahidi = total spoiler*. IRGC institutional position requires rejecting any settlement that allows external coercion of the IRGC; cannot be incentivized to compliance because regime-survival stake is existential (Q2 α-mechanism); requires coercion or elimination, neither available. *Netanyahu = limited spoiler*. Regime-change red line; can comply with limited agreements that don't preserve Iranian regime, but such an agreement violates Iran's reservation point. *Trump-faction = unclear spoiler type*. May be limited (wants visible win) or greedy (wants oil seizure + regime change); could shift to less-spoiler if domestic conditions change (Q10 falsifier 2). *Pakistan as custodian*: lacks coercion capacity (cannot militarily compel either side), lacks meaningful inducement capacity (no carrots large enough to shift either side's calculus), lacks socialization capacity (insufficient time horizon). *Pakistan's [Kydd]{.gloss data-gloss="kydd-biased-mediator"}-bias configuration is suboptimal in the wrong direction*: NATO ally + Sunni-majority + Saudi-aligned + (also) China-aligned + Muslim-majority. Mixed bias. From Iran's perspective, Pakistan reads as primarily US-NATO-Sunni biased; Iran discounts Pakistani endorsements of US concessions as not-impartial-enough. From US perspective, Pakistan reads as Muslim-Iran-sympathetic; US also discounts Pakistani endorsements of Iranian concessions. Neither side trusts Pakistani endorsements fully — *suboptimal Kydd configuration*. **Oman would have been better-configured** (perceived as Iran-trusted but quietly Western-cooperative; both sides trust Oman). The choice of Pakistan as mediator reflects power dynamics (Pakistan brokered first; Saudi-Iran rapprochement infrastructure made Pakistan acceptable to both sides at the moment of crisis), not optimal Kydd configuration. *Putnam win-set non-overlap*: Trump Level-II (producer-coalition + audience-cost-locked-in from Q10/Q2 β) ∩ IRGC Level-II (regime-survival from Q2 α) ∩ Netanyahu Level-II (regime-change red line from Q11) = ∅. No three-way overlap exists; settlement cannot pass ratification at any actor's Level-II.
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) three-mechanism posteriors; (2) violation-cascade timeline; (3) Vukovic disambiguation.
+
+### Figure 1 — Mechanism posteriors
+
+```{ojs}
+//| label: fig-q3-mechanisms
+//| fig-cap: "Posteriors on Q3's three load-bearing mechanisms. α' (Beardsley + Werner-Yuen) at P=0.65 load-bearing is the strongest single mechanism. All three mechanisms are operative at 0.80-0.95 — Q3 has the highest empirical-foundation in the Tier-2 cluster."
+
+{
+  const mechData = [
+    {id: "α'", full: "α' — Beardsley mediation-time-inconsistency + Werner-Yuen H1+H2", post_op: 0.95, post_lb: 0.65, tier: "T2"},
+    {id: "β'", full: "β' — Walter no-enforcer + Werner three diagnostics all fail", post_op: 0.95, post_lb: 0.60, tier: "T2"},
+    {id: "γ'", full: "γ' — Stedman spoilers + Kydd misconfiguration + Putnam empty win-set", post_op: 0.80, post_lb: 0.50, tier: "T3"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 240 : Math.max(320, Math.min(440, Math.round(width * 0.4)));
+  const data = mechData.map(d => ({ ...d, display: isMobile ? d.id : d.full }));
+
+  return Plot.plot({
+    marginLeft: isMobile ? 56 : Math.max(380, Math.round(width * 0.36)),
+    marginRight: isMobile ? 56 : Math.max(70, Math.round(width * 0.07)),
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(56, Math.round(baseFont * 3)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "Probability",
+      domain: [0, 1],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+      labelAnchor: "right"
+    },
+    y: { label: null, domain: data.map(d => d.display) },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.barX(data, {
+        x: "post_op", y: "display",
+        fill: "#e6e8eb", insetTop: 8, insetBottom: 8
+      }),
+      Plot.barX(data, {
+        x: "post_lb", y: "display",
+        fill: "tier", insetTop: 8, insetBottom: 8,
+        channels: {
+          Mechanism: "full",
+          "P(operative)": d => `${Math.round(d.post_op * 100)}%`,
+          "P(load-bearing)": d => `${Math.round(d.post_lb * 100)}%`,
+          Tier: "tier"
+        },
+        tip: {
+          lineWidth: 35,
+          fontSize: isMobile ? 12 : 13
+        }
+      }),
+      Plot.text(data, {
+        x: "post_lb", y: "display",
+        text: d => `${Math.round(d.post_lb * 100)}%`,
+        dx: 8, textAnchor: "start",
+        fontWeight: 600, fontSize: valueFont, fill: "#1f2328"
+      }),
+      Plot.ruleX([0.5], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.5 }),
+      Plot.text([{ x: 0.5, y: data[0].display }], {
+        x: "x", y: "y", text: () => "load-bearing →",
+        dx: 8, dy: -Math.round(baseFont * 1.5), textAnchor: "start",
+        fontSize: annotFont, fill: "#0969da", fontStyle: "italic", fontWeight: 500
+      })
+    ]
+  });
+}
+```
+
+::: {.mech-legend}
+**Mechanism codes** (chart labels expanded):
+
+| Code | Mechanism |
+|:---:|---|
+| **α'** | [Beardsley mediation-time-inconsistency]{.gloss data-gloss="beardsley-mediation-time-inconsistency"} + [Werner-Yuen H1+H2]{.gloss data-gloss="werner-yuen-ceasefire-failure"} |
+| **β'** | [Walter no-enforcer]{.gloss data-gloss="walter-third-party-enforcement"} + [Werner 1999 three diagnostics all fail]{.gloss data-gloss="werner-peace-durability"} |
+| **γ'** | [Stedman spoilers]{.gloss data-gloss="stedman-spoilers"} + Kydd misconfiguration + Putnam empty win-set |
+:::
+
+[**Reading the chart.** All three mechanisms are operative with very high probability (0.80-0.95) — Q3 has the strongest empirical foundation in the Tier-2 cluster. α' and β' are T2 (single-source-named frameworks with empirical validation; the Beardsley and Werner-Yuen datasets are large and well-validated). γ' is T3 (actor-specific spoiler classifications + Kydd-bias inference are analyst-derived). Headline posterior at 0.75 reflects the strong T1/T2 foundation; the META rule 5 cap is less aggressive than for Q2 or Q10.]{.concise-only}
+[**Reading the chart.** Each row is one of Q3's three load-bearing mechanisms. The light grey bar shows P(operative); the colored bar shows P(load-bearing). All three are operative at 0.80-0.95 — Q3 has the highest empirical-foundation in the Tier-2 cluster because the violation cascade is fully T1 observable and the Beardsley + Werner-Yuen frameworks are directly applicable to the case. α' (Beardsley + Werner-Yuen) is T2 — Beardsley's 1918-2001 dataset is large and well-validated; Werner-Yuen's 1946-1997 dataset directly tested the H1+H2 hypotheses. β' (Walter + Werner 1999) is T2 — each Werner diagnostic is independently testable against observable conditions; Walter's enforcement-absence condition is empirically verifiable. γ' (Stedman + Kydd + Putnam) is T3 — actor-specific spoiler classifications and Kydd-bias inference are analyst-derived, not directly observable. The headline posterior at 0.75 is the highest in the Tier-2 cluster (vs Q10 at 0.55; Q2 at 0.65) because the META rule 5 cap is less aggressive when more of the analytical work is grounded in directly-observable T1/T2 evidence.]{.deep-only}
+
+### Figure 2 — Violation cascade timeline
+
+```{mermaid}
+flowchart LR
+  A["8 April<br/>Pakistan brokers<br/>ceasefire"] --> B["17-18 April<br/>Iran transit<br/>US no lift"]
+  B --> C["20 April<br/>Touska seizure"]
+  C --> D["4 May<br/>Project Freedom<br/>6 IRGCN FAC sunk"]
+  D --> E["7 May<br/>Bandar Abbas<br/>+ Qeshm strikes"]
+  E --> F["8 May<br/>UAE shootdowns<br/>+ empty tanker strikes"]
+  classDef sign fill:#0969da,color:#fff,stroke:#0969da
+  classDef v1 fill:#fff8c5,stroke:#d4a72c
+  classDef v2 fill:#ffe5d9,stroke:#cf222e
+  class A sign
+  class B,C v1
+  class D,E,F v2
+```
+
+[**The trajectory matches Beardsley + Werner-Yuen predictions point-by-point.** Nine-day onset; accelerating cascade; 30-day operational collapse. Historical interrupted-war ceasefires firing both H1 and H2 (Korean 1953, Indo-Pakistani 1948/65/71, Israel-Egypt 1948-67-73, Minsk I/II) all failed at very high rate. The 2026 case is in this base-rate pattern.]{.concise-only}
+[**The trajectory matches Beardsley + Werner-Yuen predictions point-by-point.** Three observable phases. *Phase 1 (8-18 April)*: short-term success — formal agreement achieved through Pakistan's pressure; 9-day window before first time-inconsistency manifestation. *Phase 2 (18 April → 4 May)*: accelerating violations — Iran's transit attempt, US's non-reciprocity, *Touska* seizure, dial-up to active combat by 4 May. *Phase 3 (4-8 May)*: operational collapse — Project Freedom, strikes on Iranian command nodes, multi-axis escalation. The 30-day collapse window is consistent with the high-failure-rate base-rate for interrupted-war ceasefires firing both H1 + H2 — Korean 1953 held but became frozen conflict with persistent violations; Indo-Pakistani UN-pressured ceasefires repeatedly collapsed within months; Russia-Ukraine Minsk I (Sept 2014) and Minsk II (Feb 2015) both failed within months despite multilateral pressure. The historical exception — Iran-Iraq 1988 UN Resolution 598 held — required mutual military and financial exhaustion; that condition does not apply to 2026 (neither side is exhausted).]{.deep-only}
+
+### Figure 3 — Vukovic stable-equilibrium framing disambiguated
+
+```{mermaid}
+flowchart LR
+  V[Vukovic: Nash equilibrium<br/>nobody wants but stable]
+  V --> D1[Stable AT WHAT?]
+  D1 --> SC[Ceasefire compliance<br/>UNSTABLE per Q3]
+  D1 --> WP[War persistence<br/>STABLE per Q2]
+  classDef v fill:#0969da,color:#fff,stroke:#0969da
+  classDef d fill:#f6f8fa,stroke:#d0d7de
+  classDef sc fill:#ffe5d9,stroke:#cf222e
+  classDef wp fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-vukovic-nash-equilibrium stroke-width:2px
+  class V v
+  class V gt-gloss-vukovic-nash-equilibrium
+  class D1 d
+  class SC sc
+  class WP wp
+```
+
+[The [Vukovic framing]{.gloss data-gloss="vukovic-nash-equilibrium"} ("Nash equilibrium nobody wants but stable") must be disambiguated: *stable AT WHAT?* **Ceasefire compliance is unstable** (Q3 finding); **war persistence is stable** (Q2 finding). Both are true simultaneously. The framing risks becoming a META rule 6 refinement rescue without disambiguation — protected from falsification by definitional flexibility. Subsumed into β' (war stable) and α' + γ' (ceasefire unstable).]{.concise-only}
+[**The [Vukovic "stable Nash equilibrium" framing]{.gloss data-gloss="vukovic-nash-equilibrium"} requires disambiguation.** Vukovic 2026 argued the 2026 Iran war is converging on a Nash equilibrium that "nobody wants but is stable." Three equilibrium outcomes are possible (negotiated settlement, regime change, protracted stalemate); the third is the Nash equilibrium because the player who appears most willing to absorb mutual destruction gains leverage. The framing captures real features — both sides have lower utility under continued conflict than under their preferred alternatives; neither can achieve their preferred alternative. But the framing conflates two different stability concepts: *ceasefire compliance* and *war persistence*. The Q3 finding is that ceasefire compliance is **unstable** — the Pakistan-brokered agreement is structurally doomed by α' + β' + γ'. The Q2 finding is that war persistence is **stable** — the Iran-side regime-survival mechanism + US-side audience-cost lock-in + structural commitment-trap envelope jointly produce sustained war prosecution. Both can be true simultaneously. The Vukovic framing is correct *for war persistence*; wrong *for ceasefire compliance*. Without disambiguation, the framing risks becoming a META rule 6 refinement rescue — protected from falsification by definitional flexibility. The Q3 contribution: subsume Vukovic into the multi-framework analysis with explicit disambiguation, rather than preserving as a separate finding.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+### Figure 4 — Pre-registered falsification criteria
+
+Track over next 90 days:
+
+| Falsifier | Predicts | Falsifies if |
+|---|---|---|
+| α' time-inconsistency | Ceasefire continues to violate without mediator re-engagement | Pakistan-brokered ceasefire stabilizes for 60+ days without further substantial violations |
+| β' structural infeasibility | No third-party enforcer emerges | Joint UN-China-Russia mechanism with PRC enforcement capacity emerges + Werner diagnostics improved |
+| γ' spoiler dynamics | IRGC stays total-spoiler; Netanyahu stays limited-spoiler | IRGC voluntarily de-arms OR Netanyahu drops regime-change red line |
+| Interrupted-war pattern | Renewed military action does NOT produce battle convergence | US decisively denies Iranian chokepoint capacity OR Iran exhausts capacity |
+| Pakistan Kydd-bias | Iran continues to discount Pakistani endorsements | Pakistan successfully brokers compliance through credible information transmission |
+| Vukovic stability check | Violations continue (not low-intensity steady-state) | Violations cease at low-intensity steady-state (partial Vukovic support) |
+
+If two or more falsifiers fire within 90 days, headline posterior drops below 0.55.
+
+### Figure 5 — Source-confidence tier audit
+
+Of the synthesis's load-bearing claims:
+
+- **[T1]{.tier .tier-1} multi-source verified:** 8 April Pakistan-brokered ceasefire agreement (multiple); 17-18 April first violations — Iran transit + US no reciprocal lift (briefing + multiple); 20 April US Navy seizes *Touska* (briefing); 4 May Operation Project Freedom + 6 IRGCN FAC sunk (briefing + Hormuz SYNTHESIS); 7 May US strikes Bandar Abbas + Qeshm (briefing); 8 May UAE shootdowns + US strikes empty oil tankers (briefing).
+
+- **[T2]{.tier .tier-2} single-source named:** Iran 14-point framework vs US terms have no overlap (ICG Crisis Monitor #4 + corroborating); [Beardsley 2008 framework]{.gloss data-gloss="beardsley-mediation-time-inconsistency"} applies to Pakistan-Iran-US case (empirically validated framework; mapping consistent with case); [Werner-Yuen H1]{.gloss data-gloss="werner-yuen-ceasefire-failure"} (battle-inconsistency) applies (Iran's continued strategic options + US escalation pattern both indicate inconsistent battles); Werner-Yuen H2 (interrupted-war pattern) applies (Pakistan-brokered agreement before military convergence); no third-party enforcer is available (observable); all three Werner diagnostics fail simultaneously (each independently testable).
+
+- **[T3]{.tier .tier-3} inference from evidence:** **Pakistan's [Kydd]{.gloss data-gloss="kydd-biased-mediator"}-bias configuration is suboptimal for the Iran-US case** (inferred from Pakistan's NATO-ally + Sunni-majority + Saudi-aligned status); **IRGC functions as [total spoiler]{.gloss data-gloss="stedman-spoilers"}** (inferred from refusal-to-settle behavior); **Netanyahu functions as limited spoiler** (inferred from regime-change red line); **Vukovic stable-equilibrium framing fails for ceasefire-compliance dimension** (inference from base-rate + empirical trajectory; disambiguation argument); **Vukovic framing subsumed rather than preserved** (META rule 6 application).
+
+- **[T4]{.tier .tier-4} conjecture:** none in the load-bearing path.
+
+**Five load-bearing T3 inferences** trigger the META rule 5 posterior cap at ≤ 0.75 (less aggressive cap than Q2 or Q10 because much of the analysis is grounded in directly-observable T1/T2 evidence — the violation cascade is fully T1; Beardsley + Werner-Yuen frameworks are empirically validated T2).
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+The most likely ways the analysis will be wrong:
+
+1. **Beardsley time-inconsistency applied incorrectly** (P ≈ 0.15). Beardsley framework doesn't generalize from interstate-crisis-with-mediation (1918-2001 ICB sample) to active-warfare-ceasefire-with-mediation. Mitigation: Beardsley's three mechanisms (information, leverage, monitoring/enforcement) are theoretically general; should apply.
+
+2. **Werner-Yuen H1 misapplied** (P ≈ 0.15). Iran-US battle outcomes are actually consistent (e.g., US is decisively winning per RAND assessment). Mitigation: empirical evidence supports inconsistent battles — Iran retains chokepoint denial despite massive US air campaign; this is the textbook Pape coercion-failure case.
+
+3. **Stedman spoiler classifications wrong** (P ≈ 0.20). IRGC is greedy rather than total spoiler (would settle for limited terms that preserve some institutional position), or Netanyahu is more limited than estimated. Mitigation: classifications are tentative; framework still applies with category adjustments.
+
+4. **Pakistan Kydd-bias is actually optimal** (P ≈ 0.15). Pakistan's mixed bias is perceived by both sides as effectively neutral. Mitigation: Iran's and Trump's revealed reservation points both diverge from Pakistan's positions; suggests Iran doesn't trust Pakistan-as-pro-Iran or US-as-pro-US fully.
+
+5. **Vukovic stability framing is actually right** (P ≈ 0.20). Violations stabilize at low-intensity steady-state by 60-day mark; ceasefire-as-stable-equilibrium reading would be empirically supported. Mitigation: current trajectory (4 May escalation + 7-8 May further escalation) is inconsistent with stabilization; but base-rate-wise some interstate ceasefires do stabilize at low-intensity (Korean DMZ pattern).
+
+6. **Information convergence might end the war** (P ≈ 0.20). Sustained dual blockade produces enough information convergence (Wagner/Reiter mechanism) to enable bargaining range overlap. Mitigation: 90-day horizon insufficient for information convergence; multi-year horizon possible.
+
+**Total probability the finding is substantively wrong**: ≈ 0.30 (with overlap; not strictly additive). Consistent with the META-rule-5-capped posterior of 0.75.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Connections to other Q-chapters
+
+| Q-chapter | How Q3 connects |
+|---|---|
+| [Q1](q1-why-bargaining-failed.qmd) | Q3's β' is the structural reason pre-war negotiations (Witkoff-Al-Busaidi) couldn't succeed even before strikes. Same commitment-problem envelope. |
+| [Q2](q2-war-persistence.qmd) | Q3's β' is a special case of Q2's γ-envelope; both invoke Walter + Werner + Powell-Reiter. Q3 adds Beardsley + Werner-Yuen specific to mediated-agreement dynamics. |
+| [Q5](q5-bargaining-range.qmd) | Q3's β' all-three-Werner-diagnostics-fail confirms Q5's empty/operationally-inaccessible range. Same underlying cause. |
+| [Q6](analyses/index.qmd) | Q3's mechanism-collapse triggers ARE Q6's termination conditions. Q6 will catalog these triggers + probability + observable indicators. |
+| [Q7](q7-russia-ukraine.qmd) | Goemans-favored bargaining applied to Russia is the same framework that explains IRGC's total-spoiler position via Q2 α. Goemans + Stedman compatibility cross-case validated. |
+| [Q9](q9-europe-us-relationship.qmd) | Q3's α' time-inconsistency mechanism has implications for any future US-EU coordinated mediation. EU's bias configuration would create different Kydd profile than Pakistan. |
+| [Q10](q10-us-hormuz-interest.qmd) | Q3's γ' Trump-spoiler-classification depends on Q10's α-mechanism. If producer-coalition dominance shifts under gasoline-price stress, Trump might become limited-spoiler more amenable to face-saving exit. |
+| [Q11](q11-us-israel-coalition.qmd) | Q3's γ' Netanyahu-as-limited-spoiler reading is the Q3-specific manifestation of Q11's P-A severe agency slippage. |
+| [Q12.4](q12-4-gulf-paradox.qmd) | Oman as alternative mediator is the Q12.4 active-neutrality reading. Saudi-Iran 2023 rapprochement provides residual mediator-resource via Chinese channel. |
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+Companion analysis file: [`Q3_pakistan_ceasefire_instability.md`](https://github.com/) — final deliverable. Tier-2 abbreviated protocol; no separate steel-man / DA delegated cycle.
+
+Key citations: @beardsley2008agreement, @werner-yuen2005making, @walter1997critical, @werner1999precarious, @stedman1997spoiler, @kydd2003which, @putnam1988diplomacy, @powell2006commitment, @reiter2009how, @pape1996bombing, @fortna2003scraps, @greig2005stepping.
+
+**Highest-priority remaining corpus gaps for Q3 verification:**
+
+- Direct evidence on Pakistan's mediator capacity (specific accounts of leverage Pakistan can apply to either side).
+- Oman as alternative mediator: comparative effectiveness analysis would benefit from primary Omani-mediation-history sourcing.
+- Greig 2005 full compilation review (currently used at compilation level only).
+
+```{=html}
+</div>
+```
