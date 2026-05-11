@@ -305,6 +305,22 @@ viewof mapLinked = Inputs.toggle({
   // Backwards-compat: agg map (country → aggValue) for the choropleth fill
   const agg = new Map([...stats.entries()].map(([k, v]) => [k, v.aggValue]));
 
+  // Pre-compute centroids for each geo feature; the ones with data get
+  // attached stats so Plot.pointer can pick them up as hover targets.
+  // Plot.pointer (with default maxRadius=Infinity) snaps to the nearest
+  // centroid, so hovering anywhere on the map triggers the closest country.
+  const centroids = geo.features
+    .map(f => {
+      const [lon, lat] = d3.geoCentroid(f);
+      return {
+        country: f.properties.name,
+        lon,
+        lat,
+        stats: stats.get(f.properties.name)
+      };
+    })
+    .filter(d => d.stats);
+
   const isMobile = width < 700;
   const baseFont = isMobile ? 12 : Math.max(13, Math.min(16, Math.round(width / 75)));
 
@@ -362,15 +378,19 @@ viewof mapLinked = Inputs.toggle({
       Plot.geo(geo, {
         fill: d => agg.get(d.properties.name),
         stroke: d => selectedCountries.includes(d.properties.name) ? "#222" : "#bbb",
-        strokeWidth: d => selectedCountries.includes(d.properties.name) ? 1.2 : 0.4,
-        tip: { lineWidth: 35, fontSize: isMobile ? 12 : 13 },
+        strokeWidth: d => selectedCountries.includes(d.properties.name) ? 1.2 : 0.4
+      }),
+      // Hover tooltip — Plot.tip + Plot.pointer keyed on country centroids
+      // (matches the working pattern used in Fig 1 and Fig 3).
+      Plot.tip(centroids, Plot.pointer({
+        x: "lon",
+        y: "lat",
         title: d => {
-          const s = stats.get(d.properties.name);
-          if (!s) return `${d.properties.name}\n(no data for ${meta.label} between ${mapLo} and ${mapHi})`;
+          const s = d.stats;
           const totalYears = mapHi - mapLo + 1;
           const aggKind = isStock ? "mean" : "sum";
           const lines = [
-            `${d.properties.name}`,
+            `${d.country}`,
             ``,
             `${meta.label}`,
             `${aggKind} over ${mapLo}-${mapHi}: ${formatY(s.aggValue)}`,
@@ -381,8 +401,10 @@ viewof mapLinked = Inputs.toggle({
             `tier mix: ${s.tierMix}`
           ];
           return lines.join("\n");
-        }
-      }),
+        },
+        lineWidth: 35,
+        fontSize: isMobile ? 12 : 13
+      })),
       // Country labels for selected countries only
       Plot.text(geo.features.filter(f => selectedCountries.includes(f.properties.name)), {
         x: d => d3.geoCentroid(d)[0],
