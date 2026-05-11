@@ -12,7 +12,7 @@ subtitle: "Each chapter takes one question, one canonical formal model (or where
 | **Q3** | **[Why is the Pakistan-mediated ceasefire unstable?](q3-ceasefire-instability.qmd)** | **chapter live** |
 | Q4 | What sustains the coalitions? | drafting |
 | **Q5** | **[What does the bargaining range look like now — is it empty?](q5-bargaining-range.qmd)** | **chapter live** |
-| Q6 | What ends the war? | drafting |
+| **Q6** | **[What ends the war?](q6-what-ends-the-war.qmd)** | **chapter live** |
 | **Q7** | **[Opportunities and risks for Russia in Ukraine?](q7-russia-ukraine.qmd)** | **chapter live** |
 | **Q8** | **[Opportunities and risks for China vis-à-vis Taiwan?](q8-china-taiwan.qmd)** | **chapter live** |
 | **Q9** | **[What does the war do to the Europe-US relationship?](q9-europe-us-relationship.qmd)** | **chapter live** |

@@ -72,6 +72,8 @@ website:
           href: analyses/q3-ceasefire-instability.qmd
         - text: "Q5 — Is the bargaining range empty?"
           href: analyses/q5-bargaining-range.qmd
+        - text: "Q6 — What ends the war?"
+          href: analyses/q6-what-ends-the-war.qmd
         - text: "Q7 — Russia in Ukraine"
           href: analyses/q7-russia-ukraine.qmd
         - text: "Q8 — China vis-à-vis Taiwan"

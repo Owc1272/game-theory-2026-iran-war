@@ -1,0 +1,467 @@
+---
+title: "Q6 — What ends the war?"
+subtitle: "The most likely termination is the least durable. Vietnam-1975 analog at ~P=0.30; Korea-1953 analog requires conditions not currently apparent. Toft's framework predicts the modal Iran-US settlement will subsequently fail."
+description: "Three-dimensional pathway analysis: probability (which pathway fires), durability (whether settlement holds), time-horizon (when termination happens). The probability-durability decoupling is the load-bearing finding."
+categories: [analysis, q6, war-termination, toft, atlantic-council-scenarios]
+date: 2026-05-10
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#dashboard" class="skip-link">Skip walkthrough — go to dashboard</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+The war is ten weeks old, the ceasefire is in operational collapse, and the dual blockade continues. Sooner or later it ends — but how? Five candidate pathways (Iranian regime change, Trump-admin pivot, battle convergence, exogenous shock, no termination) make different predictions about *when* the war ends, *by what mechanism*, and *whether the resulting settlement holds*. The questions are not the same. The most likely pathway might not produce the most durable settlement — and on the evidence, it doesn't.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+The war is ten weeks old as of 10 May 2026. The Pakistan-brokered ceasefire is in operational collapse (Q3); the dual blockade continues; ten chapters on this site have established why bargaining failed (Q1), why the war persists (Q2), why the ceasefire is unstable (Q3), why the bargaining range is currently empty (Q5), and what role the cross-theater dynamics play (Q7-Q12.5). Sooner or later the war ends. But "ends" is not one question; it is three. *Probability*: which pathway actually fires — Iranian regime change? US administration pivot? Battle convergence forcing settlement? Exogenous shock? Or none of the above (continued frozen-conflict equilibrium per Korea 1953)? *Durability*: if the war ends, does the settlement hold? Toft 2010's empirical finding is that military victories produce durable peace at ~85% rate; negotiated settlements at only ~50%. The Iran-US 2026 modal pathway candidates differ sharply on this dimension. *Time-horizon*: when does termination happen? Six months? Two years? Five years? The pathways have different characteristic durations. The puzzle Q6 sets: *what ends the war, and on what time-horizon, and will the resulting settlement be durable?* — and importantly, are the answers to these three questions aligned with each other?
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="concise-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *Principled multi-framework termination-typology with Toft-derived fragility prediction (P ≈ 0.60).* Modal pathway: **Pathway B** (US β-collapse — Trump-admin pivot per Q10 falsifier) at P=0.30-0.35, producing a fragile mediated settlement per [Toft 2010]{.gloss data-gloss="toft-settlement-typology"} (durability 0.25-0.35). The most likely pathway is the **least durable**; the most durable pathways (A regime change at P=0.10-0.15; C battle convergence at P=0.20-0.25) are individually less likely. **Probability-durability decoupling** is the load-bearing finding.
+:::
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+::: {.bottom-line}
+**Bottom line.** *Principled multi-framework termination-typology with [Toft]{.gloss data-gloss="toft-settlement-typology"}-derived fragility prediction (P ≈ 0.60)*. The 6th principled-multi-framework case in the project (after Q7, Q9, Q10, Q2, Q3), but with a structurally distinct form — **three analytical dimensions** (probability, durability, time-horizon) rather than actor-side decomposition. The pathway typology: **A — Iranian α-collapse** (regime change / IRGC restructuring) at P≈0.10-0.15, durable per [Toft]{.gloss data-gloss="toft-settlement-typology"}; **B — US β-collapse** (Trump-admin pivot per Q10 falsifier 2) at P≈0.30-0.35, the modal pathway, fragile per Toft; **C — γ-envelope contraction** (battle convergence) at P≈0.20-0.25, moderate durability per Korea-1953 precedent; **D — Exogenous shock** at P≈0.15-0.20, operates as trigger more than pathway; **F — No termination within 24 months** at P≈0.10-0.15. The load-bearing finding: **probability-durability decoupling**. The most likely pathway (B+E joint) is the least durable; the most durable pathways (A, C-via-mutual-exhaustion) are individually less likely. This produces a structural mismatch between expected behavior and stable outcome. Historical analogs: the modal pathway resembles **Vietnam 1973-75** (US withdrawal + eventual S. Vietnam collapse) or **Israel-Hezbollah 2006→2024** (mediated ceasefire held 18 years then renewed); the durability-likely pathway resembles **Korea 1953** (mutual exhaustion + clearly-defined ceasefire lines + sustained international monitoring) or **Iran-Iraq 1988**. Nine load-bearing T3 inferences cap the posterior at ≤ 0.60 — Q6 has structurally lower confidence than retrospective Q-findings because forward-looking probability estimates are inherently uncertain.
+:::
+
+```{=html}
+</div>
+```
+
+[The most distinctive analytical contribution is the **probability-durability decoupling**. Standard war-termination analysis tends to treat "most likely outcome" and "stable outcome" as roughly the same. The Q6 finding is that for the 2026 Iran-US case, they are decoupled and pull in opposite directions: the modal pathway (Trump pivot under sustained cost pressure) is the *Toft-fragile* type; the *Toft-durable* types (military victory or battle convergence with mutual exhaustion) are individually less likely. This is the **structural mismatch between expected behavior and stable outcome**.]{.column-margin .deep-only}
+
+```{=html}
+<div class="deep-mode-indicator">
+<strong>Deep mode is on.</strong> Paragraphs expand with the five pathways, the three analytical dimensions, historical analog cases (Vietnam 1975, Israel-Hezbollah 2006, Korea 1953, Iran-Iraq 1988), pre-registered falsification criteria, source-confidence audit, and pre-mortem. Switch back to <em>Concise</em> at the top of the page to collapse.
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+::: {.callout-note collapse="true"}
+## Methodology — Tier-2 abbreviated protocol + dimension-natively-distinct multi-framework
+
+This chapter applies the Tier-2 abbreviated protocol with one new corpus acquisition (Toft 2010 *International Security* article version of *Securing the Peace*). The candidate pathway sub-types reduced from 21 to 5 via META rule 4 discipline (3 core pathways + exogenous-shock-as-trigger + no-termination continuation). Q6 is the 6th principled-multi-framework case in the project but the first with **dimension-natively-distinct** structure rather than actor-natively-distinct. The three dimensions — probability (which pathway fires), durability (whether settlement holds), time-horizon (when termination happens) — correspond to natively distinct literature objects: pathway-specific frameworks (Goemans, Q10's G-H, Werner-Yuen H1, event-probability), settlement-durability frameworks (Toft + Reiter + Werner + Beardsley + Walter), and time-dynamics frameworks (Beardsley + Werner-Yuen H2 + cost-accumulation). Nine load-bearing T3 inferences cap the posterior at ≤ 0.60 — Q6 has structurally lower confidence than retrospective Q-findings (Q3 = 0.75; Q2 = 0.65; Q10 = 0.55) because forward-looking probability estimates are inherently uncertain.
+:::
+
+```{=html}
+</div>
+```
+
+## Walkthrough {#walkthrough}
+
+::: {.cr-section}
+
+::: {#cr-stage1}
+```{mermaid}
+flowchart LR
+  Q[What ends<br/>the war?]
+  Q --> A[A: Iranian alpha-collapse<br/>P approx 0.10-0.15]
+  Q --> B[B: US beta-collapse<br/>P approx 0.30-0.35]
+  Q --> C[C: gamma-envelope<br/>contraction<br/>P approx 0.20-0.25]
+  Q --> D[D: Exogenous shock<br/>P approx 0.15-0.20]
+  Q --> F[F: No termination<br/>P approx 0.10-0.15]
+  classDef q fill:#0969da,color:#fff,stroke:#0969da
+  classDef p fill:#f6f8fa,stroke:#d0d7de
+  classDef m fill:#dafbe1,stroke:#2da44e
+  class Q q
+  class A,C,D,F p
+  class B m
+```
+:::
+
+::: {focus-on="cr-stage1"}
+[**Five pathways**, mapped to mechanism collapse triggers from prior chapters. *A — Iranian α-collapse*: Q2's α (IRGC regime-survival) fails; durable per [Toft]{.gloss data-gloss="toft-settlement-typology"}, but P low. *B — US β-collapse*: Q10's α (producer-coalition dominance) shifts; modal pathway, fragile per Toft. *C — γ-envelope contraction*: battle convergence (Werner-Yuen H1 satisfied); moderate durability. *D*: exogenous shock; trigger more than pathway. *F*: continued frozen-conflict equilibrium per Korea-1953.]{.concise-only}
+
+::: {.deep-only}
+**Five pathways, mapped to mechanism collapse triggers from the prior Q-chapters.** Each pathway represents a distinct termination mode with different mechanism collapse conditions, different probability estimates, and (critically) different durability predictions. *Pathway A — Iranian α-collapse*: Q2's α-mechanism (IRGC regime-survival under [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} + [Weeks autocratic audience costs]{.gloss data-gloss="weeks-autocratic"}) fails through IRGC institutional restructuring, Vahidi removal, or succession crisis. Probability low (0.10-0.15) per Q2's structural-lock-in finding for IRGC institutional position. *Pathway B — US β-collapse*: Q10's α-mechanism ([Grossman-Helpman lobby-weight]{.gloss data-gloss="grossman-helpman-lobby"} dominance under Trump admin specifically) shifts under consumer-coalition pressure, Trump-Xi summit forcing exit, midterm electoral cycle, or 2029 admin change. **Modal pathway** at probability 0.30-0.35. The 2022 Biden base-rate (Q10's load-bearing case) supports admin-contingent reversibility. *Pathway C — γ-envelope contraction*: structural commitment-trap (Q2's γ + Q3's β') opens through battle convergence — either US decisively denies Iran's strategic options or Iran exhausts capacity. [Werner-Yuen H1]{.gloss data-gloss="werner-yuen-ceasefire-failure"} (battle-consistency) satisfied. Probability 0.20-0.25. *Pathway D — Exogenous shock*: mass-casualty shipping incident, oil price spike past $150-180 Brent, CRINK formalization (Atlantic Council Scenario 3), Russian collapse on Ukraine front, US munitions exhaustion. Operates as trigger more than pathway — most shocks accelerate A/B/C rather than terminate directly. Probability 0.15-0.20. *Pathway F — No termination within 24 months*: Korea-1953-style frozen-conflict equilibrium. Both sides' cost-tolerance high enough to sustain dual blockade indefinitely. Probability 0.10-0.15.
+:::
+:::
+
+::: {#cr-stage2}
+```{mermaid}
+flowchart LR
+  T[Toft 2010<br/>settlement-typology]
+  T --> MV[Military victory:<br/>durability 0.85-0.90]
+  T --> CS[Ceasefire/stalemate:<br/>durability 0.70-0.75]
+  T --> NS[Negotiated settlement:<br/>durability 0.50]
+  MV --> PA[Maps to:<br/>Pathway A<br/>regime change]
+  CS --> PC[Maps to:<br/>Pathway C<br/>battle convergence]
+  NS --> PB[Maps to:<br/>Pathway B+E<br/>admin pivot]
+  classDef t fill:#0969da,color:#fff,stroke:#0969da
+  classDef s fill:#f6f8fa,stroke:#d0d7de
+  classDef p fill:#dafbe1,stroke:#2da44e
+  classDef gt-gloss-toft-settlement-typology stroke-width:2px
+  class T t
+  class T gt-gloss-toft-settlement-typology
+  class MV,CS,NS s
+  class PA,PC,PB p
+```
+:::
+
+::: {focus-on="cr-stage2"}
+[**Toft 2010 settlement-typology** maps cleanly to pathways. *Military victory* (Pathway A): ~85-90% durable. *Ceasefire/stalemate* (Pathway C with mutual exhaustion): ~70-75% durable — Korea 1953, Iran-Iraq 1988. *Negotiated settlement* (Pathway B): ~50% recurrence within 10 years — Vietnam 1975, Israel-Hezbollah 2006→2024. **The modal pathway is the least durable.**]{.concise-only}
+
+::: {.deep-only}
+**[Toft 2010 settlement-typology]{.gloss data-gloss="toft-settlement-typology"}** is the load-bearing durability framework. Toft compared post-war stability across three settlement types in her civil-war dataset (1940-2002, extended in subsequent work to interstate cases) and found a sharp empirical pattern. *Military victories* (one side imposes terms) show recurrence within 10 years of roughly 10-15% — durable peace at ~85-90% rate. Mechanism: victors can impose preferences and enforce them; the defeated side lacks military capacity to renegotiate; commitment problems are resolved by elimination of one party's bargaining position. *Ceasefire/stalemate* (mutual exhaustion + clearly-defined ceasefire lines) shows recurrence ~25-30% — intermediate durability ~70-75%. *Negotiated settlements* (third-party-mediated agreements with both sides retaining capacity) show recurrence ~50% within 10 years. Mechanism: commitment problems remain unresolved; the parties can renegotiate from positions of continued strength; mediator-induced terms decay per [Beardsley]{.gloss data-gloss="beardsley-mediation-time-inconsistency"}. The Q6 mapping: Pathway A → military victory; Pathway C → ceasefire/stalemate; Pathway B+E → negotiated settlement. *Toft framework predicts*: the modal Iran-US termination (Pathway B+E, fragile mediated settlement) is exactly the type that will subsequently fail. The framework is civil-war-derived but theoretically generalizes; the [Israel-Hezbollah 2006→2024 case]{.column-margin .deep-only} validates the prediction for interstate-war-with-non-state-actor — mediated ceasefire held for 18 years and then renewed.
+:::
+:::
+
+::: {#cr-stage3}
+```{mermaid}
+flowchart LR
+  V[Vietnam 1973-75 analog]
+  V --> V1[Pathway B+E type<br/>Nixon-Kissinger withdrawal]
+  V --> V2[Fragile settlement<br/>1973 Paris Accords]
+  V --> V3[Eventual collapse<br/>1975 fall of Saigon]
+  K[Korea 1953 analog]
+  K --> K1[Pathway C type<br/>mutual exhaustion]
+  K --> K2[Clearly-defined<br/>ceasefire lines]
+  K --> K3[Held 70+ years<br/>despite tension]
+  classDef v fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef k fill:#dafbe1,stroke:#2da44e
+  classDef s fill:#f6f8fa,stroke:#d0d7de
+  class V v
+  class K k
+  class V1,V2,V3,K1,K2,K3 s
+```
+:::
+
+::: {focus-on="cr-stage3"}
+[**Two historical analogs**, two different outcomes. *Vietnam 1973-75*: Nixon-Kissinger withdrawal → fragile Paris Accords → fall of Saigon in 1975. **The modal Iran-US pathway has Vietnam-1975 structure.** *Korea 1953*: mutual exhaustion + clearly-defined ceasefire + sustained international monitoring → held 70+ years. **Iran-Iraq 1988** similar pattern. Korea/Iran-Iraq outcome requires conditions not currently apparent in Iran-US trajectory.]{.concise-only}
+
+::: {.deep-only}
+**Two historical analogs illustrate the probability-durability decoupling.** *Vietnam 1973-75 (the Pathway B+E template)*: the Nixon-Kissinger withdrawal pattern — admin-pivot under sustained domestic cost pressure (anti-war movement; budget exhaustion; failed Vietnamization), Paris Accords 1973 as fragile mediated settlement, fall of Saigon 1975 as eventual collapse. *Two-stage termination*: first admin-pivot termination producing fragile settlement, then military victory by one side once US no longer enforces the settlement. The Iran-US modal pathway (B+E joint) has this structure — Trump-admin pivot under accumulated cost pressure produces face-saving formula via Pakistan or Oman; the formula is mediator-induced and unenforceable (Q3 β'); once US enforcement attention shifts, the agreement collapses. Probability over 24 months: 0.30-0.35. *Korea 1953 (the Pathway C template)*: mutual exhaustion produces ceasefire-stalemate; UN-pressured but with clearly-defined Demilitarized Zone, sustained international monitoring (UN Command, US forces in Korea), and military capacity converged at the 38th parallel. Held 70+ years despite recurring DMZ tension. *Iran-Iraq 1988 (UN Resolution 598)* shows the same pattern: both sides financially and militarily exhausted; reservation points converged through exhaustion; ceasefire held 38 years. For the Iran-US 2026 case to achieve Korea/Iran-Iraq-style durability, Pathway C must produce conditions (mutual exhaustion + clearly-defined lines + sustained international monitoring) that are *not currently apparent* — Iran retains chokepoint denial; the US retains naval superiority; no clearly-defined ceasefire lines are agreed; no sustained international monitoring framework exists (per Q3 γ' analysis). The Korea analog is feasible but requires structural shifts that haven't happened.
+:::
+:::
+
+::: {#cr-stage4}
+```{mermaid}
+flowchart LR
+  D1[Probability dimension<br/>which pathway fires]
+  D2[Durability dimension<br/>whether settlement holds]
+  D3[Time-horizon dimension<br/>when termination]
+  D1 --> M1[Modal: Pathway B+E<br/>P=0.30-0.35]
+  D2 --> M2[Modal pathway is<br/>LEAST durable<br/>per Toft]
+  D3 --> M3[Medium-term:<br/>12-24 months]
+  M1 --> R[Probability-durability<br/>DECOUPLING]
+  M2 --> R
+  R --> P[Structural mismatch:<br/>expected outcome<br/>differs from<br/>stable outcome]
+  classDef d fill:#0969da,color:#fff,stroke:#0969da
+  classDef m fill:#f6f8fa,stroke:#d0d7de
+  classDef r fill:#cf222e,color:#fff,stroke:#cf222e
+  class D1,D2,D3 d
+  class M1,M2,M3 m
+  class R,P r
+```
+:::
+
+::: {focus-on="cr-stage4"}
+[**Three dimensions, decoupled.** *Probability*: Pathway B+E modal at 0.30-0.35. *Durability*: B+E least durable per Toft (~0.25-0.35). *Time-horizon*: 12-24 months. The probability and durability dimensions pull in opposite directions — **the most likely outcome is the least stable one.** This is the load-bearing structural finding.]{.concise-only}
+
+::: {.deep-only}
+**The probability-durability decoupling is the load-bearing structural finding.** The three analytical dimensions of Q6 — probability, durability, time-horizon — are decoupled in a way that produces a structural mismatch between expected behavior and stable outcome. *Probability dimension* (which pathway fires): pathway B+E joint at modal P=0.30-0.35; this is driven by Q10's admin-contingency finding and the modal trajectory of Trump-admin pivot under accumulated cost pressure. *Durability dimension* (whether settlement holds): Pathway B+E produces negotiated-settlement-type termination per [Toft]{.gloss data-gloss="toft-settlement-typology"}, with durability 0.25-0.35 (the lowest of the three pathway types). *Time-horizon dimension* (when): medium-term (12-24 months) for Pathway B+E; short-term (3-12 months) unlikely for any termination; long-term (24-36+ months) where Pathway C becomes more likely as exhaustion accumulates. The decoupling: P(modal pathway fires) × P(durable | modal pathway) = 0.30 × 0.30 ≈ 0.09 — only ~9% probability that the most likely termination produces a stable outcome. Compare to alternative: P(Pathway A fires) × P(durable | A) = 0.12 × 0.70 ≈ 0.08 — about the same, but via a much less likely pathway. Compare to Korea-style: P(Pathway C with mutual exhaustion) × P(Korea-style durability) ≈ 0.10 × 0.75 ≈ 0.075. *The expected durable-outcome probability is low regardless of which pathway fires*, because the high-probability pathways are fragile and the durability-likely pathways are individually rare. **Standard war-termination analysis tends to conflate "most likely" with "stable"; for the 2026 Iran-US case, the project's finding is that they are decoupled in a way that produces structural mismatch.**
+:::
+:::
+
+:::
+
+## Dashboard {#dashboard}
+
+Three figures: (1) pathway probability-durability matrix; (2) historical analog cases; (3) probability-durability decoupling visualization.
+
+### Figure 1 — Pathway probability × durability
+
+```{ojs}
+//| label: fig-q6-pathways
+//| fig-cap: "Five pathways plotted by probability (x-axis) and durability if it fires (y-axis). The modal pathway (B at P=0.32) is the least durable (0.30); the most durable pathways (A at 0.70, C at 0.50) are individually less likely."
+
+{
+  const pathwayData = [
+    {id: "A", full: "A — Iranian α-collapse (regime change / IRGC restructuring)", prob: 0.12, dur: 0.70, tier: "T3"},
+    {id: "B", full: "B — US β-collapse (Trump-admin pivot per Q10 falsifier)", prob: 0.32, dur: 0.30, tier: "T3"},
+    {id: "C", full: "C — γ-envelope contraction (battle convergence)", prob: 0.22, dur: 0.50, tier: "T3"},
+    {id: "D", full: "D — Exogenous shock (trigger more than pathway)", prob: 0.17, dur: 0.40, tier: "T3"},
+    {id: "F", full: "F — No termination within 24 months (Korea-1953-style)", prob: 0.12, dur: 0.00, tier: "T3"}
+  ];
+
+  const isMobile = width < 700;
+  const baseFont = isMobile ? 15 : Math.max(19, Math.min(28, Math.round(width / 40)));
+  const valueFont = isMobile ? 13 : Math.max(17, baseFont - 1);
+  const annotFont = isMobile ? 12 : Math.max(14, baseFont - 4);
+  const chartHeight = isMobile ? 380 : Math.max(440, Math.min(560, Math.round(width * 0.52)));
+
+  return Plot.plot({
+    marginLeft: 80,
+    marginRight: 60,
+    marginTop: Math.max(44, Math.round(baseFont * 2.5)),
+    marginBottom: Math.max(64, Math.round(baseFont * 3.5)),
+    height: chartHeight,
+    width,
+    style: {
+      fontSize: baseFont + "px",
+      fontFamily: "system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    x: {
+      label: "P(pathway fires within 24 months) →",
+      domain: [0, 0.4],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.05, 0.10, 0.15, 0.20, 0.25, 0.30, 0.35, 0.40]
+    },
+    y: {
+      label: "↑ P(durable settlement | pathway fires)",
+      domain: [0, 1],
+      grid: true,
+      tickFormat: ".0%",
+      ticks: [0, 0.2, 0.4, 0.6, 0.8, 1.0]
+    },
+    color: {
+      domain: ["T1", "T2", "T3", "T4"],
+      range: ["#2da44e", "#d4a72c", "#cf222e", "#6e7781"],
+      label: "Source-confidence tier",
+      legend: true
+    },
+    marks: [
+      Plot.dot(pathwayData, {
+        x: "prob", y: "dur",
+        r: 14,
+        fill: "tier",
+        fillOpacity: 0.7,
+        stroke: "tier",
+        strokeWidth: 2,
+        channels: {
+          Pathway: "full",
+          "P(fires)": d => `${Math.round(d.prob * 100)}%`,
+          "P(durable)": d => `${Math.round(d.dur * 100)}%`,
+          "Joint P(stable outcome)": d => `${Math.round(d.prob * d.dur * 100)}%`,
+          Tier: "tier"
+        },
+        tip: {
+          lineWidth: 35,
+          fontSize: isMobile ? 12 : 13
+        }
+      }),
+      Plot.text(pathwayData, {
+        x: "prob", y: "dur",
+        text: "id",
+        fontWeight: 700,
+        fontSize: valueFont,
+        fill: "#ffffff"
+      }),
+      Plot.ruleX([0.25], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.2 }),
+      Plot.ruleY([0.50], { stroke: "#0969da", strokeDasharray: "4,3", strokeWidth: 1.2 }),
+      Plot.text([
+        { x: 0.32, y: 0.95, label: "Most likely × least durable" },
+        { x: 0.05, y: 0.95, label: "Least likely × most durable" }
+      ], {
+        x: "x", y: "y",
+        text: "label",
+        fontSize: annotFont,
+        fontStyle: "italic",
+        fill: "#0969da",
+        textAnchor: "start"
+      })
+    ]
+  });
+}
+```
+
+::: {.mech-legend}
+**Pathway codes** (chart labels expanded):
+
+| Code | Pathway |
+|:---:|---|
+| **A** | Iranian α-collapse — regime change / IRGC restructuring (durable per Toft) |
+| **B** | US β-collapse — Trump-admin pivot per Q10 falsifier (fragile per Toft; **modal**) |
+| **C** | γ-envelope contraction — battle convergence (moderate per Korea-1953) |
+| **D** | Exogenous shock — trigger more than pathway |
+| **F** | No termination within 24 months — Korea-1953-style frozen conflict |
+:::
+
+[**Reading the chart.** Each dot is a pathway, plotted by probability of firing (x-axis) and durability if it fires (y-axis). Pathway B at top-right of the probability axis is the modal pathway but sits in the lower half of the durability axis — Toft predicts fragile settlement. Pathway A in the upper-left is durable but low-probability. Pathway C is middle on both. The dashed crosshairs at 25% / 50% mark "high-probability" and "durable" thresholds. **No pathway is in the high-probability AND durable quadrant.** This is the structural mismatch.]{.concise-only}
+[**Reading the chart.** Each pathway is plotted by P(fires within 24 months) on the x-axis and P(durable settlement | pathway fires) on the y-axis. The dashed crosshairs at 25% probability and 50% durability mark "high-probability" and "durable" thresholds. The structural finding: **the upper-right quadrant (high probability + durable) is empty**. Pathway B sits in the high-probability, low-durability quadrant (modal but fragile). Pathway A sits in the low-probability, high-durability quadrant (durable but rare). Pathway C is moderately probable and moderately durable. Pathway F's "durability" is plotted at 0 because F is continued conflict, not a settlement. The joint probability of stable outcome — P(fires) × P(durable | fires) — for each pathway is: A ≈ 8.4%, B ≈ 9.6%, C ≈ 11.0%, D ≈ 6.8%, F ≈ 0%. *The expected stable-outcome probability summed across pathways is ~36% over 24 months*. Two-thirds of the probability mass is on outcomes that are either fragile (B+D) or continued conflict (F). The chart visualizes the load-bearing finding: probability-durability decoupling produces a structural mismatch where no single pathway is both likely AND durable.]{.deep-only}
+
+### Figure 2 — Historical analog cases
+
+| Case | Year | Pathway type | Settlement type | Recurrence | Q6 mapping |
+|---|:---:|---|---|---|---|
+| Korean War | 1953 | C (military convergence) + mediated | Ceasefire/stalemate | No (70+ years) | Pathway C with mutual exhaustion |
+| Iran-Iraq | 1988 | C (mutual exhaustion) + UN | Ceasefire/stalemate | No (38 years) | Pathway C |
+| Vietnam War | 1973-75 | B (US withdrawal) → A | First mediated, then military | Two-stage: 2nd-stage durable | **Modal pathway B+E template** |
+| Iraq War | 2003 | A (regime collapse via military) | Military victory | Insurgency continued | Pathway A with chaos cost |
+| Russo-Georgian | 2008 | C (fait accompli) | Ceasefire | Held; tensions persist | Pathway C |
+| Israel-Hezbollah | 2006 → 2024 | C (mediated stalemate) | Mediated ceasefire | Renewed 2024 (18 years) | **Toft prediction confirmed** |
+
+[Two patterns. *Modal pathway analog*: Vietnam 1973-75 + Israel-Hezbollah 2006-2024 — fragile mediated settlement followed by recurrence within 5-20 years. *Durability-likely analog*: Korea 1953 + Iran-Iraq 1988 — mutual-exhaustion ceasefire held for decades. The Iran-US trajectory must produce Korea-style mutual exhaustion to achieve Korea-style durability; current evidence suggests Vietnam-style modal pathway is more likely.]{.column-margin}
+
+### Figure 3 — Probability-durability decoupling
+
+```{mermaid}
+flowchart LR
+  EXP[Expected behavior:<br/>most likely outcome]
+  STA[Stable outcome:<br/>most durable outcome]
+  EXP --> B[Pathway B+E<br/>Trump-admin pivot<br/>fragile mediated<br/>settlement]
+  STA --> A[Pathway A<br/>military victory<br/>OR Pathway C<br/>mutual exhaustion]
+  B --> MM[STRUCTURAL<br/>MISMATCH]
+  A --> MM
+  MM --> P[Toft-derived<br/>fragility prediction]
+  classDef e fill:#0969da,color:#fff,stroke:#0969da
+  classDef s fill:#0969da,color:#fff,stroke:#0969da
+  classDef p fill:#f6f8fa,stroke:#d0d7de
+  classDef m fill:#cf222e,color:#fff,stroke:#cf222e
+  classDef gt-gloss-toft-settlement-typology stroke-width:2px
+  class EXP,STA e
+  class B,A p
+  class MM m
+  class P p
+  class P gt-gloss-toft-settlement-typology
+```
+
+[**The structural mismatch.** Expected behavior (modal pathway) is Pathway B+E (Trump-admin pivot). Stable outcome (most durable termination) is Pathway A (military victory) or Pathway C with mutual exhaustion. These don't align. [Toft 2010]{.gloss data-gloss="toft-settlement-typology"} predicts that the modal pathway, if it fires, will produce a settlement that subsequently fails — Vietnam 1975 or Israel-Hezbollah 2024 pattern.]{.concise-only}
+[**The structural mismatch is the load-bearing Q6 finding.** Expected behavior — the trajectory implied by the underlying probability distributions — points at Pathway B+E (Trump-admin pivot under sustained cost pressure → mediated face-saving formula → fragile settlement). Stable outcome — the trajectory that would produce durable peace if it fired — points at Pathway A (military victory; Iran's regime collapses with the US/Israel coalition imposing terms) or Pathway C with mutual exhaustion (both sides exhaust capacity; clearly-defined ceasefire lines emerge; sustained international monitoring framework forms). These trajectories are not aligned. [Toft 2010]{.gloss data-gloss="toft-settlement-typology"} predicts that the modal pathway, *if it fires*, will produce a settlement Toft empirically classifies as ~50% recurrence-prone within 10 years. The implication: the war is most likely to end in a way that ends in failure. The Q6 contribution is to name this mismatch explicitly. The Atlantic Council 4-scenario typology implicitly accepts the modal pathway as "Scenario 1" without engaging the durability question — Q6's framework forces the durability question forward.]{.deep-only}
+
+```{=html}
+<div class="deep-only">
+```
+
+### Figure 4 — Pre-registered falsification criteria
+
+Track over next 18 months:
+
+| Falsifier | Predicts | Falsifies if |
+|---|---|---|
+| Pathway A probability | IRGC institutional structure intact through 12 months | IRGC dissolves (Vahidi removed, Pezeshkian re-empowered, Mojtaba succession crisis) |
+| Pathway B probability | Trump admin sustains current trajectory | Pivot under gasoline-price stress (SPR > 5 mb/wk; Q10 falsifier 2) |
+| Pathway C probability | No battle convergence within 12 months | US decisively denies Iran's strategic options OR Iran exhausts capacity |
+| Pathway D as primary | Exogenous shocks trigger A/B/C, not terminate directly | Specific shock directly terminates the war |
+| Toft fragility prediction | Pathway B/E termination produces fragile settlement (recurrence within 36 months) | B/E termination produces durable settlement (no renewed conflict within 36 months) |
+| Pathway F — no termination | War terminates within 24 months | War continues past 24 months (Korea-1953-style frozen conflict) |
+| AC scenario mismatch | Empirical trajectory fits AC scenario typology | Trajectory doesn't fit any AC scenario or Q6 pathway typology |
+
+If three or more falsifiers fire within 18 months, headline posterior drops below 0.50.
+
+### Figure 5 — Source-confidence tier audit
+
+Of the synthesis's load-bearing claims:
+
+- **[T1]{.tier .tier-1} multi-source verified:** Historical analog cases (Korea 1953 hold; Iran-Iraq 1988 hold; Vietnam 1973-75 collapse; Iraq 2003; Russo-Georgian 2008; Israel-Hezbollah 2006→2024 renewal) — all public historical record.
+
+- **[T2]{.tier .tier-2} single-source named:** [Atlantic Council 4-scenario typology]{.gloss data-gloss="atlantic-council-scenarios"} (Cimmino/Pavel published piece); [Toft 2010 framework]{.gloss data-gloss="toft-settlement-typology"} civil-war-derived empirical pattern (well-supported but interstate generalization is theoretical); Trump-Xi summit as Pathway B trigger (briefing direct claim); Israel-Hezbollah 2006→2024 as Toft prediction confirmation (direct empirical observation).
+
+- **[T3]{.tier .tier-3} inference from evidence:** **Pathway A probability ~0.10-0.15** (inferred from Q2 α-mechanism stability + ICG evidence; no direct probability source); **Pathway B probability ~0.30-0.35** (inferred from Q10 + 2022 Biden base-rate); **Pathway C probability ~0.20-0.25** (inferred from battle-trajectory + Werner-Yuen H1 conditions); **Pathway D probability ~0.15-0.20** (event-driven; very rough estimate); **Pathway F probability ~0.10-0.15** (inferred from Korea/Iran-Iraq analog cases); **[Toft]{.gloss data-gloss="toft-settlement-typology"}-derived fragility prediction for modal pathway** (combined inference); **Vietnam 1973-75 analog applies** (depends on admin-trajectory inference); **Pathway C requires conditions not currently apparent** (inferred from current battle-trajectory; could change rapidly); **Mediated termination via Pakistan would be Vietnam-1975-style fragile** (combined inference from Beardsley + Werner-Yuen + Toft + analog comparison).
+
+- **[T4]{.tier .tier-4} conjecture:** none in the load-bearing path.
+
+**Nine load-bearing T3 inferences** trigger the META rule 5 posterior cap at ≤ 0.60. The reconciled posterior at 0.55-0.60 reflects the structurally lower confidence appropriate to forward-looking predictions.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Pre-mortem {#pre-mortem}
+
+The most likely ways the analysis will be wrong:
+
+1. **Toft framework doesn't generalize from civil to interstate war** (P ≈ 0.20). Toft 2010 is civil-war-derived; interstate-war termination dynamics may differ substantially. Mitigation: Israel-Hezbollah 2006 analog supports generalization; theoretical mechanism (commitment-credibility absence in negotiated settlements) is general.
+
+2. **Pathway probabilities mis-estimated** (P ≈ 0.30). Forward-looking probability estimates are inherently uncertain. If Pathway B is much less likely than 0.30 (Trump admin doesn't pivot through 2028), modal pathway shifts to C or F. Mitigation: probability ranges are wide; alternative trajectories accommodate.
+
+3. **Vietnam-1975 analog misapplied** (P ≈ 0.20). If Trump-admin face-saving formula resembles Korea-1953 (mutual-exhaustion ceasefire) rather than Vietnam-1975 (US withdrawal with eventual collapse), durability prediction shifts. Mitigation: structural conditions suggest Korea analog less likely than Vietnam — Iran doesn't collapse like S. Vietnam; US not withdrawing forces; Hormuz is energy-critical so US enforcement attention won't fully shift.
+
+4. **Pathway D primary** (P ≈ 0.15). Exogenous shock directly terminates rather than triggering other pathways. Mitigation: most shocks operate through B (admin pivot) or C (battle dynamics) channels.
+
+5. **META rule 6 refinement-rescue temptation** (P ≈ 0.15). The "rebel victory analog applies to Iran-side regime change" extension may not be supported by Toft's specific empirical claims. Mitigation: Toft addresses government-victory-by-external-force less directly.
+
+6. **Atlantic Council typology more accurate** (P ≈ 0.15). Working-analyst empirical typology may capture distinctions Q6's framework misses. Mitigation: AC typology maps to Q6 cleanly; divergences are mostly in dimensional treatment.
+
+7. **Forward-looking prediction inherently fragile** (P ≥ 0.40 of substantive revision within 18 months). Mitigation: META rule 5 cap on posterior accommodates uncertainty.
+
+**Total probability the finding is substantively wrong**: ≈ 0.40 (with overlap; not strictly additive). Consistent with the META-rule-5-capped posterior of 0.55-0.60.
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Connections to other Q-chapters
+
+| Q-chapter | How Q6 connects |
+|---|---|
+| [Q1](q1-why-bargaining-failed.qmd) | Q6's Pathway B+E joint trajectory mirrors the pre-war Witkoff-Al-Busaidi failure mode. Iran's structural position has hardened post-Khamenei, so post-war range is narrower than pre-war. |
+| [Q2](q2-war-persistence.qmd) | Q6's Pathway A maps to Q2's α-mechanism-collapse trigger. Q2 retrospective explains why war persists; Q6 prospective predicts how it ends. |
+| [Q3](q3-ceasefire-instability.qmd) | Q6's pathway analysis extends Q3's mechanism-collapse triggers into forward-looking probability estimates. |
+| Q4 (forthcoming) | Q6 predicts coalition stability over termination trajectories. |
+| [Q5](q5-bargaining-range.qmd) | Q6's durability dimension intersects Q5's empty-range finding. |
+| [Q7](q7-russia-ukraine.qmd) | Q6's Pathway D-Russian-collapse affects trajectory. If Russia collapses in Ukraine, CRINK financial-architecture support for Iran weakens; Pathway A more likely. |
+| [Q8](q8-china-taiwan.qmd) | Q6's Pathway D-CRINK-formalization scenario = Atlantic Council Scenario 3. Trump-Xi summit (May 14-15) outcome directly affects probability. |
+| [Q9](q9-europe-us-relationship.qmd) | Q6's Pathway D-regional-escalation affects EU response. Increased regional escalation deepens EU strategic-autonomy reorientation per Q9. |
+| [Q10](q10-us-hormuz-interest.qmd) | Q6's Pathway B is directly the Q10 falsifier-2 condition. If Q10 falsifier 2 fires (SPR acceleration > 5 mb/wk sustained), Pathway B accelerates. |
+| [Q11](q11-us-israel-coalition.qmd) | Q6's Pathway A produces conditions Israel wants (regime change). Pathway B produces conditions Netanyahu's limited-spoiler position rejects. P-A severe agency slippage constrains how Trump can pivot under Pathway B without Israeli defection. |
+| [Q12.5](q12-5-post-war-reconfiguration.qmd) | Q6's pathway probabilities affect Configuration F probability. If Pathway C fires, Configuration F accelerates. If Pathway B fires, Gulf states' patron-reliability assessment improves marginally, slowing Configuration F. |
+
+```{=html}
+</div>
+```
+
+```{=html}
+<div class="deep-only">
+```
+
+## Sources & further reading
+
+Companion analysis file: [`Q6_what_ends_the_war.md`](https://github.com/) — final deliverable. Tier-2 abbreviated protocol; no separate steel-man / DA delegated cycle.
+
+Key citations: @toft2010ending, @reiter2009how, @beardsley2008agreement, @werner-yuen2005making, @walter1997critical, @werner1999precarious, @stedman1997spoiler, @goemans2000war, @grossmanhelpman1994protection, @putnam1988diplomacy.
+
+**Highest-priority remaining corpus gaps for Q6 verification:**
+
+- Direct empirical work extending Toft 2010 to interstate-war terminations specifically (vs civil-war-derived sample).
+- Filson-Werner 2002 work on war duration and termination probability (currently used at compilation level).
+- Forward-looking Atlantic Council scenario probability assessments updated for post-March-2026 trajectory.
+
+```{=html}
+</div>
+```

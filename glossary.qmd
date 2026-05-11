@@ -462,6 +462,14 @@ Suzanne Werner's "The Precarious Nature of Peace" (1999) and related war-termina
 
 ---
 
+## Settlement-typology fragility prediction (Toft, 2010)
+
+Monica Duffy Toft's *Securing the Peace* (2010, with an *International Security* article version) compared post-war stability across three settlement types and found a sharp empirical pattern: military victories produce far more durable peace than negotiated settlements. Across her civil-war dataset (1940-2002), negotiated settlements show roughly 50% recurrence within 10 years; military victories ~10-15%; ceasefire/stalemates intermediate. The mechanism: victors can impose preferences and enforce them; negotiated settlements leave commitment problems unresolved. The framework generalizes to interstate war termination. [Q6](analyses/q6-what-ends-the-war.qmd) reads the modal Iran-US termination pathway (Trump-admin pivot + market pressure → mediated settlement) as exactly the type Toft predicts will subsequently fail.
+
+*Primer chapter:* forthcoming.
+
+---
+
 ## Mediation-induced time-inconsistency (Beardsley, 2008)
 
 Kyle Beardsley's "Agreement without Peace?" (2008) showed empirically — across the 1918-2001 international-crisis-behavior dataset — that mediation produces a counterintuitive failure pattern. Mediated crises are *less* likely to recur immediately (first 4 years) but *more* likely to recur further in the future. The mechanism: mediators create artificial incentives via information provision, leveraging costs, and monitoring/enforcement promises that temporarily expand the apparent bargaining range. When mediator influence wanes, the artificial expansion contracts, leaving the agreement outside the (now smaller) bargaining range. [Q3](analyses/q3-ceasefire-instability.qmd) reads the Pakistan-brokered 8 April 2026 ceasefire's 9-days-later first violations and 30-day collapse trajectory as Beardsley's pattern in execution.

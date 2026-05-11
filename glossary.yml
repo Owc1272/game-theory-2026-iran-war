@@ -319,6 +319,12 @@ glossary:
       Suzanne Werner's "The Precarious Nature of Peace" (1999) and related war-termination literature identified three jointly-necessary conditions for durable post-war peace: (1) underlying *issues are resolved* or made manageable; (2) the settlement *includes credible enforcement*; (3) the *terms are consistent with the balance of power*. Ceasefires that fail on any of the three reliably break. Q2 applies the diagnostics to the 2026 Iran war and finds all three failing simultaneously: Iran's 14-point framework and US terms have no overlap on regime-change, enrichment, or Hormuz-toll; no third-party enforcer is available; and any terms acceptable to one side are inconsistent with the other side's revealed power-position.
     primer: null
 
+  - id: toft-settlement-typology
+    title: "Settlement-typology fragility prediction (Toft, 2010)"
+    body: |
+      Monica Duffy Toft's *Securing the Peace* (2010, with an *International Security* article version) compared post-war stability across three settlement types and found a sharp empirical pattern: military victories produce far more durable peace than negotiated settlements. Across her civil-war dataset (1940-2002), negotiated settlements show roughly 50% recurrence within 10 years; military victories ~10-15%; ceasefire/stalemates intermediate. The mechanism: victors can impose preferences and enforce them; negotiated settlements leave commitment problems unresolved. The framework generalizes to interstate war termination. Q6 reads the modal Iran-US termination pathway (Trump-admin pivot + market pressure → mediated settlement) as exactly the type Toft predicts will subsequently fail.
+    primer: null
+
   - id: beardsley-mediation-time-inconsistency
     title: "Mediation-induced time-inconsistency (Beardsley, 2008)"
     body: |
