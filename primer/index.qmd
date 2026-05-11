@@ -24,6 +24,10 @@ The primer is descriptive, not prescriptive — it sets out what each model assu
 - **[Hedging vs balancing vs bandwagoning](hedging-balancing-bandwagoning.qmd)** — Kuik 2016, Lim & Cooper 2015, Fulton 2026: what do Gulf states' actions actually fit? The third element of the Gulf analytical engine — categorizes the observable behavior the structural and internal-threat dynamics produce.
 - **[Coalition theory and selectorate](coalition-theory-selectorate.qmd)** — Riker 1962, Bueno de Mesquita et al. 2003: who has to consent, and why some autocrats survive war losses that should bring them down. Selectorate vs winning coalition; the W/S ratio as regime-defining feature.
 
+### Theological-institutional structures
+
+- **[Khameneism and theological foreclosure](khameneism-and-theological-foreclosure.qmd)** — Kamrava 2024, Mesbah Yazdi: the post-2009 Iranian regime as a distinct ideological project, designed to outlast its founder, and the theological-jurisprudential mechanism that frames US-Israel hostility as "innate" rather than instrumentally costly. The frame matters for Q2 (regime persistence after decapitation), Q5 (bargaining range narrowed by doctrinal claims), Q6 (institutional reactivation problem for any theological reconfiguration), and Q11 (Iran's semi-predictable responses reinforcing the Stackelberg-leader reading).
+
 ## Why the primer matters
 
 Most of these tools were developed for different questions than the 2026 Iran war. Applying them to this case requires knowing what each was originally about and where the analogy survives or breaks. That work belongs here, not buried in the analyses.

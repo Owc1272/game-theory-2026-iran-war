@@ -1,0 +1,201 @@
+---
+title: "The trust-deficit lineage — 1813-2026"
+subtitle: "The 200-year template Tehran applies to every Western negotiation, and the 1953 Anglo-American coalition as the structural prototype for 2026."
+description: "Treaty of Golestan (1813) → Anglo-Russian partition (1907) → Reza Shah's 1941 Anglo-Soviet deposition → 1953 CIA-MI6 coup → 1979 hostage crisis → 2018 JCPOA exit → 2026 strikes. The Truman → Eisenhower template (substantive mediation in 1951, coup within 6 weeks of administration change in 1953) is the template Tehran applies to every US admin transition; JCPOA (Obama 2015 → Trump 2018 withdrawal) maps onto it directly. The 1953 Anglo-American operational team (Roosevelt-Wilber-Schwarzkopf + Zaehner-Derbyshire-Rashidian) is the structural prototype for the 2026 US-Israel coalition — same two-intelligence-led-powers-as-one-team architecture, 73 years later, with senior-junior roles inverted."
+categories: [historical-roots, trust-deficit, 1953-coup, us-israel-coalition, prototype]
+date: 2026-05-11
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#1953-prototype" class="skip-link">Skip to the 1953 coalition as 2026 prototype</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The pattern
+
+```{=html}
+<div class="concise-only">
+```
+
+*Iran as object of great-power politics.* Treaty of Golestan (1813) cost Iran ~10% of territory and population. Turkmenchay (1828) imposed a 5-million-toman indemnity plus Russian capitulatory rights — template extended to Britain in 1841. 1907 Anglo-Russian Convention partitioned Iran into spheres of influence without Iranian consent. WWI: Iran fielded no soldiers, was not heard at Paris Peace Conference, and lost ~1 million dead (of ~9 million) to famine and Spanish flu. **1941 Anglo-Soviet invasion** deposed Reza Shah and installed his 21-year-old son. **The 1953 Anglo-American coup** was officially acknowledged by the CIA in 2013 and formally taken credit for in 2023 — a fifty-year denial period that itself shaped distrust. **1979 hostage crisis** broke diplomatic relations for 47 years and counting. **2018 JCPOA exit** under Trump-1 mapped onto the Truman → Eisenhower template (substantive mediation in 1951, coup within 6 weeks of administration change in 1953). *Tehran's institutional memory frames: frameworks reached with one US administration are abrogated by the next.* This sets the bargaining range for every subsequent negotiation, including 2026.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+### Iran as object of great-power politics, 1813-1907
+
+Treaty of Golestan (1813): Iran loses 17 Caucasian khanates (~10% of territory and population). Treaty of Turkmenchay (1828): 5-million-toman indemnity (~2× annual state revenue) plus Russian capitulatory rights — a template extended to Britain (1841) and other powers. The capitulatory rights are critical: foreign nationals on Iranian soil were exempt from Iranian law, a humiliation that Khomeini cited 136 years later in his October 1964 capitulations speech.
+
+1908 Cossack coup: Russian Colonel Liakhov bombards the Majles with four artillery pieces; Amanat calls it "the first to bear the ominous signs of a modern military coup." 1907 Anglo-Russian Convention partitions Iran into spheres of influence without Iranian consent. 1911 Russian ultimatum demands Iran dismiss American adviser Morgan Shuster and pay indemnity for the cost of Russia's invasion of Iran; Majles voted to defy, the Bakhtiyari cabinet ignored the vote.
+
+WWI: Iran did not field a single soldier and was not allowed to bring grievances to the Paris Peace Conference; conservative estimate of 1+ million deaths from famine and Spanish flu out of population ~9 million.
+
+### 1941: Anglo-Soviet invasion and the Reza Shah deposition
+
+In August 1941, after Reza Shah declined to expel German nationals (Iran was nominally neutral), Britain and the Soviet Union jointly invaded Iran. The Iranian military, which Reza Shah had spent 16 years building, was overrun in three weeks. Reza Shah was forced to abdicate; the British arranged his exile to South Africa, where he died in 1944. His 21-year-old son Mohammad Reza Shah was installed as monarch.
+
+The 1941 invasion is structurally important for the trust deficit because it demonstrates that the British and Soviet positions — supposedly reciprocal Great Powers — could and did coordinate to depose Iranian monarchs when Iranian policy diverged from their preferences. The pattern is repeated in 1953 (US replacing UK as senior partner) and in 2026 (Israel replacing UK as senior partner). *Tehran's institutional memory: the West coordinates against Iranian leadership when Iranian leadership becomes inconvenient, regardless of stated alliance structures.*
+
+### 1953: The Anglo-American coup
+
+$50K paid to Zahedi pre-coup; ~$70K spent on the 19 August mob; CIA paid Zahedi $1M personally + $5M to his government post-coup. Operational team: **Roosevelt-Wilber-Schwarzkopf (US) + Zaehner-Derbyshire-Rashidian brothers (UK)**. The Wilber CIA history admits *false-flag operations* — CIA agents posing as Tudeh communists threatened Muslim leaders and bombed at least one cleric's home to alienate clergy from Mosaddegh. The CIA officially acknowledged the coup in August 2013 and formally took credit in 2023 — a fifty-year denial period that itself shaped Iranian distrust.
+
+The 1953 coup is the most important single event in the trust deficit lineage. It is detailed extensively below under [the 1953 coalition as 2026 prototype](#1953-prototype). The compressed account: Mosaddegh, the elected prime minister who had nationalized Iranian oil in 1951, was overthrown by a covert operation jointly conducted by the CIA and MI6 over August 15-19, 1953. The 1954 IOP consortium replaced AIOC; Iran got the 50/50 deal AIOC had refused Mosaddegh. The Shah returned from his brief exile and reigned for 26 more years until the 1979 revolution.
+
+### 1979: The hostage crisis as foundational rupture
+
+4 November 1979: 66 US embassy personnel seized; 52 held for 444 days. "Great Satan" rhetoric coined within weeks. Operation Eagle Claw failed 24 April 1980 (8 US servicemen dead). Algiers Accords resolved 19 January 1981 — hostages released hours after Reagan's inauguration. *US-Iran diplomatic relations have been broken for 47 years and never restored.*
+
+The hostage crisis is the structural rupture from which all subsequent US-Iran interactions inherit. Pre-1979 Iran-US relations were dense — military cooperation, oil partnership, intelligence sharing, civilian-government coordination. Post-1979 Iran-US relations are minimal — no embassy, no direct diplomacy (only Swiss-protecting-power and Omani-mediated channels), no military cooperation, no commercial relations (post-1995 ILSA).
+
+### The Truman → Eisenhower template
+
+The most structurally consequential feature of the trust deficit is what Tehran has *inferred* from the historical record: **frameworks reached with one US administration are abrogated by the next.**
+
+The Truman → Eisenhower transition is the foundational instance:
+
+- 1951-1952: Truman administration mediates between Mosaddegh and Britain on oil nationalization. Truman explicitly refuses British requests for a coup, judging the cost-benefit unfavorable.
+- November 1952: Eisenhower elected.
+- January 1953: Eisenhower inaugurated.
+- March 1953: Eisenhower administration approves coup planning. Decision time: 6 weeks from administration change.
+- August 1953: Operation Ajax executed; Mosaddegh deposed.
+
+The template Tehran applies: a substantive US framework (Truman's mediation; later Obama's JCPOA) is reached with one administration; the next administration of opposite party promptly abrogates it. The JCPOA case maps directly:
+
+- 2013-2015: Obama administration negotiates JCPOA (P5+1 + Iran agreement signed 14 July 2015).
+- November 2016: Trump elected.
+- January 2017: Trump inaugurated.
+- May 2018: Trump withdraws from JCPOA. Decision time: ~16 months — longer than the Truman → Eisenhower transition but structurally identical.
+
+The 2026 strikes (Trump-2 administration) are perceived in Tehran as a continuation of this pattern: a framework that had been operational under Biden was abrogated by Trump's return, and the abrogation moved swiftly from JCPOA-resumption-impossible (early 2025) to nuclear infrastructure strikes (June 2025) to leadership-decapitation strikes (February 2026).
+
+*Tehran's institutional memory does not need to be fully accurate to be load-bearing for current behavior.* What matters analytically is that Iranian decision-makers apply this template to negotiations with the US, which structurally narrows the bargaining range for any new framework — Iran will demand front-loaded benefits and back-loaded concessions, expecting US administration change to abrogate the back-loaded part.
+
+```{=html}
+</div>
+```
+
+::: {.bottom-line}
+**Bottom line.** The trust deficit is **200 years**, not 47. Treaty of Golestan (1813) → Anglo-Russian partition (1907) → 1941 Anglo-Soviet invasion → 1953 CIA-MI6 coup → 1979 hostage crisis → 2018 JCPOA exit → 2026 strikes — a single lineage Tehran reads as evidence that frameworks reached with one Western administration are abrogated by the next. The **Truman → Eisenhower template** (substantive 1951-52 mediation → coup within 6 weeks of administration change in March 1953) maps directly onto **JCPOA (Obama 2015 → Trump 2018 withdrawal)**, and the 2026 strikes are perceived in Tehran as a continuation of this pattern. The **1953 Anglo-American operational team** (Roosevelt-Wilber-Schwarzkopf + Zaehner-Derbyshire-Rashidian brothers) is the *structural prototype* for the 2026 US-Israel coalition — same two-intelligence-led-powers-as-one-team architecture, 73 years later, with senior-junior roles inverted (Israel now the senior strategic partner). Structurally relevant for [Q1 — why bargaining failed](../analyses/q1-why-bargaining-failed.qmd) (Iran's 200-year template makes substantive US frameworks structurally suspect), [Q3 — ceasefire instability](../analyses/q3-ceasefire-instability.qmd) (the 1954 IOP consortium agreement was technically generous but coercive origin made it structurally unstable), [Q9 — Europe-US relationship](../analyses/q9-europe-us-relationship.qmd) (UK was 1953's senior partner; today UK is operationally and politically marginal), and [Q11 — US-Israel coalition](../analyses/q11-us-israel-coalition.qmd) (the 1953 team is the 2026 prototype with roles inverted).
+:::
+
+## The 1953 coalition as 2026 prototype {#1953-prototype}
+
+```{=html}
+<div class="concise-only">
+```
+
+The 1953 operational team **Roosevelt-Wilber-Schwarzkopf (US) + Zaehner-Derbyshire-Rashidian (UK)** is the *structural prototype* for the 2026 US-Israel coalition. *Two intelligence-led powers operating as one covert team* — the model is 73 years old. The 2026 inversion is that Israel now substitutes for the UK role, and the senior-junior dynamic is reversed:
+
+- **1953**: UK = senior strategic partner with the operational concept (Operation Boot, MI6 originating); US = junior follower with greater operational resources (Operation Ajax, CIA executing)
+- **2026**: Israel = senior strategic partner with the operational concept ([Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} from Bennett 2018; Mar-a-Lago December 2025 meeting); US = junior follower with greater operational resources (B-2 stealth bombers, GBU-57 MOPs)
+
+The 1953 coup was officially acknowledged by the CIA in 2013 and formally taken credit for in 2023 — meaning the *prototype* itself is now part of the public-domain US-side institutional memory in a way it was not when JCPOA was signed. For [Q11](../analyses/q11-us-israel-coalition.qmd)'s coalition-structure question, this prototype is one of the project's strongest pre-1979 evidence lines for the [Stackelberg leader-follower]{.gloss data-gloss="stackelberg-leader-follower"} reading.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+### Why the 1953 operational team is the structural prototype
+
+The 1953 operational team — Roosevelt-Wilber-Schwarzkopf (US) + Zaehner-Derbyshire-Rashidian (UK) — is the *structural prototype* for the 2026 US-Israel coalition. *Two intelligence-led powers operating as one covert team* — the model is 73 years old.
+
+The core architectural features of the 1953 operation that recur in 2026:
+
+1. **Two-intelligence-led-powers-as-one-team.** In 1953, the operation was jointly conducted by CIA (US) and MI6 (UK), with shared command-and-control, shared resources, and shared political objectives. In 2026, the operation has been jointly conducted by Mossad (Israel) and CIA/JSOC (US), with shared command-and-control structure (Mar-a-Lago Dec 2025 meeting), shared intelligence, and shared political objectives (Iran nuclear program degradation; IRGC leadership decapitation).
+2. **Senior strategic partner provides operational concept; junior partner provides resources.** In 1953, UK provided the operational concept (Operation Boot — MI6 had been planning anti-Mosaddegh action since 1951) and US provided the operational resources (CIA cash, false-flag agents, mob coordination). In 2026, Israel provides the operational concept ([Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} from Bennett 2018; the September 2024 pager operation; the October 2024 air-defense strikes; the June 2025 nuclear strikes; the February 2026 decapitation) and the US provides the operational resources (B-2 stealth bombers; GBU-57 MOPs; aircraft-carrier strike groups).
+3. **Operating directly on Iranian territory in conjunction with local agents.** In 1953, the Rashidian brothers (Asadollah, Qodratollah, Seyfollah) were the local agents who coordinated the August 19 mob; CIA contractors operated inside Iran. In 2026, Mossad's inside-Iran network — built over decades, exposed in part by the September 2024 pager operation and the strikes on IRGC general staff — coordinates direct kinetic operations on Iranian soil.
+
+### The senior-junior inversion
+
+The structural feature that has changed across 73 years is the senior-junior axis. In 1953:
+
+- UK was the senior strategic partner with the operational concept (MI6's Operation Boot)
+- US was the junior follower with greater operational resources (CIA's Operation Ajax executing the concept)
+- The UK's senior status reflected its longer operational presence in Iran (1901-1953), its existing operational infrastructure, and its acute economic stake (AIOC nationalization)
+- The US's junior status reflected its relatively recent serious engagement with Iran (Truman administration, post-WWII) and its lack of pre-existing operational infrastructure
+
+In 2026:
+
+- **Israel is the senior strategic partner with the operational concept** — [Octopus Doctrine]{.gloss data-gloss="octopus-doctrine"} (Bennett 2018) articulated 8 years before 2026 strikes; September 2024 pager operation and October 2024 air-defense degradation were executed without US participation; Mar-a-Lago December 2025 meeting reflects Israel pulling Trump-2 administration toward joint action that Israel had already conceptually designed
+- **The US is the junior follower with greater operational resources** — B-2 stealth bombers (the only platform that can deliver GBU-57 MOPs), aircraft-carrier strike groups, intelligence-collection assets, sanctions architecture
+- **Israel's senior status reflects** its longer continuous strategic focus on Iran (since the 1980s, intensifying through the 2010s) and its acute existential stake (Iran's nuclear program; Iranian proxy threat)
+- **The US's junior status reflects** its administration-cycle volatility (Truman-Eisenhower template applied to Obama-Trump-Biden-Trump), its lack of direct existential threat from Iran, and its political-economic ambivalence about prolonged Middle East engagement
+
+The structural-similarity reading is what makes [Q11](../analyses/q11-us-israel-coalition.qmd)'s [Stackelberg leader-follower]{.gloss data-gloss="stackelberg-leader-follower"} frame and the principal-agent severe-slippage frame both empirically plausible — they are 73-year-old patterns adapted to a new senior partner.
+
+### Why the prototype matters for 2026 negotiations
+
+The 1953 coup was officially acknowledged by the CIA in August 2013 — sixty years after the event, during the late Obama administration as JCPOA negotiations were underway. The CIA formally took credit for the coup in 2023 — 70 years after the event, during the late Biden administration. *Meaning the prototype itself is now part of the public-domain US-side institutional memory in a way it was not when JCPOA was signed.* Iranian negotiators in 2015-2018 were operating against a US institutional memory in which the 1953 coup was admitted but not formally owned; Iranian negotiators in 2026 (to the extent any negotiations occur) would be operating against a US institutional memory in which the coup is publicly claimed.
+
+This matters analytically because it suggests Iranian distrust of US frameworks is *not* a paranoid projection — it is empirically grounded in a US institutional record that has now been formally acknowledged. The 1953 prototype is one of the project's strongest pre-1979 evidence lines for the [Stackelberg leader-follower]{.gloss data-gloss="stackelberg-leader-follower"} reading: a Stackelberg-leader Israel can use the joint US-Israel apparatus to conduct operations on Iranian territory that Iran would correctly perceive as following a 73-year-old template — and would correctly anticipate would not be abrogated by US-side administration change in the way a *negotiated* framework would be.
+
+```{=html}
+</div>
+```
+
+## Implications for the analytical chapters
+
+```{=html}
+<div class="concise-only">
+```
+
+The trust-deficit lineage reshapes four analytical chapters:
+
+- **[Q1 — why bargaining failed](../analyses/q1-why-bargaining-failed.qmd)**: Iran's reservation point reflects 200 years of accumulated distrust, not just current cost-benefit. The Truman → Eisenhower template applied to JCPOA. Tehran prices in administration-cycle abrogation.
+- **[Q3 — ceasefire instability](../analyses/q3-ceasefire-instability.qmd)**: the 1954 IOP consortium agreement was technically generous (50/50 — exactly what Mosaddegh would have taken) but its delegitimizing covert origin made it structurally unstable for 25 years until 1979 nationalization. *Settlements through coercion are structurally fragile.*
+- **[Q9 — Europe-US relationship](../analyses/q9-europe-us-relationship.qmd)**: 1953 Anglo-American template had UK as the *senior* strategic partner. Today UK is operationally and politically marginal — full role inversion over 73 years. European hesitation about US-led Iran action has historical roots.
+- **[Q11 — US-Israel coalition](../analyses/q11-us-israel-coalition.qmd)**: 1953 Anglo-American team (Roosevelt-Wilber-Schwarzkopf + Zaehner-Derbyshire-Rashidian) is the *structural prototype* for the 2026 coalition. Khomeini's October 1964 capitulations speech established the US-as-immediate-enemy framing now 62 years deep.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+### Q1 — Why bargaining failed
+
+Iran's reservation point reflects 200 years of accumulated distrust, not just current cost-benefit calculation. Tehran institutional memory frames the trust deficit through the Truman → Eisenhower template: substantive mediation in 1951-52 → coup within 6 weeks of administration change in 1953. The JCPOA case (Obama 2015 → Trump 2018 withdrawal) maps directly onto this template. The 2026 strikes are perceived in Tehran as a continuation of this pattern. *The bargaining range available to any Iran-US negotiation is structurally narrowed because Iran will demand front-loaded benefits and back-loaded concessions, expecting US administration change to abrogate the back-loaded part.* This sharpens [Q1's mechanism 5 (commitment problem)](../analyses/q1-why-bargaining-failed.qmd) by adding a 200-year institutional substrate; the commitment problem is not just a 2026-strike-specific phenomenon but a pattern Tehran has empirically observed for over a century.
+
+### Q3 — Why the ceasefire is unstable
+
+The 1954 IOP consortium agreement was technically generous: it gave Iran the 50/50 deal AIOC had refused Mosaddegh. But its delegitimizing covert origin (the August 1953 coup that installed Zahedi as PM) made it structurally unstable. The IOP consortium lasted 25 years — until 1979 nationalization terminated it. *Settlements reached through coercion are structurally fragile.* This is the direct historical lesson for any 2026 ceasefire framework: technical merit cannot save an agreement perceived as imposed. The Pakistan-mediated 8 April 2026 ceasefire's structural problems — see [Q3](../analyses/q3-ceasefire-instability.qmd) — fit this 73-year-old pattern.
+
+### Q9 — Europe-US relationship
+
+The 1953 Anglo-American template had UK as the *senior* strategic partner with the operational concept (MI6's Operation Boot, originating in 1951). US was the junior follower with greater operational resources. In 2026, the senior-junior axis is fully inverted — and the senior strategic partner is no longer UK at all, but Israel. UK is operationally and politically marginal in the 2026 coalition.
+
+The structural drift across 73 years matters for [Q9](../analyses/q9-europe-us-relationship.qmd). European hesitation about US-led Iran action has historical roots in the very different European postures during 19th- and 20th-century interventions. UK was the lead actor in 1953; today UK supports the US-Israel operation but is not the operational concept's origin. The British public-opinion divergence from US/Israeli positions on Iran (where present) reflects a structural shift in Britain's relative position rather than a sudden ideological move. Similarly, German and French divergence reflect European structural-economic stakes (Iran sanctions cost European companies more than US companies; Iranian oil and gas were more important to European energy security pre-sanctions than to US energy security).
+
+### Q11 — US-Israel coalition
+
+The 1953 prototype is one of [Q11](../analyses/q11-us-israel-coalition.qmd)'s strongest pre-1979 evidence lines. The Stackelberg leader-follower reading and the principal-agent severe-slippage reading are both empirically plausible because they are 73-year-old patterns adapted to a new senior partner (Israel replacing UK). The full discussion is in [the 1953 coalition as 2026 prototype](#1953-prototype) section above.
+
+Two additional features of the trust-deficit lineage matter for Q11:
+
+- **Khomeini's October 1964 capitulations speech** ("America is worse than Britain and Britain is worse than America...") established the founding articulation of the US-as-immediate-enemy frame. Iranian regime ideology has absorbed this framing for 62 years — meaning Israel's strikes can be folded into a long-conditioned narrative without the regime needing to construct new ideological justifications. The Khameneist theological framing of US-Israel hostility (see [Theology](theology.qmd)) is the contemporary jurisprudential form of this 62-year-old political framing.
+- **The pre-1979 US-Israel-Iran triangle was inverted** — Iran was tacit Israeli ally (oil supply through Eilat-Ashkelon pipeline; intelligence cooperation between the SAVAK and Mossad through the 1960s-70s). Post-1979 Iran is existential adversary. The reversal is asymmetric: Israel can revert to operational coordination patterns from the Pahlavi era (Israeli intelligence operations on Iranian soil; covert cooperation with Iranian internal actors); Iran's regime cannot revert without invalidating its founding ideology.
+
+```{=html}
+</div>
+```
+
+## Sources & further reading
+
+The 1813-1907 material draws on Amanat's *Iran: A Modern History* (Yale 2017), chapters 4-7. The 1941 invasion and the 1953 coup draw on Amanat chapter 9 and Stephen Kinzer's *All the Shah's Men* (2003); the operational team details (Roosevelt-Wilber-Schwarzkopf + Zaehner-Derbyshire-Rashidian brothers) are documented in the Wilber CIA history (declassified 2000) and Gasiorowski's TPBEDAMN compilation. The 1979 hostage crisis material draws on Amanat chapter 13 and Arjomand's *The Turban for the Crown* (1988). The JCPOA case (2015-2018) draws on the project's main corpus.
+
+The 1953 coalition as 2026 prototype synthesis is the project's own; the structural-similarity reading (two-intelligence-led-powers-as-one-team architecture; senior-junior inversion) is original. The CIA's 2013 official acknowledgment and 2023 formal credit-taking are public events; the analytical implication for Iranian institutional memory is the project's interpretation.
+
+See also [Theology and theocracy](theology.qmd) for the parallel theological framing of US-Israel hostility (Khomeini's 1964 capitulations speech; Khameneist "innate hostility" doctrine), and [Reformist-failure base rate](reformist-failure-base-rate.qmd) for how the trust-deficit lineage shaped clerical defection patterns (Kashani 1953; the 1979 institutional capture).

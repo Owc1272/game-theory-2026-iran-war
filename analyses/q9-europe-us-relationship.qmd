@@ -405,7 +405,7 @@ The 2026 transatlantic decoupling pattern is the full inversion of a 73-year-old
 
 This deepens Q9's [Pape soft-balancing]{.gloss data-gloss="pape-soft-balancing"} reading for the diplomatic dimension. **European powers' treatment of Iran has a 113-year pattern of marginality** — WWI is the canonical earlier instance. Iran fielded no soldiers in WWI, lost ~1 million dead (from famine and Spanish flu, out of ~9 million population), and *was not allowed to bring grievances to the Paris Peace Conference*. The 1907 Anglo-Russian Convention had already partitioned Iran into spheres of influence without Iranian consent. The 2026 European posture of soft-balancing through institutional friction — without independent operational capacity — is consistent with this multi-decade pattern of European Iran-policy as derivative or absent. The F3-trending security dimension Q9 reads at P=0.15 needs to overcome a long historical pattern of European-strategic-autonomy projects (1999 Helsinki, 2003 ESS, 2017 Macron Sorbonne) that did not execute.
 
-**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+**Full pre-1979 context**: [Historical roots — Trust-deficit lineage](../historical-roots/trust-deficit.qmd).
 
 ## Sources & further reading
 

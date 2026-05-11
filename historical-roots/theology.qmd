@@ -1,0 +1,337 @@
+---
+title: "Theology and theocracy — the Khameneist project"
+subtitle: "How a 1970 Najaf doctrinal innovation became the 2026 IRGC-led regime, and why that regime is now a post-2009 Khameneist project analytically distinct from the Khomeinist revolution."
+description: "Velayat-e faqih is not a Shi'i consensus; it is a contested 20th-century innovation rejected by the most senior Shi'i jurist alive. Kamrava 2024 dissects Khameneism as a discrete ideological project supported by Mesbah Yazdi's theology and an institutional apparatus designed to outlast its founder. Marja'iyat-Sistani-Najaf survives as the parallel-authority alternative. The 1990s religious-reformist theologians (Kadivar, Shabestari, Eshkevari, Soroush, Mousavian) articulated doctrinal alternatives that were defeated institutionally, not refuted theologically. Kamrava's 2023 forecast predicted IRGC consolidation three years before Feb 28 2026."
+categories: [historical-roots, theology, khameneism, kamrava, marja-iyat, religious-reformists]
+date: 2026-05-11
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#kamrava-forecast" class="skip-link">Skip to Kamrava's 2023 forecast</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The puzzle
+
+```{=html}
+<div class="concise-only">
+```
+
+Khamenei was killed in the opening hours of 28 February 2026. The standard expectation is that decapitation of a regime-defining figure produces concession from the survivors. Iran instead consolidated under Vahidi-led IRGC and persists in the war ten weeks later. The standard reading attributes this to IRGC institutional reflex. A deeper reading — Kamrava 2024 — is that the regime in 2026 is no longer Khomeini's revolutionary creation but a *Khameneist project*: a post-2009 ascendant orthodoxy supported by a specific theological apparatus (Mesbah Yazdi), a specific institutional infrastructure (Imam Khomeini Educational and Research Institute, Plan of Velayat course, Special Court for the Clergy), and a specific coalition (IRGC + bonyad + Qom seminary state-capture). The infrastructure was designed to outlast its founder. The succession question is not "who replaces Khamenei?" but "can anyone hold this distributed apparatus together without the symbolic apex?"
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+The Iranian regime that fights the 2026 war is commonly described as the Islamic Republic Khomeini founded — 47 years old, theologically rigid, militarily entrenched. This description is correct as far as it goes, but it misses what Mehran Kamrava's *How Islam Rules in Iran* (Cambridge 2024) makes visible: the regime that consolidated power *after* the 2009 Green Movement crackdown is analytically distinct from the regime Khomeini built. Kamrava calls it **Khameneism** — modeled deliberately on Ervand Abrahamian's "Khomeinism" — and argues that it differs from its predecessor in basis of authority (institutional position rather than charismatic + marja' credentials), theoretical apparatus (Mesbah Yazdi-supplied, not Khomeini-extended), coalition composition (IRGC + bonyad + Qom seminary state-capture, not the broad 1979 revolutionary alliance), and structural design (distributed to outlast any individual leader).
+
+This page tracks the theological-jurisprudential dimension across three lineages that the analytical chapters cite repeatedly:
+
+1. **Khomeini's institutional design (1970-1989)** — how the doctrinal innovation became the constitutional architecture
+2. **Marja'iyat as the surviving alternative (Najaf-quietist tradition from Borujerdi through Sistani)** — institutional evidence that velayat-e faqih is not a Shi'i consensus
+3. **Khameneism as a distinct ideological project (post-2009)** — the post-Khomeinist regime, its theological apparatus, and the religious-reformist alternatives it institutionally defeated
+
+The most temporally consequential single item: Kamrava's 2023 forecast in chapter 9 of his book *predicted* "highly likely" IRGC consolidation in the immediate aftermath of Khamenei's death — three years before the Israeli decapitation strike of 28 February 2026 made it observable.
+
+```{=html}
+</div>
+```
+
+::: {.bottom-line}
+**Bottom line.** Three theological-institutional layers shape what the 2026 regime can and cannot do. **Layer 1** — Khomeini's 1970 Najaf lectures specified the IRGC-Basij architecture nine years before the revolution; the 1989 constitutional revision made guardianship [absolute (velayat-e motlaqeh)]{.gloss data-gloss="velayat-e-motlaqeh"} and decoupled it from marja' credentials, enabling Khamenei's succession. **Layer 2** — The mainstream Twelver tradition runs through Najaf (Borujerdi → Khoei → Sistani) and rejects velayat-e faqih; [Sistani]{.gloss data-gloss="najaf-quietism"} (b. 1930) is the institutional alternative the Iranian state cannot capture. **Layer 3** — [Khameneism]{.gloss data-gloss="khameneism"} is a *post-2009 distinct ideological project*, not Khomeinism continued: institutional rather than charismatic basis, [Mesbah Yazdi]{.gloss data-gloss="mesbah-yazdi"}-supplied theoretical apparatus framing US-Israel hostility as theologically "innate," and a distributed institutional infrastructure (Imam Khomeini Educational and Research Institute; [Plan of Velayat]{.gloss data-gloss="khameneism"}; [Special Court for the Clergy]{.gloss data-gloss="special-court-clergy"}; Qom seminary state-capture) designed to outlast its founder. The religious-reformist theologians (Kadivar, Shabestari, Eshkevari, Soroush, Mousavian) articulated doctrinal alternatives — including [velayat-e moqayyad / constrained guardianship]{.gloss data-gloss="velayat-e-moqayyad"} — that were institutionally defeated 1999-2011, not theologically refuted. **The Q6 activation problem for any theological reconfiguration is institutional, not intellectual.**
+:::
+
+## Layer 1 — Khomeini's institutional design (1970 → 2026)
+
+```{=html}
+<div class="concise-only">
+```
+
+1963: Khomeini's Fayziyeh sermon (Qom, 3 June) and the Khordad 15 uprising (125-400 killed). 26 October 1964 capitulations speech: Khomeini linked US military judicial immunity to the hated Qajar capitulations — *"America is worse than Britain and Britain is worse than America..."* — the founding articulation of US-as-immediate-enemy frame. **The 1970 Najaf lectures** (*Hokumat-e Islami*, 21 January-8 February 1970): nineteen lectures that explicitly anticipated *sepah-e Islam* (→ IRGC, May 1979), *basij* (→ Basij paramilitary), *taghuti* (Pahlavi label, basis for revolutionary delegitimization), and *mufsid fi'l-ard* (still-used revolutionary court charge). **All four became operational law within nine years.** The 1989 [absolute-guardianship]{.gloss data-gloss="velayat-e-motlaqeh"} amendment placed the Supreme Leader above any constitutional constraint and decoupled velayat-e faqih from marja' credentials — the constitutional move that made Khamenei's succession possible.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+*The 1963 emergence.* 3 June 1963: Khomeini's Fayziyeh madrasa sermon (Qom) — first major use of recorded religious cassette for political mobilization in Iran. Khordad 15 (5 June 1963) uprising: 125-400 killed. 26 October 1964 capitulations speech: Khomeini linked US military judicial immunity to the hated Qajar capitulations — *"America is worse than Britain and Britain is worse than America..."* — *the founding articulation of US-as-immediate-enemy frame*. A week later: exiled to Iraq.
+
+*The 1970 Najaf lectures: Hokumat-e Islami / Islamic Government.* **Nineteen lectures delivered 21 January-8 February 1970**, published in Beirut later that year, smuggled into Iran throughout the 1970s. The text *explicitly anticipated*: *sepah-e Islam* (→ IRGC, founded 5 May 1979); *basij* (→ Basij paramilitary); *taghuti* (Pahlavi label, basis for revolutionary delegitimization); *mufsid fi'l-ard* (revolutionary court charge — still used today). **All four became operational law within nine years.**
+
+*The 1979 implementation and 2026 endpoint.* 1979 IRGC formed explicitly as "a counterweight to the regular Iranian armed forces" (Amanat — directly applicable to today's Artesh-IRGC dynamic). 2008 Mosaic Defense reorganization (31 provincial corps) extended this counterweight design. 2026: Vahidi (founding Quds Force commander 1988-98) leads IRGC and effectively negotiates — the Quds Force institutional logic has captured the parent organization.
+
+*The 1979 constitutional capture: not consensus, but procedural manipulation.* The 1979 constitution that embeds velayat-e faqih is widely treated as the inevitable institutional embodiment of Khomeini's 1970 doctrine. It was not. The Provisional Revolutionary Government under Bazargan produced an *original draft* in early 1979 that was, per Keddie, "far more democratic than the final constitution and was very like the 1906-07 constitution without the constitutional monarch. It did not mention velayat-e faqih and gave no powers to the clergy beyond a constitutional commission similar to that included in the 1906-07 constitution." Khomeini was initially inclined to submit this draft to a referendum. The procedurally pivotal decision — pushed by the Khomeinist faction within the Council of the Islamic Revolution — was to convene an *Assembly of Experts* to revise the draft instead. The August 1979 Assembly election, **boycotted by the National Front, the National Democratic Front, leftist groups, and Kurdish/Azerbaijani parties** considering the procedures rigged, produced a 60-of-73 Khomeinist Assembly (55 of the 73 seats won by clerics). The November 1979 hostage crisis was used as cover: criticism of the constitutional drafting was branded treason; selective US-embassy-document releases discredited moderates while parallel IRP contacts with Americans went undisclosed; Shariatmadari's Azerbaijan mobilizations against the constitution were defeated by Pasdaran intervention. The December 2-3, 1979 referendum approved the constitution under boycott conditions. *The institutional architecture of 2026 Iran is the December 1979 architecture — itself a captured outcome, not a popular mandate.*
+
+*The 1989 [absolute-guardianship]{.gloss data-gloss="velayat-e-motlaqeh"} amendment.* Khomeini ordered constitutional revision in April 1989, two months before his death, partly because his planned successor Khamenei had only weak religious credentials. The amendment (1) reduced religious qualifications for the faqih (shifting selection from "top-rank marja'-e taqlid" to political knowledge), (2) formalized Supreme-Leader control over military, judiciary, IRGC, state media, and major foundations, (3) added "absolute" to Article 57 (extending the leader's authority to all matters, not merely emergencies), and (4) abolished the prime ministership. *This is the moment velayat-e faqih became definitively political rather than definitively religious* — and the moment that made [Khameneism]{.gloss data-gloss="khameneism"} institutionally possible. Without the 1989 decoupling, Khamenei (mid-rank cleric in 1989; failed marja' bids 1994 and 1997; December 1999 compromise that he could be a marja' outside Iran but not inside) could not have succeeded Khomeini in the velayat-e faqih position.
+
+*Three lay alternatives that velayat-e faqih had to defeat institutionally because it could not defeat them theologically.* The 1979 capture eliminated three institutional models that had carriers at the time: (1) Bazargan's modernizing-Islamic constitutionalism (secular nationalists + moderate clergy + Belgian-derived structure); (2) Shariati's revolutionary-Shi'i lay-intellectual program (1970s Hosainiyeh-e Ershad lectures); (3) Bani Sadr's tawhidi anti-hierarchical Islamic-government program (three book-length theoretical works arguing for an anti-totalitarian Islamic state). All three remain *conceptually* available templates for any post-2026 institutional reordering — but none has institutional carriers inside Iran in 2026.
+
+*This is the canonical example of long-conditioned doctrine awaiting structural opening:* 13 years of network-building (1963-1976) + 9 years between doctrinal articulation and constitutional ratification (1970-1979) + 10 years between ratification and absolute-guardianship amendment (1979-1989) + 37 years of institutional maturation (1989-2026).
+
+```{=html}
+</div>
+```
+
+## Layer 2 — Marja'iyat and the Najaf alternative
+
+```{=html}
+<div class="concise-only">
+```
+
+Velayat-e faqih is not a Shi'i theological consensus; it is a contested 20th-century innovation rejected by the most senior Shi'i jurist alive. The mainstream Twelver tradition runs through **Najaf**: Borujerdi (d. 1961, Khomeini's own teacher) → Hakim → Khoei (d. 1992) → **[Sistani]{.gloss data-gloss="najaf-quietism"}** (b. 1930). This tradition holds that clerical activism should be a last-resort response to existential threats, not a normal mode of governance — clerical authority is a *veto* function, not a governing one (the 1891 Tobacco Protest is paradigmatic). The Iranian regime's failure to capture the marja'iyat is documented: Khamenei's 1994 and 1997 marja' bids both failed in the face of public opposition by Grand Ayatollah Makarem Shirazi and others; the December 1999 compromise was that Khamenei could be a marja' outside Iran but not inside. **Sistani in Najaf is the institutional alternative the Iranian state cannot capture** (different financial base, different doctrinal commitments, different political-theological tradition). Post-Sistani succession — he is 96 in 2026 — is the next structural inflection point for any [Q6 — what ends the war](../analyses/q6-what-ends-the-war.qmd) trajectory toward marja'iyat-mediated authority.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+The classical Twelver Shi'i position, in the Major Occultation of the Twelfth Imam (since 941 CE), is that no human government is fully legitimate. The senior jurists (mujtahids), as collective inheritors of the Imam's interpretive authority, retain a **veto** function — they may declare specific governmental actions un-Islamic and force a ruler to revise course. They do not govern. Mohammad Hosain Na'ini's 1909 treatise on constitutional government — re-edited with notes by Mahmud Taleqani in 1955 — articulated the canonical position that constitutional government within an Islamic framework is acceptable to Shi'ism as long as the senior jurists have a supervisory role. The 1906-07 Iranian constitution foresaw a "committee of mujtahids" to vet legislation but the committee was never created.
+
+*The 20th-century Najaf lineage.* Aqa Hosain Borujerdi (d. March 1961, Khomeini's own teacher) was the institutional anchor of Iranian Shi'i quietism; his death opened the space that Khomeini's activist program then occupied. Mohsen al-Hakim, Abu al-Qasem al-Khoei (1899-1992), and currently **[Ali al-Sistani]{.gloss data-gloss="najaf-quietism"}** (b. Mashhad 1930, trained in Qom and Najaf under Khoei, succeeded Khoei as senior marja' in 1992) held that clerical political activism should be a last-resort response to existential threats to Islam, not a normal mode of governance.
+
+*What Khomeini broke from on three levels.* (1) From quietist veto to active rule — mainstream Shi'ism holds that jurists *advise and veto* but do not govern; Khomeini held that jurists should *govern directly*, with supreme political authority vested in a single faqih. (2) From horizontal collegium to vertical hierarchy — mainstream Shi'ism has multiple co-equal marja's; Khomeini's doctrine implicitly required a single supreme faqih, structurally non-Shi'i and closer to Catholic ecclesiology. (3) From Mahdist accommodation to permanent revolution — mainstream Shi'ism locates ultimate justice in the Twelfth Imam's eventual return, with politics in the meantime as accommodation and harm-reduction; Khomeini's doctrine made political action the immediate duty of jurists in the present.
+
+*The Iranian moderate-constitutionalist clerics eliminated within nine months of the revolution.* Mohammad Kazem Shariatmadari (1905-1986) — Khomeini's co-disciple under Sheikh Abdol Karim Ha'eri Yazdi at Qom in the 1930s — supported strict application of the 1906-07 constitution and accepted that "an Islamic government does not a priori exclude monarchy." After the revolution he became "a leader of many who could not follow Khomeini." Placed under virtual house arrest in 1980 after the Tabriz risings (which he refused to support); formally condemned in 1982; died under house arrest in 1986. Mahmud Taleqani (1910-1979) — the more activist moderate, who had worked with Mosaddegh and helped found the Freedom Movement — articulated an Islamic-socialist position that rejected both capitalism and Marxism. He died of a heart attack on September 10, 1979 at a moment when his death "was a blow to moderation and progressive thought." Combined with Bazargan's November 1979 resignation, the entire Iranian moderate-constitutionalist clerical bench was eliminated within nine months of the revolution. *The institutional template here matters: senior Najaf-trained marja's with substantial popular following can be politically eliminated without their religious authority being theologically refuted. The Republic depends on raw institutional power, not theological consensus.*
+
+*The post-Khomeini decoupling and its consequences.* The 1989 constitutional amendment (Article 109) that removed the marja' requirement for the faqih position was politically necessary for Khamenei's succession but had a second-order consequence: it preserved the marja'iyat as a parallel authority structure *independent of the velayat-e faqih office*. Where Khomeini combined both roles, the post-1989 architecture has them split. Sistani in Najaf has explicitly rejected velayat-e faqih in his juridical writings. His pronouncements on post-2003 Iraqi politics — insistence on direct elections, refusal to participate in government, principled distance from Iranian-style clerical rule — have established a competing institutional model: clerical authority that intervenes only at moments of constitutional inflection, then withdraws. *The existence of Sistani is the institutional evidence that velayat-e faqih is not a Shi'i theological consensus; it is a contested 20th-century innovation rejected by the most senior Shi'i jurist alive.*
+
+*The Iranian state's failure to capture the marja'iyat.* Khamenei's 1994 marja' bid was forced to back off after public opposition by Grand Ayatollah Makarem Shirazi (a Qom-based, regime-aligned conservative who nevertheless refused to legitimate Khamenei's marja' claim). His 1997 second attempt also failed. The December 1999 compromise was that Khamenei could be a marja' for Shi'a outside Iran but not inside. Mojtaba Khamenei — the dynastic successor candidate — has *no* marja' credentials. The post-Khamenei leadership rests on institutional position alone, not religious-credential authority. **Iran's bargaining position is structurally weaker for theological-credibility reasons in 2026 than in any prior US-Iran confrontation.**
+
+*Implications for 2026.* For [Q2](../analyses/q2-war-persistence.qmd) (regime persistence): velayat-e faqih makes the Supreme Leader theologically accountable only to the Hidden Imam, not to senior clerical peers. There is no institutional pathway by which Iran's clerical establishment can force regime change short of mass defection of the whole velayat-e faqih institutional apparatus. For [Q6](../analyses/q6-what-ends-the-war.qmd) (what ends the war): a post-Khamenei consolidation that shifts toward marja'iyat-mediated authority is one possible terminal scenario — though the IRGC's institutional dominance and Vahidi-led negotiation make this scenario require major institutional disruption to materialize. **Post-Sistani succession** (likely 2026-2028, given his age) is the next structural inflection point for the marja'iyat-alternative pathway. *The framework matters because if velayat-e faqih is a contingent 20th-century project rather than the inevitable outcome of Shi'i political theology, then its institutional defeat would not require the destruction of Iranian Shi'ism, only the defeat of a specific institutional-doctrinal complex. This is a more bounded and tractable problem than the alternative framing.*
+
+```{=html}
+</div>
+```
+
+## Layer 3 — Khameneism as a distinct ideological project (post-2009)
+
+```{=html}
+<div class="concise-only">
+```
+
+Mehran Kamrava's *How Islam Rules in Iran* (Cambridge 2024) coins **[Khameneism]{.gloss data-gloss="khameneism"}** as analytically distinct from Khomeinism. The differences are structural: (1) **basis of authority** — institutional position rather than charismatic + marja' credentials; (2) **theoretical apparatus** — supplied by [Mesbah Yazdi]{.gloss data-gloss="mesbah-yazdi"} (1935-2021), not Khomeini-extended; (3) **coalition** — IRGC + bonyad + Qom institutional infrastructure rather than the broad 1979 revolutionary alliance; (4) **framing of US-Israel hostility** — theological ("innate hostility of the West to Islam") rather than instrumental. Kamrava dates the ascendance to the 2009 Green Movement crackdown and the disciplining of a non-compliant Ahmadinejad. By 2009-2010, Khamenei was the most powerful figure in Iran; by 2010, Khameneism was politically and ideologically dominant. **The 28 February 2026 assassination removes the symbolic apex, but the distributed apparatus — Mojtaba's network, IRGC ideological-education infrastructure, Mesbah-Yazdi-trained cohorts — continues operating.**
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Mehran Kamrava — Director of Iranian Studies at the Arab Center for Research and Policy Studies in Doha — coins "[Khameneism]{.gloss data-gloss="khameneism"}" deliberately, modeled on Ervand Abrahamian's "Khomeinism." His claim is that what governs Iran since approximately 2009-2010 is not the continuation of Khomeini's velayat-e faqih but a recognizably distinct ideological-jurisprudential project: a "patriarchal theocratic dictatorship" centered on Ali Khamenei (b. 1939, faqih since June 1989) but supported by a specific coalition of mid- and lower-rank jurists, IRGC and Basij commanders, Qom institutional infrastructure, and a financial network running through state-funded religious centers whose budget allocations grew seventeen-fold from 2005 to 2011 under Ahmadinejad.
+
+This is analytically distinct from Khomeinism in several ways:
+
+**Khomeinism rested on charismatic authority and broad clerical consent.** Khomeini was a marja'-e taqlid and one of the most senior jurists of his generation; the constitution as originally drafted (Article 109, 1979) assumed the velayat-e faqih and the marja'iyat would be combined in the same person. The grand revolutionary coalition was broad — leftists, Islamic Left, traditional clergy, bazaaris, technocrats.
+
+**Khameneism rests on institutional position and a narrow ideological coalition.** Khamenei was a mid-rank cleric whose marja'iyat bid in 1994 was forced to back off after public opposition; his 1997 second attempt also failed; the December 1999 compromise was that Khamenei could be a marja' for Shi'a outside Iran but not inside. The 1989 constitutional revision had to decouple marja'iyat from velayat-e faqih (Article 109 amended) precisely to make Khamenei's succession possible.
+
+### The Mesbah Yazdi theoretical apparatus
+
+What Kamrava makes uniquely visible is the theoretical scaffolding Khameneism required — and the specific jurist who built it. Ayatollah Mohammad Taqi [Mesbah Yazdi]{.gloss data-gloss="mesbah-yazdi"} (1935-2021) was, in Kamrava's phrase, "one of the chief theoreticians of Khameneism." His institutional infrastructure:
+
+- The Imam Khomeini Educational and Research Institute, founded 1995 in Qom "with spiritual and financial help from the Esteemed Leader"; Mesbah Yazdi served as director until his death.
+- The Baqer ol-'Olum International Cultural Charity (founded November 1987).
+- A course titled "The Plan of Velayat" (Tarh-e Velayat) taught at the Institute "with the approval and support of the office of the leader" in cooperation with the Basij forces — offered annually for "Basiji academics and university professors."
+
+Mesbah Yazdi's theoretical claims — the substrate of Khameneism's jurisprudential self-justification — include:
+
+1. **Absolute velayat-e faqih means unlimited scope, not unlimited license.** The "absolute" (motlaq) qualifier means the faqih's authority is not conditional on emergency circumstances; it extends to all governmental decisions.
+2. **Obedience without allegiance.** Bay'at (allegiance) is not a precondition for obedience in the absolute version; obedience is mandatory even if allegiance has not occurred.
+3. **The legislature is consultative only.** In the Islamic system "no one or no institution other than the velayat-e faqih has the right to independently make laws." The Majles prepares plans; "these plans can become law only after they are approved by the leader."
+4. **Geographic-based legislative representation is "a Western import that needs changing."** Mesbah Yazdi proposed replacing it with 30 small legislatures of 10 deputies each, representing professions.
+5. **Violence as a theological category.** In March 1999 Friday prayer Mesbah Yazdi condoned violence against reformists and was widely accused of issuing a fatwa-like authorization of terror against them: "We cannot say that all violence is bad and lenience is always good." He praised Navvab Safavi, founder of the Fadaiyan-e Islam, on the record (February 2000), as a still-living spirit "among many of our committed youth."
+6. **Equality as theological error.** In 1999 Mesbah Yazdi reportedly said "assuming all citizens are equal is worse than worshipping cows."
+
+### What is structurally new in Khameneism
+
+Three features distinguish Khameneism from earlier Islamic Republic governance:
+
+**(1) Quasi-infallibility of the leader.** Mesbah Yazdi's theological work effectively assigns the absolute velayat-e faqih a status approximating that of the Twelve Imams — "in regular contact with the Divine and is the temporary successor to the Hidden Imam until such day as he returns." This claim was not present in Khomeini's original formulation.
+
+**(2) The institutional displacement of marja'iyat by velayat-e faqih.** Mesbah Yazdi explicitly theorizes that in social and political matters "no other faqih can express contrary opinion to what has already been enunciated by the velayat-e faqih." This effectively subordinates the entire marja' system to the leader's pronouncements — something Khomeini never claimed.
+
+**(3) The deep-state coalition.** Kamrava describes the Khameneist deep state: the leader's office (rahbari) with representatives in all military and administrative organs; IRGC, Basij, judiciary, IRIB, Guardian Council, Assembly of Experts, Expediency Council. The leader appoints and removes; "constitutional powers" plus "absolute Guardianship of the Jurist" entitles him to issue "governmental ordinances" (ahkam-e hokumati) at critical points. Khomeini governed through revolutionary charisma plus this institutional apparatus; Khamenei must govern through the institutional apparatus alone — which is why the apparatus has expanded.
+
+### State capture of the Qom seminary
+
+The institutional infrastructure underwriting Khameneism's coalition durability is the post-1991 state capture of the Qom theological seminary (Howzeh Elmiyeh-e Qom). The 1991 Supreme Council of the Qom Theological Seminary + 2010 provincial branches converted the historically autonomous howzeh into a state-funded apparatus:
+
+- 200+ institutions, 80,000 seminarians, 2,157 billion-toman 2022-23 budget for the Services Center alone
+- Four-tier clerical division: Tier 1 (politically dominant) is less than 5,000 of 130,000 clergy; Tier 4 (institutionally marginalized) is the largest cohort
+- Financial-dependence reversal: where the bazaar historically funded the clerical establishment (via khums and sahm-e Imam), the state now funds the clergy directly. This converts clerical political loyalty from bazaar-mediated to state-mediated
+
+*This is the structural change underwriting Khameneism's coalition durability beyond Khamenei's lifetime.* The bonyad-bazaar-IRGC complex (~50%+ of Iranian GDP outside the formal state) is the financial-economic shell; the state-captured Qom seminary apparatus is the ideological-reproduction shell. Both shells were designed by 2011 to outlast their founder.
+
+### The 2009 consolidation
+
+Kamrava locates the political-ideological consolidation of Khameneism specifically in the period of the second Ahmadinejad term (2009-2013): the Green Movement crackdown, the reining-in of a non-compliant Ahmadinejad, and the elimination of Rafsanjani and Khatami as effective political alternatives. By 2009-2010 "Khamenei had emerged as the most powerful figure in Iran"; "starting with the second term of the Ahmadinejad presidency in 2009, 'Khameneism' became politically and ideologically dominant in Iran." The 2021 disqualification of long-time Majles speaker Ali Larijani in the presidential election — even Larijani, a Principlist, was deemed insufficiently aligned — illustrates that by Khamenei's late years even the modern right is not always tolerated.
+
+```{=html}
+</div>
+```
+
+## The religious-reformist alternatives institutionally defeated
+
+```{=html}
+<div class="concise-only">
+```
+
+The 1990s-2000s saw a serious theological-reformist current — Mohsen Kadivar (b. 1959), Mohammad Mojtahed Shabestari (b. 1936), Hasan Yousefi Eshkevari (b. 1950), Abdolkarim Soroush (b. 1945), Abolfazl Mousavian (b. 1955) — articulating doctrinal alternatives to velayat-e faqih: [constrained guardianship (velayat-e moqayyad)]{.gloss data-gloss="velayat-e-moqayyad"}, hermeneutic primary/secondary-injunctions distinctions, democratic Islamic government, religious-knowledge-as-human-knowledge. **These alternatives were defeated institutionally, not refuted theologically.** Kadivar tried by the [Special Court for the Clergy]{.gloss data-gloss="special-court-clergy"} in 1999, sentenced to 18 months in prison, fired from all his posts in 2011, exiled to Duke since 2015. Eshkevari tried in 2000 after the Berlin Conference, initially sentenced to death (commuted to 7 years), defrocked. Shabestari forcibly retired from the University of Tehran in 2006 under Ahmadinejad. Soroush emigrated under intensifying pressure. Mousavian continues to teach at Mofid University in Qom — the inside-Iran theological-reformist continuity that survived the 2009 crackdown. **The doctrinal alternatives exist in print; the institutional infrastructure to teach, test, certify, and deploy them inside Iran was destroyed between 1999 and 2011.**
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+In the 1990s and early 2000s — the same decades when Khameneism was being constructed by Mesbah Yazdi and his institutional apparatus — a serious theological-reformist current articulated alternative readings of Shi'i jurisprudence and political theology. Kamrava treats these thinkers extensively: their doctrinal claims, their institutional defeats, and the mechanism by which the regime suppressed them without theologically refuting them.
+
+**Mohsen Kadivar (b. 1959)** is the most analytically rigorous of the religious-reformist theologians. His 1999 book *Nazariyeh-haye Dowlat dar Feqh-e Shia* (*Theories of Government in Shia Jurisprudence*) systematically demonstrated that the absolute velayat-e faqih is one theory among many — at least eight distinct theoretical positions on Islamic government exist in the Shi'i jurisprudential tradition, with the absolute version being a minority innovation. Kadivar's positive alternative: ["elected, conditional velayat-e faqih" (velayat-e moqayyad)]{.gloss data-gloss="velayat-e-moqayyad"} — elected by popular vote, term-limited, subject to law, supervised by people's representatives. His 1999 interview with the journal *Khordad* (using the phrase "Islamic monarchy" to describe the absolute velayat-e faqih) led to his 1999 [Special Court for the Clergy]{.gloss data-gloss="special-court-clergy"} trial. Sentenced to prison for 18 months. Fired from all Tehran university posts 2011. Subsequently left Iran; currently a Research Professor of Islamic Studies at Duke University.
+
+**Mohammad Mojtahed Shabestari (b. 1936)** is the senior figure of the religious-reformist theological generation, the one who introduced sustained hermeneutic methodology to Iranian Shi'i thought. His 1997 *Hermeneutik, Ketab, va Sunnat* (*Hermeneutics, Book, and Tradition*) introduced primary/secondary injunctions distinction: some Quranic and Hadith injunctions are *primary* (immutable; theological), while others are *secondary* (contextual; dependent on the time and circumstances of original promulgation). Reason-centered ijtihad (*ijtihad-e 'aqli*) can expand the secondary category over time. Core proposition: "political freedom has priority over religious responsibility." Forcibly retired from University of Tehran 2006 under Ahmadinejad. Subsequently abandoned the clerical garb in protest and now lives in retirement.
+
+**Hasan Yousefi Eshkevari (b. 1950)** articulated the most explicitly democratic alternative: three structural components — (1) religion as worldview, not regulation; (2) government as human creation; (3) democratic Islamic government as not just compatible but theologically required. The April 2000 Berlin Conference (he stated in a speech: "the historical time of despotism in Iran has come to an end") triggered his arrest. Tried by the [Special Court for the Clergy]{.gloss data-gloss="special-court-clergy"} in 2000. *Initially sentenced to death*, commuted to seven years in prison plus defrocking. The August 2000 initial death sentence measures the regime's recognition that his theological claims threatened the foundation of Khameneist orthodoxy. Subsequently left for Germany in 2009 during the Green Movement crackdown.
+
+**Abdolkarim Soroush (b. 1945)** — not a cleric but a lay philosopher — provided the philosophical precondition for the entire religious-reformist project. His 1991 *Qabz-o-bast-e Te'orik-e Shari'at* (*Theoretical Expansion and Contraction of Religious Knowledge*) argued the distinction between *religion itself* (constant, divine) and *knowledge of religion* (human, evolving). The expansion-and-contraction thesis: religious knowledge necessarily evolves as human understanding evolves, because religious knowledge is human knowledge. Four-point argument against fiqh's claim to immutable authority. Compared to Martin Luther by both supporters and critics. Soroush emigrated under intensifying pressure and now teaches at Princeton.
+
+**Abolfazl Mousavian (b. 1955)** is the most theologically rigorous religious-reformist intellectual who continues to teach inside Iran in 2026. Mentored by Montazeri (the prominent late-1980s velayat-e faqih dissident); faculty at **Mofid University** in Qom (private religious university founded 1989 by Ayatollah Mousavi Ardabili, providing a relatively protected space for theological-reformist work). Seven theological claims published in Persian-language journals, including (uniquely among his peers) the explicit grounding of gender political equality in Quranic text (Surah al-Mumtahanah 60:12). His inside-Iran continuation is one of the few institutional bridges between Khameneist orthodoxy and theological-reformist alternatives that survived the 2009 crackdown.
+
+### The constrained guardianship debate as a coherent jurisprudential alternative
+
+Across these thinkers and the late-period Montazeri, [velayat-e moqayyad (constrained guardianship)]{.gloss data-gloss="velayat-e-moqayyad"} emerged as the coherent alternative to absolute velayat-e faqih. Three lines of critique compose it: (1) **questioning the basis of ruling velayat-e faqih** — Kadivar's eight-theories argument shows the absolute version has thin jurisprudential support; (2) **election rather than selection** — the faqih should be elected by popular vote, not selected by the Assembly of Experts; (3) **supervision rather than guardianship** — the faqih's role should be supervisory (vetoing un-Islamic legislation) rather than governing (making policy). The Naini-Najaf constitutionalist tradition (Mohammad Hosain Na'ini's 1909 treatise, re-edited by Mahmud Taleqani in 1955) provides the historical genealogy. The Montazeri trajectory across two decades — from Khomeini's chosen successor (1985) through forced resignation (1989) to late-period dissident jurisprudence (1990s-2009) — exemplifies the coherent insider critique. The 1989 amendment to Article 107 had specifically *foreclosed the leadership-council option* (multiple jurists collectively holding the velayat-e faqih) that Montazeri had advocated.
+
+### The institutional mechanism of defeat
+
+What Kamrava makes visible — and Keddie's political-sociological account undercodes — is that the religious-reformist current was defeated through **institutional rather than theological** means. The mechanism components:
+
+- **[Special Court for the Clergy (Dadgah-e Vizheh-e Ruhaniyat)]{.gloss data-gloss="special-court-clergy"}** — established by Khomeini decree 1979, revived 1987, formalized by Majles law 1999. Tried Kadivar (1999), Eshkevari (2000), Abdollah Nuri (1999), Hashem Aghajari, Salehi-Najafabadi, and many others. *Defendants not allowed attorneys; appeals limited.* The court's 1999 formal Majles authorization marks the institutional moment when theological-reformist suppression became routine procedural practice.
+
+- **Mesbah Yazdi/Imam Khomeini Educational and Research Institute apparatus** — the *opposite* of the Special Court's repression function: the institutional production line for conservative ideological reproduction. Both sides understood that the 1990s reformist struggle was about institutional production capacity, not just intellectual content.
+
+- **Guardian Council vetoes + parastatal violence** — the broader four-layer reformist-defeat funnel that operated against the political reformist movement (Khatami era; see [Reformist-failure base rate](reformist-failure-base-rate.qmd)) extended to its theological wing.
+
+**The doctrinal alternatives to Khameneism all exist in published form: Kadivar's *Theories of Government in Shi'i Jurisprudence*; Shabestari's *Hermeneutics, Book, and Tradition*; Eshkevari's published speeches and essays; Soroush's *Theoretical Expansion and Contraction of Religious Knowledge*; Mousavian's gender-equality framework; the constrained-guardianship debate.** What was destroyed 1999-2011 was the institutional infrastructure to teach, test, certify, and deploy these alternatives inside Iran. **The Q6 activation problem for any theological reconfiguration is institutional, not intellectual.**
+
+```{=html}
+</div>
+```
+
+## Kamrava's 2023 forecast {#kamrava-forecast}
+
+```{=html}
+<div class="concise-only">
+```
+
+Kamrava's *How Islam Rules in Iran* concludes (chapter 9, "Whither the Islamic Republic?") with **five forward-looking succession scenarios** written ~3 years before the 28 February 2026 Khamenei assassination, without specific knowledge of an Israeli decapitation strike:
+
+1. **Khameneist continuation** — "untenable in the long run"
+2. **IRGC consolidation** — "highly likely" in the immediate aftermath of Khamenei's death
+3. **Reformist revival** — ruled out per institutional defeat documented above
+4. **Society-driven transformation** — the 2022 Mahsa Amini path
+5. **Post-Islamism** (per Asef Bayat) — not yet dominant
+
+**Scenario 2 was confirmed by the Vahidi-led IRGC arrangement that emerged after 28 February 2026.** This is the single most temporally relevant Iran-scholar forecast in the project corpus: the post-Khamenei trajectory was foreseeable from open-source theological-political analysis, which weights the [phased reading]{.gloss data-gloss="phased-reading"} of Q1.3 up. Israel's strike planning could have anticipated this outcome with high confidence.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Kamrava's chapter 9 — written sometime in 2022-2023 and published in the 2024 Cambridge UP edition — articulates five forward-looking succession scenarios for the Islamic Republic. Reproducing his typology under 2026 stress-test:
+
+### Scenario 1 — Khameneist continuation
+
+Kamrava's verdict: "untenable in the long run." The structural problem: Khameneism depends on Khamenei's three decades of accumulated institutional embeddedness. The apparatus has been designed to function under Khamenei, but the leader's authority specifically rests on his personal trajectory (revolutionary credentials + accumulated jurists' deference + carefully cultivated patronage networks). A direct continuation under any successor without comparable trajectory is structurally weaker.
+
+### Scenario 2 — IRGC consolidation
+
+Kamrava's verdict: **"highly likely" in the immediate aftermath of Khamenei's death.** The IRGC has the institutional position (armed, fiscally autonomous via the bonyad-IRGC parastatal complex, ideologically aligned via Mesbah Yazdi's Plan of Velayat training) to step into the power vacuum without formal constitutional change. Decision-making becomes IRGC-internal; civilian government becomes consultative.
+
+**2026 confirmation**: the Vahidi-led IRGC arrangement (Pezeshkian sidelined to "consultative" role per ICG Crisis Monitor #4; Mojtaba behind a security cordon; Vahidi as de facto leadership negotiating ceasefire and prosecuting war) maps directly onto Kamrava's scenario 2. The forecast was made without specific knowledge of an Israeli decapitation strike — meaning the IRGC consolidation trajectory was *foreseeable from open-source theological-political analysis*. **This is direct external evidence for the phased reading of Q1.3:** Israel's strike planning could have anticipated this outcome with high confidence, supporting the H1 phased-plan-since-October-2023 reading over the H2 sequential-opportunism reading.
+
+### Scenario 3 — Reformist revival
+
+Kamrava's verdict: ruled out. The reformist movement has been institutionally defeated through the four-layer funnel (see [Reformist-failure base rate](reformist-failure-base-rate.qmd)); the theological-reformist wing has been further defeated through Special Court for the Clergy + Mesbah Yazdi counter-mobilization + 2009 crackdown. Doctrinal alternatives exist in print; institutional carriers do not exist inside Iran. **Pezeshkian's 2024 election + 2026 sidelining is the empirical confirmation.** Quantitative anchor from [Reformist-failure base rate](reformist-failure-base-rate.qmd): 5-15% base-rate probability for reformist-led termination of the 2026 war.
+
+### Scenario 4 — Society-driven transformation
+
+Kamrava's verdict: the 2022 Mahsa Amini path — mass mobilization triggering a regime crisis sufficient to compel institutional reconfiguration. Possible but not predicted as immediate. The IRGC's 2009 Green Movement crackdown and 2022-23 Mahsa Amini protest suppression demonstrate the regime's coercive capacity to absorb very large mobilizations without conceding structural change. *Mobilization may be necessary for transformation but is empirically not sufficient.*
+
+### Scenario 5 — Post-Islamism
+
+Kamrava's verdict: the framework Asef Bayat developed for the gradual transition from Islamist (duty-centered, exclusive, jurisprudentially framed) to post-Islamist (rights-centered, inclusive, secularly framed) political identity. Not yet dominant in 2023; Kamrava endorses the analytical category but notes the post-Islamist transition is "incipient rather than ascendant" in Iranian society. The 2022 Mahsa Amini protests had post-Islamist content (rights-centered, woman-life-freedom framing) but the institutional response was Khameneist (repression, no concession).
+
+### Why Kamrava's forecast is methodologically significant
+
+The forecast is *externally generated* — not by US/Israeli intelligence, not by think tanks producing politically motivated predictions, but by a senior Iran scholar publishing through Cambridge UP using Persian-language sources. The forecast was published in 2024, ~2 years before the strike. It identified IRGC consolidation as "highly likely" without specifying the trigger. *Any analyst with access to Kamrava's book in 2024 could have anticipated the structural shape of post-strike Iran.* This is the most informative external benchmark in the project corpus for evaluating whether Q1.3's H1 phased-plan reading or H2 opportunism reading better fits the Israeli decision calculus — the answer weights toward H1 because the post-strike trajectory was foreseeable from public scholarship.
+
+```{=html}
+</div>
+```
+
+## Implications for the analytical chapters
+
+```{=html}
+<div class="concise-only">
+```
+
+The theological-jurisprudential layer reshapes four analytical chapters:
+
+- **[Q2 — war persistence](../analyses/q2-war-persistence.qmd)**: Khameneism's distributed institutional design explains why decapitation produced consolidation rather than collapse. The Mesbah Yazdi-supplied theology frames US-Israel hostility as "innate" — closing 1988-style poisoned-chalice off-ramps available to Khomeini.
+- **[Q5 — bargaining range](../analyses/q5-bargaining-range.qmd)**: the [absolute velayat-e faqih]{.gloss data-gloss="velayat-e-motlaqeh"} doctrine narrows Iran's range theologically; reformist alternatives exist in print but lack institutional purchase to be deployed.
+- **[Q6 — what ends the war](../analyses/q6-what-ends-the-war.qmd)**: theological reconfiguration is an institutional reactivation problem, not a doctrinal-discovery problem. Sistani-Najaf survives as the parallel-authority alternative; post-Sistani succession (he is 96) is the next inflection point.
+- **[Q11 — US-Israel coalition](../analyses/q11-us-israel-coalition.qmd)**: Khameneist theological framing makes Iranian responses semi-predictable, reinforcing the Israel-as-Stackelberg-leader reading. The thinner theological-credentialed authority-base of the post-Khomeini regime is its weakest negotiating posture in 47 years.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+### Q2 — Why the war has persisted
+
+Khameneism's distributed institutional design is the structural explanation for why the 28 February 2026 decapitation produced IRGC consolidation rather than regime collapse. The institutional apparatus designed during 2009-2011 — Imam Khomeini Educational and Research Institute, Plan of Velayat training, Special Court for the Clergy, state-captured Qom seminary — continues operating after Khamenei's death. *War persistence is the predictable outcome of a regime whose theological-institutional infrastructure was designed (post-2009) to outlast any individual leader.* Sharpens [Q2's α mechanism](../analyses/q2-war-persistence.qmd) — the Iran-side regime-survival under [Goemans gamble-for-resurrection]{.gloss data-gloss="goemans-gamble-resurrection"} + [Weeks autocratic audience costs]{.gloss data-gloss="weeks-autocratic"} — by adding the theological-jurisprudential register beneath the institutional-political register Q2 already documents.
+
+The Mesbah Yazdi theology of US-Israel hostility as "innate" closes specific off-ramps: Khomeini's 1988 acceptance of UNSC 598 framed as drinking "poisoned chalice" was an *exigency* framing, not a theological framing. Mesbah Yazdi's apparatus has converted the framing to theological — settlement appears as compromise of the system's foundational opposition. *2026-Khameneism cannot take 1988-Khomeini's poisoned chalice.*
+
+### Q5 — Is the bargaining range empty?
+
+The [absolute velayat-e faqih]{.gloss data-gloss="velayat-e-motlaqeh"} doctrine narrows Iran's bargaining range structurally — concessions appear theologically illegitimate rather than instrumentally costly. The five doctrinal claims (state directives override primary religious injunctions; faqih above constitution; obedience without allegiance; disobedience forbidden; quasi-infallibility) are the constitutional-jurisprudential mechanism by which Iran's bargaining range narrowed in 2026 beyond what 1988-Khomeini faced.
+
+The doctrinal alternatives exist in print (Kadivar, Shabestari, Eshkevari, Soroush, Mousavian; constrained guardianship; Sistani-Najaf marja'iyat). What was destroyed 1999-2011 was the institutional infrastructure to teach, test, certify, and deploy them inside Iran. **Q5 bargaining-range narrowing operates not just at the regime-survival level but at the theological-institutional level.** Any agreement that requires Iranian theological recalibration faces an activation problem that takes years and institutional reconstruction, not weeks and political bargaining.
+
+### Q6 — What ends the war?
+
+Kamrava's 2023 five-scenario typology cross-validates [Q6's Pathway-A](../analyses/q6-what-ends-the-war.qmd) probability and produces a typology compatible with the Toft-derived fragility framework Q6 already applies. The 2023 "highly likely" IRGC consolidation forecast was confirmed; the reformist-revival scenario is theoretically and empirically ruled out (Pezeshkian-2026 sidelining is the latest of four sequential reformist defeats); society-driven and post-Islamist scenarios remain available but require regime-cooperation thresholds that Khameneism's coercive apparatus has demonstrated it can absorb.
+
+**The theological-reconfiguration pathways for Q6 require institutional reactivation, not new doctrine.** Sistani-Najaf survives as the parallel-authority alternative; **post-Sistani succession (likely 2026-2028, given his age 96) is the next structural inflection point for the marja'iyat-alternative pathway.** Any Q6 trajectory toward marja'iyat-mediated authority depends critically on what happens in Najaf in the next 2-3 years.
+
+### Q11 — The US-Israel coalition
+
+The Khameneist theological framing of US-Israel hostility lowers Iran's flexibility on the Stackelberg-follower side of the coalition. Khamenei's repeated invocation of "innate hostility" of the West to Islam is not negotiable rhetoric — it is doctrinally articulated. Iranian responses are semi-predictable in ways Israeli responses are not, **reinforcing the [Stackelberg-leader]{.gloss data-gloss="stackelberg-leader-follower"} reading of Q11**: Stackelberg dynamics require predictable follower responses; theological lock-in supplies that predictability.
+
+The 1989 decoupling of marja'iyat from velayat-e faqih means Iran's supreme leader rests on institutional position rather than religious-credential authority. **Iran's bargaining position is structurally weaker for theological-credibility reasons in 2026 than in any prior US-Iran confrontation.** Mojtaba's complete absence of marja' credentials makes the post-Khamenei leadership theologically thinner still; Vahidi as IRGC commander has no jurisprudential standing at all. The US-Israel coalition in 2026 is negotiating against an Iranian regime whose own theological self-justification has thinned over 37 years.
+
+```{=html}
+</div>
+```
+
+## Sources & further reading
+
+This page synthesizes material from three layers of the project's pre-1979 historical corpus, with the theological-jurisprudential layer load-bearing.
+
+**Khomeini's institutional design (Layer 1)**: Abbas Amanat, *Iran: A Modern History* (Yale 2017), chapters 11-13; Khomeini's 1970 Najaf lectures (*Hokumat-e Islami*); Said Amir Arjomand, *The Turban for the Crown* (1988); Misagh Parsa, *Social Origins of the Iranian Revolution* (1989); Ervand Abrahamian, *Khomeinism* (1993).
+
+**Marja'iyat and the Najaf alternative (Layer 2)**: Nikki R. Keddie, *Modern Iran: Roots and Results of Revolution* (Yale 2003, updated edition 2006), and Yann Richard's "Contemporary Shi'i Thought" chapter within Keddie 2006.
+
+**Khameneism and the religious-reformist alternatives (Layer 3)**: Mehran Kamrava, *How Islam Rules in Iran: Theology and Theocracy in the Islamic Republic* (Cambridge 2024). Kamrava is Director of the Iranian Studies Unit at the Arab Center for Research and Policy Studies in Doha and Professor of Government at Georgetown University in Qatar. The book draws extensively on Persian-language sources (Iranian academic publications, clerical memoirs, Qom seminary publications) that are largely inaccessible to English-language Iran scholarship — Kadivar's *Nazariyeh-haye Dowlat dar Feqh-e Shia*, Shabestari's *Hermeneutik, Ketab, va Sunnat*, Eshkevari's published speeches, Soroush's *Qabz-o-bast-e Te'orik-e Shari'at*, Mousavian's gender-equality framework, and the Persian-language critical literature on Mesbah Yazdi's theological apparatus.
+
+The three sources are analytically complementary: Amanat is cultural-literary (through ~1989); Keddie is political-sociological (through 2006); Kamrava is theological-jurisprudential (through ~2023). Together they span the relevant institutional history.

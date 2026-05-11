@@ -85,7 +85,7 @@ Three load-bearing mechanisms (DA-collapsed from five to discipline the mechanis
 </div>
 ```
 
-[Khatami's 1998-99 "Dialogue of Civilizations" — the January 1998 CNN Amanpour interview, the wrestling-team exchange, the carpet-and-pistachio embargo lifting, Khamenei's tacit acceptance of Khatami's September 1999 statement that Iran would no longer target Salman Rushdie, Albright's conciliatory response — was the *last serious Iranian-side attempt* at re-engagement with the United States until JCPOA negotiations 15 years later. Its institutional defeat (by the [four-layer reformist-defeat funnel]{.gloss data-gloss="four-layer-reformist-defeat"} documented in Q6) means the 2026 US-Israel coalition is not negotiating against an Iran with unexplored re-engagement options. *Israel's [Stackelberg-leader]{.gloss data-gloss="stackelberg-leader-follower"} position rests partly on the empirical knowledge that Iran's reformist alternatives have already been institutionally exhausted.* See [Historical roots](../historical-roots.qmd) Pattern 5.]{.column-margin .deep-only}
+[Khatami's 1998-99 "Dialogue of Civilizations" — the January 1998 CNN Amanpour interview, the wrestling-team exchange, the carpet-and-pistachio embargo lifting, Khamenei's tacit acceptance of Khatami's September 1999 statement that Iran would no longer target Salman Rushdie, Albright's conciliatory response — was the *last serious Iranian-side attempt* at re-engagement with the United States until JCPOA negotiations 15 years later. Its institutional defeat (by the [four-layer reformist-defeat funnel]{.gloss data-gloss="four-layer-reformist-defeat"} documented in Q6) means the 2026 US-Israel coalition is not negotiating against an Iran with unexplored re-engagement options. *Israel's [Stackelberg-leader]{.gloss data-gloss="stackelberg-leader-follower"} position rests partly on the empirical knowledge that Iran's reformist alternatives have already been institutionally exhausted.* See [Historical roots — Reformist-failure base rate](../historical-roots/reformist-failure-base-rate.qmd).]{.column-margin .deep-only}
 
 ```{=html}
 <div class="deep-only">
@@ -504,7 +504,17 @@ The 2026 inversion is along the senior-junior axis. In 1953 the UK was the *seni
 
 A second pre-1979 anchor: **Khomeini's 26 October 1964 capitulations speech** linked US military judicial immunity to the hated Qajar capitulations — *"America is worse than Britain and Britain is worse than America..."* — *the founding articulation of the US-as-immediate-enemy frame* — now 62 years deep in Iranian institutional discourse. This constrains what the 2026 US-Israel coalition can credibly offer Iran on any face-saving formula.
 
-**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+**Full pre-1979 context**: [Historical roots — Trust-deficit lineage](../historical-roots/trust-deficit.qmd).
+
+### Theological supplement — Khameneist framing reinforces the Stackelberg reading
+
+Kamrava 2024 adds a theological-jurisprudential layer that strengthens Q11's Stackelberg-leader-Israel reading. The mechanism: **[Khameneism]{.gloss data-gloss="khameneism"}** — Kamrava's analytical category for the post-2009 ascendant orthodoxy — treats US-Israel hostility as theologically "innate" via [Mesbah Yazdi]{.gloss data-gloss="mesbah-yazdi"}'s jurisprudential framing. This is not negotiable rhetoric; it is doctrinally articulated. *Iranian responses are semi-predictable in ways Israeli responses are not* — and Stackelberg dynamics require predictable follower responses. Theological lock-in supplies that predictability, structurally favoring the [Stackelberg leader-follower]{.gloss data-gloss="stackelberg-leader-follower"} reading over alternatives.
+
+A second strengthening: **the 1989 constitutional decoupling of marja'iyat from velayat-e faqih** (Article 109 amendment) means Iran's supreme leader rests on institutional position rather than religious-credential authority. Khamenei's 1994 and 1997 marja' bids both failed; the December 1999 compromise was that he could be a marja' outside Iran but not inside. Mojtaba Khamenei has *no* marja' credentials. Vahidi as IRGC commander has no jurisprudential standing at all. **Iran's bargaining position is structurally weaker for theological-credibility reasons in 2026 than in any prior US-Iran confrontation.** The US-Israel coalition negotiates against an Iranian regime whose own theological self-justification has thinned over 37 years — and against a Khameneist apparatus that has institutionally defeated the religious-reformist alternatives (Kadivar's [constrained guardianship]{.gloss data-gloss="velayat-e-moqayyad"}; Shabestari's hermeneutics; Eshkevari's democratic Islamic government) which might have provided Iranian-side flexibility.
+
+Khatami's 1998-99 "Dialogue of Civilizations" — the last serious Iranian-side re-engagement attempt with the US, defeated internally by the four-layer institutional mechanism — means **the 2026 US-Israel coalition is not negotiating against an Iran with unexplored re-engagement options.** Iran tried this and the IR's institutional architecture defeated it. Israel's strategic-leader position rests partly on the empirical knowledge that Iran's reformist alternatives have already been institutionally exhausted.
+
+**Full theological context**: [Historical roots — Theology and theocracy](../historical-roots/theology.qmd).
 
 ## Sources & further reading
 

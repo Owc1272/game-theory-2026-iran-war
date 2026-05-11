@@ -72,7 +72,7 @@ Q1.4 — Stage 0 as power-shift mechanism — flags an *original-contribution op
 </div>
 ```
 
-[The 1979 constitutional architecture that Mechanism 1's IRGC-bonyad veto inherits is itself a procedurally captured outcome. Bazargan's PRG draft — a Belgian-1906-derived structure with a clerical veto-committee but no clerical governance, supported by the National Front, the Freedom Movement, and the moderate clergy (Shariatmadari, the Najaf-quietist tradition) — was displaced by an August 1979 Khomeinist-controlled Assembly of Experts election under National Front, Kurdish, and Azerbaijani boycott; the November 1979 hostage crisis provided cover for the December ratification. *Mechanism 1's institutional baseline is itself a captured outcome, not a popular mandate.* See [Historical roots](../historical-roots.qmd) Pattern 4.]{.column-margin .deep-only}
+[The 1979 constitutional architecture that Mechanism 1's IRGC-bonyad veto inherits is itself a procedurally captured outcome. Bazargan's PRG draft — a Belgian-1906-derived structure with a clerical veto-committee but no clerical governance, supported by the National Front, the Freedom Movement, and the moderate clergy (Shariatmadari, the Najaf-quietist tradition) — was displaced by an August 1979 Khomeinist-controlled Assembly of Experts election under National Front, Kurdish, and Azerbaijani boycott; the November 1979 hostage crisis provided cover for the December ratification. *Mechanism 1's institutional baseline is itself a captured outcome, not a popular mandate.* See [Historical roots — Theology and theocracy](../historical-roots/theology.qmd) (Layer 1).]{.column-margin .deep-only}
 
 ```{=html}
 <div class="deep-only">
@@ -548,7 +548,7 @@ The trust deficit that made the 27-28 February 2026 negotiating breakdown irreve
 
 Q1's Mechanism 1 (IRGC veto on enrichment concessions) is reinforced by this lineage. The IRGC institutional position was specified in Khomeini's January-February 1970 Najaf lectures (*Hokumat-e Islami*), which explicitly anticipated *sepah-e Islam* (→ IRGC, founded May 1979), *basij*, *taghuti* (Pahlavi delegitimization label), and *mufsid fi'l-ard* (still-used revolutionary-court charge) — *all four operational law within nine years*. For [Q1.3]{.column-margin .deep-only} (phased vs opportunistic), the 1970 doctrinal text is the strongest available evidence for the *phased/structural* reading: the 2026 IRGC-led outcome was institutionally conditioned over 56 years.
 
-**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+**Full pre-1979 context**: [Historical roots](../historical-roots/index.qmd).
 
 ## Sources & further reading
 

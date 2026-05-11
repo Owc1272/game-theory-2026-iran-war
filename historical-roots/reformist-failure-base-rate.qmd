@@ -1,0 +1,232 @@
+---
+title: "The reformist-failure base rate — 1905-2026"
+subtitle: "Four sequential Iranian reformist defeats over 120 years, defeated by the same composable institutional mechanism. The Pezeshkian government's 2024-26 sidelining is the latest instance, not an anomaly."
+description: "Constitutional Revolution (1905-11), Mosaddegh (1951-53), Khatami (1997-2005), Pezeshkian (2024-26) — four sequential reformist movements, four sequential defeats. The Khatami case exposes the four-layer institutional funnel (Guardian Council pre-electoral veto + post-electoral legislative veto + judicial repression + parastatal violence). The Bani Sadr seven-step template is the institutional ancestor. Kamrava 2024 documents the parallel theological-doctrinal defeat. Quantitative anchor for Q6: 5-15% base-rate probability for reformist-led termination of the 2026 war."
+categories: [historical-roots, reformist-failure, base-rate, khatami, bani-sadr, kamrava]
+date: 2026-05-11
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+```{=html}
+<div class="reader-controls">
+  <a href="#implications" class="skip-link">Skip to implications for Q6</a>
+  <span class="depth-toggle" role="group" aria-label="Reading depth">
+    Depth:
+    <button data-depth-btn="concise" aria-pressed="true">Concise</button>
+    <button data-depth-btn="deep" aria-pressed="false">Deep</button>
+  </span>
+</div>
+```
+
+## The pattern
+
+```{=html}
+<div class="concise-only">
+```
+
+A recurring pattern across **120 years**: broad pluralistic urban coalition wins procedural opening → entrenched institutions + foreign-backed reaction + clerical defection crush the opening. *Four sequential failures:* **Constitutional Revolution (1905-1911)**, **Mosaddegh (1951-53)**, **Khatami (1997-2005)**, **Pezeshkian (2024-2026)**. The Khatami case is the cleanest exposure of the institutional mechanism: a 69% electoral mandate (the largest in Islamic Republic history at the time) defeated by a four-layer institutional funnel without external coercion. The [Bani Sadr seven-step template (1981)]{.gloss data-gloss="bani-sadr-marginalization"} is the institutional ancestor — the same template has now been applied to seven moderates inside the Islamic Republic. **Quantitative anchor: 5-15% base-rate probability for reformist-led termination of the 2026 war.** Western diplomatic strategies imagining a reformist-led pivot in Tehran are misconceived not as a 2026 fact but as a 120-year structural fact.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+A recurring pattern across **120 years**: broad pluralistic urban coalition wins procedural opening → entrenched institutions + foreign-backed reaction + clerical defection crush the opening.
+
+**Constitutional Revolution (1905-1911).** Coalition of merchants, low-ranking clergy, dissident intellectuals. Wins constitutional charter 1906; Majles convened. 1908 Russian-backed Mohammad Ali Shah coup with Cossack artillery (Colonel Liakhov bombards the Majles). 1911 Russian ultimatum forces Majles capitulation (the demand: dismiss American adviser Morgan Shuster and pay indemnity for the cost of Russia's own invasion). Pluralism subordinated to autocracy within 6 years.
+
+**Mosaddegh (1951-1953).** Coalition of National Front + Tudeh + bazaar + reformist clergy (Kashani initially). Wins oil nationalization. 1953 CIA-MI6 coup, with Kashani's defection (clerical pattern recurring). Pluralism subordinated within 27 months. Detailed in [Trust deficit](trust-deficit.qmd) as foundational US-Iran trust-rupture.
+
+**Khatami (1997-2005).** The canonical case. *Detailed below.*
+
+**Pezeshkian (2024-2026).** 49% turnout (lowest in Islamic Republic history) — Khamenei's last attempt at controlled opening. 28 February 2026 strikes that killed Khamenei terminated the bet. Pezeshkian now sidelined by Vahidi-led IRGC; constitutional fig leaf of an effectively military government.
+
+```{=html}
+</div>
+```
+
+::: {.bottom-line}
+**Bottom line.** Four sequential reformist defeats over 120 years. The Khatami case (1997-2005) exposes the [four-layer funnel]{.gloss data-gloss="four-layer-reformist-defeat"} — Guardian Council pre-electoral veto + post-electoral legislative veto + judicial repression + parastatal violence — that defeated a 69% mandate without external coercion. The [Bani Sadr seven-step template (1981)]{.gloss data-gloss="bani-sadr-marginalization"} is the institutional ancestor; the same template has been applied to Bazargan, Shariatmadari, Montazeri, Khatami, Karbaschi, Mousavi/Karrubi, and (per pattern) Pezeshkian. Kamrava 2024 documents the *parallel* theological-doctrinal defeat: Kadivar's 1999 Special Court for the Clergy trial + 2011 firing; Eshkevari's 2000 initial death sentence + defrocking; Shabestari's 2006 forced retirement; Mesbah Yazdi's institutional counter-mobilization through the Imam Khomeini Educational and Research Institute. The doctrinal alternatives exist in print; the institutional infrastructure to teach and deploy them was destroyed 1999-2011. **Q6 quantitative anchor: 5-15% base-rate probability for reformist-led termination of the 2026 war.**
+:::
+
+## The Khatami case (1997-2005) — the canonical exposure
+
+```{=html}
+<div class="concise-only">
+```
+
+May 23, 1997: Mohammad Khatami wins 69% of the vote (29.7M votes) against Conservative-establishment candidate Nateq Nuri (7M votes), despite Khamenei's express electoral preference. The reformist coalition: Servants of Construction (Rafsanjani's Pragmatist-technocrats) + transformed Islamic Left (the same generation that ran the Iran-Iraq war economy and took the 1979 hostages, now post-Soviet-collapse + Soroush-seminar-rethinking reformists). Political content: rule of law, civil society, gender rights, minority rights. **The 1998 CNN Amanpour interview launched the "Dialogue of Civilizations"** — the *last serious Iranian-side attempt* at re-engagement with the US until JCPOA negotiations 15 years later. Defeat operated through four institutional layers: (1) Guardian Council pre-electoral candidate veto, (2) Guardian Council post-electoral legislative veto, (3) Supreme-Leader-controlled judicial repression, (4) IRGC/Basij/"rogue elements" parastatal violence. The 1998-99 chain murders, the 1999 Tehran University dormitory raid, the **March 2000 Hajjarian shooting** — the daylight assassination attempt on the reformist movement's chief intellectual organizer — broke the movement's organizational coherence. By 2003 the reformist electoral coalition had abandoned the polls; the resulting Conservative city council elected Ahmadinejad as Tehran mayor, launching his 2005 presidential candidacy.
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Mohammad Khatami won 69% of the vote (29.7M votes) in May 1997 against the Conservative-establishment candidate Nateq Nuri (7M votes), despite Khamenei's express electoral preference. The reformist coalition: Servants of Construction (the Pragmatist-technocratic group around Rafsanjani) plus the *transformed Islamic Left* of the 1980s — the same generation of people who ran the Iran-Iraq war economy and took the 1979 hostages, having undergone genuine ideological transformation through Soviet collapse + Soroush seminars + personal repression. Their political content: rule of law, civil society, gender rights, minority rights. The 1998 CNN Amanpour interview launched the "Dialogue of Civilizations" — the *last serious Iranian-side attempt* at re-engagement with the United States until the JCPOA negotiations 15 years later. Khamenei tacitly accepted Khatami's September 1999 statement that Iran would no longer target Salman Rushdie; Britain restored ambassadorial relations.
+
+### The four-layer institutional funnel
+
+The defeat operated through **[four institutional layers]{.gloss data-gloss="four-layer-reformist-defeat"}** that compose into a funnel:
+
+**Layer 1 — Pre-electoral candidate veto (Guardian Council).** The 1992 Majles disqualification (~1,000 of 3,150 candidates including Karrubi, Behzad Nabavi, Mohtashami, Khoeniha) was the institutional precedent; the 1998 Assembly of Experts disqualifications and the 2004 Majles disqualifications (~2,000 candidates including 80 sitting deputies) scaled it. *Voters cannot vote for candidates who do not appear on the ballot.*
+
+**Layer 2 — Post-electoral legislative veto (Guardian Council).** The 2000-04 reformist-majority Sixth Majles passed major reform bills — women's-rights modifications of marriage, divorce, and inheritance law foremost — and the Guardian Council vetoed nearly all of them. The Council can veto on either "Islamic" or "constitutional" grounds; reformist legislation reliably failed on both criteria.
+
+**Layer 3 — Judicial repression (Yazdi → Hashemi Shahrudi judiciary, accountable only to Khamenei).** The Karbaschi prosecution (April 1998 — Tehran reformist mayor sentenced to 5 years for corruption charges widely seen as politically motivated), the Abdollah Nuri impeachment (June 1998 — Interior Minister, the first major Khatami-cabinet casualty), the closure of dozens of reformist newspapers via the Press Court, the November 2002 death sentence for **Hashem Aghajari** for a speech rejecting clerical authority. The judiciary has "its own intelligence and police services" — operationally autonomous from the cabinet and Majles.
+
+**Layer 4 — Parastatal violence (IRGC, Basij, "rogue elements" of intelligence services).** The **autumn 1998 chain murders** of at least nine dissident writers and activists — Daryush Foruhar (long-time Persian nationalist, age 70) and his wife Parvaneh stabbed to death in November 1998, two days later a journalist's body discovered, then a strangled writer. The Ministry of Intelligence eventually admitted "rogue elements" were responsible; the lead suspect "died mysteriously in prison" in June 1999, in what many believed was a cover-up to protect higher officials. The **July 1999 dormitory raid at Tehran University** — police violently attacking peaceful protesters against the closure of the newspaper *Salam*, killing one student and injuring many — produced the largest urban unrest of Khatami's first term; Khatami was forced to denounce the protesters under threats from the IRGC. The **March 2000 Hajjarian shooting** — Said Hajjarian (leading reformist strategist, founder of the influential daily *Sobh-e Emrouz*, theorist of the "pressure from below, negotiation at the top" reform method) shot and severely wounded in March 2000 outside Tehran's city council building. He survived but was paralyzed and could no longer speak normally. Several men "without political ties" were convicted, but the operational pattern — daylight assassination of the reformist movement's chief intellectual organizer — was widely understood as a Conservative-security-service warning. The reformist movement never recovered its organizational coherence after Hajjarian.
+
+### The funnel's structural property
+
+The four layers operate *in series*: a reformist candidate must survive Layer 1 to compete, a reformist bill must survive Layer 2 to take effect, a reformist organizer must survive Layer 3 to continue advocating, and a reformist mobilization must survive Layer 4 to consolidate. *Survival requires breaking all four layers, which has not happened in any of the four reformist episodes since 1905.* By Khatami's reelection in June 2001 (where he again won a large majority despite obvious failures), the reformist movement had splintered into at least three factions (governmental reformers; third-force reformers; nationalist-religious dissidents); the 2003 second-round local elections in Tehran (15% turnout, mostly Conservatives) abandoned the polls entirely, producing the Conservative city council that elected Ahmadinejad as Tehran mayor and launched his 2005 presidential candidacy.
+
+```{=html}
+</div>
+```
+
+## The Bani Sadr template (1981) — the institutional ancestor
+
+```{=html}
+<div class="concise-only">
+```
+
+Iran's first elected president — **Abolhasan Bani Sadr, 76% of the vote in January 1980, the largest electoral mandate in Islamic Republic history** — was eliminated within four months in 1981 through a [seven-step institutional sequence]{.gloss data-gloss="bani-sadr-marginalization"}: manufactured confrontations → judicial investigation of the moderate → conciliation committee institutionally favoring the IRP → media closure → Majles censure → parastatal violence at moderate rallies → Supreme Leader removal. *The same template* has been replicated against Bazargan (1979), Shariatmadari (1980-86), Montazeri (1989), Khatami (2000-05), Karbaschi (1998), Mousavi/Karrubi (2009 ongoing), and the Pezeshkian government (2024-26 extra-constitutional marginalization). **If the template defeated a 76% mandate plus military command, no electoral mandate is sufficient.**
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+Iran's first elected president — Abolhasan Bani Sadr — won 76% of the vote in January 1980 (the largest electoral mandate in Islamic Republic history at the time) and was named Khomeini's first commander-in-chief of the armed forces. He was eliminated from office within four months in 1981 through a [seven-step institutional sequence]{.gloss data-gloss="bani-sadr-marginalization"} that has become the canonical template:
+
+1. **Manufactured confrontations.** The IRP-affiliated Hezbollahi vigilantes attack Bani Sadr supporters at rallies; clashes are framed in the IRP-controlled press as Bani-Sadr-supporter aggression.
+2. **Judicial investigation of the moderate, not the attacker.** Revolutionary courts open files on the moderate's allies, advisers, and family — never on the IRP attackers.
+3. **A "conciliation committee" institutionally favoring the IRP.** Khomeini's office establishes a "joint committee" with two IRP members for every Bani Sadr representative; the committee's findings predictably favor the IRP.
+4. **Media closure.** Bani Sadr's newspaper *Enghelab-e Eslami* is shut down by the Revolutionary Court on grounds of "incitement against the Islamic Republic"; the IRP-controlled press monopolizes the narrative.
+5. **Majles censure.** The IRP-controlled Majles passes a formal censure motion declaring Bani Sadr "politically incompetent."
+6. **Parastatal violence at moderate rallies.** Hezbollahi attacks on Bani Sadr supporters intensify; pro-Bani-Sadr Majles deputies are physically assaulted in the Majles chamber itself.
+7. **Supreme Leader removal.** Khomeini formally removes Bani Sadr as commander-in-chief in June 1981; the Majles votes his impeachment 177-1; he flees the country with Mojahedin-e Khalq leader Massoud Rajavi to France in disguise.
+
+### The replication record
+
+The same template (with variations) has been applied to:
+
+- **Bazargan (1979)**: November 1979 truncated form — the hostage crisis was used to engineer his resignation as Prime Minister within 9 months of taking office.
+- **Shariatmadari (1980-86)**: Clerical variant — house arrest after Tabriz risings 1980; formally condemned 1982; died under house arrest 1986. The first senior marja' to be politically eliminated by his clerical peers without theological refutation.
+- **Montazeri (1989)**: Succession variant — designated successor to Khomeini until his 1989 resignation under pressure for criticizing executions of leftists; house arrest 1997-2002; remained a dissident jurisprudential voice until his death 2009. His funeral became a major Green Movement mobilization moment.
+- **Khatami (2000-05)**: Institutional variant — the four-layer funnel detailed above; never formally removed (he completed two full presidential terms) but his program was institutionally neutralized.
+- **Karbaschi (1998)**: Local variant — Tehran reformist mayor, prosecuted on corruption charges, sentenced to 5 years; symbolically launched Layer 3 (judicial repression) of the Khatami-era funnel.
+- **Mousavi/Karrubi (2009-present)**: House-arrest variant — Green Movement leaders placed under extra-constitutional house arrest February 2011, still in detention in 2026 with no charges ever filed. The 2009 election was the catalyst.
+- **Pezeshkian (2024-26)**: Extra-constitutional marginalization — the 2026 Israeli decapitation strike that killed Khamenei terminated Khamenei's "controlled opening" experiment; Pezeshkian sidelined by Vahidi-led IRGC; constitutional fig leaf of an effectively military government per ICG Crisis Monitor #4.
+
+### Why the template matters
+
+*If the template defeated a 76% mandate plus military command, no electoral mandate is sufficient.* The institutional mechanism does not depend on the size of the electoral majority; it depends on the structural authority of the IRP/Conservative bloc (later Khameneist coalition) to deploy the seven steps. The template is the canonical Islamic-Republic instrument for moderate marginalization — it was first articulated against Bani Sadr in 1981 and has been refined and routinized over 45 years.
+
+```{=html}
+</div>
+```
+
+## The theological-doctrinal defeat (Kamrava 2024)
+
+```{=html}
+<div class="concise-only">
+```
+
+Kamrava 2024 documents the *parallel* theological-doctrinal defeat operating alongside the political defeat of Khatami-era reformism. The same composable mechanism functioned at the theological register: [Special Court for the Clergy]{.gloss data-gloss="special-court-clergy"} trials of Kadivar (1999, 18 months in prison; fired from all posts 2011), Eshkevari (2000, initially death sentence; commuted to 7 years + defrocking), Shabestari (forced retirement 2006), Soroush (intensifying pressure → emigration); paralleled by [Mesbah Yazdi]{.gloss data-gloss="mesbah-yazdi"}'s institutional counter-mobilization through the Imam Khomeini Educational and Research Institute and the [Plan of Velayat]{.gloss data-gloss="khameneism"} course. The doctrinal alternatives — Kadivar's [constrained guardianship (velayat-e moqayyad)]{.gloss data-gloss="velayat-e-moqayyad"}; Shabestari's hermeneutic primary/secondary-injunctions distinction; Eshkevari's democratic Islamic government; Soroush's religious-knowledge-as-human-knowledge — exist in published form; the institutional infrastructure to teach, test, certify, and deploy them inside Iran was destroyed between 1999 and 2011. **The 4-defeat reformist base rate operates at the doctrinal-theological level, not just the political level.**
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+The political defeat of the Khatami-era reformist movement detailed above was paralleled — and arguably preceded structurally — by an institutional defeat of the *theological-reformist* current. Kamrava 2024 documents this parallel defeat in detail; the full account is on the [Theology](theology.qmd) page. The compressed summary here:
+
+- **Mohsen Kadivar (b. 1959)**: most analytically rigorous of the religious-reformist theologians; 1999 book *Theories of Government in Shia Jurisprudence* systematically showed absolute velayat-e faqih is one theory among at least eight; positive alternative — [elected, conditional velayat-e faqih]{.gloss data-gloss="velayat-e-moqayyad"}; 1999 [Special Court for the Clergy]{.gloss data-gloss="special-court-clergy"} trial and 18-month imprisonment; fired from all Tehran university posts 2011; now at Duke.
+- **Mohammad Mojtahed Shabestari (b. 1936)**: hermeneutic methodology + primary/secondary-injunctions distinction; "political freedom has priority over religious responsibility"; forcibly retired from University of Tehran 2006 under Ahmadinejad.
+- **Hasan Yousefi Eshkevari (b. 1950)**: democratic Islamic-government articulation; April 2000 Berlin Conference; Special Court trial; *initially sentenced to death*, commuted to 7 years plus defrocking.
+- **Abdolkarim Soroush (b. 1945)**: religious-knowledge-as-human-knowledge philosophical foundation; 1991 *Theoretical Expansion and Contraction of Religious Knowledge*; emigrated under intensifying pressure; now at Princeton.
+- **Abolfazl Mousavian (b. 1955)**: the inside-Iran theological-reformist continuity that survived the 2009 crackdown; faculty at Mofid University in Qom; uniquely grounds gender political equality in Quranic text (Surah al-Mumtahanah 60:12).
+
+In parallel, [Mesbah Yazdi]{.gloss data-gloss="mesbah-yazdi"}'s **Imam Khomeini Educational and Research Institute** (founded 1995) + the annual **Plan of Velayat (Tarh-e Velayat)** training course for Basiji academics produced the institutional counter-mobilization. Mesbah Yazdi's March 1999 Friday prayer publicly condoned violence against reformists ("We cannot say that all violence is bad and lenience is always good") and his February 2000 endorsement of Navvab Safavi's Fadaiyan-e Islam legacy gave theological license to the parastatal violence Layer 4 of the political defeat. *Both sides understood that the 1990s struggle was about institutional production capacity, not just intellectual content.*
+
+**The doctrinal alternatives all exist in published form** — in Persian and (most) in English translation. Kadivar's *Theories of Government in Shi'i Jurisprudence*; Shabestari's *Hermeneutik, Ketab, va Sunnat*; Eshkevari's published speeches and essays; Soroush's *Expansion and Contraction*; Mousavian's gender-equality framework; the [constrained guardianship debate]{.gloss data-gloss="velayat-e-moqayyad"}. **What was destroyed 1999-2011 was the institutional infrastructure to teach, test, certify, and deploy these alternatives inside Iran.** Q6's reformist-revival scenario faces an *institutional reactivation problem*, not a doctrinal-discovery problem.
+
+```{=html}
+</div>
+```
+
+## Implications for Q6 — what ends the war? {#implications}
+
+```{=html}
+<div class="concise-only">
+```
+
+Western diplomatic strategies imagining a reformist-led pivot in Tehran are misconceived not as a 2026 fact but as a **120-year structural fact**. The Iranian state has produced four sequential reform movements; all four were defeated by the same institutional mechanism (the four-layer funnel for Khatami; broader institutional-plus-foreign coalition for the earlier three). The quantitative anchor: **5-15% base-rate probability** for reformist-led termination of the 2026 war.
+
+Two considerations pull the rate up:
+
+- A military defeat severe enough to discredit the Conservative-IRGC bloc could weaken veto-players in a way no previous reformist episode benefited from
+- Post-Sistani succession (he is 96; likely 2026-2028) could reactivate the Najaf marja'iyat-alternative pathway
+
+Two pull the rate down:
+
+- Institutional veto-players' interests align in wartime even more strongly than in peace (the IRGC's regime-survival stake increases its incentive to suppress dissent)
+- Foreign-power pressure historically produces reformist defeats followed by reactive consolidations, not reformist openings (1953 Mosaddegh; 2018 JCPOA exit; 1979 hostage crisis pattern)
+
+[Q6](../analyses/q6-what-ends-the-war.qmd)'s Pathway A candidate ("Iranian internal coup/transition leading to reformist pivot") should weight this base rate against optimism. **Kamrava's 2023 forecast — written 3 years before Feb 28 2026 — explicitly ruled out reformist revival and predicted IRGC consolidation as "highly likely"; the post-strike Vahidi-led IRGC arrangement is empirical confirmation.**
+
+```{=html}
+</div>
+<div class="deep-only">
+```
+
+The 120-year base rate makes the reformist-revival pathway in Q6 *quantitatively bounded*, not just qualitatively skeptical.
+
+### Building the base rate
+
+Four reformist episodes; four defeats. Base-rate point estimate: 0% within sample.
+
+The estimate is bounded by the size of the reference class. Iran in 2026 differs from Iran in 1905 in many ways; the institutional mechanism that defeated each episode differs in detail; the modal mechanism for the 2026 case may not be reformist-revival but some other pathway. The base-rate weight should be heavy but not exclusive — **5-15% probability** represents the rate at which novel circumstances could break the historical pattern.
+
+### Why 5-15% rather than 1-5%?
+
+Three factors raise the rate above the pure historical zero:
+
+1. **Wartime pressure.** No prior reformist episode occurred during an active interstate war on Iranian soil. The 2026 war may produce regime-survival pressures that prior episodes did not. Pezeshkian was placed in office under Khamenei's "controlled opening" before the war; if the war's costs to the Khameneist coalition become severe enough, the structural authority of the veto-players might erode.
+2. **Post-Sistani succession.** Sistani is 96 in 2026. His likely succession in 2026-2028 could reactivate the Najaf marja'iyat-alternative pathway — not as a *reformist* outcome in the political sense, but as a Q6 trajectory toward marja'iyat-mediated authority that bypasses both the IRGC and the elected reformist movement. See [Theology — Layer 2](theology.qmd#layer-2--marjaiyat-and-the-najaf-alternative).
+3. **Kamrava's 2023 forecast already explicitly accommodates society-driven and post-Islamism scenarios** — the Q6 endpoint space is broader than reformist-revival.
+
+### Why not 15-30%?
+
+Three factors hold the rate down:
+
+1. **Wartime concentrates power, not disperses it.** The IRGC's institutional position under Vahidi is *strengthened*, not weakened, by the regime-survival stake produced by the strike. Goemans's gamble-for-resurrection logic predicts IRGC will resist any settlement that disarms the institution; reformist revival requires institutional disarmament of the Khameneist coalition.
+2. **Foreign-power pressure historically produces reformist defeats.** The 1953 case is canonical: external pressure (oil nationalization confrontation) produced clerical defection (Kashani) and CIA-MI6 coup, not reformist consolidation. The 1979 hostage crisis was used as cover for the Khomeinist constitutional capture, displacing Bazargan's PRG draft. The 2018 JCPOA withdrawal under Trump-1 strengthened IRGC hardliners against Rouhani-Zarif. The 2026 war's external pressure may follow the same pattern.
+3. **Kamrava's 2023 forecast explicitly ruled out reformist revival.** Written without specific knowledge of an Israeli decapitation strike; the structural-political analysis behind the ruling-out is independent of the strike timing.
+
+### What would shift the base rate?
+
+Pre-registered observables that would *raise* the rate above 15%:
+
+- IRGC factional split (Vahidi vs. another commander) with one faction openly seeking settlement and the other resisting — would signal Goemans gamble-for-resurrection is breaking down
+- Mass urban mobilization sustained for 30+ days that the IRGC cannot suppress — would signal coercive-capacity erosion not present in 2009 or 2022
+- Sistani-Najaf successor explicitly endorsing reformist political program (very low probability; not Sistani's tradition)
+- Senior IRGC defection (commander-level, not regime-figurehead level) to reformist coalition
+
+If none of these fires within 12 months, the base rate stays at 5-10%.
+
+```{=html}
+</div>
+```
+
+## Sources & further reading
+
+The Constitutional Revolution and Mosaddegh material draws on Amanat's *Iran: A Modern History* (Yale 2017), chapters 4-10, with Kinzer's *All the Shah's Men* (2003) supplementing the 1953 case. The Khatami case and Bani Sadr template draw on Nikki R. Keddie, *Modern Iran: Roots and Results of Revolution* (Yale 2003, updated edition 2006). The theological-doctrinal defeat draws on Mehran Kamrava, *How Islam Rules in Iran: Theology and Theocracy in the Islamic Republic* (Cambridge 2024) — specifically chapters 5-7 (the religious-reformist theologians) and chapter 8 (Khameneism + Mesbah Yazdi institutional counter-mobilization).
+
+The 5-15% base-rate quantitative anchor is the project's own synthesis; the upper-bound rationale (wartime concentration of power; foreign pressure historically produces reformist defeats) is documented in the project corpus's `pre_1979/keddie_supplementary/reformist-defeat-base-rate-analytical.md` and `kamrava_supplementary/whither-islamic-republic-succession-scenarios.md`.
+
+See also [Theology and theocracy](theology.qmd) for the institutional-theological defeat in detail, and [Trust deficit](trust-deficit.qmd) for the Mosaddegh case's role in the 200-year US-Iran trust template.

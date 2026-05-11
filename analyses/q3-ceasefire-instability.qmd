@@ -439,7 +439,7 @@ The closest historical analog to the Pakistan-brokered 8 April 2026 ceasefire's 
 
 The 1954 IOP case fires both Werner-Yuen H1 (battle-inconsistency before agreement — Mosaddegh's National Front retained significant base) and H2 (interrupted-war pattern — third-party pressure from the CIA-MI6 team produced the agreement). Walter 1997's third-party enforcement requirement was *partially* met (US/UK security guarantee against Soviet penetration; SAVAK as domestic enforcement), which is why the 1954 deal lasted 25 years rather than collapsing immediately. The 2026 Pakistan-brokered ceasefire lacks even that partial Walter condition (no third-party enforcer; UNSC vetoes preclude any) — predicting *much faster collapse* than the 25-year IOP precedent. The 8 April → 8 May violation cascade is consistent with the prediction.
 
-**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+**Full pre-1979 context**: [Historical roots — Trust-deficit lineage](../historical-roots/trust-deficit.qmd).
 
 ## Sources & further reading
 

@@ -386,9 +386,9 @@ glossary:
     primer: null
 
   - id: velayat-e-motlaqeh
-    title: "Absolute guardianship — velayat-e motlaqeh (1989)"
+    title: "Absolute guardianship — velayat-e motlaqeh (1989; Mesbah Yazdi five claims)"
     body: |
-      The 1989 constitutional amendment that placed the Supreme Leader's authority above any constitutional constraint. Khomeini ordered the revision in April 1989, two months before his death, partly because his planned successor Khamenei had only weak religious credentials. The amendment reduced religious qualifications for the faqih (shifting the basis from "top-rank marja'-e taqlid" to political knowledge), formalized the Supreme Leader's control over military, judiciary, IRGC, state media and major foundations, abolished the prime ministership, and constitutionalized the Expediency Council. The 1989 revision is the moment velayat-e faqih became *definitively political* rather than *definitively religious* — a fact often missed in Western analyses that treat the institution as an unchanging theocratic feature.
+      The 1989 constitutional amendment that placed the Supreme Leader's authority above any constitutional constraint. Khomeini ordered the revision in April 1989, two months before his death, partly because his planned successor Khamenei had only weak religious credentials. The amendment reduced religious qualifications for the faqih (shifting the basis from "top-rank marja'-e taqlid" to political knowledge), formalized the Supreme Leader's control over military, judiciary, IRGC, state media and major foundations, abolished the prime ministership, and constitutionalized the Expediency Council. The 1989 revision is the moment velayat-e faqih became *definitively political* rather than *definitively religious*. Kamrava 2024 documents the doctrine's five Mesbah-Yazdi-supplied operational claims: state directives (ahkam-e hokumati) override primary religious injunctions; faqih above constitution; obedience without allegiance; disobedience as sin; quasi-infallibility of the leader. The five-claim apparatus is the substrate of Khameneism's jurisprudential self-justification — and the structural reason 2026 settlement appears theologically illegitimate rather than instrumentally costly.
     primer: null
 
   - id: bani-sadr-marginalization
@@ -407,6 +407,42 @@ glossary:
     title: "Najaf quietism (Borujerdi → Khoei → Sistani)"
     body: |
       The mainstream 20th-century Twelver Shi'i tradition that holds clerical political activism should be a last-resort response to existential threats to Islam, not a normal mode of governance. The leadership runs through Najaf in Iraq: Aqa Hosain Borujerdi (d. 1961, Khomeini's own teacher), Mohsen al-Hakim, Abu al-Qasem al-Khoei (d. 1992), and currently Ali al-Sistani (b. 1930). The tradition explicitly rejects velayat-e faqih and limits clerical authority to a *veto* function over governmental actions inconsistent with Islam (the 1891 Tobacco Protest is paradigmatic). Sistani is the most senior living Shi'i marja' in 2026 and the institutional alternative to Khomeinist clerical rule — relevant to post-Khamenei succession scenarios in Q6 and to the structural depth of regime legitimacy in Q2.
+    primer: null
+
+  - id: khameneism
+    title: "Khameneism (Kamrava, 2024) — post-2009 ascendant orthodoxy"
+    body: |
+      Mehran Kamrava's analytical category (coined deliberately on the model of Abrahamian's "Khomeinism") for the regime that has governed Iran since the 2009 Green Movement crackdown. Khameneism differs from Khomeinism in four structural ways: (1) basis of authority — institutional position rather than charismatic + marja' credentials (Khamenei's failed marja' bids 1994 and 1997 forced the 1989 constitutional decoupling); (2) theoretical apparatus — supplied by Mesbah Yazdi rather than Khomeini-extended; (3) coalition — IRGC + bonyad + Imam Khomeini Educational and Research Institute + Plan of Velayat training course + Special Court for the Clergy + Qom seminary state-capture, rather than the broad 1979 revolutionary alliance; (4) framing of US-Israel hostility — theological ("innate hostility of the West to Islam") rather than instrumental. The apparatus was designed to outlast its founder, which is why the 28 February 2026 assassination produced IRGC consolidation under Vahidi rather than regime collapse. Kamrava's 2023 forecast (chapter 9, "Whither the Islamic Republic?") explicitly predicted "highly likely" IRGC consolidation following Khamenei's death — confirmed by the post-strike trajectory.
+    primer: primer/khameneism-and-theological-foreclosure.qmd
+
+  - id: mesbah-yazdi
+    title: "Mesbah Yazdi (1935-2021) — theological architect of Khameneism"
+    body: |
+      Ayatollah Mohammad Taqi Mesbah Yazdi (1935-2021) — director of the Imam Khomeini Educational and Research Institute (founded 1995 in Qom "with spiritual and financial help from the Esteemed Leader"). Kamrava 2024 identifies him as "one of the chief theoreticians of Khameneism." His institutional apparatus includes the annual Plan of Velayat (Tarh-e Velayat) training course for Basiji academics and university professors. His five doctrinal claims compose the substrate of Khameneism: absolute velayat-e faqih means unlimited scope; obedience without allegiance; legislature is consultative only; geographic representation is a "Western import"; violence as theological category. In March 1999 Friday prayer he condoned violence against reformists ("we cannot say that all violence is bad and lenience is always good"); in February 2000 he endorsed Navvab Safavi's Fadaiyan-e Islam legacy. The doctrinal lock-in his theology produces constrains successor leaders; defeating Mesbah Yazdi's apparatus would require institutional reconstruction, not theological refutation.
+    primer: primer/khameneism-and-theological-foreclosure.qmd
+
+  - id: velayat-e-moqayyad
+    title: "Constrained guardianship — velayat-e moqayyad (Kadivar; Montazeri)"
+    body: |
+      The jurisprudential alternative to absolute velayat-e faqih articulated by Mohsen Kadivar (in his 1999 *Nazariyeh-haye Dowlat dar Feqh-e Shia* / *Theories of Government in Shi'i Jurisprudence*) and late-period Montazeri. Three core features: (1) elected by popular vote rather than selected by the Assembly of Experts; (2) term-limited and subject to law rather than absolute; (3) supervisory (vetoing un-Islamic legislation) rather than governing (making policy). The Naini-Najaf constitutionalist tradition (Mohammad Hosain Na'ini's 1909 treatise) provides the historical genealogy. The 1989 amendment to Article 107 specifically foreclosed the leadership-council option Montazeri had advocated. The doctrinal alternative exists in published form (Kadivar's eight-theories argument shows absolute velayat-e faqih is one position among many in Shi'i jurisprudence); its institutional carriers were defeated 1999-2011 via Special Court for the Clergy and Mesbah Yazdi counter-mobilization. Sets up Q6's institutional reactivation problem: doctrinal resources are sufficient; institutional reconstruction is the constraint.
+    primer: primer/khameneism-and-theological-foreclosure.qmd
+
+  - id: special-court-clergy
+    title: "Special Court for the Clergy (Dadgah-e Vizheh-e Ruhaniyat)"
+    body: |
+      Iranian judicial body established by Khomeini decree in 1979 to discipline clergy, revived 1987, and formally authorized by Majles law in 1999. Reports directly to the Supreme Leader, not to the regular judiciary; defendants are not permitted attorneys; appeals are limited. The court's 1999 formal Majles authorization marks the institutional moment when theological-reformist suppression became routine procedural practice. Tried Mohsen Kadivar (1999, 18 months in prison for an "Islamic monarchy" interview), Hasan Yousefi Eshkevari (2000, initial death sentence commuted to 7 years plus defrocking after Berlin Conference speech), Abdollah Nuri (1999), Hashem Aghajari, Salehi-Najafabadi, and many others. The court is the enforcement-side counterpart to the Mesbah-Yazdi Imam Khomeini Educational and Research Institute's production-side counter-mobilization: together they defeated the Khatami-era religious-reformist current institutionally rather than theologically.
+    primer: null
+
+  - id: marja-iyat
+    title: "Marja'iyat — the source-of-emulation institution"
+    body: |
+      The institutional structure of Twelver Shi'i religious authority. A marja'-e taqlid ("source of emulation") is a senior jurist whom followers consult on religious questions; his rulings (in his *Resaleh* / treatise) are operationally binding for his muqallidin (followers). The institution emerged formally in the 1846 Najaf decision recognizing Mortazá Ansari as senior marja'. Distinguishing features: multiple co-equal marja's at any given time (horizontal rather than vertical authority); income from religious dues (khums + sahm-e Imam) collected by representatives globally; doctrinal independence from any state. Najaf and Qom are the major seminary centers; Mashhad, Karbala, and Mecca host secondary networks. The 1989 Iranian constitutional amendment decoupled marja'iyat from velayat-e faqih (Article 109), preserving the marja'iyat as a parallel authority structure independent of the Iranian state. Sistani (b. 1930, senior marja' in Najaf since 1992) is the institutional alternative to Khameneist clerical rule that the Iranian state has not been able to capture.
+    primer: null
+
+  - id: phased-reading
+    title: "Phased reading of Q1.3 (vs sequential opportunism)"
+    body: |
+      The Q1.3 analytical question is whether Israel's pre-2026 actions (October 7 → Lebanon Sept-Nov 2024 → Iranian air defenses October 2024 → June 2025 Twelve-Day War → Feb 2026 strikes) constitute a phased strategic plan (H1) or sequential opportunism (H2). The phased reading holds that Israel had a coherent multi-year strategy that exploited successive openings; the opportunism reading holds that each step was decided primarily by current intelligence and tactical opportunity rather than overarching plan. Pre-1979 historical lineage (the IRGC institutional architecture conditioned by Khomeini's 1970 Najaf lectures over 56 years) and Kamrava's 2023 "highly likely IRGC consolidation" forecast — written 3 years before Feb 2026 — both weight the phased reading up: the post-Khamenei trajectory was foreseeable from open-source scholarship, supporting H1. The project's reconciled finding is hybrid (H1 + H2) but tilting toward phased after Round 11-13 historical lineage additions.
     primer: null
 
   - id: riker-minimum-winning-coalition

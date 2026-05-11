@@ -24,7 +24,15 @@ website:
       - text: "Primer"
         href: primer/index.qmd
       - text: "Historical roots"
-        href: historical-roots.qmd
+        menu:
+          - text: "Overview — pre-1979 Iran and the 2026 war"
+            href: historical-roots/index.qmd
+          - text: "Theology and theocracy — the Khameneist project"
+            href: historical-roots/theology.qmd
+          - text: "The reformist-failure base rate (1905-2026)"
+            href: historical-roots/reformist-failure-base-rate.qmd
+          - text: "The trust-deficit lineage (1813-2026)"
+            href: historical-roots/trust-deficit.qmd
       - text: "Timelines"
         href: timelines/index.qmd
       - text: "Analyses"
@@ -68,6 +76,20 @@ website:
           href: primer/coalition-theory-selectorate.qmd
         - text: "Endogenous power shifts"
           href: primer/endogenous-power-shifts.qmd
+        - text: "Khameneism and theological foreclosure"
+          href: primer/khameneism-and-theological-foreclosure.qmd
+    - id: historical-roots
+      title: "Historical roots"
+      style: floating
+      collapse-level: 2
+      contents:
+        - historical-roots/index.qmd
+        - text: "Theology and theocracy — the Khameneist project"
+          href: historical-roots/theology.qmd
+        - text: "The reformist-failure base rate (1905-2026)"
+          href: historical-roots/reformist-failure-base-rate.qmd
+        - text: "The trust-deficit lineage (1813-2026)"
+          href: historical-roots/trust-deficit.qmd
     - id: timelines
       title: "Timelines"
       style: floating

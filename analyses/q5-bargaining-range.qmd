@@ -74,7 +74,7 @@ The question Q5 asks is whether a settlement (s, 1−s) over the contested issue
 </div>
 ```
 
-[The November 2005 Russian compromise proposal — Iran allowed to convert uranium to gas at Isfahan, with enrichment moved to Russia and Russia returning enriched fuel for Bushehr — was the simplest pre-Stuxnet, pre-JCPOA settlement architecture available. The US rejected it in February 2006. *Bargaining-range narrowing pre-dates 2026 by 21 years*: one side's rejection of technically-viable terms is a structurally consistent feature of US-Iran negotiation, not a 2026-specific failure. Mechanism γ's "regime change as live war aim" has a 21-year prequel in the structural unwillingness to accept settlement architectures that preserve Iranian regime form. See [Historical roots](../historical-roots.qmd) Pattern 4.]{.column-margin .deep-only}
+[The November 2005 Russian compromise proposal — Iran allowed to convert uranium to gas at Isfahan, with enrichment moved to Russia and Russia returning enriched fuel for Bushehr — was the simplest pre-Stuxnet, pre-JCPOA settlement architecture available. The US rejected it in February 2006. *Bargaining-range narrowing pre-dates 2026 by 21 years*: one side's rejection of technically-viable terms is a structurally consistent feature of US-Iran negotiation, not a 2026-specific failure. Mechanism γ's "regime change as live war aim" has a 21-year prequel in the structural unwillingness to accept settlement architectures that preserve Iranian regime form. See [Historical roots — Trust deficit](../historical-roots/trust-deficit.qmd).]{.column-margin .deep-only}
 
 ```{=html}
 <div class="deep-only">
@@ -539,7 +539,15 @@ Iran's reservation point in the 2026 bargaining range reflects 200 years of accu
 
 The 1951-1979 oil-sovereignty arc demonstrates a load-bearing fact for Q5's empty-range finding: **the regime can survive deep contraction.** Oil revenue: $45M (1950) → $905M (1969) — twentyfold nominal increase under the AIOC/IOP regime, demonstrating that *foreign-controlled extraction* can produce regime-tolerable revenue. The 1980-88 Iran-Iraq war demonstrates the converse — *the regime survives major economic and military contraction* (population ~9 million dead-equivalent counting casualties + casualty-multipliers; Iran-Iraq cumulative GDP contraction the worst before Trump 1's -12%). The IMF's projected Iran -6.1% for 2026 is within the survivable band the regime has demonstrated tolerance for. *Iran's reservation point is set by what the regime has already survived* — and the answer is: a great deal. This widens Iran's tolerable floor and shrinks the available bargaining range, exactly as Q5 finds empirically.
 
-**Full pre-1979 context**: [Historical roots](../historical-roots.qmd).
+**Full pre-1979 context**: [Historical roots](../historical-roots/index.qmd).
+
+### Theological supplement — doctrinal foreclosure of bargaining-range expansion
+
+Kamrava 2024 adds a second narrowing mechanism operating at the theological-jurisprudential register. The [absolute velayat-e faqih]{.gloss data-gloss="velayat-e-motlaqeh"} doctrine (1987 innovation, 1989 constitutional codification) and its five [Mesbah Yazdi]{.gloss data-gloss="mesbah-yazdi"}-supplied doctrinal claims — state directives override primary religious injunctions; faqih above constitution; obedience without allegiance; disobedience forbidden; quasi-infallibility — narrow Iran's bargaining range structurally because concessions appear theologically illegitimate rather than instrumentally costly. *2026-[Khameneism]{.gloss data-gloss="khameneism"} cannot frame settlement as 1988-Khomeini's "poisoned chalice."*
+
+The doctrinal alternatives exist: Kadivar's [constrained guardianship (velayat-e moqayyad)]{.gloss data-gloss="velayat-e-moqayyad"}; Shabestari's hermeneutic primary/secondary-injunctions distinction; Eshkevari's democratic Islamic government; Soroush's religious-knowledge-as-human-knowledge; the [marja'iyat-Sistani-Najaf alternative]{.gloss data-gloss="najaf-quietism"}. What was destroyed 1999-2011 was the institutional infrastructure to teach, test, certify, and deploy them inside Iran ([Special Court for the Clergy]{.gloss data-gloss="special-court-clergy"} trials; Mesbah Yazdi institutional counter-mobilization; Guardian Council vetoes). **Q5's bargaining-range narrowing operates not just at the regime-survival level but at the theological-institutional level.** Any agreement that requires Iranian theological recalibration faces an *institutional reactivation problem* that takes years and institutional reconstruction, not weeks and political bargaining.
+
+**Full theological context**: [Historical roots — Theology and theocracy](../historical-roots/theology.qmd).
 
 ## Sources & further reading
 
