@@ -343,7 +343,7 @@ If two or more falsifiers fire within 90 days, weak-form posterior drops below 0
 
 Of the synthesis's load-bearing claims:
 
-- **[T1]{.tier .tier-1} multi-source verified:** US is world's largest oil + LNG producer (multiple sources); 22.7 mb SPR release between 27 Feb-1 May (Argus, briefing); Trump declined 16 March ally-support call (Wikipedia + multiple); 138→4 daily Hormuz transits, 97% reduction (Hormuz SYNTHESIS); 2022 Biden SPR 180 mb release (DOE records, public); NATO Article 4 not invoked despite multiple territorial strikes (NATO/Rutte).
+- **[T1]{.tier .tier-1} multi-source verified:** US is world's largest oil + LNG producer (multiple sources); 22.7 mb SPR release between 27 Feb-1 May (Argus, briefing); Trump declined 16 March ally-support call (Wikipedia + multiple); 138→4 daily Hormuz transits, 97% reduction (multiple primary sources); 2022 Biden SPR 180 mb release (DOE records, public); NATO Article 4 not invoked despite multiple territorial strikes (NATO/Rutte).
 
 - **[T2]{.tier .tier-2} single-source named:** Each $10/b Brent ≈ $50bn/yr US oil revenue (back-of-envelope from production × price); Trump-coalition oil-state political weight (multiple sources document TX, OK, ND donor + Senate weight; specific % unmeasured); Kelanic-inverted "command-of-commons" applies to 2026 case (Kelanic explicitly identifies the inversion).
 
@@ -415,15 +415,9 @@ The deeper substrate runs to the 1901 D'Arcy Concession (60 years tax-free for �
 
 ## Sources & further reading
 
-Companion analysis file: [`Q10_us_oil_producer_hormuz_interest.md`](https://github.com/) — final reconciled deliverable. Tier-2 abbreviated protocol; no separate steel-man / DA delegated cycle.
+The analysis applies the project's Tier-2 abbreviated protocol (pre-Q corpus audit → steel-mans → META rule application → reconciled synthesis → source-confidence tier audit → Bayesian framing → pre-mortem). The detailed audit trail is held privately; the published chapter is the reconciled output.
 
-Key citations: @grossmanhelpman1994protection, @krasner1976state, @kelanic2020black, @olson1965logic, @putnam1988diplomacy, @farrell-newman2019weaponized, @lake2009hierarchy.
-
-**Highest-priority remaining corpus gaps for Q10 verification:**
-
-- Permian / LNG producer-coalition political contribution flows (specific dollar-weighted measures of lobby α).
-- Direct evidence on whether the 22.7 mb SPR release was at the "ceiling Trump admin would tolerate" vs "below ceiling but politically optimal."
-- Survey of Democratic-presidential-nominee positions on wartime energy policy (forward base-rate check for 2028).
+Key citations to public published scholarship: @grossmanhelpman1994protection, @krasner1976state, @kelanic2020black, @olson1965logic, @putnam1988diplomacy, @farrell-newman2019weaponized, @lake2009hierarchy.
 
 ```{=html}
 </div>

@@ -64,7 +64,7 @@ So they wanted the war won. They would not pay to win it. Why?
 </div>
 ```
 
-[For Q12.4 the textbook frame — Olson-Zeckhauser free-riding — turns out to be wrong, and the right frame (Lake's hierarchy / Posen's patron-client) is not in the canonical IR syllabus. The DA-corrected mechanism set then collapses to a single load-bearing one when the Iran_war briefing was reviewed. Both moves are described below.]{.column-margin .deep-only}
+[For Q12.4 the textbook frame — Olson-Zeckhauser free-riding — turns out to be wrong, and the right frame (Lake's hierarchy / Posen's patron-client) is not in the canonical IR syllabus. The DA-corrected mechanism set then collapses to a single load-bearing one when a parallel war-specific briefing was reviewed. Both moves are described below.]{.column-margin .deep-only}
 
 ```{=html}
 <div class="deep-mode-indicator">
@@ -450,7 +450,7 @@ If this synthesis is wrong, the most likely failure modes are:
 
 1. **Underweighting Iranian strategic agency.** M5 (Iran's offensive gambit) is partly inferential. If Iran was actually retaliating defensively rather than coercing strategically, the equilibrium reading is right but the mechanism label is wrong.
 2. **The four secondary mechanisms may be redundant rather than independent.** Omnibalancing, 2023 détente, Vision 2030, and Yemen lesson all point toward Sunni Gulf restraint — they may be different symptoms of the same underlying structural condition (Sunni monarchies in a multi-ethnic region with FDI-dependent economies and recent failed-war experience). Treating them as independent risks double-counting.
-3. **Over-confidence in the omnibalancing replacement of free-riding.** Gause 2003/4 is in the corpus only via a secondary-source compilation — the original PDF is paywalled. If Gause's actual argument differs from the reconstruction, there is a gap that cannot be closed without acquiring the source.
+3. **Over-confidence in the omnibalancing replacement of free-riding.** Gause's 2003/4 *Security Studies* article is referenced indirectly via published summaries and engagement in secondary scholarship — the original paywalled article was not directly used. If Gause's actual argument differs from the reconstruction, there is a gap that the chapter cannot close without primary access.
 4. **The DA's framework swap may itself be an over-correction.** Lake's hierarchy predicts client constraints on patron action, but the empirical record (Gulf states accepting US protection across decades; granting basing rights; coordinating on sanctions) shows substantial cooperation that pure clientelism would predict less of. Both free-riding and clientelist constraint may operate.
 
 ```{=html}
@@ -471,9 +471,9 @@ That regional posture inverted in 1979 — but the institutional memory persiste
 
 ## Sources & further reading
 
-The full reasoning, source-by-source corpus pull, devil's-advocate critique, briefing-review delta, and tier audit live in the underlying analysis file: [`Q12.4_gulf_wartime_contradiction.md`](https://github.com/) (link will populate after first push).
+The analysis applies the project's standard protocol (corpus pull → opposing steel-mans → devil's-advocate critique → reconciled synthesis → source-confidence tier audit → Bayesian framing → pre-mortem). The detailed audit trail is held privately; the published chapter is the reconciled output.
 
-Key citations: @gause2003balancing, @david1991third, @lake2009hierarchy, @schelling1966arms, @olson1966alliances, @ibish2026crosshairs, @kuik2016hedging, @fearon1995rationalist, @powell2006commitment.
+Key citations to public published scholarship: @gause2003balancing, @david1991third, @lake2009hierarchy, @schelling1966arms, @olson1966alliances, @ibish2026crosshairs, @kuik2016hedging, @fearon1995rationalist, @powell2006commitment.
 
 ```{=html}
 </div>
@@ -482,14 +482,6 @@ Key citations: @gause2003balancing, @david1991third, @lake2009hierarchy, @schell
 ```{=html}
 <div class="deep-only">
 ```
-
-**Highest-priority remaining corpus gaps for Q12 work:**
-
-- @gause2003balancing — paywalled at Taylor & Francis. Currently in corpus only via secondary-source compilation.
-- @david1991third — JSTOR paywall. Currently in corpus via Lau course summary.
-- Madawi al-Rasheed on Saudi domestic legitimacy and Shia politics — not in corpus.
-- Curtis Ryan on omnibalancing in Arab monarchies — not in corpus.
-- David Roberts on Qatari "active neutrality" — not in corpus.
 
 ## How to read the tier badges
 

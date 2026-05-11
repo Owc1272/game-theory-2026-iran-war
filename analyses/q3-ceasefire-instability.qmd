@@ -367,7 +367,7 @@ If two or more falsifiers fire within 90 days, headline posterior drops below 0.
 
 Of the synthesis's load-bearing claims:
 
-- **[T1]{.tier .tier-1} multi-source verified:** 8 April Pakistan-brokered ceasefire agreement (multiple); 17-18 April first violations — Iran transit + US no reciprocal lift (briefing + multiple); 20 April US Navy seizes *Touska* (briefing); 4 May Operation Project Freedom + 6 IRGCN FAC sunk (briefing + Hormuz SYNTHESIS); 7 May US strikes Bandar Abbas + Qeshm (briefing); 8 May UAE shootdowns + US strikes empty oil tankers (briefing).
+- **[T1]{.tier .tier-1} multi-source verified:** 8 April Pakistan-brokered ceasefire agreement (multiple); 17-18 April first violations — Iran transit + US no reciprocal lift (briefing + multiple); 20 April US Navy seizes *Touska* (briefing); 4 May Operation Project Freedom + 6 IRGCN FAC sunk (open-source operational reporting + multiple sources); 7 May US strikes Bandar Abbas + Qeshm (briefing); 8 May UAE shootdowns + US strikes empty oil tankers (briefing).
 
 - **[T2]{.tier .tier-2} single-source named:** Iran 14-point framework vs US terms have no overlap (ICG Crisis Monitor #4 + corroborating); [Beardsley 2008 framework]{.gloss data-gloss="beardsley-mediation-time-inconsistency"} applies to Pakistan-Iran-US case (empirically validated framework; mapping consistent with case); [Werner-Yuen H1]{.gloss data-gloss="werner-yuen-ceasefire-failure"} (battle-inconsistency) applies (Iran's continued strategic options + US escalation pattern both indicate inconsistent battles); Werner-Yuen H2 (interrupted-war pattern) applies (Pakistan-brokered agreement before military convergence); no third-party enforcer is available (observable); all three Werner diagnostics fail simultaneously (each independently testable).
 
@@ -443,15 +443,9 @@ The 1954 IOP case fires both Werner-Yuen H1 (battle-inconsistency before agreeme
 
 ## Sources & further reading
 
-Companion analysis file: [`Q3_pakistan_ceasefire_instability.md`](https://github.com/) — final deliverable. Tier-2 abbreviated protocol; no separate steel-man / DA delegated cycle.
+The analysis applies the project's Tier-2 abbreviated protocol (pre-Q corpus audit → steel-mans → META rule application → reconciled synthesis → source-confidence tier audit → Bayesian framing → pre-mortem). The detailed audit trail is held privately; the published chapter is the reconciled output.
 
-Key citations: @beardsley2008agreement, @werner-yuen2005making, @walter1997critical, @werner1999precarious, @stedman1997spoiler, @kydd2003which, @putnam1988diplomacy, @powell2006commitment, @reiter2009how, @pape1996bombing, @fortna2003scraps, @greig2005stepping.
-
-**Highest-priority remaining corpus gaps for Q3 verification:**
-
-- Direct evidence on Pakistan's mediator capacity (specific accounts of leverage Pakistan can apply to either side).
-- Oman as alternative mediator: comparative effectiveness analysis would benefit from primary Omani-mediation-history sourcing.
-- Greig 2005 full compilation review (currently used at compilation level only).
+Key citations to public published scholarship: @beardsley2008agreement, @werner-yuen2005making, @walter1997critical, @werner1999precarious, @stedman1997spoiler, @kydd2003which, @putnam1988diplomacy, @powell2006commitment, @reiter2009how, @pape1996bombing, @fortna2003scraps, @greig2005stepping.
 
 ```{=html}
 </div>

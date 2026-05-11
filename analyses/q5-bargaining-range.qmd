@@ -81,7 +81,7 @@ The question Q5 asks is whether a settlement (s, 1−s) over the contested issue
 ::: {.callout-note collapse="true"}
 ## Methodology — the eight-step protocol used here
 
-This chapter applies the project's standard protocol (pre-prior → corpus pull → think-tank cross-check → opposing steel-mans → pre-DA synthesis → hostile devil's advocate → reconcile → source-confidence tier audit + Bayesian framing + pre-mortem), plus a ninth briefing-review pass against the Iran_war Question Briefing. The most consequential moves in the protocol: (1) the original synthesis split "empty vs. non-empty" by issue scope, which the devil's advocate correctly attacked as a face-saving move; the reconciled synthesis drops the split and treats phased MOUs as deferral mechanisms; (2) the original 15-mechanism ensemble was reduced to a three-mechanism load-bearing core (α + β + γ), applying the [Q12.4](q12-4-gulf-paradox.qmd) "single sharp mechanism beats ensemble" lesson; (3) regime change as a live US/Israeli war aim — brushed past in the original synthesis — was made explicit as γ; (4) Pr(Israeli sabotage during MOU window) was added as an explicit conditional-probability parameter; (5) the 7 Q6 trigger events were given DA-derived probability estimates and combined into a joint 90-day probability ≈ 0.60-0.75. The Round 8-9 enrichment (Iran 4-faction system + Israel 5-faction system) reinforced β on the Iran side via the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"}'s sanctions-immunity and modestly raised γ — capped by the "pragmatist faction dormant not destroyed" caveat at 0.6.
+This chapter applies the project's standard protocol (pre-prior → evidence pull → think-tank cross-check → opposing steel-mans → pre-DA synthesis → hostile devil's advocate → reconcile → source-confidence tier audit + Bayesian framing + pre-mortem), plus a ninth briefing-review pass against a parallel briefing on the war. The most consequential moves in the protocol: (1) the original synthesis split "empty vs. non-empty" by issue scope, which the devil's advocate correctly attacked as a face-saving move; the reconciled synthesis drops the split and treats phased MOUs as deferral mechanisms; (2) the original 15-mechanism ensemble was reduced to a three-mechanism load-bearing core (α + β + γ), applying the [Q12.4](q12-4-gulf-paradox.qmd) "single sharp mechanism beats ensemble" lesson; (3) regime change as a live US/Israeli war aim — brushed past in the original synthesis — was made explicit as γ; (4) Pr(Israeli sabotage during MOU window) was added as an explicit conditional-probability parameter; (5) the 7 Q6 trigger events were given DA-derived probability estimates and combined into a joint 90-day probability ≈ 0.60-0.75. An enrichment pass on the Iran 4-faction and Israel 5-faction structures reinforced β on the Iran side via the [IRGC-bonyad complex]{.gloss data-gloss="irgc-bonyad-complex"}'s sanctions-immunity and modestly raised γ — capped by the "pragmatist faction dormant not destroyed" caveat at 0.6.
 :::
 
 ```{=html}
@@ -541,18 +541,9 @@ The 1951-1979 oil-sovereignty arc demonstrates a load-bearing fact for Q5's empt
 
 ## Sources & further reading
 
-The full reasoning, source-by-source corpus pull, devil's-advocate transcript (`Q5_DA_critique.md`), briefing-review delta, and Round 8-9 enrichment live in the underlying analysis file: `Q5_bargaining_range.md`. Three companion files document the corpus pull (`Q5_agent_A_corpus_pull.md`), case-specific empirical extraction (`Q5_agent_B_case_pull.md`), and the devil's advocate critique transcript.
+The analysis applies the project's standard protocol (corpus pull → opposing steel-mans → devil's-advocate critique → reconciled synthesis → source-confidence tier audit → Bayesian framing → pre-mortem). The detailed audit trail is held privately; the published chapter is the reconciled output.
 
-Key citations: @schelling1966arms, @schelling1960strategy, @powell2006commitment, @fearon1995rationalist, @weeks2008autocratic, @lake2009hierarchy.
-
-**Highest-priority remaining corpus gaps for Q5:**
-
-- Hokayem's full IISS *Survival* essay (currently in corpus via secondary summary)
-- Vukovic's Oraclum post on the game theory of the 2026 Iran war (single-author primary)
-- Atlantic Council Cimmino & Pavel 4-scenario typology essay
-- Slantchev 2011 *Military Threats* — wartime signaling and convergence
-- Lake 2010 *Two Cheers for Bargaining Theory* — multi-actor signaling
-- CSIS Cancian/Park munitions exhaustion estimates (T2 single-source; needs corroboration)
+Key citations to public published scholarship: @schelling1966arms, @schelling1960strategy, @powell2006commitment, @fearon1995rationalist, @weeks2008autocratic, @lake2009hierarchy.
 
 ```{=html}
 </div>

@@ -384,15 +384,9 @@ The most likely ways the analysis will be wrong:
 
 ## Sources & further reading
 
-Companion analysis files: [`Q8_china_vs_taiwan.md`](https://github.com/) — final reconciled deliverable; [`Q8_agent_A_corpus_pull.md`](https://github.com/) — corpus primitives; [`Q8_agent_B_case_pull.md`](https://github.com/) — empirical brief; [`Q8_steelmans_and_synthesis.md`](https://github.com/) — pre-DA synthesis; [`Q8_DA_critique.md`](https://github.com/) — devil's-advocate attack transcript.
+The analysis applies the project's standard protocol (corpus pull → opposing steel-mans → devil's-advocate critique → reconciled synthesis → source-confidence tier audit → Bayesian framing → pre-mortem). The detailed audit trail is held privately; the published chapter is the reconciled output.
 
-Key citations: @friedberg2011contest, @brands2022danger, @biddle2004military, @yarhi-milo2014knowing, @fearon1995rationalist, @powell2006commitment, @schelling1966arms, @eichengreen2011exorbitant.
-
-**Highest-priority remaining corpus gaps for Q8 verification:**
-
-- Independent corroboration of CIPS daily volume figures beyond CSIS / Bloomberg estimates.
-- Public-source verification of PLA combined-arms execution status post-purges (currently Jamestown-only).
-- Chinese strategic-discourse evidence on Hormuz Position 2+3 framings (pre-registered as 6-month test).
+Key citations to public published scholarship: @friedberg2011contest, @brands2022danger, @biddle2004military, @yarhi-milo2014knowing, @fearon1995rationalist, @powell2006commitment, @schelling1966arms, @eichengreen2011exorbitant.
 
 ```{=html}
 </div>

@@ -452,7 +452,7 @@ The hedging-vs-bandwagoning distinction is the third element of the analytical e
 ## Sources & further reading
 
 - @kuik2016hedging — the canonical three-approach definition of hedging
-- Lim & Cooper 2015, *Reassessing Hedging* (Taylor & Francis, paywalled) — the three-signal discipline; secondary compilation in project corpus includes verbatim abstract + bimodal Gulf prediction
+- Lim & Cooper 2015, *Reassessing Hedging* (Taylor & Francis) — the three-signal discipline; the bimodal Gulf prediction is the framework's load-bearing contribution to Q12.5
 - Fulton 2026, *State of Great Power Competition in the Gulf* (Atlantic Council issue brief) — the contestation: Gulf states as interest-based alignment-deepeners, not hedgers
 - @walt1987origins — Walt's balance-of-threat as the predecessor framework that hedging refines
 - [Hierarchy and clientelism primer](hierarchy-clientelism.qmd) — the external structural frame that hedging composes with

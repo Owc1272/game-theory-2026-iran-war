@@ -51,7 +51,7 @@ The Safavid-Islamic-Republic continuity is shallower than commonly assumed: the 
 **Bottom line.** Eight structural patterns laid down pre-1979 shape what Iran does in 2026. They do not change the qualitative conclusions in the analytical chapters on this site — but they deepen several quantitatively, especially **Q1's trust deficit** (200 years, not 47), **Q6's reformist-failure base rate** (120 years and four sequential defeats), **Q10's oil-and-state genealogy** (1901 D'Arcy → 1954 IOP consortium → 2026), and **Q11's coalition prototype** (the 1953 Anglo-American intelligence team is the structural template for the 2026 US-Israel coalition).
 :::
 
-[The 27-piece corpus this page draws on is held in `C:\Claude\Projects\Iran_war\output\pre_1979\` and was built from Amanat's *Iran: A Modern History* (Yale 2017) plus supplementary canonical sources (Kinzer 2003, Mottahedeh 1985, Arjomand 1988, Parsa 1989, Kurzman 2004, Abrahamian 1982/2008, Khomeini's 1970 *Hokumat-e Islami*, the Wilber CIA history, Gasiorowski's TPBEDAMN documentation).]{.column-margin .deep-only}
+[This page draws on a 27-piece historical corpus built from Amanat's *Iran: A Modern History* (Yale 2017) plus supplementary canonical secondary sources: Kinzer 2003, Mottahedeh 1985, Arjomand 1988, Parsa 1989, Kurzman 2004, Abrahamian 1982/2008, Khomeini's 1970 *Hokumat-e Islami*, the Wilber CIA history, and Gasiorowski's TPBEDAMN documentation. These are public published works; the synthesis here is original.]{.column-margin .deep-only}
 
 ## Eight structural patterns
 
@@ -208,15 +208,13 @@ The pre-1979 corpus does not change any qualitative conclusion in the analytical
 
 ## Sources & further reading
 
-This page is derived from `output/pre_1979/SYNTHESIS.md` in the Iran_war corpus — 27 source pieces extracted from Abbas Amanat's *Iran: A Modern History* (Yale, 2017), supplemented by Stephen Kinzer's *All the Shah's Men* (2003), Roy Mottahedeh's *Mantle of the Prophet* (1985), Said Amir Arjomand's *The Turban for the Crown* (1988), Misagh Parsa's *Social Origins of the Iranian Revolution* (1989), Charles Kurzman's *The Unthinkable Revolution* (2004), Ervand Abrahamian's *Iran Between Two Revolutions* (1982) and *History of Modern Iran* (2008), Khomeini's 1970 Najaf lectures (*Hokumat-e Islami*), the Wilber CIA history, and Gasiorowski's TPBEDAMN documentation.
+This page synthesizes a 27-piece historical corpus drawn from canonical secondary sources on pre-1979 Iran: Abbas Amanat's *Iran: A Modern History* (Yale, 2017) is the principal anchor, supplemented by Stephen Kinzer's *All the Shah's Men* (2003), Roy Mottahedeh's *Mantle of the Prophet* (1985), Said Amir Arjomand's *The Turban for the Crown* (1988), Misagh Parsa's *Social Origins of the Iranian Revolution* (1989), Charles Kurzman's *The Unthinkable Revolution* (2004), Ervand Abrahamian's *Iran Between Two Revolutions* (1982) and *History of Modern Iran* (2008), Khomeini's 1970 Najaf lectures (*Hokumat-e Islami*), the Wilber CIA history, and Gasiorowski's TPBEDAMN documentation. All of these are public published works.
 
-**Per-section pieces in the corpus:**
-- *Mosaddegh + 1953 coup + White Revolution + Kinzer "All the Shah's Men"*: 8 pieces
-- *Khomeini exile + 1977-79 Revolution + canonical secondary sources*: 9 pieces
-- *Qajar + Constitutional Revolution + Reza Shah Pahlavi*: 7 pieces
-- *Safavid 1501-1797 (deep historical foundation)*: 3 pieces
-
-For the inverse mapping (each of the 12 analytical questions → relevant pre-1979 evidence with file paths), see `output/pre_1979/Q_MAPPING.md`.
+**Per-theme coverage:**
+- *Mosaddegh + 1953 coup + White Revolution* — Kinzer plus Amanat chapters 9-10
+- *Khomeini exile + 1977-79 Revolution* — Arjomand, Parsa, Kurzman plus Amanat chapters 11-13
+- *Qajar + Constitutional Revolution + Reza Shah Pahlavi* — Amanat chapters 4-8
+- *Safavid 1501-1797 (deep historical foundation)* — Amanat chapters 1-3
 
 ```{=html}
 </div>

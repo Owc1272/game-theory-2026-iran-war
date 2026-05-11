@@ -443,16 +443,9 @@ The Saudi-Iran 2023 China-brokered rapprochement is best understood as **a hedge
 
 ## Sources & further reading
 
-Companion analysis files (full audit trail): [`Q12.5_post_war_reconfiguration.md`](https://github.com/) — synthesis; [`Q12.5_agent_A_corpus_pull.md`](https://github.com/) — framework primitives; [`Q12.5_agent_B_case_pull.md`](https://github.com/) — empirical per-state brief; [`Q12.5_DA_critique.md`](https://github.com/) — devil's-advocate attack transcript.
+The analysis applies the project's standard protocol (corpus pull → opposing steel-mans → devil's-advocate critique → reconciled synthesis → source-confidence tier audit → Bayesian framing → pre-mortem). The detailed audit trail is held privately; the published chapter is the reconciled output.
 
-Key citations: @walt1987alliances, @snyder1984security, @lake2009hierarchy, @gause2003balancing, @lim2015reassessing, @kuik2016hedging, @fulton2026, @schelling1966arms, @ibish2026crosshairs.
-
-**Highest-priority remaining gaps for Q12.5 verification:**
-
-- Operational follow-through evidence for Saudi-Pakistan SMDA (joint exercises; intelligence-sharing; prepositioning) — not yet in corpus.
-- Independent corroboration of MEI's "Saudi-Israel normalization slipping" framing — currently single-source.
-- Trump-Xi summit deliverables (4-day forecast horizon).
-- Cleaner public reporting on Kuwait alignment beyond joining Saudi airspace denial.
+Key citations to public published scholarship: @walt1987alliances, @snyder1984security, @lake2009hierarchy, @gause2003balancing, @lim2015reassessing, @kuik2016hedging, @fulton2026, @schelling1966arms, @ibish2026crosshairs.
 
 ## How to read the tier badges
 

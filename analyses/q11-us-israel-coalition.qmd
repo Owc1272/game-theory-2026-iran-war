@@ -92,7 +92,7 @@ Three load-bearing mechanisms (DA-collapsed from five to discipline the mechanis
 ::: {.callout-note collapse="true"}
 ## Methodology — the eight-step protocol used here
 
-This chapter applies the project's standard protocol: pre-prior → corpus pull (Agent A mapped Options A/B/C to theoretical primitives) → think-tank cross-check (Agent B per-decision-point empirical brief across 15 major decisions) → opposing steel-mans → pre-DA synthesis → hostile devil's advocate → reconcile → source-confidence tier audit + Bayesian framing + pre-mortem. The pre-DA synthesis arrived at "Option C-refined (theater-conditional + time-evolving Stackelberg)" at posterior ≈ 0.65 — a refinement that absorbed both Steel-man A's "pure Stackelberg survives" and Steel-man B's "May 2026 inversion" evidence. The DA correctly diagnosed this as an explanatory rescue (Lakatos): when a framework is refined to accommodate every piece of disconfirming evidence, the framework has lost falsifiability. The post-DA synthesis dropped the rescue framing, lowered Option C to 0.40 (modal but not majority), upgraded the simpler "specialization-conditional capability distribution" alternative to 0.25, upgraded Option B (mutual veto with US asymmetric power) to 0.25, and collapsed five mechanisms to three. Falsification criteria were pre-registered for each surviving claim. The Round 9 briefing-review pass added the *nested Stackelberg* structure (inner Israeli Stackelberg: Likud-right + religious-Zionist + Mizrahi/Shas + Cohen-Barnea-intelligence axis leads, with Labor/IDF-pragmatist faction defeated; inner US Stackelberg: Trump-Hegseth-Israeli-lobby axis leads, with Vance-Caine-Ratcliffe-Rubio-Kent pragmatists defeated) — these are not separate mechanisms but the *internal microfoundations* of α'.
+This chapter applies the project's standard protocol: pre-prior → evidence pull (mapping Options A/B/C to theoretical primitives in the public scholarly literature) → think-tank cross-check (per-decision-point empirical brief across 15 major decisions) → opposing steel-mans → pre-DA synthesis → hostile devil's advocate → reconcile → source-confidence tier audit + Bayesian framing + pre-mortem. The pre-DA synthesis arrived at "Option C-refined (theater-conditional + time-evolving Stackelberg)" at posterior ≈ 0.65 — a refinement that absorbed both Steel-man A's "pure Stackelberg survives" and Steel-man B's "May 2026 inversion" evidence. The DA correctly diagnosed this as an explanatory rescue (Lakatos): when a framework is refined to accommodate every piece of disconfirming evidence, the framework has lost falsifiability. The post-DA synthesis dropped the rescue framing, lowered Option C to 0.40 (modal but not majority), upgraded the simpler "specialization-conditional capability distribution" alternative to 0.25, upgraded Option B (mutual veto with US asymmetric power) to 0.25, and collapsed five mechanisms to three. Falsification criteria were pre-registered for each surviving claim. The Round 9 briefing-review pass added the *nested Stackelberg* structure (inner Israeli Stackelberg: Likud-right + religious-Zionist + Mizrahi/Shas + Cohen-Barnea-intelligence axis leads, with Labor/IDF-pragmatist faction defeated; inner US Stackelberg: Trump-Hegseth-Israeli-lobby axis leads, with Vance-Caine-Ratcliffe-Rubio-Kent pragmatists defeated) — these are not separate mechanisms but the *internal microfoundations* of α'.
 :::
 
 ```{=html}
@@ -506,17 +506,9 @@ A second pre-1979 anchor: **Khomeini's 26 October 1964 capitulations speech** li
 
 ## Sources & further reading
 
-The full reasoning, source-by-source corpus pull (`Q11_agent_A_corpus_pull.md`), per-decision-point empirical brief (`Q11_agent_B_case_pull.md`), devil's-advocate critique (`Q11_DA_critique.md`), briefing-review Round 9 enrichment, and source-confidence tier audit live in the underlying analysis file: `Q11_us_israel_coalition.md`.
+The analysis applies the project's standard protocol (corpus pull → opposing steel-mans → devil's-advocate critique → reconciled synthesis → source-confidence tier audit → Bayesian framing → pre-mortem). The detailed audit trail is held privately; the published chapter is the reconciled output.
 
-Key citations: @schelling1960strategy (burning bridges, irreversible commitment); @schelling1966arms (manipulation of shared risk); @fearon1995rationalist; @lake2009hierarchy (hierarchy as principal-agent enrichment); @powell2006commitment.
-
-**Highest-priority remaining corpus gaps for Q11:**
-
-- Hawkins, Lake, Nielson, Tierney 2006 *Delegation and Agency in International Organizations* — the principal-agent severe-slippage framework. Currently used via secondary summary.
-- Stanford Johari Theorem 1 on Stackelberg-leader payoff dominance — used via summary
-- Mearsheimer-Walt 2007 *The Israel Lobby and US Foreign Policy* — not in corpus; relevant counter-framework
-- Bergman 2018 *Rise and Kill First* — Israeli intelligence doctrine evolution
-- Pape and Gholz on asymmetric coalition behavior — used as theoretical scaffold for Specialization-conditional reading; not in corpus
+Key citations to public published scholarship: @schelling1960strategy (burning bridges, irreversible commitment); @schelling1966arms (manipulation of shared risk); @fearon1995rationalist; @lake2009hierarchy (hierarchy as principal-agent enrichment); @powell2006commitment.
 
 ```{=html}
 </div>

@@ -409,15 +409,9 @@ This deepens Q9's [Pape soft-balancing]{.gloss data-gloss="pape-soft-balancing"}
 
 ## Sources & further reading
 
-Companion analysis files: [`Q9_europe_us_relationship.md`](https://github.com/) — final reconciled deliverable; [`Q9_agent_A_corpus_pull.md`](https://github.com/) — corpus extraction; [`Q9_agent_B_case_pull.md`](https://github.com/) — current-affairs cross-check; [`Q9_steelmans_and_synthesis.md`](https://github.com/) — pre-DA synthesis; [`Q9_DA_critique.md`](https://github.com/) — devil's-advocate critique.
+The analysis applies the project's standard protocol (corpus pull → opposing steel-mans → devil's-advocate critique → reconciled synthesis → source-confidence tier audit → Bayesian framing → pre-mortem). The detailed audit trail is held privately; the published chapter is the reconciled output.
 
-Key citations: @pape2005soft, @ikenberry2001after, @ikenberry2011liberal, @posen2014restraint, @press2005calculating, @farrell-newman2019weaponized, @snyder1984security, @walt1987alliances, @putnam1988diplomacy.
-
-**Highest-priority remaining corpus gaps for Q9 verification:**
-
-- Russia-Baltic gray-zone tempo metrics with explicit 2024-25 baseline.
-- Operational-level evidence on whether Macron's 8-country aircraft framework has crossed L2 to L3 status.
-- Direct evidence on whether the Enders €50bn/year plan has been endorsed at coalition-treaty level in any Bundestag-relevant coalition.
+Key citations to public published scholarship: @pape2005soft, @ikenberry2001after, @ikenberry2011liberal, @posen2014restraint, @press2005calculating, @farrell-newman2019weaponized, @snyder1984security, @walt1987alliances, @putnam1988diplomacy.
 
 ```{=html}
 </div>

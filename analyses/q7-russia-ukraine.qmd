@@ -187,7 +187,7 @@ flowchart LR
 [**γ' — CRINK financial-architecture tightening** (pre-registered upgrade trigger; P ≈ 0.30 of triggering by end-Q3 2026). If China extends its 2 May 2026 blocking statute to Russia-buyer intermediaries (Indian, Turkish, UAE), γ' upgrades from latent to load-bearing. Russia gains structural protection from US sanctions architecture. Posterior shifts: P(Russia net winner uniformly) +0.10; P(dimension-specific) −0.05.]{.concise-only}
 
 ::: {.deep-only}
-**γ' — CRINK financial-architecture tightening** (pre-registered upgrade trigger). Currently *latent*: the architecture is materializing for Iran-buyers via the 2 May 2026 PRC MOFCOM blocking statute over Hengli plus four other teapot refineries, but it has not yet extended to Russia-buyers explicitly. If γ' triggers, the Russia trajectory shifts: Russia gains structural protection from US secondary-sanctions architecture; passive gains stop decaying; Putin's gamble-for-resurrection becomes affordable on longer horizons. The pre-registered trigger condition: does China extend the May 2 blocking statute to Russia-buyer intermediaries (Indian refiners, Turkish ports, UAE storage) by end-Q3 2026? If yes, Steel-man B's "Russia net winner via CRINK financial architecture" reading strengthens, and posteriors shift mechanically: P(Russia net winner uniformly) increases by ≈0.10; P(dimension-specific) decreases by ≈0.05. Agent B identified the May 2 datum as suggestive but found no current evidence of Russia-buyer extension. P(γ' triggers by end-Q3 2026) ≈ 0.30.
+**γ' — CRINK financial-architecture tightening** (pre-registered upgrade trigger). Currently *latent*: the architecture is materializing for Iran-buyers via the 2 May 2026 PRC MOFCOM blocking statute over Hengli plus four other teapot refineries, but it has not yet extended to Russia-buyers explicitly. If γ' triggers, the Russia trajectory shifts: Russia gains structural protection from US secondary-sanctions architecture; passive gains stop decaying; Putin's gamble-for-resurrection becomes affordable on longer horizons. The pre-registered trigger condition: does China extend the May 2 blocking statute to Russia-buyer intermediaries (Indian refiners, Turkish ports, UAE storage) by end-Q3 2026? If yes, Steel-man B's "Russia net winner via CRINK financial architecture" reading strengthens, and posteriors shift mechanically: P(Russia net winner uniformly) increases by ≈0.10; P(dimension-specific) decreases by ≈0.05. The current-affairs cross-check identified the May 2 datum as suggestive but found no current evidence of Russia-buyer extension. P(γ' triggers by end-Q3 2026) ≈ 0.30.
 :::
 :::
 
@@ -380,15 +380,9 @@ The most likely ways the analysis will be wrong:
 
 ## Sources & further reading
 
-Companion analysis files: [`Q7_russia_in_ukraine.md`](https://github.com/) — final reconciled deliverable; [`Q7_agent_A_corpus_pull.md`](https://github.com/) — corpus extraction; [`Q7_agent_B_case_pull.md`](https://github.com/) — current-affairs cross-check; [`Q7_steelmans_and_synthesis.md`](https://github.com/) — pre-DA synthesis; [`Q7_DA_critique.md`](https://github.com/) — devil's-advocate critique.
+The analysis applies the project's standard protocol (corpus pull → opposing steel-mans → devil's-advocate critique → reconciled synthesis → source-confidence tier audit → Bayesian framing → pre-mortem). The detailed audit trail is held privately; the published chapter is the reconciled output.
 
-Key citations: @goemans2000war, @colgan2013petro, @drezner1999sanctions, @pressman2008warring, @farrell-newman2019weaponized, @mearsheimer1983conventional, @posen1984sources, @biddle2004military, @pape1996bombing, @fearon1995rationalist, @powell2006commitment.
-
-**Highest-priority remaining corpus gaps for Q7 verification:**
-
-- Independent corroboration of Haavik's "201 specialists / 10-year frameworks" claim (currently single-source; pre-registered as 6-month falsification test).
-- Russian glide-bomb / missile output trends (the Mearsheimer-attribution-stretch test).
-- Direct evidence on US/EU weapons-supply commitments through 2027.
+Key citations to public published scholarship: @goemans2000war, @colgan2013petro, @drezner1999sanctions, @pressman2008warring, @farrell-newman2019weaponized, @mearsheimer1983conventional, @posen1984sources, @biddle2004military, @pape1996bombing, @fearon1995rationalist, @powell2006commitment.
 
 ```{=html}
 </div>

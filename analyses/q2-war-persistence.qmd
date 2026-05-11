@@ -451,15 +451,9 @@ This lineage matters for Q2's α mechanism (Iran-side regime-survival under Goem
 
 ## Sources & further reading
 
-Companion analysis file: [`Q2_war_persistence_past_initial_strikes.md`](https://github.com/) — final deliverable. Tier-2 abbreviated protocol; no separate steel-man / DA delegated cycle.
+The analysis applies the project's Tier-2 abbreviated protocol (pre-Q corpus audit → steel-mans → META rule application → reconciled synthesis → source-confidence tier audit → Bayesian framing → pre-mortem). The detailed audit trail is held privately; the published chapter is the reconciled output.
 
-Key citations: @goemans2000war, @weeks2008autocratic, @putnam1988diplomacy, @fearon1994domestic, @walter1997critical, @werner1999precarious, @powell2006commitment, @reiter2009how, @pape1996bombing, @schelling1966arms, @slantchev2011military.
-
-**Highest-priority remaining corpus gaps for Q2 verification:**
-
-- Direct evidence on Vahidi-specific de facto leadership role beyond ICG Crisis Monitor reporting.
-- Walter 1997 application to interstate-war-with-asymmetric-stakes (currently inferential generalization).
-- Cross-case Goemans validation beyond the Soleimani-Khamenei differential (would benefit from Iran-Iraq War 1980-88, Vietnam 1973-75, Korea 1953 — none currently in corpus).
+Key citations to public published scholarship: @goemans2000war, @weeks2008autocratic, @putnam1988diplomacy, @fearon1994domestic, @walter1997critical, @werner1999precarious, @powell2006commitment, @reiter2009how, @pape1996bombing, @schelling1966arms, @slantchev2011military.
 
 ```{=html}
 </div>

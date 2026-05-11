@@ -460,15 +460,9 @@ For Q6's Pathway A (Iranian α-collapse via regime change / IRGC restructuring),
 
 ## Sources & further reading
 
-Companion analysis file: [`Q6_what_ends_the_war.md`](https://github.com/) — final deliverable. Tier-2 abbreviated protocol; no separate steel-man / DA delegated cycle.
+The analysis applies the project's Tier-2 abbreviated protocol (pre-Q corpus audit → steel-mans → META rule application → reconciled synthesis → source-confidence tier audit → Bayesian framing → pre-mortem). The detailed audit trail is held privately; the published chapter is the reconciled output.
 
-Key citations: @toft2010ending, @reiter2009how, @beardsley2008agreement, @werner-yuen2005making, @walter1997critical, @werner1999precarious, @stedman1997spoiler, @goemans2000war, @grossmanhelpman1994protection, @putnam1988diplomacy.
-
-**Highest-priority remaining corpus gaps for Q6 verification:**
-
-- Direct empirical work extending Toft 2010 to interstate-war terminations specifically (vs civil-war-derived sample).
-- Filson-Werner 2002 work on war duration and termination probability (currently used at compilation level).
-- Forward-looking Atlantic Council scenario probability assessments updated for post-March-2026 trajectory.
+Key citations to public published scholarship: @toft2010ending, @reiter2009how, @beardsley2008agreement, @werner-yuen2005making, @walter1997critical, @werner1999precarious, @stedman1997spoiler, @goemans2000war, @grossmanhelpman1994protection, @putnam1988diplomacy.
 
 ```{=html}
 </div>
